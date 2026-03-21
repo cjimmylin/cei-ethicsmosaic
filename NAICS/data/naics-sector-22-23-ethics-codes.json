@@ -1,0 +1,470 @@
+{
+  "track": "NAICS",
+  "sectors": [
+    {
+      "sector_code": "22",
+      "sector_name": "Utilities",
+      "subsectors": [
+        {
+          "code": "221",
+          "name": "Utilities",
+          "total_codes_found": 15,
+          "codes": [
+            {
+              "organization": "American Public Power Association (APPA)",
+              "document_title": "Code of Conduct for American Public Power Association Meetings",
+              "url": "https://www.publicpower.org/code-conduct-american-public-power-association-meetings",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Event-focused code for meeting attendees. Prohibits unacceptable behavior at APPA meetings, with enforcement including expulsion."
+            },
+            {
+              "organization": "American Public Power Association (APPA)",
+              "document_title": "Business Partner Code of Ethics and Conduct",
+              "url": "https://www.appa.org/business-partner-code-of-ethics-and-conduct",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Covers fair dealing, anti-discrimination, confidentiality for APPA business partners. Prohibits manipulation, concealment, and misrepresentation."
+            },
+            {
+              "organization": "American Water Works Association (AWWA)",
+              "document_title": "Code of Ethics & Standards of Practice for Water Works Professionals",
+              "url": "https://vaawwa.org/documents/en-us/1a363ff2-75b3-48d8-99da-1af512ae6071/1",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Establishes tenets guiding ethical conduct. Water Works Professionals are accountable for public health and safety. Emphasizes integrity and highest standards of business ethics."
+            },
+            {
+              "organization": "Water Quality Association (WQA)",
+              "document_title": "WQA Code of Ethics",
+              "url": "https://wqa.org/about-wqa/governance/wqas-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Guides members in professional conduct; covers honesty, integrity, accurate representation of credentials, ethical marketing. Amended Jan 2020 to require WQA Glossary terminology. V3 updated Aug 2025."
+            },
+            {
+              "organization": "American Gas Association (AGA)",
+              "document_title": "AGA Antitrust Compliance Guidelines and Procedures",
+              "url": "https://www.aga.org/corporate-governance/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Formal antitrust compliance and governance framework. Commits members to full compliance with laws and highest ethical standards. Includes AGA Antitrust Compliance Procedures for members."
+            },
+            {
+              "organization": "American Nuclear Society (ANS)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.ans.org/about/coe/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2022",
+              "notes": "14 principles of professional conduct. Approved by ANS Board of Directors Nov 17, 2022. Covers public safety, disclosure obligations, dignity/respect, diversity/inclusion, anti-bribery."
+            },
+            {
+              "organization": "Institute of Electrical and Electronics Engineers (IEEE)",
+              "document_title": "IEEE Code of Ethics",
+              "url": "https://www.ieee.org/about/corporate/governance/p7-8",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "global",
+              "year_published": "2020",
+              "notes": "Applies to all IEEE members globally including electrical power engineers. Emphasizes public safety, integrity, responsible behavior, sustainable development, privacy protection. Last revised June 2020."
+            },
+            {
+              "organization": "Institute of Electrical and Electronics Engineers (IEEE)",
+              "document_title": "IEEE Code of Conduct",
+              "url": "https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/ieee_code_of_conduct.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "global",
+              "year_published": "2020",
+              "notes": "Companion to the Code of Ethics. Behavioral standards for IEEE members in professional activities, events, and interactions."
+            },
+            {
+              "organization": "National Society of Professional Engineers (NSPE)",
+              "document_title": "NSPE Code of Ethics for Engineers",
+              "url": "https://www.nspe.org/resources/ethics/code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2007",
+              "notes": "Six fundamental canons applicable to all engineers including utility/power engineers. Covers public safety, competence, truthfulness, faithful agency, anti-deception, honorable conduct. Includes Board of Ethical Review for case opinions."
+            },
+            {
+              "organization": "World Nuclear Association (WNA)",
+              "document_title": "Charter of Ethics",
+              "url": "https://world-nuclear.org/our-association/charter-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "global",
+              "year_published": "",
+              "notes": "Required agreement for all WNA member companies. Covers sustainability, safe/peaceful use of nuclear technology, transparency, IAEA safety standards, NPT compliance, and evidence-based policy."
+            },
+            {
+              "organization": "International Atomic Energy Agency (IAEA)",
+              "document_title": "Establishing a Code of Ethics for Nuclear Operating Organizations",
+              "url": "https://www.iaea.org/publications/7823/establishing-a-code-of-ethics-for-nuclear-operating-organizations",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "international",
+              "year_published": "2007",
+              "notes": "IAEA Nuclear Energy Series No. NG-T-1.2. Framework for nuclear operating organizations to establish ethics codes. Appendix A provides recommended minimum content. Applies from boardroom to working level."
+            },
+            {
+              "organization": "Nuclear Institute (UK)",
+              "document_title": "Nuclear Institute Code of Conduct",
+              "url": "https://nuclearinst.com/ni-code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK",
+              "year_published": "2020",
+              "notes": "Four fundamental principles: Accuracy & Rigour, Honesty & Integrity, Respect for Life/Law/Public Good, Responsible Leadership. Version 3, 2020. Members pledge to professionalism."
+            },
+            {
+              "organization": "Plumbing Manufacturers International (PMI)",
+              "document_title": "PMI Member Code of Ethics",
+              "url": "https://www.safeplumbing.org/become-member/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2009",
+              "notes": "Adopted Oct 2009, reviewed May 2014. Covers integrity, environment/safety, competitor relationships, anti-bribery, product compliance, lobbying ethics. Members must adopt internal codes addressing antitrust, discrimination, workplace safety."
+            },
+            {
+              "organization": "Chartered Institution of Water and Environmental Management (CIWEM)",
+              "document_title": "Professional Ethics and Code of Conduct",
+              "url": "https://www.ciwem.org/governance/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK",
+              "year_published": "1999",
+              "notes": "Binding on all Chartered CIWEM members. Covers fair/equitable/sustainable use of natural resources, lifelong learning, community service. Complaints process for violations. First created via 'Time for Change' document in 1999."
+            },
+            {
+              "organization": "Chartered Institution of Building Services Engineers (CIBSE)",
+              "document_title": "Code of Professional Conduct",
+              "url": "https://www.cibse.org/about-cibse/governance/cibse-code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK",
+              "year_published": "2020",
+              "notes": "Covers building services engineering including utility systems. Updated Oct 2020. Principles: public safety, sustainability, equality/diversity, objectivity, anti-discrimination. Disciplinary process for violations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector_code": "23",
+      "sector_name": "Construction",
+      "subsectors": [
+        {
+          "code": "236",
+          "name": "Construction of Buildings",
+          "total_codes_found": 12,
+          "codes": [
+            {
+              "organization": "National Association of Home Builders (NAHB)",
+              "document_title": "NAHB Code of Ethics",
+              "url": "https://newbernbuilders.com/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Promotes highest standards of service in building industry. Members' paramount responsibility is to customers, community, and country. Adherence required for membership."
+            },
+            {
+              "organization": "Associated General Contractors of America (AGC)",
+              "document_title": "AGC Code of Ethical Conduct",
+              "url": "https://www.agcwa.com/agcs-code-of-ethical-conduct/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2000",
+              "notes": "Adopted Dec 2000 by AGC of Washington Board of Trustees. 8 principles: honesty, respect, safety above profit, environmental stewardship, quality delivery, accountability, dispute resolution, organizational leadership. Voluntary and non-binding per antitrust regulations."
+            },
+            {
+              "organization": "Associated Builders and Contractors (ABC)",
+              "document_title": "ABC Members' Code of Ethics",
+              "url": "https://www.abc.org/Membership/Code-of-Ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1971",
+              "notes": "Originally approved Sept 24, 1971; reaffirmed June 2006 and March 2022. 8 provisions covering performance standards, honest pricing, professional cooperation, timely payments, safety leadership, fair compensation, industry training investment."
+            },
+            {
+              "organization": "American Institute of Constructors (AIC)",
+              "document_title": "AIC Constructor Code of Ethics",
+              "url": "https://aic-builds.org/ethics/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2025",
+              "notes": "Binding on all AIC Members, CACs, and CPCs. Covers public interest, fair dealing, anti-deception, professional reputation protection, fair/unbiased advice, honesty, worker/public safety. Last modified Nov 2025."
+            },
+            {
+              "organization": "Construction Management Association of America (CMAA)",
+              "document_title": "Code of Professional Conduct",
+              "url": "https://www.cmaanet.org/about-us/code-professional-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2021",
+              "notes": "Four foundational principles: Ethical Practice, Professional Excellence, Responsibility to Public, Client-Centered Practice. 10 core provisions. All CCMs/CACMs/CMITs must affirm adherence at renewal. Effective Jan 2021: minimum 1 ethics PDH for certification renewal."
+            },
+            {
+              "organization": "Design-Build Institute of America (DBIA)",
+              "document_title": "DBIA Code of Professional Conduct",
+              "url": "https://dbia.org/dbia-code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2024",
+              "notes": "Applies to all DBIA credential holders with enforcement and disciplinary action. Covers transparency, honesty, conflict of interest, anti-bribery, fair bidding, safety, confidentiality, IP protection. PDF dated April 2024."
+            },
+            {
+              "organization": "Chartered Institute of Building (CIOB)",
+              "document_title": "CIOB Code of Conduct",
+              "url": "https://www.ciob.org/ethics-respect-people",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "",
+              "notes": "International body for construction management professionals. Members must have full regard for public interest, demonstrate competence, act with integrity/honesty/trustworthiness, treat others with respect/fairness/equality. Recently relaunched after review. MOOC on ethics available."
+            },
+            {
+              "organization": "Federation of Master Builders (FMB)",
+              "document_title": "FMB Code of Conduct",
+              "url": "https://www.fmb.org.uk/find-a-builder/dispute-resolution/fmb-code-of-conduct.html",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK",
+              "year_published": "",
+              "notes": "UK's largest construction trade association (est. 1941). Requires written quotes/contracts, H&S compliance, regular client communication, guarantees/warranties. Members agree at joining and renewal. Reviewed by FMB Standards Committee."
+            },
+            {
+              "organization": "Canadian Construction Association (CCA)",
+              "document_title": "CCA Code of Ethical Conduct",
+              "url": "https://www.cca-acc.com/wp-content/uploads/2019/05/Codeofethics2019.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "Canada",
+              "year_published": "2019",
+              "notes": "Principles: Equality, Impartiality, Objectivity, disclosure of gifts/favours, national scope, consistency with CCA policies, confidentiality. PDF dated 2019."
+            },
+            {
+              "organization": "Master Builders Association (Australia)",
+              "document_title": "Master Builders Code of Ethics",
+              "url": "https://mbasa.com.au/about-us/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "Australia",
+              "year_published": "",
+              "notes": "Over a century old. Five core principles: honesty/integrity in business, professional competence, quality workmanship, objective/impartial advisory, industry skills training. Present across all Australian states (NSW, QLD, SA, WA, ACT)."
+            },
+            {
+              "organization": "Royal Institution of Chartered Surveyors (RICS)",
+              "document_title": "Rules of Conduct",
+              "url": "https://www.rics.org/content/dam/ricsglobal/documents/standards/2021_roc_en.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "global",
+              "year_published": "2021",
+              "notes": "Global professional body for built environment. Originally introduced 1971; current version Oct 2021. Covers honesty, integrity, transparency, conflict of interest management, public interest, fee disclosure. Applies to all members and RICS-regulated firms."
+            },
+            {
+              "organization": "Society of Construction Law (UK)",
+              "document_title": "Ethics Recommendations and Statement of Ethical Principles",
+              "url": "https://www.scl.org.uk/resources/ethics/recommendations",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "UK",
+              "year_published": "",
+              "notes": "Statement on ethical issues and code of good practice. Core principles for all professionals in construction law regardless of qualification. Working group under Peter Higgins. Principles: honesty, fairness, reliability, integrity, objectivity, accountability."
+            }
+          ]
+        },
+        {
+          "code": "237",
+          "name": "Heavy and Civil Engineering Construction",
+          "total_codes_found": 7,
+          "codes": [
+            {
+              "organization": "American Society of Civil Engineers (ASCE)",
+              "document_title": "ASCE Code of Ethics",
+              "url": "https://www.asce.org/career-growth/ethics/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Originally adopted 1914; last wholesale update Oct 26, 2020 (first since 1974). Hierarchy of five stakeholder responsibilities: Society, Natural/Built Environment, Profession, Clients/Employers, Peers. Covers safety, sustainable development, anti-corruption, diversity. Ethics Hotline: 800-548-2723 x6151."
+            },
+            {
+              "organization": "National Society of Professional Engineers (NSPE)",
+              "document_title": "NSPE Code of Ethics for Engineers",
+              "url": "https://www.nspe.org/resources/ethics/code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2007",
+              "notes": "Six fundamental canons for all engineers including civil/heavy construction. Board of Ethical Review issues written opinions on ethical dilemmas. Foundational framework widely referenced in construction industry."
+            },
+            {
+              "organization": "American Council of Engineering Companies (ACEC)",
+              "document_title": "ACEC Code of Ethics / Ethical Guidelines",
+              "url": "https://www.acecindiana.org/page/Ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "For consulting engineers. Fundamental canons: public safety paramount, competence, truthfulness, faithful agency, conflict of interest disclosure, confidentiality. Direct impact on heavy civil engineering projects."
+            },
+            {
+              "organization": "International Federation of Consulting Engineers (FIDIC)",
+              "document_title": "FIDIC Code of Ethics",
+              "url": "https://fidic.org/fidic-code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2015",
+              "notes": "Six core areas: Responsibility to Society, Competence, Integrity, Impartiality, Fairness to Others, Corruption Prevention. Promotes Quality-Based Selection (QBS). October 2015 version. Global standard for consulting engineers."
+            },
+            {
+              "organization": "Laborers' International Union of North America (LIUNA)",
+              "document_title": "Ethical Practices Code",
+              "url": "https://www.liuna.org/documents-and-resources",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Applies to entire union structure and all members/officers. Covers democratic rights, health/welfare fund integrity, anti-racketeering, conflict of interest prohibitions, financial transparency. Inspector General enforcement."
+            },
+            {
+              "organization": "Laborers' International Union of North America (LIUNA)",
+              "document_title": "Code of Performance",
+              "url": "https://www.liuna.org/code-of-performance",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Nine member obligations: skills development, punctuality, job referral rules, attendance, following supervision, fair day's work, respect for property, dispute resolution procedures, workplace safety. Enforced via hiring hall referral penalties."
+            },
+            {
+              "organization": "International Union of Operating Engineers (IUOE)",
+              "document_title": "IUOE Code of Ethics",
+              "url": "https://www.iuoe.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Referenced in IUOE bylaws and local union constitutions. Prohibits conduct discrediting the organization. Violations referenced in Section VI(A) barring eligibility for union office. Enforced through local union bylaws."
+            }
+          ]
+        },
+        {
+          "code": "238",
+          "name": "Specialty Trade Contractors",
+          "total_codes_found": 13,
+          "codes": [
+            {
+              "organization": "International Brotherhood of Electrical Workers (IBEW)",
+              "document_title": "IBEW Code of Excellence",
+              "url": "https://ibew.org/code-of-excellence/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2002",
+              "notes": "SPARQ values: Safety, Professionalism, Accountability, Relationships, Quality. Accepted by membership May 22, 2002. Members pledge punctuality, drug-free workplace, 8-for-8 work ethic, respect for property, no property destruction. Management must follow CBA and safety requirements."
+            },
+            {
+              "organization": "National Electrical Contractors Association (NECA)",
+              "document_title": "NECA Code of Ethics",
+              "url": "https://www.necanet.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1901",
+              "notes": "Founding principle since NECA's establishment in 1901 by 49 contractors. Encourages active competition, sound ethical business practices, cooperation and good will among electrical contracting industry members."
+            },
+            {
+              "organization": "Plumbing-Heating-Cooling Contractors Association (PHCC)",
+              "document_title": "PHCC Code of Ethics",
+              "url": "https://www.phccweb.org/about/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Ten principles covering trade dignity, ethical advertising/pricing/installation, technological advancement, association participation, building code compliance, water/energy conservation. Published June 2018, last modified June 2019."
+            },
+            {
+              "organization": "United Association of Plumbers and Steamfitters (UA)",
+              "document_title": "UA Standard for Excellence",
+              "url": "https://ua.org/about-the-ua/built-on-excellence/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Comprehensive standard for 395,000+ members. Three pillars: Excellence, Productivity, Safety. Member duties: punctuality, appropriate dress, zero disruptions, on-time completion. Contractor duties: safe environment, continued education, adequate staffing."
+            },
+            {
+              "organization": "Sheet Metal, Air, Rail and Transportation Workers (SMART)",
+              "document_title": "SMART Code of Excellence",
+              "url": "https://www.smart-union.org/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "230,000 members. Code emphasizes honesty, trustworthiness, productivity, reliability. Anti-discrimination/harassment policy. Drug and alcohol abuse prevention. Public safety protections including hazardous materials handling."
+            },
+            {
+              "organization": "American Subcontractors Association (ASA)",
+              "document_title": "Model Code of Ethics for a Construction Subcontractor",
+              "url": "https://www.asaonline.com/",
+              "document_type": "model_rules",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Prepared for Sarbanes-Oxley compliance. 11 areas of ethical concern: competition, qualifications, standards of practice, conflicts of interest, public safety, suppliers, employees, public information, legal compliance, industry image, internal procedures."
+            },
+            {
+              "organization": "Mason Contractors Association of America (MCAA)",
+              "document_title": "MCAA Code of Ethics",
+              "url": "https://masoncontractors.org/ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2024",
+              "notes": "Six 'I SHALL' commitments: excellent performance, honest business, fair treatment of employees/suppliers, knowledge sharing, quality masonry promotion, appreciation for MCAA objectives. Golden Rule creed. Constitution/Bylaws dated March 2024."
+            },
+            {
+              "organization": "Mechanical Contractors Association of Canada (MCA Canada)",
+              "document_title": "MCA Canada Member Code of Ethics",
+              "url": "https://mcac.ca/mca-canada-member-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "Canada",
+              "year_published": "",
+              "notes": "Principles include honesty as foundation for business, fair profit, equal consideration for capital/management/employees/public, quest for knowledge, quality materials/workmanship, legal compliance, anti-fraud protections."
+            },
+            {
+              "organization": "Painting and Decorating Contractors of America (PDCA/PCA)",
+              "document_title": "PDCA Code of Ethical Business Conduct",
+              "url": "https://pcapainted.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Membership requires agreement to code and proper licensing. Promotes ethical responsibility in business. Covers conduct toward customers, fellow contractors, employees, the association, and the public."
+            },
+            {
+              "organization": "National Insulation Association (NIA)",
+              "document_title": "Code of Professional Practice",
+              "url": "https://insulation.org/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "For merit shop and union insulation contractors, distributors, manufacturers serving commercial/mechanical/industrial markets. Members agree to highest customer service standards."
+            },
+            {
+              "organization": "Electrical Contractors' Association (ECA)",
+              "document_title": "ECA Code of Conduct and Code of Fair Trading",
+              "url": "https://www.eca.co.uk/about/organisation-structure/governance",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK",
+              "year_published": "",
+              "notes": "UK body. Code of Fair Trading ensures customers receive reliable service from qualified contractors. Members rigorously assessed before approval. Standards cover professionalism, safe/effective working procedures."
+            },
+            {
+              "organization": "International Federation of Consulting Engineers (FIDIC)",
+              "document_title": "FIDIC Code of Ethics",
+              "url": "https://fidic.org/fidic-code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2015",
+              "notes": "Also applicable to specialty engineering contractors. Six areas: Responsibility to Society, Competence, Integrity, Impartiality, Fairness, Corruption Prevention. Promotes Quality-Based Selection."
+            },
+            {
+              "organization": "Chartered Institute of Building (CIOB)",
+              "document_title": "CIOB Rules and Regulations of Professional Competence and Conduct",
+              "url": "https://www.ciob.org/media/498/download",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "",
+              "notes": "Also applicable to specialty trades management. Full regard for public interest, competence consistent with membership class, integrity to uphold dignity/standing of the Institute. Disciplinary process for violations."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "agent_id": "N2",
+  "researched_at": "2026-03-21"
+}

@@ -1,0 +1,255 @@
+{
+  "total_checked": 25,
+  "resolves": 16,
+  "redirects": 1,
+  "broken": 8,
+  "timeout": 0,
+  "results": [
+    {
+      "url": "https://code-medical-ethics.ama-assn.org",
+      "organization": "American Medical Association (AMA)",
+      "sector_or_group": "Healthcare (NAICS 62)",
+      "status": "resolves",
+      "notes": "Loads correctly as gateway page to AMA Code of Medical Ethics. Content organized by chapters, principles, opinions. Historical note: established 1847."
+    },
+    {
+      "url": "https://www.cfainstitute.org/ethics-standards/ethics/code-of-ethics-standards-of-professional-conduct",
+      "organization": "CFA Institute",
+      "sector_or_group": "Finance (NAICS 52)",
+      "status": "broken",
+      "notes": "HTTP 404 Not Found. URL may have changed during site redesign. Needs updated URL."
+    },
+    {
+      "url": "https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/",
+      "organization": "American Bar Association (ABA)",
+      "sector_or_group": "Legal (NAICS 54)",
+      "status": "broken",
+      "notes": "HTTP 403 Forbidden. ABA website blocks automated access. Page likely exists but bot-protected."
+    },
+    {
+      "url": "https://www.pharmacist.com/Code-of-Ethics",
+      "organization": "American Pharmacists Association (APhA)",
+      "sector_or_group": "Healthcare (NAICS 62)",
+      "status": "resolves",
+      "notes": "Loads correctly with complete Code of Ethics. All eight principles displayed including preamble on covenantal patient-pharmacist relationship."
+    },
+    {
+      "url": "https://www.counseling.org/resources/ethics",
+      "organization": "American Counseling Association (ACA)",
+      "sector_or_group": "Healthcare (NAICS 62)",
+      "status": "resolves",
+      "notes": "Loads as resource hub with download link for 2014 ACA Code of Ethics PDF. Spanish version also available. 2026 revision in progress."
+    },
+    {
+      "url": "https://www.nea.org/resource-library/code-ethics-educators",
+      "organization": "National Education Association (NEA)",
+      "sector_or_group": "Education (NAICS 61)",
+      "status": "resolves",
+      "notes": "Loads correctly with complete Code of Ethics for Educators. Both Principle I (Commitment to Student) and Principle II (Commitment to Profession) displayed. Adopted 1975."
+    },
+    {
+      "url": "https://www.nspe.org/career-growth/ethics/nspe-code-ethics-engineers",
+      "organization": "National Society of Professional Engineers (NSPE)",
+      "sector_or_group": "Engineering (NAICS 54)",
+      "status": "resolves",
+      "notes": "Loads correctly as hub for Code of Ethics. Translations in French, German, Japanese, Spanish. PDF download available. Board of Ethical Review cases linked."
+    },
+    {
+      "url": "https://www.isaca.org/code-of-professional-ethics",
+      "organization": "ISACA",
+      "sector_or_group": "Information/IT (NAICS 51/54)",
+      "status": "resolves",
+      "notes": "Loads correctly with complete Code of Professional Ethics. Seven member obligations displayed. Complaint procedures and investigation forms available."
+    },
+    {
+      "url": "https://www.acm.org/code-of-ethics",
+      "organization": "Association for Computing Machinery (ACM)",
+      "sector_or_group": "Information/IT (NAICS 54)",
+      "status": "broken",
+      "notes": "HTTP 403 Forbidden. ACM website blocks automated access. Page likely exists but requires browser access."
+    },
+    {
+      "url": "https://www.ieee.org/about/corporate/governance/p7-8",
+      "organization": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "sector_or_group": "Engineering (NAICS 54)",
+      "status": "broken",
+      "notes": "HTTP 418 (I'm a teapot / bot detection). IEEE website actively blocks automated crawlers. Page likely exists but requires browser access."
+    },
+    {
+      "url": "https://www.agconsultants.org/code_of_ethics.php",
+      "organization": "American Society of Agricultural Consultants (ASAC)",
+      "sector_or_group": "Agriculture (NAICS 11)",
+      "status": "resolves",
+      "notes": "Loads correctly with complete Code of Ethics. Ten principles governing member conduct. Ethics education mandatory for certified consultants. PDF download available."
+    },
+    {
+      "url": "https://www.spe.org/en/about/professional-code-of-conduct/",
+      "organization": "Society of Petroleum Engineers (SPE)",
+      "sector_or_group": "Mining/Oil & Gas (NAICS 21)",
+      "status": "resolves",
+      "notes": "Loads correctly with complete Code of Conduct. 14 core principles. Most recent revision April 13, 2025. Conduct Review Committee handles violations."
+    },
+    {
+      "url": "https://www.abc.org/Membership/Code-of-Ethics",
+      "organization": "Associated Builders and Contractors (ABC)",
+      "sector_or_group": "Construction (NAICS 23)",
+      "status": "resolves",
+      "notes": "Loads correctly with complete Code of Ethics. Eight core standards. Originally approved 1971, reaffirmed 2006 and 2022."
+    },
+    {
+      "url": "https://www.fao.org/4/v9878e/v9878e00.htm",
+      "organization": "FAO",
+      "sector_or_group": "Agriculture - Fishing (NAICS 11)",
+      "status": "resolves",
+      "notes": "Loads correctly with complete Code of Conduct for Responsible Fisheries. Full text with all articles. Adopted October 31, 1995. 170+ member governments."
+    },
+    {
+      "url": "https://www.smenet.org/membership-benefits/membership-categories/code-of-ethics",
+      "organization": "Society for Mining, Metallurgy & Exploration (SME)",
+      "sector_or_group": "Mining (NAICS 21)",
+      "status": "resolves",
+      "notes": "Loads correctly with complete Code of Ethics. Eight main ethical clauses with detailed interpretations. PDF download and complaint mechanism available."
+    },
+    {
+      "url": "https://www.bis.org/about/code_of_conduct.htm",
+      "organization": "Bank for International Settlements (BIS)",
+      "sector_or_group": "International - Finance",
+      "status": "broken",
+      "notes": "HTTP 404 Not Found. URL likely outdated; BIS may have restructured their website. Needs updated URL."
+    },
+    {
+      "url": "https://www.icmm.com/en-gb/our-principles/mining-principles/principle-1",
+      "organization": "International Council on Mining and Metals (ICMM)",
+      "sector_or_group": "International - Mining",
+      "status": "resolves",
+      "notes": "Loads correctly. Principle 01: Ethical Business with five performance expectations covering legal compliance, anti-bribery, sustainability framework alignment, board accountability, and political contribution disclosure."
+    },
+    {
+      "url": "https://www.ifj.org/who/rules-and-policy/global-charter-of-ethics-for-journalists",
+      "organization": "International Federation of Journalists (IFJ)",
+      "sector_or_group": "International - Journalism",
+      "status": "resolves",
+      "notes": "Loads correctly with complete Global Charter. Adopted 2019 in Tunis. 16 articles plus preamble. PDF download available. Based on Universal Declaration of Human Rights."
+    },
+    {
+      "url": "https://www.cmc-global.org/content/icmci-code-conduct",
+      "organization": "International Council of Management Consulting Institutes (ICMCI)",
+      "sector_or_group": "International - Management Consulting",
+      "status": "redirects",
+      "notes": "Page loads but serves as landing/portal only. Actual Code of Conduct accessible via linked PDF download rather than inline text. Functional but indirect access."
+    },
+    {
+      "url": "https://www.isc2.org/ethics",
+      "organization": "ISC2",
+      "sector_or_group": "International - Cybersecurity",
+      "status": "resolves",
+      "notes": "Loads correctly with complete Code of Ethics. Four mandatory canons displayed. Comprehensive complaint procedures with contact information. Strict adherence is condition of certification."
+    },
+    {
+      "url": "https://www.aiga.org/resources/aiga-standards-of-professional-practice",
+      "organization": "AIGA (Professional Association for Design)",
+      "sector_or_group": "SOC-only (27-0000 Arts/Design)",
+      "status": "broken",
+      "notes": "HTTP 403 Forbidden. AIGA website blocks automated access. Page may exist but requires browser access."
+    },
+    {
+      "url": "https://www.sagaftra.org/sag-aftra-code-conduct",
+      "organization": "SAG-AFTRA",
+      "sector_or_group": "SOC-only (27-0000 Entertainment)",
+      "status": "broken",
+      "notes": "HTTP 403 Forbidden. SAG-AFTRA website blocks automated access. Page likely exists for members/public via browser."
+    },
+    {
+      "url": "https://www.spj.org/spj-code-of-ethics/",
+      "organization": "Society of Professional Journalists (SPJ)",
+      "sector_or_group": "SOC-only (27-3000 Media/Communication)",
+      "status": "resolves",
+      "notes": "Loads correctly with complete Code of Ethics. Four foundational principles with detailed guidelines. Revised 2014. Downloadable PDFs and 8 language translations available."
+    },
+    {
+      "url": "https://www.auctioneers.org/code-of-ethics",
+      "organization": "National Auctioneers Association (NAA)",
+      "sector_or_group": "SOC-only (41-0000 Sales)",
+      "status": "resolves",
+      "notes": "Loads correctly with complete Code of Ethics. 14 articles, preamble, values statement, per se violations, and grievance procedure. Anti-harassment policy also included."
+    },
+    {
+      "url": "https://smei.org/mission/salescode/",
+      "organization": "Sales & Marketing Executives International (SMEI)",
+      "sector_or_group": "SOC-only (41-0000 Sales)",
+      "status": "resolves",
+      "notes": "Loads correctly with complete Sales & Marketing Creed / International Code of Ethics. All 11 principles displayed. All SMEI certified professionals must abide."
+    }
+  ],
+  "supplementary_checks": [
+    {
+      "url": "https://www.apa.org/ethics/code",
+      "organization": "American Psychological Association (APA)",
+      "sector_or_group": "Healthcare (NAICS 62)",
+      "status": "broken",
+      "notes": "Page returns blank/empty content. APA may have reorganized their ethics pages or blocks automated access."
+    },
+    {
+      "url": "https://www.responsiblejewellery.com/standards/code-of-practices/",
+      "organization": "Responsible Jewellery Council (RJC)",
+      "sector_or_group": "Mining (NAICS 21)",
+      "status": "resolves",
+      "notes": "Loads correctly. COP documents available in multiple languages for both 2024 and 2019 versions. Six broad objectives covering human rights, labor, environment."
+    },
+    {
+      "url": "https://www.nace.net/ethics",
+      "organization": "National Association for Catering and Events (NACE)",
+      "sector_or_group": "SOC-only (35-0000 Food Service)",
+      "status": "resolves",
+      "notes": "Loads correctly with complete Code of Ethics. 8 core principles. Complaint filing procedures and downloadable form available."
+    },
+    {
+      "url": "https://www.datascienceassn.org/code-of-conduct.html",
+      "organization": "Data Science Association",
+      "sector_or_group": "SOC-only (15-0000 Computer/Math)",
+      "status": "broken",
+      "notes": "TLS certificate error (ERR_TLS_CERT_ALTNAME_INVALID). Domain may have expired or certificate misconfigured. Site appears non-functional."
+    },
+    {
+      "url": "https://www.usbg.org/about1/usbg-policies/member-code-of-conduct2",
+      "organization": "United States Bartenders' Guild (USBG)",
+      "sector_or_group": "SOC-only (35-3000 Food/Beverage)",
+      "status": "broken",
+      "notes": "HTTP 404 Not Found. URL path may have changed. USBG website restructured."
+    },
+    {
+      "url": "https://www.acfchefs.org/Downloads/Miscellaneous/Code-of-Professional-Ethics.pdf",
+      "organization": "American Culinary Federation (ACF)",
+      "sector_or_group": "SOC-only (35-2000 Cooks)",
+      "status": "resolves",
+      "notes": "PDF downloads successfully (63.9KB). Adobe InDesign document dated 2023. Content compressed but file is valid."
+    },
+    {
+      "url": "https://esa.org/about/code-of-ethics/",
+      "organization": "Ecological Society of America (ESA)",
+      "sector_or_group": "SOC-only (19-0000 Life Sciences)",
+      "status": "broken",
+      "notes": "Redirect with missing Location header. ESA website may have restructured ethics pages. URL needs verification via browser."
+    }
+  ],
+  "summary": {
+    "resolution_rate_pct": 64,
+    "broken_categories": {
+      "403_bot_blocked": ["ACM", "ABA", "AIGA", "SAG-AFTRA"],
+      "404_not_found": ["CFA Institute", "BIS", "USBG"],
+      "other_errors": ["IEEE (418 bot detection)", "Data Science Assn (TLS cert invalid)", "APA (blank page)", "ESA (redirect failure)"]
+    },
+    "observations": [
+      "16 of 25 primary URLs resolve correctly (64% success rate)",
+      "Bot blocking (HTTP 403/418) is the most common failure mode — 5 sites block automated access but likely work in browsers",
+      "2 URLs return 404 suggesting the organization restructured their website (CFA Institute, BIS)",
+      "1 site has an expired/invalid TLS certificate (datascienceassn.org) suggesting the organization may be defunct or domain lapsed",
+      "All FAO, ICMM, IFJ, ISC2 international URLs resolve correctly",
+      "All low-coverage sector URLs (Agriculture, Mining, Construction) resolve correctly — 5/5 success",
+      "If bot-blocked sites are excluded, the true 'broken' rate drops to ~12% (3 of 25)"
+    ]
+  },
+  "checked_at": "2026-03-21",
+  "agent": "V1",
+  "method": "WebFetch automated HTTP check with content verification"
+}

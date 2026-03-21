@@ -1,0 +1,272 @@
+{
+  "phase": "websearch",
+  "agent": "WS2_Professional",
+  "total": 24,
+  "success": 23,
+  "results": [
+    {
+      "index": 61,
+      "filename_stem": "CIOB-CIOB-Code-of-Conduct",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/CIOB-CIOB-Code-of-Conduct.pdf",
+      "bytes": 128333,
+      "found_url": "https://www.ciob.org/sites/default/files/2021-06/Rules%20and%20Regulation%20of%20Professional%20Competence%20and%20Conduct.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 74,
+      "filename_stem": "NECA-NECA-Code-of-Ethics",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/NECA-NECA-Code-of-Ethics.pdf",
+      "bytes": 198044,
+      "found_url": "https://www.necanet.org/docs/default-source/about-neca/governance/2023/6-standing-policy-statements-2023.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 142,
+      "filename_stem": "AISC-AISC-Code-of-Conduct",
+      "status": "success",
+      "strategy": "websearch_html",
+      "format": "html",
+      "local_file": "DOCUMENTS/AISC-AISC-Code-of-Conduct.html",
+      "bytes": 30717,
+      "found_url": "https://web.archive.org/web/2024/https://www.aisc.org/about-us/code-of-conduct/",
+      "recovery_error": null
+    },
+    {
+      "index": 203,
+      "filename_stem": "ALPA-ALPA-Code-of-Ethics",
+      "status": "success",
+      "strategy": "websearch_html",
+      "format": "html",
+      "local_file": "DOCUMENTS/ALPA-ALPA-Code-of-Ethics.html",
+      "bytes": 63831,
+      "found_url": "https://web.archive.org/web/2024/https://www.alpa.org/About/Code-of-Ethics",
+      "recovery_error": null
+    },
+    {
+      "index": 304,
+      "filename_stem": "NAR-Realtor-Pledge",
+      "status": "success",
+      "strategy": "websearch_html",
+      "format": "html",
+      "local_file": "DOCUMENTS/NAR-Realtor-Pledge.html",
+      "bytes": 315372,
+      "found_url": "https://www.nar.realtor/about-nar/governing-documents/code-of-ethics/realtorsr-pledge-of-performance-and-service",
+      "recovery_error": null
+    },
+    {
+      "index": 309,
+      "filename_stem": "CCIMI-Code-of-Ethics",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/CCIMI-Code-of-Ethics.pdf",
+      "bytes": 329021,
+      "found_url": "https://www.ccim.com/sites/default/files/2024-03/Code-of-Ethics-Standards-2023_4-17-23.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 311,
+      "filename_stem": "NAA-Code-of-Ethics",
+      "status": "failed",
+      "strategy": null,
+      "format": null,
+      "local_file": null,
+      "bytes": 0,
+      "found_url": null,
+      "recovery_error": "NAA (National Apartment Association) does not publish a publicly accessible standalone code of ethics. Brief ethics statement on About page only."
+    },
+    {
+      "index": 312,
+      "filename_stem": "CRE-Code-of-Ethics-and-Standards-of-Professional-Practice",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/CRE-Code-of-Ethics-and-Standards-of-Professional-Practice.pdf",
+      "bytes": 186513,
+      "found_url": "https://cre.org/wp-content/uploads/2022/09/8-22-Current-Code-of-Ethics-for-Website.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 313,
+      "filename_stem": "ICSCI-Code-of-Professional-Standards",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/ICSCI-Code-of-Professional-Standards.pdf",
+      "bytes": 7639511,
+      "found_url": "https://www.icsc.com/uploads/event_documents/2012MIX6.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 314,
+      "filename_stem": "IFMA-Code-of-Ethics",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/IFMA-Code-of-Ethics.pdf",
+      "bytes": 138168,
+      "found_url": "https://www.ifma.org/media/iopc1151/ifma-code-of-ethics_2021.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 315,
+      "filename_stem": "BOMAI-Code-of-Ethics",
+      "status": "success",
+      "strategy": "websearch_html",
+      "format": "html",
+      "local_file": "DOCUMENTS/BOMAI-Code-of-Ethics.html",
+      "bytes": 50538,
+      "found_url": "https://web.archive.org/web/2024/https://www.bomany.org/code-of-ethics.html",
+      "recovery_error": null
+    },
+    {
+      "index": 316,
+      "filename_stem": "REBNY-Code-of-Ethics-and-Fair-Dealing",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/REBNY-Code-of-Ethics-and-Fair-Dealing.pdf",
+      "bytes": 199951,
+      "found_url": "https://assets.ctfassets.net/6zi14rd5umxw/6l8g7GdUNtD2KvJ4i7iEdK/86218b8db68a2dd35955b99a165ebfc9/Code_of_Ethics_and_Professional_Practices_of_REBNY_-_02.05.19.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 324,
+      "filename_stem": "formerly-LIMA-Code-of-Business-Practices-and-Ethics",
+      "status": "success",
+      "strategy": "websearch_html",
+      "format": "html",
+      "local_file": "DOCUMENTS/formerly-LIMA-Code-of-Business-Practices-and-Ethics.html",
+      "bytes": 144042,
+      "found_url": "https://licensinginternational.org/about/",
+      "recovery_error": null
+    },
+    {
+      "index": 325,
+      "filename_stem": "INTA-Code-of-Ethics",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/INTA-Code-of-Ethics.pdf",
+      "bytes": 411267,
+      "found_url": "https://web.archive.org/web/20250109092622/https://www.inta.org/wp-content/uploads/public-files/about/leadership-governance/202305_INTA-Code-of-Policies-May-2023-Final.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 326,
+      "filename_stem": "IFA-Code-of-Ethics-2",
+      "status": "success",
+      "strategy": "websearch_html",
+      "format": "html",
+      "local_file": "DOCUMENTS/IFA-Code-of-Ethics-2.html",
+      "bytes": 525015,
+      "found_url": "https://www.franchise.org/ifa-code-of-ethics/",
+      "recovery_error": null
+    },
+    {
+      "index": 360,
+      "filename_stem": "AAPL-Code-of-Ethics-and-Standards-of-Practice",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/AAPL-Code-of-Ethics-and-Standards-of-Practice.pdf",
+      "bytes": 90070,
+      "found_url": "https://pbla.starchapter.com/images/downloads/Education_Seminar/p._feist_pbla_2022_education_seminar_ethics_handout__aapl_code_of_ethics_.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 437,
+      "filename_stem": "NCAA-NCAA-Constitution-Ethical-Conduct-Provisions",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/NCAA-NCAA-Constitution-Ethical-Conduct-Provisions.pdf",
+      "bytes": 6084352,
+      "found_url": "https://collegiatewaterpolo.org/wp-content/uploads/2024/08/2025_NCAAD1Manual.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 438,
+      "filename_stem": "NASSM-NASSM-Code-of-Ethics",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/NASSM-NASSM-Code-of-Ethics.pdf",
+      "bytes": 90202,
+      "found_url": "https://static1.squarespace.com/static/60e9b0857a840f4c07b5d4f4/t/60ee0611afeffb59e6762900/1626211857561/NASSM+Ethical+Creed.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 439,
+      "filename_stem": "USOPC-USOPC-Code-of-Conduct",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/USOPC-USOPC-Code-of-Conduct.pdf",
+      "bytes": 241857,
+      "found_url": "https://assets.contentstack.io/v3/assets/blt9e58afd92a18a0fc/blte49af2f33617e3c4/645d471ce0c5a6938135065c/Code_of_Conduct_Equidox.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 451,
+      "filename_stem": "HFTP-HFTP-Code-of-Ethics",
+      "status": "success",
+      "strategy": "websearch_html",
+      "format": "html",
+      "local_file": "DOCUMENTS/HFTP-HFTP-Code-of-Ethics.html",
+      "bytes": 73832,
+      "found_url": "https://web.archive.org/web/2024/https://hftp.org/hospitality_organization_governance/bylaws",
+      "recovery_error": null
+    },
+    {
+      "index": 454,
+      "filename_stem": "ANFP-ANFP-Code-of-Ethics",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/ANFP-ANFP-Code-of-Ethics.pdf",
+      "bytes": 202669,
+      "found_url": "https://www.anfponline.org/docs/default-source/anfp/core-values/anfp-vision-mission-core-values.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 457,
+      "filename_stem": "ETA-ETA-Code-of-Ethics",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/ETA-ETA-Code-of-Ethics.pdf",
+      "bytes": 160546,
+      "found_url": "https://www.etai.org/ETA_Bylaws.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 458,
+      "filename_stem": "NAHB-NAHB-Code-of-Ethics-2",
+      "status": "success",
+      "strategy": "websearch_html",
+      "format": "html",
+      "local_file": "DOCUMENTS/NAHB-NAHB-Code-of-Ethics-2.html",
+      "bytes": 136390,
+      "found_url": "https://newbernbuilders.com/code-of-ethics/",
+      "recovery_error": null
+    },
+    {
+      "index": 462,
+      "filename_stem": "ICCFA-ICCFA-Code-of-Ethics",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/ICCFA-ICCFA-Code-of-Ethics.pdf",
+      "bytes": 164008,
+      "found_url": "https://iccfa.com/wp-content/uploads/2022/03/ICCFA_Bylaws_Updated2019.pdf",
+      "recovery_error": null
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "track": "SOC",
+  "soc_major_groups": [
+    {
+      "group_code": "35-0000",
+      "group_name": "Food Preparation and Serving Related Occupations",
+      "sparsity_assessment": "SPARSE — No unified industry-wide code of ethics exists. The American Culinary Federation provides the only occupation-specific professional code for chefs/cooks. Most food service workers are governed by employer policies, union contracts, and food safety certifications (ServSafe) rather than professional ethics codes. Bartenders have the USBG code of conduct; sommeliers have the Court of Master Sommeliers code. Catering has the NACE code. Supervisory roles lack separate ethics codes.",
+      "minor_groups": [
+        {
+          "code": "35-1000",
+          "name": "Supervisors of Food Preparation and Serving Workers",
+          "total_codes_found": 0,
+          "codes": [],
+          "notes": "No professional association publishes a code of ethics specific to food service supervisors. These roles are governed by employer policies and general food safety regulations. The National Restaurant Association does not publish a standalone code of ethics for the industry."
+        },
+        {
+          "code": "35-2000",
+          "name": "Cooks and Food Preparation Workers",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "American Culinary Federation (ACF)",
+              "document_title": "Code of Professional Ethics",
+              "url": "https://www.acfchefs.org/Downloads/Miscellaneous/Code-of-Professional-Ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Binding on all ACF members and certified professionals. Covers compliance with public health/safety laws, non-discrimination in employment, prohibition on misappropriating property, duty not to harm colleagues through false statements, commitment to continuous learning and mentorship of peers. Ethics enforcement procedures allow fair review of alleged violations. ACF is the largest professional chefs' organization in North America with 14,000+ members."
+            },
+            {
+              "organization": "Court of Master Sommeliers, Americas (CMS-A)",
+              "document_title": "Code of Ethics and Professional Responsibility",
+              "url": "https://www.mastersommeliers.org/wp-content/uploads/2023/12/CMS-A-Code-Ethics-and-Professional-Responsibility-May-2021r.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2021",
+              "notes": "Governs sommeliers who work in restaurants and food service (SOC 35-3031 Bartenders or related). Core values: Hospitality, Integrity, Humility, Self-Care, Diversity. Members must sign the code and complete safe-environment training. Covers non-discrimination, anti-harassment, anonymous ethics reporting. Updated post-2020 after independent investigation into sexual harassment. Cross-listed with 35-3000."
+            }
+          ]
+        },
+        {
+          "code": "35-3000",
+          "name": "Food and Beverage Serving Workers",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "United States Bartenders' Guild (USBG)",
+              "document_title": "Member Code of Conduct",
+              "url": "https://www.usbg.org/about1/usbg-policies/member-code-of-conduct2",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Founded 1948. Members must conduct themselves with honesty, integrity and fairness; support USBG values of Service, Integrity, Sharing Knowledge and Tradition; respect dignity and rights of others regardless of race, ethnicity, gender identity, sexual orientation, etc. Officers and employees must observe high standards of business and personal ethics."
+            },
+            {
+              "organization": "Court of Master Sommeliers, Americas (CMS-A)",
+              "document_title": "Code of Ethics and Professional Responsibility",
+              "url": "https://www.mastersommeliers.org/wp-content/uploads/2023/12/CMS-A-Code-Ethics-and-Professional-Responsibility-May-2021r.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2021",
+              "notes": "Cross-listed from 35-2000. Sommeliers serve as beverage service professionals in restaurants and hotels. Core values: Hospitality, Integrity, Humility, Self-Care, Diversity. Mandatory anti-harassment training. Anonymous reporting via Lighthouse Services."
+            },
+            {
+              "organization": "National Association for Catering and Events (NACE)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.nace.net/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Covers catering and events professionals including food/beverage serving at events. Members must uphold laws of the land, conduct business with honesty, protect confidentiality, foster open and welcoming environment regardless of race/religion/gender/disability. Ethics complaints reviewed by Ethics Committee (ethics@nace.net). Cross-listed with 39-3000."
+            }
+          ]
+        },
+        {
+          "code": "35-9000",
+          "name": "Other Food Preparation and Serving Related Workers",
+          "total_codes_found": 0,
+          "codes": [],
+          "notes": "Includes dining room attendants, hosts/hostesses, and food preparation workers. No professional association publishes a code of ethics specific to these roles. Workers are governed by employer policies, union contracts (e.g., UNITE HERE), and food safety regulations."
+        }
+      ]
+    },
+    {
+      "group_code": "37-0000",
+      "group_name": "Building and Grounds Cleaning and Maintenance Occupations",
+      "sparsity_assessment": "SPARSE — Building cleaning has trade association codes (ISSA, BSCAI) that target companies/contractors rather than individual workers. Grounds maintenance has the NALP code of ethics and ISA arborist code. Pest control has the NPMA code. Most individual janitors, maids, and groundskeepers are not subject to professional ethics codes — they operate under employer policies, labor contracts, and OSHA regulations. Supervisory roles lack separate codes.",
+      "minor_groups": [
+        {
+          "code": "37-1000",
+          "name": "Supervisors of Building and Grounds Cleaning and Maintenance Workers",
+          "total_codes_found": 0,
+          "codes": [],
+          "notes": "No professional association publishes a code of ethics specific to supervisors in this field. Supervisors are governed by employer policies and general industry standards from ISSA, BSCAI, or NALP depending on subsector."
+        },
+        {
+          "code": "37-2000",
+          "name": "Building Cleaning and Pest Control Workers",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "ISSA — The Worldwide Cleaning Industry Association",
+              "document_title": "Member Code of Ethics",
+              "url": "https://www.issa.com/member-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2020",
+              "notes": "ISSA represents 10,000+ member companies in the cleaning industry worldwide. Members recognize obligation to serve public health and acknowledge responsibility to the industry. Code defines obligations and responsibilities for businesses acting professionally. ISSA also publishes Cleaning Industry Management Standard (CIMS) — the first consensus-based management standard for cleaning operations. Separate residential code exists at residential.issa.com/code-of-ethics/. Note: code targets companies/contractors, not individual janitors."
+            },
+            {
+              "organization": "Building Service Contractors Association International (BSCAI)",
+              "document_title": "BSCAI Code of Ethics",
+              "url": "https://www.bscai.org/About/About-BSCAI/bscid/90371",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2019",
+              "notes": "Covers 1,000+ member companies providing cleaning, facility maintenance, security, and landscaping services across 15 countries. Code addresses operating in accordance with best practices, professional standards, and ethical business conduct. Like ISSA, targets contractor companies rather than individual custodial workers."
+            },
+            {
+              "organization": "National Pest Management Association (NPMA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.npmapestworld.org/policies/policies-and-codes/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "All NPMA members agree to adhere to the code. Fundamental principles: integrity, honesty, professionalism. Members must maintain high company standards of responsibility, character and integrity; practice honesty and fairness in advertising and all client transactions; render skilled, intelligent and conscientious service; perform services safely and efficiently. Also includes anti-trust compliance and anti-harassment policies. NPMA represents 5,600+ pest management companies. 90+ year history."
+            }
+          ]
+        },
+        {
+          "code": "37-3000",
+          "name": "Grounds Maintenance Workers",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "National Association of Landscape Professionals (NALP, formerly PLANET)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.landscapeprofessionals.org/LP/Membership/Code_of_Ethics/LP/Membership/Code_of_Ethics.aspx",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Formerly Professional Landcare Network (PLANET), rebranded 2015. Members commit to: honest and scientifically accurate information; environmental protection and preservation; adherence to all contractual obligations and laws; fair treatment of subcontractors and suppliers; continuing education and certification; good safety practices; no recruiting competitors' employees at NALP events; equal opportunity regardless of race/color/creed/national origin. Covers lawn care, landscape management, design/build, and interior plantscaping."
+            },
+            {
+              "organization": "International Society of Arboriculture (ISA)",
+              "document_title": "ISA Code of Ethics",
+              "url": "https://www.isa-arbor.com/Credentials/ISA-Ethics-and-Integrity/Code-of-Ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2020",
+              "notes": "Applies to all ISA credential holders and candidates (ISA Certified Arborist, ISA Certified Tree Worker, etc.). Establishes enforceable professional conduct standards and explains minimal ethical behavior requirements. Serves as central guide for day-to-day decision making, linking organizational values with professional conduct and industry standards. Arborists must have minimum 3 years full-time tree care experience. ISA has 30,000+ members in 50+ countries. Full PDF at isa-arbor.com/Portals/0/Assets/PDF/Certification/Ethics-Code-of-Ethics.pdf."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_code": "39-0000",
+      "group_name": "Personal Care and Service Occupations",
+      "sparsity_assessment": "MODERATE — This is the most ethics-code-rich of the three groups, driven by funeral services (NFDA, ICCFA, CANA), personal appearance (cosmetology/barber state boards, beauty industry associations), animal care (NDGAA, NAPPS, IBPSA, IAOPCC), coaching (ICF), massage therapy (AMTA), and recreation (NRPA). However, many minor groups remain sparse: entertainment attendants (ushers, ticket takers), baggage porters/bellhops, and general personal care aides lack occupation-specific codes. Tour guides have the WFTGA code. Fitness trainers have ACE/NSCA codes.",
+      "minor_groups": [
+        {
+          "code": "39-1000",
+          "name": "Supervisors of Personal Care and Service Workers",
+          "total_codes_found": 0,
+          "codes": [],
+          "notes": "No professional association publishes a code of ethics specific to supervisors of personal care/service workers. Supervisors are governed by the ethics codes of their respective subsectors (e.g., salon managers follow cosmetology board standards, kennel managers follow IBPSA standards)."
+        },
+        {
+          "code": "39-2000",
+          "name": "Animal Care and Service Workers",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "National Dog Groomers Association of America (NDGAA)",
+              "document_title": "Code of Ethics",
+              "url": "https://nationaldoggroomers.com/about",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "All NDGAA certified groomers must abide by the code governing business, customer relations, and advertising practices. Groomers promise to: accept responsibility when caring for all pets, enhance their beauty through proper grooming skills, continuously educate themselves and patrons in proper pet care and welfare, not discriminate against any person, and show affectionate understanding and gentleness while performing duties in a humane manner. Commitment to humane care, grooming excellence, fair business practices, and public health & safety."
+            },
+            {
+              "organization": "National Association of Professional Pet Sitters (NAPPS)",
+              "document_title": "NAPPS Code of Ethics",
+              "url": "https://petsitters.org/page/AboutUs_Tab",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2021",
+              "notes": "The only national professional pet sitting association. All NAPPS members must adhere to the code covering animal welfare, client confidentiality, professionalism, and responsible pet care. NAPPS certification program committed to quality education on care and welfare of animals and sound/ethical business practices. Certified Professional Pet Sitter (CPPS) credential."
+            },
+            {
+              "organization": "International Boarding & Pet Services Association (IBPSA, formerly Pet Care Services Association / American Boarding Kennels Association)",
+              "document_title": "IBPSA Code of Conduct",
+              "url": "https://www.ibpsa.com/about/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US/international",
+              "year_published": "2020",
+              "notes": "All IBPSA members must agree to abide by the code. Covers owners and employees of pet boarding and daycare facilities, groomers, dog walkers, pet sitters, veterinarians, trainers, and holistic pet care providers. Includes the Pet Owners Bill of Rights assuring pets will receive professional, loving care. Formerly ABKA (American Boarding Kennels Association), then Pet Care Services Association."
+            },
+            {
+              "organization": "International Association of Pet Cemeteries and Crematories (IAOPCC)",
+              "document_title": "IAOPCC Code of Ethics",
+              "url": "https://www.iaopc.com/page/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2019",
+              "notes": "Founded 1971. The only organization in the world to publish and uphold comprehensive Accreditation Standards in pet cremation aftercare. Members adhere to strict code established for the benefit and protection of the public, employees, members, and the association. Members represent the pinnacle of integrity and compassion in pet aftercare. Full PDF at cdn.ymaws.com/www.iaopc.com/resource/resmgr/code_of_ethics_edited.pdf."
+            }
+          ]
+        },
+        {
+          "code": "39-3000",
+          "name": "Entertainment Attendants and Related Workers",
+          "total_codes_found": 1,
+          "codes": [
+            {
+              "organization": "National Recreation and Park Association (NRPA)",
+              "document_title": "CPRP Code of Conduct",
+              "url": "https://www.nrpa.org/uploadedfiles/cprp_code_of_conduct.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Code of conduct for Certified Park and Recreation Professionals (CPRP). Covers ethical standards for parks, recreation, and leisure services professionals. NRPA has emphasized educating members about ethical behavior and violations of public trust. Relevant to recreation attendants, amusement park workers in park/recreation settings. Note: no code exists specifically for ushers, ticket takers, gambling dealers, or amusement/recreation attendants — these are governed by employer policies and, for gambling, by state gaming commission regulations."
+            }
+          ],
+          "notes": "Includes gambling dealers (39-3011), ushers/lobby attendants/ticket takers (39-3031), and amusement/recreation attendants (39-3091). Gambling dealers are governed by state gaming commission regulations and casino-specific codes of conduct (e.g., AGA Responsible Gaming Code) rather than occupation-specific professional ethics codes. Ushers and amusement attendants lack any professional association or code."
+        },
+        {
+          "code": "39-4000",
+          "name": "Funeral Service Workers",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "National Funeral Directors Association (NFDA)",
+              "document_title": "Code of Professional Conduct",
+              "url": "https://nfda.org/about-nfda/code-of-professional-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2002",
+              "notes": "Enforceable code effective January 1, 2004. Binding on NFDA members; violations subject to disciplinary action per NFDA Constitution and Bylaws. Five areas of obligation: (1) to families — professional, caring, respectful service, honest and fair dealings, consideration for those of lesser means; (2) to the deceased — highest respect and dignity, professional transport/preparation/shelter of remains; (3) to the public — highest principles of honesty, fair dealing, professionalism; (4) to government — compliance with laws; (5) to NFDA — upholding the association's standards. Full PDF at nfda.org/Portals/0/NFDAORG/About/Professional_Conduct/Code-of-Professional-Conduct.pdf."
+            },
+            {
+              "organization": "International Cemetery, Cremation and Funeral Association (ICCFA)",
+              "document_title": "ICCFA Code of Ethics",
+              "url": "https://www.iccfa.com/about/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2019",
+              "notes": "Covers cemetery, cremation, and funeral service professionals internationally. 9,100+ member cemeteries, funeral homes, crematories, and memorial designers worldwide. Emphasizes dignity, transparency in pricing, and respect for diverse cultural and religious practices."
+            },
+            {
+              "organization": "Cremation Association of North America (CANA)",
+              "document_title": "Certified Cremation Specialist (CCS) Program — Ethics Module",
+              "url": "https://www.cremationassociation.org/ccs.html",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US/Canada",
+              "year_published": "2023",
+              "notes": "CANA is a nonprofit trade association of 3,500+ members (funeral homes, cemeteries, crematories, suppliers). CCS certification includes ethics coursework covering personal and professional conduct, ethical decision-making, and dignity/respect in care of the deceased. CANA's primary focus is development and promotion of standards reflecting dignity and compassion. While not a standalone code of ethics, the ethics training is embedded in the credentialing program."
+            }
+          ]
+        },
+        {
+          "code": "39-5000",
+          "name": "Personal Appearance Workers",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "American Barber Association (ABA) / American Barber Certification Council (ABCC)",
+              "document_title": "Barber Code of Ethics",
+              "url": "https://americanbarber.org/aba/programs/abcc/barber-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Professional code for licensed barbers. Covers sanitation, client confidentiality, professional competence, and community responsibility. Part of the American Barber Certification Council (ABCC) program. Note: state cosmetology and barber boards also impose professional conduct standards as conditions of licensure, but these are regulatory rather than voluntary professional codes."
+            },
+            {
+              "organization": "National Coalition of Estheticians, Associations, and Schools (NCEA)",
+              "document_title": "NCEA Esthetician Code of Ethics",
+              "url": "https://nceacertified.org/ncea-national-esthetician-association-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Requires estheticians not to utilize any technique or procedure for which they lack adequate training. Must dress in attire consistent with professional practice. Covers scope of practice compliance, client safety, continuing education, and professional standards."
+            },
+            {
+              "organization": "Associated Skin Care Professionals (ASCP)",
+              "document_title": "ASCP Code of Ethics",
+              "url": "https://www.ascpskincare.com/ascp-code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2021",
+              "notes": "Members will only provide treatments for which they are fully trained and hold appropriate credentials. Will not work outside commonly accepted scope of practice for estheticians. Covers infection control per state/CDC/OSHA guidelines, client confidentiality, and adherence to state cosmetology board laws."
+            },
+            {
+              "organization": "Association of Nail Professionals (ANP)",
+              "document_title": "ANP Code of Ethics",
+              "url": "https://www.nailprofessional.com/sites/nailprofessional.com/files/members/code-of-ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Code of ethics for nail technicians and manicurists. Covers professional conduct, hygiene, client safety, and ethical business practices in the nail care profession."
+            },
+            {
+              "organization": "Professional Beauty Association (PBA)",
+              "document_title": "Code of Ethics for Salon/Spa Professionals",
+              "url": "http://probeauty.org/docs/pledge/code_of_ethics_salon_spa.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Covers the broader beauty industry including hairstylists, cosmetologists, and salon professionals. Focuses on health and safety standards, hygienic practices (tool disinfection, clean workspace), truthful representation of services and products, client confidentiality, and ethical behavior. PBA is the largest organization of salon professionals, manufacturers, and distributors."
+            }
+          ],
+          "notes": "State cosmetology and barber boards (e.g., California Board of Barbering and Cosmetology) impose regulatory standards of professional conduct as conditions of licensure in all 50 states. These are statutory/regulatory rather than voluntary professional codes but effectively function as enforceable ethics standards for the ~1.2 million licensed cosmetologists, barbers, estheticians, and nail technicians in the US."
+        },
+        {
+          "code": "39-6000",
+          "name": "Baggage Porters, Bellhops, and Concierges",
+          "total_codes_found": 1,
+          "codes": [
+            {
+              "organization": "Les Clefs d'Or (Union Internationale des Concierges d'Hotels, UICH)",
+              "document_title": "Les Clefs d'Or Code of Ethics and Professional Standards",
+              "url": "https://www.lcdusa.org/ethics-and-professional-standards/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2020",
+              "notes": "International association of professional hotel concierges from 50+ countries, founded in France 1952. Members must annually sign an oath of continued adherence. Key standards: always respect and protect guest identity and confidentiality; listen attentively to requests; never accept goods/services from vendors for personal gain; Les Clefs d'Or USA concierges do not receive restaurant commissions nor participate in incentive-driven competitions; maintain professional appearance; never practice or permit discrimination. Two pillars: Service and Friendship. Note: no professional code exists specifically for baggage porters or bellhops — they are governed by hotel employer policies."
+            }
+          ],
+          "notes": "Baggage porters and bellhops (39-6011) lack any occupation-specific professional code of ethics. These roles are governed by employer/hotel policies."
+        },
+        {
+          "code": "39-7000",
+          "name": "Tour and Travel Guides",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "World Federation of Tourist Guide Associations (WFTGA)",
+              "document_title": "Code of Guiding Practice",
+              "url": "https://wftga.org/about/code-of-guiding-practice/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2019",
+              "notes": "Member associations accept the code on behalf of their guides. Key principles: provide professional service with care and commitment; provide objective understanding of the place visited, free from prejudice or propaganda; ensure that what is presented as fact is true, with clear distinction between truth and stories/legends/traditions/opinions; act fairly and reasonably with all who engage guide services and with colleagues; as representatives of host country, welcome visitors and bring credit to the destination. WFTGA Constitution Article 2 commits to promotion of high standards of training and ethics."
+            },
+            {
+              "organization": "European Federation of Tourist Guide Associations (FEG)",
+              "document_title": "Code of Tourist Guidance",
+              "url": "https://www.feg-touristguides.com/code_of_tourist_guidance.php",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "Europe",
+              "year_published": "2018",
+              "notes": "European regional code complementing the WFTGA global standard. FEG represents tourist guide associations across Europe. Covers professional conduct, accuracy of information, client relations, and respect for cultural heritage."
+            }
+          ]
+        },
+        {
+          "code": "39-9000",
+          "name": "Other Personal Care and Service Workers",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "International Coaching Federation (ICF)",
+              "document_title": "ICF Code of Ethics",
+              "url": "https://coachingfederation.org/credentialing/coaching-ethics/icf-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2025",
+              "notes": "World's leading coaching association. Four core values: Professionalism, Collaboration, Humanity, Equity. 28 ethical standards across four sections of responsibility. Covers confidentiality, conflict management, fair treatment, transparency, accountability, and anti-discrimination. 2025 revision adds AI use provisions — coaches must disclose use of artificial intelligence and ensure client interests are protected. Required for ICF membership and credentials (ACC, PCC, MCC). Full PDF at coachingfederation.org/wp-content/uploads/2025/03/icf-ethics-code-of-ethics-2025.pdf. Note: life/wellness coaches map to SOC 39-9099 (Personal Care and Service Workers, All Other)."
+            },
+            {
+              "organization": "American Massage Therapy Association (AMTA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.amtamassage.org/about/core-documents/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Adherence is prerequisite for AMTA membership. Two sections: (1) Principles of Ethics (aspirational goals) — commitment to highest quality service, non-discrimination, regular self-assessment, continuing education, client confidentiality; (2) Rules of Ethics (mandatory, enforceable) — operate within scope of practice, refrain from sexual conduct with clients during sessions, truthful advertising, no misrepresentation of credentials/training/results. Violations subject to disciplinary action. AMTA is the largest massage therapy association with 75,000+ members."
+            },
+            {
+              "organization": "American Council on Exercise (ACE)",
+              "document_title": "ACE Code of Ethics",
+              "url": "https://www.acefitness.org/fitness-certifications/certified-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2022",
+              "notes": "Covers ACE Certified Personal Trainers, Group Fitness Instructors, Health Coaches, and Medical Exercise Specialists. Members promise: safe and effective instruction; equal and fair treatment; stay current on health/fitness research; maintain CPR/AED certifications; maintain client confidentiality; refer to more qualified professionals when appropriate; establish and maintain clear professional boundaries. Relevant to SOC 39-9031 (Fitness Trainers and Aerobics Instructors)."
+            },
+            {
+              "organization": "National Strength and Conditioning Association (NSCA)",
+              "document_title": "NSCA Professional Code of Ethics",
+              "url": "https://www.nsca.com/about-us/about-us/governance/nsca-codes-policies-and-procedures/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2021",
+              "notes": "Covers NSCA-certified professionals (CSCS, NSCA-CPT). Must not misrepresent skills, credentials, or services; refer clients to more qualified professionals when appropriate; provide and maintain safe training environment free from abuse, harassment, or discrimination. Relevant to SOC 39-9031 (Fitness Trainers)."
+            },
+            {
+              "organization": "International SPA Association (ISPA)",
+              "document_title": "ISPA Code of Conduct",
+              "url": "https://experienceispa.com/code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "2020",
+              "notes": "Industry-wide platform assuring clients of utmost professionalism in communication, confidentiality, privacy, and spa treatments. Directs behavior of both guest and staff in a mutually dignified and respectful manner. Spa facilities must meet requirements pertaining to staffing, safety, guest relations, and service per ISPA Standards & Practices to become members. Relevant to SOC 39-9099 workers in spa/wellness settings."
+            }
+          ],
+          "notes": "SOC 39-9000 is a catch-all including childcare workers (39-9011), fitness trainers (39-9031), recreation workers (39-9032), residential advisors (39-9041), and personal care/service workers not elsewhere classified (39-9099). Childcare workers are covered by the NAEYC Code of Ethical Conduct (primarily educational, mapped to SOC 25-0000). Personal care aides who provide direct client care but are not licensed (e.g., home health aides) overlap with SOC 31-0000 (Healthcare Support) and are governed by employer policies and state regulations rather than professional ethics codes."
+        }
+      ]
+    }
+  ],
+  "cross_cutting_observations": {
+    "sparsity_patterns": "These three SOC groups represent some of the sparsest areas for formal professional ethics codes. SOC 35-0000 (food service) has only 5 distinct codes across ~13 million US workers — one of the lowest codes-per-worker ratios of any major group. SOC 37-0000 (building/grounds) has 5 codes for ~6 million workers. SOC 39-0000 (personal care) is the richest with 20 codes, driven by funeral services and personal appearance licensing.",
+    "regulatory_substitutes": "Where professional ethics codes are absent, three regulatory mechanisms partially fill the gap: (1) state licensing boards for cosmetologists, barbers, embalmers, and funeral directors impose professional conduct standards as conditions of licensure; (2) food safety certification programs (ServSafe) mandate hygiene and safety standards; (3) state gaming commissions regulate casino worker conduct. These are regulatory rather than voluntary professional codes.",
+    "union_role": "Labor unions (UNITE HERE for food/hotel workers, SEIU for janitors) negotiate worker protections through collective bargaining agreements rather than publishing professional ethics codes. Union contracts address fair treatment, anti-harassment, and working conditions — overlapping with ethics code content but through a labor relations framework.",
+    "employer_dependency": "For most frontline workers in these groups (food servers, janitors, bellhops, ushers, amusement attendants), ethical conduct standards exist only as employer-specific policies rather than industry-wide professional codes. This reflects the occupational structure: these are predominantly hourly, non-credentialed roles where employer policy rather than professional self-governance sets behavioral expectations.",
+    "certification_emerging": "Several subsectors show ethics codes emerging through credentialing programs rather than standalone codes: NRPA's CPRP, CANA's CCS, ISA Certified Arborist, ACE/NSCA personal trainer certifications. This 'ethics-through-certification' model may be the primary mechanism for expanding professional ethics in occupations that lack traditional professional associations."
+  },
+  "total_codes_by_group": {
+    "35-0000": 5,
+    "37-0000": 5,
+    "39-0000": 21
+  },
+  "grand_total_codes": 31,
+  "agent_id": "S7",
+  "researched_at": "2026-03-21"
+}

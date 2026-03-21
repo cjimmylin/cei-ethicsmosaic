@@ -1,0 +1,83 @@
+{
+  "track": "NAICS",
+  "sectors": [
+    {
+      "sector_code": "31-33",
+      "sector_name": "Manufacturing (Part 2: 323-339)",
+      "subsectors": [
+        {"code": "323", "name": "Printing and Related Support Activities", "total_codes_found": 2, "codes": [
+          {"organization": "PRINTING United Alliance", "document_title": "Code of Conduct", "url": "https://www.printing.org/membership/terms-conditions/code-of-conduct", "document_type": "code_of_conduct", "geographic_scope": "US", "year_published": "unknown", "notes": "Safety, health, welfare of public."},
+          {"organization": "Sustainable Green Printing Partnership (SGP)", "document_title": "SGP Sustainability Certification Standards", "url": "https://sgppartnership.org/about/", "document_type": "standards_of_practice", "geographic_scope": "US", "year_published": "2008", "notes": "Founded 2008."}
+        ]},
+        {"code": "324", "name": "Petroleum and Coal Products Manufacturing", "total_codes_found": 3, "codes": [
+          {"organization": "American Petroleum Institute (API)", "document_title": "API Auditor Code of Ethics and Conduct", "url": "https://www.api.org/products-and-services/api-monogram-and-apiqr/ethics", "document_type": "code_of_ethics", "geographic_scope": "International", "year_published": "2021", "notes": "Auditors and certification participants."},
+          {"organization": "AFPM", "document_title": "Ethical Responsibility and Professional Conduct Code", "url": "https://www.afpm.org/events/meeting-conference-policies", "document_type": "code_of_conduct", "geographic_scope": "US", "year_published": "unknown", "notes": "Condition of membership."},
+          {"organization": "SPE", "document_title": "Guide for Professional Conduct / Code of Conduct", "url": "https://www.spe.org/en/about/professional-code-of-conduct/", "document_type": "code_of_ethics", "geographic_scope": "International", "year_published": "unknown", "notes": "12 Canons of Professional Conduct."}
+        ]},
+        {"code": "325", "name": "Chemical Manufacturing", "total_codes_found": 6, "codes": [
+          {"organization": "American Chemistry Council (ACC)", "document_title": "Responsible Care Guiding Principles", "url": "https://www.americanchemistry.com/driving-safety-sustainability/responsible-care-driving-safety-sustainability/resources/responsible-care-guiding-principles", "document_type": "ethics_guidelines", "geographic_scope": "International", "year_published": "unknown", "notes": "Mandatory for ACC members. ~37 years running."},
+          {"organization": "American Chemical Society (ACS)", "document_title": "The Chemical Professional's Code of Conduct", "url": "https://www.acs.org/careers/career-services/ethics/the-chemical-professionals-code-of-conduct.html", "document_type": "code_of_conduct", "geographic_scope": "International", "year_published": "2019", "notes": "Originally 1994, updated 2019."},
+          {"organization": "SOCMA", "document_title": "ChemStewards Program", "url": "https://www.socma.org/operations-manufacturing/chemstewards/", "document_type": "ethics_guidelines", "geographic_scope": "US", "year_published": "2005", "notes": "Three-tiered EHS&S program."},
+          {"organization": "PhRMA", "document_title": "Code on Interactions with Health Care Professionals", "url": "https://www.phrma.org/resources/code-on-interactions-with-health-care-professionals", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "2022", "notes": "Endorsed by OIG. Some states made legally mandatory."},
+          {"organization": "Biotechnology Innovation Organization (BIO)", "document_title": "BIO Statement of Ethical Principles", "url": "https://www.bio.org/bio-statement-bio-ethical-principles", "document_type": "ethics_guidelines", "geographic_scope": "US", "year_published": "unknown", "notes": "Covers gene therapy, animal welfare, clinical research."},
+          {"organization": "ISPE", "document_title": "ISPE Code of Conduct", "url": "https://ispe.org/membership/code-of-conduct", "document_type": "code_of_conduct", "geographic_scope": "International", "year_published": "unknown", "notes": "Pharmaceutical engineering."}
+        ]},
+        {"code": "326", "name": "Plastics and Rubber Products Manufacturing", "total_codes_found": 1, "codes": [
+          {"organization": "Society of Plastics Engineers (SPE)", "document_title": "SPE Code of Conduct", "url": "https://www.4spe.org/i4a/pages/index.cfm?pageID=5715", "document_type": "code_of_conduct", "geographic_scope": "International", "year_published": "unknown", "notes": "Conduct Review Committee enforcement."}
+        ]},
+        {"code": "327", "name": "Nonmetallic Mineral Product Manufacturing", "total_codes_found": 2, "codes": [
+          {"organization": "American Ceramic Society (ACerS)", "document_title": "ACerS Code of Conduct", "url": "https://ceramics.org/about/governance/", "document_type": "code_of_conduct", "geographic_scope": "International", "year_published": "unknown", "notes": "Events, publications, member activities."},
+          {"organization": "National Glass Association (NGA)", "document_title": "NGA Code of Ethics", "url": "https://www.glass.org/about-nga", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "unknown", "notes": "Glass professionals."}
+        ]},
+        {"code": "331", "name": "Primary Metal Manufacturing", "total_codes_found": 2, "codes": [
+          {"organization": "American Institute of Steel Construction (AISC)", "document_title": "AISC Code of Conduct", "url": "https://www.aisc.org/about-us/code-of-conduct/", "document_type": "code_of_conduct", "geographic_scope": "US", "year_published": "unknown", "notes": "Anti-trust and conflict-of-interest."},
+          {"organization": "American Foundry Society (AFS)", "document_title": "AFS Code of Conduct", "url": "https://www.afsinc.org/code-conduct", "document_type": "code_of_conduct", "geographic_scope": "US", "year_published": "unknown", "notes": "Conferences, courses, events."}
+        ]},
+        {"code": "332", "name": "Fabricated Metal Product Manufacturing", "total_codes_found": 2, "codes": [
+          {"organization": "American Welding Society (AWS)", "document_title": "AWS QC1 Code of Ethics, Rules of Conduct, and Practice", "url": "https://www.aws.org/community-and-events/conferences-and-events/inspection-expo-and-conference/upholding-integrity/", "document_type": "code_of_ethics", "geographic_scope": "International", "year_published": "2016", "notes": "Certified Welding Inspectors."},
+          {"organization": "Fire Apparatus Manufacturers' Association (FAMA)", "document_title": "FAMA Code of Professional Practice", "url": "https://www.fama.org/code-of-ethics/", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "unknown", "notes": "Violations may lead to expulsion."}
+        ]},
+        {"code": "333", "name": "Machinery Manufacturing", "total_codes_found": 0, "codes": []},
+        {"code": "334", "name": "Computer and Electronic Product Manufacturing", "total_codes_found": 5, "codes": [
+          {"organization": "Consumer Technology Association (CTA)", "document_title": "CTA Code of Conduct", "url": "https://www.cta.tech/Landing-Pages/Policies/Code-of-Conduct", "document_type": "code_of_conduct", "geographic_scope": "US", "year_published": "unknown", "notes": "Safety, diversity, social responsibility."},
+          {"organization": "Responsible Business Alliance (RBA)", "document_title": "RBA Code of Conduct", "url": "https://www.responsiblebusiness.org/code-of-conduct/", "document_type": "code_of_conduct", "geographic_scope": "International", "year_published": "2024", "notes": "Version 8.0. 200+ member companies."},
+          {"organization": "Semiconductor Industry Association (SIA)", "document_title": "Voluntary Ethical Guidelines for Surveillance, Policing, and Semiconductors", "url": "https://www.semiconductors.org/taking-steps-to-further-bolster-chip-industrys-commitment-to-ethics/", "document_type": "ethics_guidelines", "geographic_scope": "International", "year_published": "unknown", "notes": "Preventing oppressive surveillance."},
+          {"organization": "SEMI", "document_title": "SEMI Global Code of Conduct", "url": "https://www.semi.org/en/semi-organization/code-conduct", "document_type": "code_of_conduct", "geographic_scope": "International", "year_published": "unknown", "notes": "Semiconductor equipment and materials."},
+          {"organization": "CompTIA", "document_title": "CompTIA Candidate Code of Ethics", "url": "https://www.comptia.org/en-us/resources/test-policies/continuing-education-policies/candidate-code-of-ethics/", "document_type": "code_of_ethics", "geographic_scope": "International", "year_published": "unknown", "notes": "All CompTIA certified persons."}
+        ]},
+        {"code": "335", "name": "Electrical Equipment, Appliance, and Component Manufacturing", "total_codes_found": 1, "codes": [
+          {"organization": "MITA (division of NEMA)", "document_title": "MITA Code of Ethics on Interactions with Health Care Professionals", "url": "https://www.medicalimaging.org/about-mita/mita-code-of-ethics", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "2009", "notes": "Medical imaging equipment."}
+        ]},
+        {"code": "336", "name": "Transportation Equipment Manufacturing", "total_codes_found": 5, "codes": [
+          {"organization": "Alliance for Automotive Innovation", "document_title": "Consumer Privacy Protection Principles", "url": "https://www.autosinnovate.org/innovation/Automotive%20Privacy/Consumer_Privacy_Principlesfor_VehicleTechnologies_Services-03-21-19.pdf", "document_type": "ethics_guidelines", "geographic_scope": "US", "year_published": "2014", "notes": "20 automakers. FTC-enforceable."},
+          {"organization": "AIAG", "document_title": "Automotive Industry Guiding Principles for Corporate Responsibility", "url": "https://www.aiag.org/corporate-responsibility", "document_type": "ethics_guidelines", "geographic_scope": "International", "year_published": "unknown", "notes": "IATF 16949 now requires anti-bribery policy."},
+          {"organization": "SAE International", "document_title": "SAE Code of Ethical Conduct", "url": "https://www.sae.org/about/legal-policies/content_policy", "document_type": "code_of_ethics", "geographic_scope": "International", "year_published": "unknown", "notes": "Automotive engineers."},
+          {"organization": "IFBEC / AIA", "document_title": "Global Principles of Business Ethics for Aerospace and Defence", "url": "https://www.ifbec.info/about", "document_type": "ethics_guidelines", "geographic_scope": "International", "year_published": "2009", "notes": "US-Europe. Zero tolerance of corruption."},
+          {"organization": "AIAA", "document_title": "AIAA Code of Ethics", "url": "https://aiaa.org/about-aiaa/governance/code-of-ethics/", "document_type": "code_of_ethics", "geographic_scope": "International", "year_published": "unknown", "notes": "30,000+ members, 88 countries."}
+        ]},
+        {"code": "337", "name": "Furniture and Related Product Manufacturing", "total_codes_found": 0, "codes": []},
+        {"code": "339", "name": "Miscellaneous Manufacturing", "total_codes_found": 6, "codes": [
+          {"organization": "AdvaMed", "document_title": "AdvaMed Code of Ethics on Interactions with HCPs", "url": "https://www.advamed.org/member-center/resource-library/advamed-code-of-ethics/", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "2025", "notes": "Medical devices. Some states made legally binding."},
+          {"organization": "PDA", "document_title": "PDA Code of Conduct", "url": "https://pda.org/about-pda/code-of-conduct", "document_type": "code_of_conduct", "geographic_scope": "International", "year_published": "unknown", "notes": "Also developed Data Integrity Code."},
+          {"organization": "The Toy Association", "document_title": "Member Code of Conduct", "url": "https://www.toyassociation.org/ta/about-us/member-code-of-conduct/toys/about-us/member-code-of-conduct.aspx", "document_type": "code_of_conduct", "geographic_scope": "US", "year_published": "unknown", "notes": "Child safety paramount."},
+          {"organization": "ICTI", "document_title": "Code of Business Practices / Ethical Toy Program", "url": "https://toy-icti.org/ICTI/about/code/ICTI/about/code-business-practice.aspx", "document_type": "code_of_conduct", "geographic_scope": "International", "year_published": "1995", "notes": "Factory audits since 2002."},
+          {"organization": "Jewelers of America (JA)", "document_title": "Code of Professional Practices", "url": "https://www.jewelers.org/about/code-of-professional-practices", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "unknown", "notes": "Founded 1906. Annual commitment."},
+          {"organization": "Responsible Jewellery Council (RJC)", "document_title": "RJC Code of Practices", "url": "https://www.responsiblejewellery.com/standards/code-of-practices/", "document_type": "code_of_conduct", "geographic_scope": "International", "year_published": "2024", "notes": "Mine to retail. 2,000+ members."}
+        ]}
+      ]
+    }
+  ],
+  "agent_id": "N4",
+  "researched_at": "2026-03-21",
+  "summary": {
+    "total_codes_found": 35,
+    "notable_findings": [
+      "ACC Responsible Care — ~37 years, one of longest-running industry ethics programs",
+      "RBA Code of Conduct (electronics) — dominant supply chain standard, 200+ companies",
+      "PhRMA and AdvaMed codes — some states made provisions legally binding",
+      "SIA guidelines specifically address preventing semiconductor-enabled surveillance",
+      "ICTI Ethical Toy Program — pioneering factory audit program since 1995",
+      "Zero codes found for Machinery (333) and Furniture (337)"
+    ]
+  }
+}

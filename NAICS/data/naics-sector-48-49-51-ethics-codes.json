@@ -1,0 +1,553 @@
+{
+  "track": "NAICS",
+  "sectors": [
+    {
+      "sector_code": "48-49",
+      "sector_name": "Transportation and Warehousing",
+      "subsectors": [
+        {
+          "code": "481",
+          "name": "Air Transportation",
+          "total_codes_found": 6,
+          "codes": [
+            {
+              "organization": "Air Line Pilots Association (ALPA)",
+              "document_title": "ALPA Code of Ethics",
+              "url": "https://www.alpa.org/about/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/Canada",
+              "year_published": "1956 (revised 2020)",
+              "notes": "Established 1956, revised 2020 for inclusivity. Covers safety, professional conduct, loyalty, leadership, integrity. Professional Standards Committee serves as guardian of the Code."
+            },
+            {
+              "organization": "International Air Transport Association (IATA)",
+              "document_title": "IATA Code of Business Conduct",
+              "url": "https://www.iata.org/contentassets/c135b70ae5f34013b120b5008ca13369/code-business-conduct.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "",
+              "notes": "Applies to all IATA employees, subsidiaries, consultants, contractors, suppliers and business partners worldwide. Covers ethical conduct and social responsibilities."
+            },
+            {
+              "organization": "National Air Traffic Controllers Association (NATCA)",
+              "document_title": "Professional Air Traffic Controller's Code",
+              "url": "https://www.natca.org/wp-content/uploads/2020/08/ATC-Code-Poster.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Focuses on safety, public trust, and professional excellence. Actions represent the entire profession. Includes Professional Standards Program."
+            },
+            {
+              "organization": "National Air Traffic Controllers Association (NATCA)",
+              "document_title": "NATCA Code of Conduct",
+              "url": "https://www.natca.org/code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Anti-discrimination and harassment policy. Covers events, meetings, and professional interactions."
+            },
+            {
+              "organization": "Association of Flight Attendants-CWA (AFA-CWA)",
+              "document_title": "AFA-CWA Ethical Practices Code",
+              "url": "https://afaalaska.org/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Prohibits officers from receiving compensation from corporate boards or personal payments from employers. Protects members' rights to assemble, vote, and participate."
+            },
+            {
+              "organization": "American Institute of Aeronautics and Astronautics (AIAA)",
+              "document_title": "AIAA Code of Ethics",
+              "url": "https://aiaa.org/about-aiaa/governance/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/International",
+              "year_published": "",
+              "notes": "Covers aerospace professionals broadly. Emphasizes public safety, rejection of bribery/fraud/corruption, crediting others' contributions, fair treatment. Ethics Committee handles violations."
+            }
+          ]
+        },
+        {
+          "code": "482",
+          "name": "Rail Transportation",
+          "total_codes_found": 1,
+          "codes": [
+            {
+              "organization": "American Association of Private Railroad Car Owners (AAPRCO)",
+              "document_title": "Code of Ethics & Safety",
+              "url": "https://www.aaprco.com/about/code-of-ethics-safety/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Private railroad car owners. AAR (Association of American Railroads) focuses on technical standards rather than a formal ethics code. AREMA (American Railway Engineering and Maintenance-of-Way Association) is the other major body."
+            }
+          ]
+        },
+        {
+          "code": "483",
+          "name": "Water Transportation",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "International Maritime Organization (IMO)",
+              "document_title": "Code of Ethics for IMO Personnel",
+              "url": "https://wwwcdn.imo.org/localresources/en/OurWork/Documents/Code%20of%20Ethics%20for%20IMO%20Personnel.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "",
+              "notes": "UN specialized agency. Code covers integrity, accountability, discrimination, abuse of authority, harassment. Applies to IMO personnel and sets tone for maritime industry."
+            },
+            {
+              "organization": "The Nautical Institute",
+              "document_title": "Code of Ethics",
+              "url": "https://www.nautinst.org/static/b1c5ded5-576c-4471-8b1755eba899c025/code-of-ethics-Jul-23.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2023",
+              "notes": "Voluntary code for maritime professionals worldwide (merchant/naval officers, pilots, Harbour Masters, surveyors, ship managers). Ethical considerations take precedence over commercial interests."
+            },
+            {
+              "organization": "Society of Naval Architects and Marine Engineers (SNAME)",
+              "document_title": "SNAME Code of Ethics",
+              "url": "https://sname.org/sname-code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/International",
+              "year_published": "",
+              "notes": "Follows Professional Engineers Code of Ethics. Covers confidentiality, conflicts of interest, improper solicitation, single-source compensation. Founded for naval architecture and marine engineering professionals."
+            }
+          ]
+        },
+        {
+          "code": "484",
+          "name": "Truck Transportation",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "American Trucking Associations (ATA) - Moving & Storage Conference",
+              "document_title": "ATA Moving & Storage Conference Code of Ethics",
+              "url": "https://www.trucking.org/sites/default/files/2021-04/ATA%20Moving%20%20Storage%20Conference%20Code%20of%20Ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2021",
+              "notes": "ATA Moving & Storage Conference division code. ATA is the largest national trade association for the trucking industry representing 37,000+ members."
+            },
+            {
+              "organization": "Transportation Intermediaries Association (TIA)",
+              "document_title": "TIA Code of Ethics",
+              "url": "https://tianet.org/TIA/TIAnetOrg/Member/Join-Associate/Tabs/Ethics.aspx",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Required for all TIA members and CTB (Certified Transportation Broker) certification. Covers fair dealing, honesty, integrity, professional conduct. Ethics Committee arbitrates disputes."
+            }
+          ]
+        },
+        {
+          "code": "485",
+          "name": "Transit and Ground Passenger Transportation",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "United States Tour Operators Association (USTOA)",
+              "document_title": "USTOA Code of Ethics",
+              "url": "https://ustoa.com/about",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Active members must adhere to strict code. Covers truthful representation, accurate pricing, ethical/financial responsibility, professionalism, integrity."
+            },
+            {
+              "organization": "National Tour Association (NTA)",
+              "document_title": "NTA Code of Ethics and Professional Responsibility",
+              "url": "https://ntaonline.com/wp-content/uploads/2026/01/2026-Tour-Operator-Application.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Requires respectful, professional treatment of all, inclusivity. Full code available at NTAonline.com."
+            }
+          ]
+        },
+        {
+          "code": "486",
+          "name": "Pipeline Transportation",
+          "total_codes_found": 0,
+          "codes": [],
+          "notes": "INGAA (Interstate Natural Gas Association of America) and API (American Petroleum Institute) are the main trade bodies. Neither has a prominently published standalone code of ethics for pipeline transportation specifically. API's ethics standards fall under the broader oil/gas sector (NAICS 21)."
+        },
+        {
+          "code": "487",
+          "name": "Scenic and Sightseeing Transportation",
+          "total_codes_found": 0,
+          "codes": [],
+          "notes": "Covered indirectly by USTOA and NTA codes under subsector 485. No dedicated scenic/sightseeing transportation ethics code found."
+        },
+        {
+          "code": "488",
+          "name": "Support Activities for Transportation",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "National Customs Brokers & Forwarders Association of America (NCBFAA)",
+              "document_title": "NCBFAA Code of Ethics",
+              "url": "https://www.ncbfaa.org/about-ncbfaa",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Strict code for customs brokers, freight forwarders, NVOCCs, and ocean transportation intermediaries. Since 1897. 1,400+ member companies."
+            },
+            {
+              "organization": "International Federation of Freight Forwarders Associations (FIATA)",
+              "document_title": "FIATA Code of Conduct",
+              "url": "https://fiata.org/about/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "",
+              "notes": "Covers 40,000 forwarding/logistics firms, 10 million employees in 160 countries. Promotes integrity, transparency, compliance with international trade regulations."
+            },
+            {
+              "organization": "Federal Aviation Administration (FAA)",
+              "document_title": "FAA Order 3750.7B - Ethical Conduct and Financial Disclosure",
+              "url": "https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1036809",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Regulatory code for FAA employees covering aviation support activities. Implements Ethics in Government Act. Covers financial disclosure and ethical conduct training."
+            }
+          ]
+        },
+        {
+          "code": "491",
+          "name": "Postal Service",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "United States Postal Service (USPS)",
+              "document_title": "Standards of Ethical Conduct for USPS Employees (5 CFR 7001)",
+              "url": "https://www.ecfr.gov/current/title-5/chapter-LX/part-7001",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "2023 (revised)",
+              "notes": "Supplemental standards of ethical conduct. Covers conflicts of interest, outside employment restrictions, misuse of position. Published in Federal Register 2023."
+            },
+            {
+              "organization": "United States Postal Service (USPS)",
+              "document_title": "Rules of Conduct for Postal Employees (39 CFR Part 447)",
+              "url": "https://www.ecfr.gov/current/title-39/chapter-I/subchapter-F/part-447",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Federal regulations governing postal employee conduct. Covers gambling, misuse of position and time, Hatch Act restrictions on political activity."
+            }
+          ]
+        },
+        {
+          "code": "492",
+          "name": "Couriers and Messengers",
+          "total_codes_found": 1,
+          "codes": [
+            {
+              "organization": "Association of Couriers and Messageries of Quebec (ACMQ)",
+              "document_title": "ACMQ Code of Ethics",
+              "url": "https://www.acmq.net/en/about/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "Canada (Quebec)",
+              "year_published": "1994",
+              "notes": "Founded 1994. Mission to enhance industry image through professional code of ethics. MCAA (Messenger Courier Association of the Americas) is the US/international body but no standalone ethics code found."
+            }
+          ]
+        },
+        {
+          "code": "493",
+          "name": "Warehousing and Storage",
+          "total_codes_found": 1,
+          "codes": [
+            {
+              "organization": "International Warehouse Logistics Association (IWLA)",
+              "document_title": "IWLA Standards of Business Ethics (in Bylaws)",
+              "url": "https://iwla.com/wp-content/uploads/2022/06/IWLA-Bylaws-Ratified-March-2020.pdf",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US/North America",
+              "year_published": "2020",
+              "notes": "Since 1891. Bylaws promote high standard of business ethics for public/contract warehousing and warehouse logistics services. Only trade association for warehouse-based 3PL providers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector_code": "51",
+      "sector_name": "Information",
+      "subsectors": [
+        {
+          "code": "512",
+          "name": "Motion Picture and Sound Recording Industries",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "SAG-AFTRA (Screen Actors Guild-American Federation of Television and Radio Artists)",
+              "document_title": "SAG-AFTRA Code of Conduct on Sexual Harassment",
+              "url": "https://www.sagaftra.org/contracts-industry-resources/workplace-harassment-prevention/four-pillars-change-initiative/code",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Zero-tolerance policy against discrimination and harassment. Part of Four Pillars of Change initiative. Applies to all producers employing SAG-AFTRA members."
+            },
+            {
+              "organization": "SAG-AFTRA",
+              "document_title": "Personal Manager Code of Ethics and Conduct",
+              "url": "https://www.sagaftra.org/files/personal_manager_code_of_ethics_and_conduct.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Governs ethical standards for relationship between performers and managers. Ensures conformity with applicable state laws."
+            },
+            {
+              "organization": "Producers Guild of America (PGA)",
+              "document_title": "PGA Code of Ethics",
+              "url": "https://producersguild.org/wp-content/uploads/2024/11/Guild-Member-Policies-1.27.25-Clean.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2025",
+              "notes": "Emphasizes integrity, honesty, professionalism. Includes set safety protocols developed with Hollywood Commission. Anti-harassment training program."
+            },
+            {
+              "organization": "Writers Guild of America (WGA)",
+              "document_title": "WGA Code of Conduct / Community Standards",
+              "url": "https://www.wga.org/contracts/know-your-rights/wgaw-community-standards",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Covers safe, inclusive culture in writers' rooms and professional interactions. Includes Code of Working Rules prohibiting spec work. Agency Code of Conduct also published."
+            }
+          ]
+        },
+        {
+          "code": "513",
+          "name": "Publishing Industries",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "American Society of Business Publication Editors (ASBPE)",
+              "document_title": "ASBPE Code of Journalism Ethics",
+              "url": "https://asbpe.org/code-of-journalism-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2025 (revised)",
+              "notes": "Updated February 2025. For business/trade/professional publications. Covers editorial independence, separation of advertising from editorial, transparency. Founded 1964."
+            },
+            {
+              "organization": "Society of Professional Journalists (SPJ)",
+              "document_title": "SPJ Code of Ethics",
+              "url": "https://www.spj.org/spj-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/International",
+              "year_published": "2014 (revised)",
+              "notes": "Gold standard of aspirational journalism ethics codes. Four principles: seek truth, minimize harm, act independently, be accountable/transparent. First written 1973, revised 1984/1987/1996/2014."
+            }
+          ]
+        },
+        {
+          "code": "516",
+          "name": "Broadcasting and Content Providers",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "Radio Television Digital News Association (RTDNA)",
+              "document_title": "RTDNA Code of Ethics",
+              "url": "https://www.rtdna.org/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "For broadcast and digital journalists. Covers public obligation, error correction, conflicts of interest, editorial independence, diversity of sources. Includes separate Coverage Guidelines."
+            },
+            {
+              "organization": "International Federation of Journalists (IFJ)",
+              "document_title": "Global Charter of Ethics for Journalists",
+              "url": "https://www.ifj.org/who/rules-and-policy/global-charter-of-ethics-for-journalists",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2019",
+              "notes": "Adopted June 2019 at 30th IFJ World Congress. 16 articles. Completes Bordeaux Declaration (1954). Endorsed by representatives of 500,000+ journalists worldwide."
+            },
+            {
+              "organization": "National Press Photographers Association (NPPA)",
+              "document_title": "Code of Ethics for Visual Journalists",
+              "url": "https://nppa.org/resources/code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1947 (founded, code updated)",
+              "notes": "For photojournalists and visual journalists. Covers accuracy, resisting manipulation, avoiding stereotyping, treating subjects with dignity, special consideration for vulnerable subjects."
+            },
+            {
+              "organization": "Online News Association (ONA)",
+              "document_title": "ONA Social Newsgathering Ethics Code / Build Your Own Ethics Code",
+              "url": "https://ethics.journalists.org/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US/International",
+              "year_published": "2015",
+              "notes": "Innovative approach: Build Your Own Ethics Code tool for news organizations. Covers 40+ ethical issues including UGC, verification, data journalism, social networks. Also has Social Newsgathering Ethics Code."
+            },
+            {
+              "organization": "American Society of News Editors (ASNE)",
+              "document_title": "ASNE Statement of Principles (Canons of Journalism)",
+              "url": "https://accountablejournalism.org/ethics-codes/american-society-of-newspaper-editors-statement-of-principles",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1922 (revised 1975)",
+              "notes": "Originally 'Canons of Journalism' adopted 1922 — landmark document that became model for journalism codes globally. Covers responsibility, freedom of the press, independence, truth/accuracy, impartiality, fair play."
+            }
+          ]
+        },
+        {
+          "code": "517",
+          "name": "Telecommunications",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "CTIA - The Wireless Association",
+              "document_title": "Consumer Code for Wireless Service",
+              "url": "https://www.ctia.org/the-wireless-industry/industry-commitments/consumer-code-for-wireless-service",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Voluntary code for wireless carriers. Covers service disclosure, mapping, device unlocking. Also has Messaging Principles and Best Practices (updated 2023) covering ethical messaging, opt-in consent, content prohibitions."
+            },
+            {
+              "organization": "International Telecommunication Union (ITU)",
+              "document_title": "ITU Standards of Conduct / Ethics Framework",
+              "url": "https://www.itu.int/en/ethics/pages/default.aspx",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2025 (updated policies)",
+              "notes": "UN specialized agency. Ethics Office promotes highest standards. Includes policies on harassment, fraud/corruption, whistleblowing, all updated June 2025. Standards of Conduct for International Civil Service."
+            },
+            {
+              "organization": "Internet Society (ISOC)",
+              "document_title": "ISOC Code of Conduct for Individual Members / Board and Officer Code of Ethics",
+              "url": "https://www.internetsociety.org/about-internet-society/governance-policies/board-officer-code-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2003 (members); 2015 (staff)",
+              "notes": "Three-tier ethics framework: Individual Members (2003), Board/Officers, and Staff (2015). Covers internet governance professionals. Values: integrity, openness, honesty."
+            }
+          ]
+        },
+        {
+          "code": "518",
+          "name": "Computing Infrastructure Providers, Data Processing, Web Hosting",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "Association for Computing Machinery (ACM)",
+              "document_title": "ACM Code of Ethics and Professional Conduct",
+              "url": "https://www.acm.org/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2018",
+              "notes": "Gold standard for computing profession. Adopted June 2018 after two-year global consultation. Covers public good, harm avoidance, honesty, fairness, privacy, confidentiality. Applies to all computing professionals."
+            },
+            {
+              "organization": "IEEE (Institute of Electrical and Electronics Engineers)",
+              "document_title": "IEEE Code of Ethics",
+              "url": "https://www.ieee.org/about/corporate/governance/p7-8",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "1963 (founded, updated regularly)",
+              "notes": "10 rules covering public safety, competence, fair treatment, discrimination prevention, sustainable development, privacy. All IEEE members agree to abide. Also co-published Software Engineering Code of Ethics with ACM/IEEE-CS."
+            },
+            {
+              "organization": "ISC2 (International Information System Security Certification Consortium)",
+              "document_title": "ISC2 Code of Ethics / Code of Professional Conduct",
+              "url": "https://www.isc2.org/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2026 (Code of Professional Conduct launched Feb 2026)",
+              "notes": "Four canons: protect society, act honorably, provide competent service, advance the profession. New Code of Professional Conduct launched Feb 2026 with input from 1,400 cybersecurity professionals. Mandatory for all CISSP holders."
+            },
+            {
+              "organization": "Association of Information Technology Professionals (AITP/CompTIA)",
+              "document_title": "AITP Code of Ethics and Standards of Conduct",
+              "url": "https://aitp-ncfl.org/home/about-2/aitp-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1951 (founded)",
+              "notes": "Founded 1951. Three obligations: to society (knowledge dissemination, privacy), to employers (faithful service), to fellow members (honesty, respect). Acquired by CompTIA in 2017, rebranded as CompTIA IT Pro."
+            }
+          ]
+        },
+        {
+          "code": "519",
+          "name": "Web Search Portals, Libraries, Archives",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "American Library Association (ALA)",
+              "document_title": "ALA Code of Ethics",
+              "url": "https://www.ala.org/tools/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1939 (amended 2021)",
+              "notes": "Nine principles. Created 1939, most recent amendment 2021 added racial/social justice principle. Covers intellectual freedom, access to information, privacy, professional development, equity."
+            },
+            {
+              "organization": "International Federation of Library Associations and Institutions (IFLA)",
+              "document_title": "IFLA Code of Ethics for Librarians and Other Information Workers",
+              "url": "https://www.ifla.org/publications/ifla-code-of-ethics-for-librarians-and-other-information-workers-full-version/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2012",
+              "notes": "Approved August 2012. Available in long and short versions. Translated into many languages. Model for 60+ national library association codes. Covers access, privacy, confidentiality."
+            },
+            {
+              "organization": "Society of American Archivists (SAA)",
+              "document_title": "SAA Core Values Statement and Code of Ethics",
+              "url": "https://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1980 (revised 2020)",
+              "notes": "First adopted 1980, revised 1992/2005/2012/2020. Companion document with Core Values. Covers authenticity, integrity, access, privacy, culturally sensitive materials, professional relationships."
+            },
+            {
+              "organization": "Association for Information Science and Technology (ASIS&T)",
+              "document_title": "ASIS&T Professional Guidelines / Code of Conduct",
+              "url": "https://www.asist.org/about/asist-professional-guidelines/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US/International",
+              "year_published": "",
+              "notes": "Covers obligations to employers, clients, system users, the profession, and society. Emphasizes awareness of social, economic, cultural, political impacts. Recently merged with SLA (Special Libraries Association)."
+            },
+            {
+              "organization": "Special Libraries Association (SLA)",
+              "document_title": "SLA Professional Ethics Guidelines",
+              "url": "https://sla.org/page/sla-professional-ethics-guidelines/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US/International",
+              "year_published": "",
+              "notes": "For special/corporate librarians and information professionals. Merged with ASIS&T in 2025."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "agent_id": "N6",
+  "researched_at": "2026-03-21",
+  "summary": {
+    "total_codes_found": 39,
+    "sector_48_49_total": 16,
+    "sector_51_total": 23,
+    "subsectors_with_zero_codes": [
+      "486 Pipeline Transportation",
+      "487 Scenic and Sightseeing Transportation"
+    ],
+    "key_findings": [
+      "Air Transportation (481) is the most regulated subsector with 6 codes across pilots, air traffic controllers, flight attendants, and aerospace engineers",
+      "Water Transportation (483) has strong international coverage through IMO, Nautical Institute, and SNAME",
+      "Broadcasting/Content Providers (516) has the richest ethics landscape with 5 codes including the landmark ASNE Canons of Journalism (1922)",
+      "Computing Infrastructure (518) has 4 major professional codes spanning computing (ACM), electrical engineering (IEEE), cybersecurity (ISC2), and IT professionals (AITP)",
+      "Libraries/Archives (519) has robust ethics infrastructure from ALA (1939), IFLA (international), SAA, ASIS&T, and SLA",
+      "Pipeline Transportation (486) and Scenic/Sightseeing Transportation (487) have no dedicated standalone ethics codes",
+      "Several codes are regulatory rather than voluntary: USPS (491) is governed by federal regulation 5 CFR 7001 and 39 CFR 447",
+      "The journalism/media codes are the oldest continuously maintained ethics codes, with ASNE Canons dating to 1922 and SPJ to 1973"
+    ]
+  }
+}

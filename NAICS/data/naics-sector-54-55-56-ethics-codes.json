@@ -1,0 +1,620 @@
+{
+  "track": "NAICS",
+  "sectors": [
+    {
+      "sector_code": "54",
+      "sector_name": "Professional, Scientific, and Technical Services",
+      "subsectors": [
+        {
+          "code": "541",
+          "name": "Professional, Scientific, and Technical Services",
+          "total_codes_found": 44,
+          "codes": [
+            {
+              "organization": "American Bar Association (ABA)",
+              "document_title": "Model Rules of Professional Conduct",
+              "url": "https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/",
+              "document_type": "model_rules",
+              "geographic_scope": "US",
+              "year_published": "1983",
+              "notes": "Foundation for legal ethics in all 50 states and DC. Adopted by ABA House of Delegates in 1983, continuously updated. Covers client-lawyer relationship, counselor, advocate, and professional responsibility. Enforceable through state bar associations."
+            },
+            {
+              "organization": "American Institute of Certified Public Accountants (AICPA)",
+              "document_title": "Code of Professional Conduct",
+              "url": "https://www.aicpa-cima.com/topic/ethics/code-of-professional-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2014",
+              "notes": "Effective December 15, 2014; revised annually on June 1. Covers integrity, objectivity, due care, competence, conflicts of interest, confidentiality, and public interest. All AICPA members required to adhere."
+            },
+            {
+              "organization": "American Institute of Architects (AIA)",
+              "document_title": "Code of Ethics and Professional Conduct",
+              "url": "https://www.aia.org/about-aia/professional-standards/aia-code-of-ethics-and-professional-conduct",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Three tiers: Canons (broad principles), Ethical Standards (aspirational goals), and Rules of Conduct (mandatory, violation grounds for discipline). Enforced by National Ethics Council. Penalties include admonition, censure, suspension, or termination."
+            },
+            {
+              "organization": "National Society of Professional Engineers (NSPE)",
+              "document_title": "Code of Ethics for Engineers",
+              "url": "https://www.nspe.org/career-growth/ethics/nspe-code-ethics-engineers",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2007",
+              "notes": "Available in French, German, Japanese, and Spanish. Includes fundamental canons, rules of practice, and professional obligations. Board of Ethical Review interprets dilemmas. PDF at nspe.org/sites/default/files/resources/pdfs/Ethics/CodeofEthics/NSPECodeofEthicsforEngineers.pdf"
+            },
+            {
+              "organization": "American Society of Civil Engineers (ASCE)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.asce.org/career-growth/ethics/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "First adopted 1914, wholesale rewrite in 2020 using stakeholder model (replacing canon model). Principles: safe/resilient/sustainable infrastructure, respect/dignity/fairness, societal needs, quality of life."
+            },
+            {
+              "organization": "American Society of Mechanical Engineers (ASME)",
+              "document_title": "Society Policy P-15.7: Ethics",
+              "url": "https://www.asme.org/getmedia/3e165b2b-f7e7-4106-a772-5f0586d2268e/p-15-7-ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1994",
+              "notes": "Four fundamental principles: enhancement of human welfare, honesty/impartiality, competence/prestige, support of professional societies. Referenced in ASME By-Law B2.1."
+            },
+            {
+              "organization": "American Institute of Chemical Engineers (AIChE)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.aiche.org/about/governance/policies/code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2015",
+              "notes": "Every applicant attests by signing membership application. Emphasis on paramount safety/health/welfare of public, environmental protection, and advising employers/clients of adverse consequences."
+            },
+            {
+              "organization": "Institute of Electrical and Electronics Engineers (IEEE)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.ieee.org/about/corporate/governance/p7-8",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2020",
+              "notes": "In existence since 1963 IEEE merger of AIEE and IRE. Every member agrees to abide by it upon joining. Violations reported via EthicsPoint hotline. Also has a separate Code of Conduct."
+            },
+            {
+              "organization": "Association for Computing Machinery (ACM)",
+              "document_title": "Code of Ethics and Professional Conduct",
+              "url": "https://www.acm.org/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2018",
+              "notes": "Updated in 2018 (from 1992). Three sections: fundamental ethical principles, professional responsibilities, leadership responsibilities. Public good as primary consideration."
+            },
+            {
+              "organization": "Institute of Management Consultants USA (IMC USA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.imcusa.org/about/ethics/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Condition of membership and CMC certification. Covers objectivity, fee basis, third-party commissions, reporting malfeasance. PDF at imcusa.org/wp-content/uploads/2023/02/imc_usa_code_of_ethics__final_.pdf"
+            },
+            {
+              "organization": "International Council of Management Consulting Institutes (ICMCI)",
+              "document_title": "Code of Conduct",
+              "url": "https://www.cmc-global.org/content/icmci-code-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "2016",
+              "notes": "Global umbrella for CMC profession. Minimum ethical guidelines: confidentiality, realistic expectations, competence, financial disclosure. Re-certification every 3 years requires renewed pledge."
+            },
+            {
+              "organization": "American Chemical Society (ACS)",
+              "document_title": "The Chemical Professional's Code of Conduct",
+              "url": "https://www.acs.org/careers/career-services/ethics/the-chemical-professionals-code-of-conduct.html",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Evolved from 1965 Chemist's Creed through 1994 Chemist's Code of Conduct, updated 2007, 2012, 2016, 2019. Covers public health/safety, accurate records, sharing information, conflicts of interest."
+            },
+            {
+              "organization": "American Psychological Association (APA)",
+              "document_title": "Ethical Principles of Psychologists and Code of Conduct",
+              "url": "https://www.apa.org/ethics/code",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2017",
+              "notes": "Five aspirational principles (beneficence/nonmaleficence, fidelity/responsibility, integrity, justice, respect) plus ten enforceable standards. Violations can lead to termination of membership or loss of licensure. Draft revision published Dec 2024."
+            },
+            {
+              "organization": "American Association for the Advancement of Science (AAAS)",
+              "document_title": "Statement on Scientific Freedom and Responsibility",
+              "url": "https://www.aaas.org/programs/scientific-responsibility-human-rights-law/aaas-statement-scientific-freedom",
+              "document_type": "position_statement",
+              "geographic_scope": "international",
+              "year_published": "2017",
+              "notes": "Adopted October 12, 2017 by AAAS Board. Links scientific freedom (inquiry, knowledge, communication) with responsibility (integrity, humanity, stewardship, human rights). Constitution amended in 1977 to include fostering scientific freedom and responsibility."
+            },
+            {
+              "organization": "Public Relations Society of America (PRSA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.prsa.org/professional-development/prsa-resources/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2000",
+              "notes": "Core values: advocacy, honesty, expertise, independence, loyalty, fairness. Modified in 2000 to focus on education rather than enforcement. Members annually agree to follow as condition of membership."
+            },
+            {
+              "organization": "American Advertising Federation (AAF)",
+              "document_title": "Advertising Principles of American Business",
+              "url": "https://www.aaf.org/common/Uploaded%20files/Club%20Resources/CLB_Resources_Advertising_Principles.pdf",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "1984",
+              "notes": "Eight principles covering truth, substantiation, comparisons, bait advertising, guarantees/warranties, price claims, testimonials, good taste/public decency. Voluntary compliance."
+            },
+            {
+              "organization": "American Marketing Association (AMA)",
+              "document_title": "Statement of Ethics",
+              "url": "https://www.ama.org/ama-statement-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2022",
+              "notes": "Three core norms: do no harm, foster/maintain integrity, embrace ethical values (honesty, responsibility, equity, transparency, citizenship). Aspirational document. AMA also has separate Code of Conduct."
+            },
+            {
+              "organization": "American Veterinary Medical Association (AVMA)",
+              "document_title": "Principles of Veterinary Medical Ethics",
+              "url": "https://www.avma.org/resources-tools/avma-policies/principles-veterinary-medical-ethics-avma",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2024",
+              "notes": "Three foundational principles: Stewardship (patient welfare, public/environment), Integrity (honesty/truthfulness), Respect (patients, clients, community). Comprises Principles, Code of Conduct, and Definitions. Violations subject to disciplinary action."
+            },
+            {
+              "organization": "Project Management Institute (PMI)",
+              "document_title": "Code of Ethics and Professional Conduct",
+              "url": "https://www.pmi.org/about/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2025",
+              "notes": "Effective November 17, 2025. Four values: honesty, responsibility, respect, fairness. Both aspirational and mandatory standards. Applies to all PMI members, volunteers, certification holders and candidates. PDF at pmi.org/-/media/pmi/documents/public/pdf/ethics/pmi-code-of-ethics.pdf"
+            },
+            {
+              "organization": "ISACA",
+              "document_title": "Code of Professional Ethics",
+              "url": "https://www.isaca.org/code-of-professional-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2019",
+              "notes": "For IT governance, audit, control, and security professionals. Covers due diligence, lawfulness, stakeholder interests, confidentiality, professional competence. Failure to comply can result in disciplinary measures."
+            },
+            {
+              "organization": "Society for Human Resource Management (SHRM)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.shrm.org/legal/bylaws-and-code-of-ethics/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2007",
+              "notes": "First developed 1972, last modified 1989 for name change. Core principles: professional responsibility, professional development, ethical leadership, fairness and justice, conflicts of interest, use of information. Written by SHRM members with Ethics Resource Center."
+            },
+            {
+              "organization": "American Society of Landscape Architects (ASLA)",
+              "document_title": "Code of Professional Ethics",
+              "url": "https://www.asla.org/about/ethics-and-professional-conduct/code-of-professional-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2009",
+              "notes": "Profession named in 1867. Canons contain Ethical Standards (aspirational goals) and objective Rules (enforceable). Covers duties to clients, employers, employees, other members. Also has separate Code of Environmental Ethics."
+            },
+            {
+              "organization": "American Society of Landscape Architects (ASLA)",
+              "document_title": "Code of Environmental Ethics",
+              "url": "https://www.asla.org/about/ethics-and-professional-conduct/asla-code-of-environmental-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2009",
+              "notes": "Companion to the Code of Professional Ethics, specifically addressing environmental stewardship responsibilities of landscape architects."
+            },
+            {
+              "organization": "American Institute of Certified Planners (AICP) / American Planning Association",
+              "document_title": "AICP Code of Ethics and Professional Conduct",
+              "url": "https://www.planning.org/ethics/ethicscode/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2021",
+              "notes": "Originally adopted March 19, 2005; updated 2021. Three parts: aspirational principles (Section A), rules of practice and behavior (Section B, enforceable), enforcement procedures (Sections C-E). Violations can result in loss of AICP certification."
+            },
+            {
+              "organization": "American Society of Interior Designers (ASID)",
+              "document_title": "Code of Ethics and Professional Conduct",
+              "url": "https://www.asid.org/lib24watch/files/download/11528/72acfb02e2b83e8325fda91203f24b1c90213ebf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Covers legal compliance, client relations (scope/fees/compensation disclosure), professional conduct, confidentiality, and intellectual property. Members may not seal/sign documents not prepared under their supervision."
+            },
+            {
+              "organization": "AIGA (The Professional Association for Design)",
+              "document_title": "Standards of Professional Practice",
+              "url": "https://www.aiga.org/resources/aiga-standards-of-professional-practice",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "2010",
+              "notes": "For graphic/communication design professionals. Covers responsibilities to clients (correcting ethical violations), other designers (fair competition, no denigration), audiences, and society. Also publishes Design Business & Ethics handbook."
+            },
+            {
+              "organization": "American Society of Appraisers (ASA)",
+              "document_title": "Principles of Appraisal Practice and Code of Ethics",
+              "url": "https://www.appraisers.org/about/standards-ethics-and-policies/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2013",
+              "notes": "Covers appraisal of all property types (real estate, personal property, business, gems, machinery). Members must also follow USPAP. Requires independence, competency, accurate records kept 5 years, conflict disclosure."
+            },
+            {
+              "organization": "Appraisal Institute",
+              "document_title": "Code of Professional Ethics",
+              "url": "https://www.appraisalinstitute.org/about/ethics-and-standards/code-of-professional-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2025",
+              "notes": "Effective January 1, 2025 (latest revision). Specifically for real estate appraisers. Includes canons and enforceable ethical rules. Peer review system for enforcement. All designated members must comply."
+            },
+            {
+              "organization": "National Association of Realtors (NAR)",
+              "document_title": "Code of Ethics and Standards of Practice",
+              "url": "https://www.nar.realtor/about-nar/governing-documents/the-code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2026",
+              "notes": "One of the first business ethics codes (adopted 1913). 17 articles covering duties to clients/customers, public, fellow REALTORS. 1.5M+ members. Training required every 3 years. Effective January 1, 2026."
+            },
+            {
+              "organization": "CFA Institute",
+              "document_title": "Code of Ethics and Standards of Professional Conduct",
+              "url": "https://www.cfainstitute.org/standards/professionals/code-ethics-standards",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2024",
+              "notes": "Effective January 1, 2024. 22 rules under 7 Standards: Professionalism, Integrity of Capital Markets, Duties to Clients, Duties to Employers, Investment Analysis, Conflicts of Interest, Member Responsibilities. Violations can result in revocation of CFA designation."
+            },
+            {
+              "organization": "Society of Actuaries (SOA) / American Academy of Actuaries (AAA)",
+              "document_title": "Code of Professional Conduct",
+              "url": "https://www.actuary.org/content/code-professional-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2001",
+              "notes": "Jointly supported by five US actuarial organizations (Academy, ASEA, CAS, CCA, SOA). 14 precepts covering honesty, integrity, competence, conflicts of interest, confidentiality, public interest. Adopted October 15, 2000, effective January 1, 2001."
+            },
+            {
+              "organization": "Institute of Internal Auditors (IIA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.theiia.org/en/standards/what-are-the-standards/mandatory-guidance/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2017",
+              "notes": "Mandatory guidance for internal audit profession. Four core principles: Integrity, Objectivity, Confidentiality, Competency. Applies to all IIA members, certification holders and candidates. Conformance required by International Standards."
+            },
+            {
+              "organization": "National Association of Tax Professionals (NATP)",
+              "document_title": "Standards of Professional Conduct and Code of Ethics",
+              "url": "https://www.natptax.com/governance/standards-of-professional-conduct/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Three-fold responsibility: to clients (protect interests, advise against wrong conduct), to the member (maintain professional reputation), to government (comply with laws, timely/accurate tax filing). Must withdraw from returns if client insists on incorrect items."
+            },
+            {
+              "organization": "American Translators Association (ATA)",
+              "document_title": "Code of Ethics and Professional Responsibility",
+              "url": "https://www.atanet.org/about-us/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2022",
+              "notes": "Renamed from Code of Professional Conduct and Business Practices in November 2022. Core tenets: honesty/integrity, represent qualifications honestly, disclose conflicts of interest, abide by commitments/contracts."
+            },
+            {
+              "organization": "Society for Technical Communication (STC)",
+              "document_title": "Ethical Principles for Technical Communicators",
+              "url": "https://www.stc.org/about-stc/ethical-principles/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "1998",
+              "notes": "Six principles: Legality, Honesty, Confidentiality, Quality, Fairness, Professionalism. Originally developed in the 1970s, formally established 1998. Connected by personal integrity and responsibility to clients and public."
+            },
+            {
+              "organization": "American Council of Engineering Companies (ACEC)",
+              "document_title": "Code of Ethics for Consulting Engineers",
+              "url": "https://www.acecindiana.org/page/Ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2003",
+              "notes": "Fundamental canons: paramount safety/health/welfare, perform in areas of competence, objectivity/truthfulness, act as faithful agents, avoid conflicts of interest, build professional reputation on merit."
+            },
+            {
+              "organization": "American Society of Safety Professionals (ASSP)",
+              "document_title": "Code of Professional Conduct",
+              "url": "https://www.assp.org/about/society-bylaws-and-guidelines/code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "36,000+ members across all industries. Core principles: fidelity/honesty/impartiality, respect/civility/non-discrimination, continuous improvement, competence, compliance with laws/standards, report unacceptable risk, avoid conflicts of interest."
+            },
+            {
+              "organization": "National Association of Environmental Professionals (NAEP)",
+              "document_title": "Code of Ethics and Standards of Practice for Environmental Professionals",
+              "url": "https://www.naep.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1979",
+              "notes": "Broad view of environment (physical, natural, cultural systems). Personally responsible for validity of data/analyses. Must not engage in dishonesty, fraud, deceit. No contingent fees conflicting with professional judgment. Recognized as public policy by NJ court."
+            },
+            {
+              "organization": "International Facility Management Association (IFMA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.ifma.org/about/governance/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2017",
+              "notes": "Covers fair dealing (no manipulation/concealment/misrepresentation), professional standards, conflicts of interest disclosure, legal compliance (including non-discrimination), confidentiality. IFMA Board of Directors enforces."
+            },
+            {
+              "organization": "Association of Information Technology Professionals (AITP)",
+              "document_title": "Code of Ethics and Standards of Conduct",
+              "url": "https://aitp-ncfl.org/home/about-2/aitp-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2010",
+              "notes": "Obligations to management (promote understanding of IT), fellow members (honesty/respect), society (disseminate knowledge, protect privacy/confidentiality), employers (faithful agents). Standards of Conduct expand on Code with specific behavioral rules."
+            },
+            {
+              "organization": "Air & Waste Management Association (A&WMA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.awma.org/Files/code_of_ethics-pdf_525dd8a7cc0b78-80607863.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2008",
+              "notes": "Part of Policy Manual Section 8.7. Guides environmental professionals in balanced discharge of responsibilities to society, employers, clients, coworkers, subordinates, colleagues, and themselves. Ethics Committee provides training and awareness."
+            },
+            {
+              "organization": "American Intellectual Property Law Association (AIPLA)",
+              "document_title": "Code of Professional Responsibility",
+              "url": "https://www.aipla.org/about/about-us/ethics-professionalism",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2012",
+              "notes": "Maintains high standard of professional ethics in IP law practice. Provides advisory opinions on contemplated professional conduct. Regular membership requires conduct conforming to the Code per Board of Directors."
+            },
+            {
+              "organization": "American Association of Professional Landmen (AAPL)",
+              "document_title": "Code of Ethics and Standards of Practice",
+              "url": "https://www.landman.org/about/governance/code-of-ethics-and-standards-of-practice",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Fair and honest dealing with landowners, industry associates, and public. Fiduciary duties. No undisclosed commissions/rebates. Accurate advertising. Professional land management (oil, gas, minerals, real estate)."
+            },
+            {
+              "organization": "International Association of Privacy Professionals (IAPP)",
+              "document_title": "Code of Ethics (CIPP Certification Requirement)",
+              "url": "https://iapp.org/news/a/should-privacy-professionals-have-a-code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2016",
+              "notes": "CIPP certification requires agreement to IAPP Code of Ethics. Broader profession-wide code still under discussion. Challenges due to diversity of roles (technologists, lawyers, CPOs). Organization has 75,000+ members worldwide."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector_code": "55",
+      "sector_name": "Management of Companies and Enterprises",
+      "subsectors": [
+        {
+          "code": "551",
+          "name": "Management of Companies and Enterprises",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "National Association of Corporate Directors (NACD)",
+              "document_title": "Director Professionalism Statement and Code of Conduct",
+              "url": "https://www.nacdonline.org/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2023",
+              "notes": "Premier membership organization for corporate board directors. Establishes standards for board oversight, fiduciary duty, governance best practices, conflicts of interest, and corporate stewardship."
+            },
+            {
+              "organization": "Institute of Management Consultants USA (IMC USA)",
+              "document_title": "Code of Ethics (as applied to holding company management consulting)",
+              "url": "https://www.imcusa.org/about/ethics/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Cross-listed from NAICS 541. Applies to management consultants advising holding companies and enterprise management. Covers objectivity, fee transparency, confidentiality."
+            },
+            {
+              "organization": "Ethics & Compliance Initiative (ECI)",
+              "document_title": "Model Code of Conduct Framework",
+              "url": "https://www.ethics.org/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2021",
+              "notes": "Leading provider of organizational ethics research and best practices. Provides frameworks and benchmarking for corporate codes of conduct. Not a membership code per se but widely adopted as industry standard for holding companies."
+            },
+            {
+              "organization": "Society of Corporate Secretaries and Governance Professionals",
+              "document_title": "Code of Ethics",
+              "url": "https://www.societycorpgov.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Professional association for corporate secretaries and governance professionals who support board-level decision-making. Ethics standards cover fiduciary duty, confidentiality, regulatory compliance, and stakeholder management."
+            },
+            {
+              "organization": "CFA Institute (as applied to corporate treasury/investment management)",
+              "document_title": "Code of Ethics and Standards of Professional Conduct",
+              "url": "https://www.cfainstitute.org/standards/professionals/code-ethics-standards",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2024",
+              "notes": "Cross-listed from NAICS 541. Applies to investment professionals within holding companies managing subsidiary portfolios. 22 rules under 7 Standards."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector_code": "56",
+      "sector_name": "Administrative and Support and Waste Management and Remediation Services",
+      "subsectors": [
+        {
+          "code": "561",
+          "name": "Administrative and Support Services",
+          "total_codes_found": 9,
+          "codes": [
+            {
+              "organization": "ASIS International",
+              "document_title": "Code of Ethics",
+              "url": "https://www.asisonline.org/security-news/code-of-ethics-and-code-of-conduct/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2023",
+              "notes": "Revised 2023 by global volunteer representatives. Six articles: lawful/ethical conduct, truthfulness/honesty/integrity, faithfulness/diligence, competence, confidentiality, no malicious injury to colleagues. Also adopted a separate Code of Conduct."
+            },
+            {
+              "organization": "ASIS International",
+              "document_title": "Code of Conduct",
+              "url": "https://www.asisonline.org/security-news/code-of-ethics-and-code-of-conduct/code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "2023",
+              "notes": "Companion to the Code of Ethics. Added by recommendation of global volunteer task force and approved by Global Board in 2023. More specific behavioral expectations."
+            },
+            {
+              "organization": "ASIS International",
+              "document_title": "Certification Code of Professional Responsibility",
+              "url": "https://www.asisonline.org/certification/professional-code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "2020",
+              "notes": "Specific to ASIS certification holders (CPP, PCI, PSP). Additional professional conduct requirements beyond general membership Code of Ethics."
+            },
+            {
+              "organization": "American Staffing Association (ASA)",
+              "document_title": "Code of Ethics and Good Practices",
+              "url": "https://americanstaffing.net/asa/asa-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Condition of ASA membership. Covers compliance with laws, ethical business operations, employer obligations (Social Security, unemployment insurance, workers comp), safe worksite assignments, employee protections. Separate codes for day labor and search/placement."
+            },
+            {
+              "organization": "American Staffing Association (ASA)",
+              "document_title": "Search and Placement Code of Ethics and Good Practices",
+              "url": "https://americanstaffing.net/asa/asa-code-of-ethics/search-and-placement-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Specialized code for executive search and permanent placement services within the staffing industry."
+            },
+            {
+              "organization": "American Staffing Association (ASA)",
+              "document_title": "Code of Ethics and Good Practices for Day Labor Services",
+              "url": "https://americanstaffing.net/asa/asa-code-of-ethics/code-of-ethics-day-labor/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Specialized code for day labor and construction labor staffing services."
+            },
+            {
+              "organization": "International Association of Administrative Professionals (IAAP)",
+              "document_title": "Code of Conduct",
+              "url": "https://www.iaap-hq.org/page/codeconduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "2017",
+              "notes": "Core values: integrity, encouragement, leadership, loyalty, professionalism, relevance, pride, connection, individual importance. For administrative professionals globally."
+            },
+            {
+              "organization": "International Association of Professional Security Consultants (IAPSC)",
+              "document_title": "Certified Security Consultant Code of Ethics",
+              "url": "https://iapsc.org/about/certification/certified-security-consultant-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2016",
+              "notes": "Voluntary self-discipline above legal requirements. Specific provisions: confidentiality of client information, no advantage from inside information, no misrepresentation of qualifications, no contingent fees, neutrality in testimony."
+            },
+            {
+              "organization": "American Society of Travel Advisors (ASTA)",
+              "document_title": "Code of Ethics (Integrity in Travel)",
+              "url": "https://asta.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "12-point code standing for Integrity in Travel. Members must conduct business per the code. Duty to disclose material information affecting travel decisions. ASTA logo = symbol of professionalism and integrity. World's leading association of travel professionals."
+            }
+          ]
+        },
+        {
+          "code": "562",
+          "name": "Waste Management and Remediation Services",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "Solid Waste Association of North America (SWANA)",
+              "document_title": "Code of Ethics",
+              "url": "https://swana.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2015",
+              "notes": "Required for SWANA professional certification. Must be signed before certification application can proceed. 15,000+ members in solid waste management. Specific document available through certification materials."
+            },
+            {
+              "organization": "National Onsite Wastewater Recycling Association (NOWRA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.nowra.org/about/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "For onsite wastewater recycling industry. Four pillars: legal compliance (local/state/national), honest/lawful competition, industry integrity over individual interests, faithful/honest representation with integrity and professionalism."
+            },
+            {
+              "organization": "Air & Waste Management Association (A&WMA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.awma.org/Files/code_of_ethics-pdf_525dd8a7cc0b78-80607863.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2008",
+              "notes": "Cross-listed from NAICS 541. Part of Policy Manual Section 8.7. For environmental professionals in air quality and waste management. Ethics Committee provides training, papers, articles, and workshops."
+            },
+            {
+              "organization": "ISSA (The Worldwide Cleaning Industry Association)",
+              "document_title": "Member Code of Ethics",
+              "url": "https://www.issa.com/member-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2005",
+              "notes": "11,000+ members. Four beliefs: public health/sanitation paramount, only high-quality merchandise/services, educate public on cleaning/sanitation, support scientific research. Violations subject to disciplinary provisions under Article III of ISSA Bylaws. Founded 1950."
+            },
+            {
+              "organization": "Professional Background Screening Association (PBSA, formerly NAPBS)",
+              "document_title": "Code of Conduct",
+              "url": "https://www.thepbsa.org/about-us/about-pbsa/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "2019",
+              "notes": "Formerly National Association of Professional Background Screeners. Members discharge duties competently per applicable laws, adhere to moral/ethical standards, prevent improper disclosure. Ethics and Accreditation committee establishes technology and security standards."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "agent_id": "N8",
+  "researched_at": "2026-03-21"
+}

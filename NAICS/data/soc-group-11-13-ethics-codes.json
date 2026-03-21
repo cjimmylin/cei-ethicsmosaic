@@ -1,0 +1,760 @@
+{
+  "track": "SOC",
+  "major_groups": [
+    {
+      "group_code": "11-0000",
+      "group_name": "Management Occupations",
+      "minor_groups": [
+        {
+          "code": "11-1000",
+          "name": "Top Executives",
+          "total_codes_found": 8,
+          "codes": [
+            {
+              "organization": "Institute of Directors (IoD)",
+              "document_title": "IoD Code of Conduct for Directors",
+              "url": "https://www.iod.com/news/policy-and-governance/iod-code-of-conduct-for-directors/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK",
+              "year_published": "2024",
+              "onet_link": true,
+              "notes": "Voluntary code for all directors. Six principles: Leading by Example, Integrity, Transparency, Accountability, Fairness, Responsible Business. Developed by 16-member commission chaired by Lord McNicol."
+            },
+            {
+              "organization": "Chartered Management Institute (CMI)",
+              "document_title": "CMI Code of Conduct and Practice",
+              "url": "https://www.managers.org.uk/about-cmi/governance/policies/code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK",
+              "year_published": "2020",
+              "onet_link": true,
+              "notes": "Binding on all CMI members under Royal Charter. Covers competence, professionalism, honesty, integrity. Reviewed by Board of Trustees every 3 years. Members restate commitment annually."
+            },
+            {
+              "organization": "National Association of Corporate Directors (NACD)",
+              "document_title": "NACD Code of Ethics",
+              "url": "https://www.nacdonline.org/about/board-of-directors/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "onet_link": true,
+              "notes": "Guides directors, officers, employees, chapter leaders. Emphasizes honesty, integrity, transparency, accountability, responsible stewardship. Supported by Conflicts of Interest Policy and Whistleblower Protection Policy."
+            },
+            {
+              "organization": "Academy of Management (AOM)",
+              "document_title": "Academy of Management Code of Ethics",
+              "url": "https://www.aom.org/about-aom/ethics/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2006",
+              "onet_link": true,
+              "notes": "Covers research, teaching, practice, and service. Includes General Principles, Professional Principles, and enforceable Ethical Standards. Violations may lead to membership termination."
+            },
+            {
+              "organization": "American Management Association (AMA)",
+              "document_title": "AMA Code of Ethics and Conduct (Certified Professional in Management)",
+              "url": "https://www.amanet.org/assets/1/6/CPM_Candidate_Handbook_2020.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "onet_link": true,
+              "notes": "Required for AMA-CPM credential holders. Electronic signing required as part of certification. Non-compliance can result in credential revocation."
+            },
+            {
+              "organization": "U.S. Securities and Exchange Commission (SEC)",
+              "document_title": "Sarbanes-Oxley Act Section 406 — Code of Ethics for Senior Financial Officers",
+              "url": "https://www.sec.gov/rules-regulations/2003/03/disclosure-required-sections-406-407-sarbanes-oxley-act-2002",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "2003",
+              "onet_link": true,
+              "notes": "Mandatory disclosure requirement for public companies. Applies to principal executive officer, principal financial officer, controller. Requires codes promoting honest conduct, proper disclosure, legal compliance. Waivers must be disclosed on Form 8-K."
+            },
+            {
+              "organization": "Institute of Management Consultants USA (IMC USA)",
+              "document_title": "IMC USA Code of Ethics",
+              "url": "https://www.imcusa.org/about/ethics/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2005",
+              "onet_link": true,
+              "notes": "Required for all members and Certified Management Consultants (CMC). Covers objectivity, fees, third-party commissions, confidentiality. Members must report violations."
+            },
+            {
+              "organization": "International Council of Management Consulting Institutes (ICMCI)",
+              "document_title": "ICMCI Code of Professional Conduct",
+              "url": "https://cmc-gi.org/cmc-gi-code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "1989",
+              "onet_link": true,
+              "notes": "First international code of conduct for any profession (1989). Covers client confidentiality, unrealistic expectations, commissions, competency requirements. Renewed every 3 years with recertification."
+            }
+          ]
+        },
+        {
+          "code": "11-2000",
+          "name": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers",
+          "total_codes_found": 8,
+          "codes": [
+            {
+              "organization": "American Marketing Association (AMA)",
+              "document_title": "AMA Statement of Ethics",
+              "url": "https://www.ama.org/ama-statement-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2022",
+              "onet_link": true,
+              "notes": "Core values: honesty, responsibility, equity, transparency, citizenship. Aspirational norms: do no harm, foster trust, embrace ethical values. Supported by AMA Code of Conduct with enforcement procedures."
+            },
+            {
+              "organization": "Public Relations Society of America (PRSA)",
+              "document_title": "PRSA Code of Ethics",
+              "url": "https://www.prsa.org/professional-development/prsa-resources/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2000",
+              "onet_link": true,
+              "notes": "Six core values: advocacy, honesty, expertise, independence, loyalty, fairness. Six code provisions covering honest communication, fair competition, confidentiality, conflicts of interest. Professional obligation for all members."
+            },
+            {
+              "organization": "International Public Relations Association (IPRA)",
+              "document_title": "IPRA Code of Conduct",
+              "url": "https://www.ipra.org/member-services/code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "2011",
+              "onet_link": true,
+              "notes": "Consolidates 1961 Code of Venice, 1965 Code of Athens, 2007 Code of Brussels. 18 articles grounded in UN Declaration of Human Rights. Reviewed 2020, no changes needed. AI-specific PR guidelines added."
+            },
+            {
+              "organization": "American Advertising Federation (AAF)",
+              "document_title": "Advertising Principles of American Business",
+              "url": "https://www.aaf.org/common/Uploaded%20files/Club%20Resources/CLB_Resources_Advertising_Principles.pdf",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2011",
+              "onet_link": true,
+              "notes": "Emphasizes truthfulness, substantiation, fair competition, transparency in endorsements, privacy, and non-discrimination. Distinguishes advertising from editorial content. Voluntary but widely recognized."
+            },
+            {
+              "organization": "Chartered Institute of Marketing (CIM)",
+              "document_title": "CIM Code of Professional Conduct",
+              "url": "https://www.cim.co.uk/membership/cim-standards/code-of-professional-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK",
+              "year_published": "2025",
+              "onet_link": true,
+              "notes": "Updated January 2025. Condition of membership. Covers ethical conduct, authenticity, transparency, regulatory compliance. Royal Charter since 1989. First Code of Practice introduced 1973."
+            },
+            {
+              "organization": "Sales & Marketing Executives International (SMEI)",
+              "document_title": "SMEI Sales Code of Ethics",
+              "url": "https://smei.org/mission/salescode/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2015",
+              "onet_link": true,
+              "notes": "International code for all SMEI certified professionals (CSE, CME, SCPM, SCPS). Founded 1935. Emphasizes consumer sovereignty, mutual benefit in transactions, highest professional standards."
+            },
+            {
+              "organization": "Sales & Marketing Executives International (SMEI)",
+              "document_title": "SMEI Marketing Code of Ethics",
+              "url": "https://smei.org/mission/marketing_code_of_ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2015",
+              "onet_link": true,
+              "notes": "Companion to the Sales Code. Covers marketing-specific ethical standards for marketing executives. Required for Certified Marketing Executive (CME) and Certified Professional Marketer designations."
+            },
+            {
+              "organization": "Association for Talent Development (ATD)",
+              "document_title": "ATD Code of Ethics",
+              "url": "https://www.td.org/about/vision-mission-code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2014",
+              "onet_link": false,
+              "notes": "For talent development professionals including training managers. Emphasizes rights and dignity, quality education, copyright compliance, confidentiality. Public declaration of obligations to profession and society."
+            }
+          ]
+        },
+        {
+          "code": "11-3000",
+          "name": "Operations Specialties Managers",
+          "total_codes_found": 15,
+          "codes": [
+            {
+              "organization": "Society for Human Resource Management (SHRM)",
+              "document_title": "SHRM Code of Ethics",
+              "url": "https://www.shrm.org/legal/bylaws-and-code-of-ethics/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2014",
+              "onet_link": true,
+              "notes": "Originally developed 1972 for HR professionals. Core principles: professional responsibility, ethical leadership, fairness and justice, conflicts of interest, use of information. The premier HR professional body in the US."
+            },
+            {
+              "organization": "Chartered Institute of Personnel and Development (CIPD)",
+              "document_title": "CIPD Code of Conduct and Ethics",
+              "url": "https://www.cipd.org/en/membership/professional-standards/code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK/International",
+              "year_published": "2023",
+              "onet_link": true,
+              "notes": "Effective 1 January 2023, replacing 2012 code. Royal Charter demands compliance regardless of grade/role. Core values: positive impact on working lives, civic virtue, stewardship, good character, professional competence."
+            },
+            {
+              "organization": "Project Management Institute (PMI)",
+              "document_title": "PMI Code of Ethics and Professional Conduct",
+              "url": "https://www.pmi.org/about/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2025",
+              "onet_link": true,
+              "notes": "Updated effective 17 November 2025. Core values: honesty, responsibility, respect, fairness. Includes aspirational and mandatory standards. Applies to all PMI members, volunteers, certification holders. Ethics Review Committee enforces."
+            },
+            {
+              "organization": "Institute for Supply Management (ISM)",
+              "document_title": "Principles and Standards of Ethical Supply Management Conduct",
+              "url": "https://www.ismworld.org/globalassets/pub/docs/210_ethics_book.pdf",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US/International",
+              "year_published": "2012",
+              "onet_link": true,
+              "notes": "Three foundational principles: integrity, value, loyalty. Standards cover perceived impropriety, conflict of interest, undue influence, employer responsibilities, supplier relationships, confidentiality, reciprocity, legal compliance, professional competence."
+            },
+            {
+              "organization": "Chartered Institute of Procurement and Supply (CIPS)",
+              "document_title": "CIPS Code of Conduct",
+              "url": "https://www.cips.org/about-us/cips-code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK/International",
+              "year_published": "2020",
+              "onet_link": true,
+              "notes": "Binding under Royal Charter. Prohibits gifts/gratuities from suppliers. Duty to eradicate unethical practices from supply chain (human rights abuses, fraud, corruption). CIPS Ethical Procurement Certificate required for Chartered Status."
+            },
+            {
+              "organization": "Association for Supply Chain Management (ASCM/APICS)",
+              "document_title": "ASCM Code of Ethics",
+              "url": "https://www.ascm.org/learning-development/certifications-credentials/purchase-exam/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2018",
+              "onet_link": true,
+              "notes": "Applies to CSCP, CPIM, CLTD certification holders. Prohibits misrepresentation of qualifications. Non-compliance may result in decertification. Also developed SCOR-E framework covering ethical, economic, ecological dimensions."
+            },
+            {
+              "organization": "International Facility Management Association (IFMA)",
+              "document_title": "IFMA Code of Ethics",
+              "url": "https://www.ifma.org/about/governance/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2015",
+              "onet_link": true,
+              "notes": "Covers confidentiality, professional standards, fair dealing, conflict of interest, accountability. All members expected to comply. Board of Directors approves enforcement procedures."
+            },
+            {
+              "organization": "ISACA",
+              "document_title": "ISACA Code of Professional Ethics",
+              "url": "https://www.isaca.org/code-of-professional-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2020",
+              "onet_link": true,
+              "notes": "For IT governance, audit, control, security, risk management professionals. Applies to CISA, CISM, CRISC, CGEIT holders. Covers standards support, professional performance, stakeholder service, confidentiality, professional education."
+            },
+            {
+              "organization": "Society of Corporate Compliance and Ethics (SCCE)",
+              "document_title": "Code of Professional Ethics for Compliance and Ethics Professionals",
+              "url": "https://www.corporatecompliance.org/publications/library/code-professional-ethics-compliance-and-ethics-professionals",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/International",
+              "year_published": "2007",
+              "onet_link": true,
+              "notes": "Adopted 2007. Covers overarching principles and rules of conduct. Not legally binding but self-disciplinary mark of commitment. Applies to all compliance and ethics professionals (CEPs)."
+            },
+            {
+              "organization": "International Compliance Association (ICA)",
+              "document_title": "ICA Code of Conduct",
+              "url": "https://www.int-comp.org/about-ica/ica-code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "2018",
+              "onet_link": true,
+              "notes": "For regulatory and financial crime compliance professionals globally. 160,000+ professionals trained since 2001. Requires 35 hours CPD annually. Breaches trigger investigation and disciplinary hearing."
+            },
+            {
+              "organization": "Chartered Institute of Logistics and Transport (CILT)",
+              "document_title": "CILT Code of Professional Conduct",
+              "url": "https://ciltuk.org.uk/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK/International",
+              "year_published": "2019",
+              "onet_link": true,
+              "notes": "Founded 1919. Chartered body for logistics, transport, supply chain, operations management. Professional conduct code for MILT, CMILT, FCILT members. Promotes ethical standards in logistics and supply chain."
+            },
+            {
+              "organization": "National Contract Management Association (NCMA)",
+              "document_title": "NCMA Code of Ethics",
+              "url": "https://ncmahq.org/Web/Web/About/Leadership/Code-of-Ethics.aspx",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "onet_link": true,
+              "notes": "Establishes public trust in contract management process. Core principles: integrity and accountability, professional development, truthfulness, respect and diversity. Violations subject to disciplinary action including revocation of certification."
+            },
+            {
+              "organization": "American Purchasing Society",
+              "document_title": "APS Code of Professional Ethics and Professional Conduct",
+              "url": "https://www.american-purchasing.com/uploads/files/APS%20Professional%20Standards.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2015",
+              "onet_link": true,
+              "notes": "Required for CPP and CPPM certification. Covers employer loyalty, legal compliance, sound business principles, professional development. Adherence ensures public confidence in purchasing profession."
+            },
+            {
+              "organization": "NIGP: The Institute for Public Procurement",
+              "document_title": "NIGP Code of Ethics",
+              "url": "https://www.nigp.org/about-nigp/code-of-ethics-nigp",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2009",
+              "onet_link": true,
+              "notes": "Condition of membership. Covers public sector procurement specifically. Prohibits gifts/gratuities from suppliers. Emphasizes merit-based personnel decisions, confidential information protection, supplier relationships."
+            },
+            {
+              "organization": "Association of Insurance Compliance Professionals (AICP)",
+              "document_title": "AICP Code of Professional Conduct",
+              "url": "https://aicp.net/code-of-professional-conduct%E2%80%8B/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2012",
+              "onet_link": true,
+              "notes": "Applies to all AICP members. Comply with letter and spirit of insurance regulation laws. Abstain from conflicts of interest. Strive to improve regulatory compliance system. Includes Ethics 101 training course."
+            }
+          ]
+        },
+        {
+          "code": "11-9000",
+          "name": "Other Management Occupations",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "Royal Institution of Chartered Surveyors (RICS)",
+              "document_title": "RICS Rules of Conduct",
+              "url": "https://www.rics.org/content/dam/ricsglobal/documents/standards/2021_roc_en.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "2021",
+              "onet_link": true,
+              "notes": "Global professional body for property/real estate management. Rules cover honest/fair/transparent conduct, due skill and care, clear terms, conflicts of interest, fair communication. Applies to all members and regulated firms."
+            },
+            {
+              "organization": "International Association of Privacy Professionals (IAPP)",
+              "document_title": "IAPP Code of Ethics",
+              "url": "https://iapp.org/certify/cipp",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2015",
+              "onet_link": true,
+              "notes": "Required for CIPP/CIPM/CIPT certification holders. Underpins professional conduct for privacy officers. The privacy profession has ongoing debate about whether a more comprehensive standalone code is needed."
+            },
+            {
+              "organization": "Healthcare Financial Management Association (HFMA)",
+              "document_title": "HFMA Code of Ethics",
+              "url": "https://www.hfma.org/about-hfma/bylaws-and-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "onet_link": true,
+              "notes": "For healthcare financial management professionals. Covers honesty, personal integrity, avoidance of conflicts of interest, fair financial presentation, confidentiality. Includes healthcare-specific ethical considerations."
+            },
+            {
+              "organization": "WorldatWork",
+              "document_title": "WorldatWork Code of Professional Conduct",
+              "url": "https://worldatwork.org/certifications",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "2015",
+              "onet_link": true,
+              "notes": "Required for CCP, CBP, GRP, WLCP certification holders. Total rewards, compensation, and benefits professionals. Adherence required for maintaining certification status."
+            },
+            {
+              "organization": "Association for Talent Development (ATD)",
+              "document_title": "ATD Code of Ethics",
+              "url": "https://www.td.org/about/vision-mission-code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2014",
+              "onet_link": true,
+              "notes": "For training and development managers. Emphasizes rights and dignity of individuals, highest quality education/training, copyright compliance, professional development, confidentiality."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_code": "13-0000",
+      "group_name": "Business and Financial Operations Occupations",
+      "minor_groups": [
+        {
+          "code": "13-1000",
+          "name": "Business Operations Specialists",
+          "total_codes_found": 11,
+          "codes": [
+            {
+              "organization": "Society for Human Resource Management (SHRM)",
+              "document_title": "SHRM Code of Ethics",
+              "url": "https://www.shrm.org/legal/bylaws-and-code-of-ethics/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2014",
+              "onet_link": true,
+              "notes": "For HR specialists (13-1071). Originally 1972. Professional responsibility, ethical leadership, fairness and justice, conflicts of interest, information use. SHRM-CP and SHRM-SCP certification linked."
+            },
+            {
+              "organization": "Chartered Institute of Personnel and Development (CIPD)",
+              "document_title": "CIPD Code of Conduct and Ethics",
+              "url": "https://www.cipd.org/en/membership/professional-standards/code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK/International",
+              "year_published": "2023",
+              "onet_link": true,
+              "notes": "For HR specialists internationally. Royal Charter body. 2023 revision for modern working environment. Core values include positive impact on working lives, civic virtue, personal responsibility."
+            },
+            {
+              "organization": "Project Management Institute (PMI)",
+              "document_title": "PMI Code of Ethics and Professional Conduct",
+              "url": "https://www.pmi.org/-/media/pmi/documents/public/pdf/ethics/pmi-code-of-ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2025",
+              "onet_link": true,
+              "notes": "For management analysts using project management (13-1111). Four core values with aspirational and mandatory standards. PMP certification holders must comply."
+            },
+            {
+              "organization": "Institute of Management Consultants USA (IMC USA)",
+              "document_title": "IMC USA Code of Ethics",
+              "url": "https://www.imcusa.org/about/ethics/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2005",
+              "onet_link": true,
+              "notes": "For management analysts/consultants (13-1111). Condition of CMC certification. Covers objectivity, employee recruitment restrictions, fee transparency, third-party commissions, whistleblowing duty."
+            },
+            {
+              "organization": "International Council of Management Consulting Institutes (ICMCI)",
+              "document_title": "ICMCI Code of Professional Conduct",
+              "url": "https://cmc-gi.org/cmc-gi-code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "1989",
+              "onet_link": true,
+              "notes": "International standard for management consultants. First international professional code of conduct (1989). Covers legal, social, ecological aspects. Renewed with re-certification every 3 years."
+            },
+            {
+              "organization": "Society of Corporate Compliance and Ethics (SCCE)",
+              "document_title": "Code of Professional Ethics for Compliance and Ethics Professionals",
+              "url": "https://assets.corporatecompliance.org/Portals/1/PDF/Resources/SCCECodeOfEthics_English.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/International",
+              "year_published": "2007",
+              "onet_link": true,
+              "notes": "For compliance officers (13-1041). Overarching principles plus specific rules of conduct. Self-disciplinary commitment. Applies to CCEP certification holders."
+            },
+            {
+              "organization": "International Compliance Association (ICA)",
+              "document_title": "ICA Code of Conduct",
+              "url": "https://www.int-comp.org/about-ica/ica-code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "2018",
+              "onet_link": true,
+              "notes": "International compliance professionals. Embodies principles of compliance/regulation upheld internationally. 35 hours CPD annually for Professional and Fellow members. Infringements trigger investigation."
+            },
+            {
+              "organization": "Association for Financial Counseling and Planning Education (AFCPE)",
+              "document_title": "AFCPE Code of Ethics",
+              "url": "https://www.afcpe.org/certification/professional-standards/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "onet_link": true,
+              "notes": "For Accredited Financial Counselors (AFC). Annual signing required. Covers credibility, competency, honesty, integrity, limitations awareness. Violations may lead to suspension or revocation of certification."
+            },
+            {
+              "organization": "National Association of Credit Management (NACM)",
+              "document_title": "NACM Code of Ethics",
+              "url": "https://nacm.org/ethics-a-standards.html",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1896",
+              "onet_link": true,
+              "notes": "Founded 1896 specifically to establish a code of ethics for credit professionals. Covers integrity, trust, fairness, confidentiality of credit information, lawful conduct. Required for NACM certified professionals."
+            },
+            {
+              "organization": "Association for Talent Development (ATD)",
+              "document_title": "ATD Code of Ethics",
+              "url": "https://www.td.org/about/vision-mission-code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2014",
+              "onet_link": true,
+              "notes": "For training and development specialists (13-1151). Professional obligations to self, profession, and society. Covers rights/dignity, quality standards, copyright, continuing education, confidentiality."
+            },
+            {
+              "organization": "National Contract Management Association (NCMA)",
+              "document_title": "NCMA Code of Ethics",
+              "url": "https://ncmahq.org/Web/Web/About/Leadership/Code-of-Ethics.aspx",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "onet_link": true,
+              "notes": "For contract specialists and buyers. Creates public trust in contract management process. Integrity, accountability, professional development, truthfulness, respect and diversity. Violations may result in revocation of membership/certification."
+            }
+          ]
+        },
+        {
+          "code": "13-2000",
+          "name": "Financial Specialists",
+          "total_codes_found": 20,
+          "codes": [
+            {
+              "organization": "CFA Institute",
+              "document_title": "Code of Ethics and Standards of Professional Conduct",
+              "url": "https://www.cfainstitute.org/standards/professionals/code-ethics-standards",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2014",
+              "onet_link": true,
+              "notes": "Global benchmark for investment professionals since 1960s. Seven standards: professionalism, capital markets integrity, client duties, employer duties, investment analysis, conflicts, CFA responsibilities. Sanctions include designation revocation."
+            },
+            {
+              "organization": "American Institute of Certified Public Accountants (AICPA)",
+              "document_title": "AICPA Code of Professional Conduct",
+              "url": "https://www.aicpa-cima.com/topic/ethics/code-of-professional-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2014",
+              "onet_link": true,
+              "notes": "Codified version effective December 15, 2014. Three parts: public accounting, business/industry, other members. Covers independence, integrity, objectivity, client confidentiality, conflicts. Used as basis for all state CPA regulations."
+            },
+            {
+              "organization": "International Ethics Standards Board for Accountants (IESBA/IFAC)",
+              "document_title": "International Code of Ethics for Professional Accountants",
+              "url": "https://www.ethicsboard.org/iesba-code",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2025",
+              "onet_link": true,
+              "notes": "2025 Handbook edition. Global standard adopted by IFAC member bodies worldwide. Five fundamental principles: integrity, objectivity, professional competence/due care, confidentiality, professional behaviour. Conceptual framework approach for threat evaluation."
+            },
+            {
+              "organization": "Institute of Management Accountants (IMA)",
+              "document_title": "IMA Statement of Ethical Professional Practice",
+              "url": "https://www.imanet.org/career-resources/ethics-center/statement",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "International",
+              "year_published": "2017",
+              "onet_link": true,
+              "notes": "Central code for management accountants. Updated 2017 from 2005 version. Overarching principles: Honesty, Fairness, Objectivity, Responsibility. Four standards: Competence, Confidentiality, Integrity, Credibility. Anonymous helpline available."
+            },
+            {
+              "organization": "Chartered Institute of Management Accountants (CIMA)",
+              "document_title": "CIMA Code of Ethics for Professional Accountants",
+              "url": "https://www.aicpa-cima.com/resources/download/cima-code-of-ethics-for-professional-accountants-issued-january-2020",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2020",
+              "onet_link": true,
+              "notes": "Issued January 2020. Based on IESBA Code (Parts 1-3) with Part 2 co-developed with AICPA. Applies to all CIMA members and CGMA holders worldwide. Duty to observe highest standards of conduct and integrity."
+            },
+            {
+              "organization": "Institute of Chartered Accountants in England and Wales (ICAEW)",
+              "document_title": "ICAEW Code of Ethics",
+              "url": "https://www.icaew.com/technical/trust-and-ethics/ethics/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "UK/International",
+              "year_published": "2025",
+              "onet_link": true,
+              "notes": "Latest version effective 1 July 2025. Five fundamental principles: integrity, objectivity, professional competence/due care, confidentiality, professional behaviour. Covers public practice, business, audit independence, insolvency."
+            },
+            {
+              "organization": "Institute of Internal Auditors (IIA)",
+              "document_title": "Global Internal Audit Standards — Domain II: Ethics and Professionalism",
+              "url": "https://www.theiia.org/en/standards/what-are-the-standards/mandatory-guidance/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2024",
+              "onet_link": true,
+              "notes": "Former standalone Code of Ethics now integrated as Domain II of Global Internal Audit Standards (2024). Covers integrity, objectivity, confidentiality, competency. Applies to IIA members, certification holders, and all performing internal audit."
+            },
+            {
+              "organization": "Chartered Institute of Internal Auditors (Chartered IIA)",
+              "document_title": "Internal Audit Code of Practice",
+              "url": "https://charterediia.org/about-us/our-standards/code-of-professional-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK/Ireland",
+              "year_published": "2024",
+              "onet_link": true,
+              "notes": "UK/Ireland counterpart to IIA global standards. Principles-based, applied proportionately. Updated September 2024, effective January 2025. Based on IPPF and Global Internal Audit Standards. Non-adherence triggers disciplinary procedures."
+            },
+            {
+              "organization": "Association of Certified Fraud Examiners (ACFE)",
+              "document_title": "CFE Code of Professional Standards",
+              "url": "https://www.acfe.com/about-the-acfe/-/media/E805D87A1E144558BF27A7F4B0B8317B.ashx",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "International",
+              "year_published": "2020",
+              "onet_link": true,
+              "notes": "All ACFE members must abide. Covers integrity, due professional care, critical analysis, professional skepticism. Fraud examinations must be legal, professional, thorough. Includes client communication standards at engagement start."
+            },
+            {
+              "organization": "CFP Board",
+              "document_title": "Code of Ethics and Standards of Conduct",
+              "url": "https://www.cfp.net/ethics/code-of-ethics-and-standards-of-conduct",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "onet_link": true,
+              "notes": "Effective October 1, 2019. Fiduciary duty is cornerstone. Principles: integrity, objectivity, competence, fairness, confidentiality. CFP Board monitors compliance and publishes disciplinary information."
+            },
+            {
+              "organization": "Financial Planning Association (FPA)",
+              "document_title": "FPA Code of Ethics",
+              "url": "https://static.fmgsuite.com/media/documents/716f7364-45bd-4ba7-bcf1-71855e7abb3e.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2015",
+              "onet_link": true,
+              "notes": "Responsibilities to public, clients, colleagues, employers. Core values: integrity, objectivity, competence, diligence. Members must not subordinate candor to personal gain."
+            },
+            {
+              "organization": "National Association of Personal Financial Advisors (NAPFA)",
+              "document_title": "NAPFA Fiduciary Oath and Code of Ethics",
+              "url": "https://www.napfa.org/mission-and-fiduciary-oath",
+              "document_type": "oath_or_pledge",
+              "geographic_scope": "US",
+              "year_published": "2015",
+              "onet_link": true,
+              "notes": "Fee-only fiduciary standard since 1983. Fiduciary oath: clients' interests first at all times. Code requires objectivity, confidentiality, competence, fairness, integrity, full disclosure, professionalism."
+            },
+            {
+              "organization": "Global Association of Risk Professionals (GARP)",
+              "document_title": "GARP Code of Conduct",
+              "url": "https://www.garp.org/code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "2020",
+              "onet_link": true,
+              "notes": "For FRM and ERP certification holders, Board, Regional Directors, staff. Covers professional integrity, personal accountability, best practice standards, honesty, confidentiality, objectivity. Cultural sensitivity provision. Violations may result in permanent FRM removal."
+            },
+            {
+              "organization": "Chartered Alternative Investment Analyst Association (CAIA)",
+              "document_title": "CAIA Code of Ethics",
+              "url": "https://caia.org/content/caiaa-member-agreement",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2021",
+              "onet_link": true,
+              "notes": "For alternative investment professionals. Covers professionalism, integrity, competence, confidentiality. Periodic reaffirmation required. Ethics integrated into Level I and Level II curriculum."
+            },
+            {
+              "organization": "Society of Actuaries (SOA) / American Academy of Actuaries",
+              "document_title": "Code of Professional Conduct (Joint Actuarial Code)",
+              "url": "https://www.soa.org/about/governance/about-code-of-professional-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2001",
+              "onet_link": true,
+              "notes": "Jointly adopted by all five US actuarial organizations (SOA, CAS, Academy, ASEA, CCA). Effective January 1, 2001. Precepts cover honesty, competence, qualifications, public responsibility. Material violations subject to counseling and discipline."
+            },
+            {
+              "organization": "Institute and Faculty of Actuaries (IFoA)",
+              "document_title": "The Actuaries' Code",
+              "url": "https://actuaries.org.uk/the-actuaries-code/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK",
+              "year_published": "2025",
+              "onet_link": true,
+              "notes": "Revised version effective 25 September 2025. Six principles: Integrity, Competence and care, Impartiality, Compliance, Speaking up, Communication. Applies at all times in actuarial roles. Non-compliance triggers disciplinary proceedings."
+            },
+            {
+              "organization": "Association for Financial Professionals (AFP)",
+              "document_title": "AFP Standards of Ethical Conduct",
+              "url": "https://ctpcert.financialprofessionals.org/before-you-apply/ethical-conduct",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "onet_link": true,
+              "notes": "For Certified Treasury Professional (CTP) and FP&A credential holders. Covers competence, professional duty, confidentiality, overall conduct. CTPs subject to credential revocation for violations."
+            },
+            {
+              "organization": "Association of Government Accountants (AGA)",
+              "document_title": "AGA Code of Ethics",
+              "url": "https://www.agacgfm.org/about/ethics/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "onet_link": true,
+              "notes": "For CGFM certification holders. Four principles: Accountability, Integrity and Professionalism, Objectivity, Confidentiality and Responsibility. Applies to all members and non-member CGFMs."
+            },
+            {
+              "organization": "National Association of Enrolled Agents (NAEA)",
+              "document_title": "NAEA Code of Ethics and Rules of Professional Conduct",
+              "url": "https://www.naea.org/what-is-an-enrolled-agent/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2015",
+              "onet_link": true,
+              "notes": "For Enrolled Agents (tax representation before IRS). Layered with Treasury Circular 230. CPE requirements exceed IRS minimums. Honest, intelligent, ethical representation of taxpayer financial positions."
+            },
+            {
+              "organization": "National Association of Tax Professionals (NATP)",
+              "document_title": "NATP Standards of Professional Conduct",
+              "url": "https://www.natptax.com/governance/standards-of-professional-conduct/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "onet_link": true,
+              "notes": "Threefold responsibility: to clients, to self, to government. Members must protect client interests, maintain professional reputation, comply with tax laws. Membership includes Ethics course and business practice webinars."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_codes_found": 67,
+    "total_organizations": 52,
+    "geographic_coverage": {
+      "US": 29,
+      "UK": 9,
+      "International": 24,
+      "UK_Ireland": 1,
+      "UK_International": 4
+    },
+    "document_types": {
+      "code_of_ethics": 33,
+      "code_of_conduct": 17,
+      "standards_of_practice": 7,
+      "ethics_guidelines": 1,
+      "regulatory_code": 1,
+      "oath_or_pledge": 1
+    },
+    "key_findings": [
+      "SOC 13-2000 Financial Specialists has the densest ethics code coverage with 20 codes from international bodies",
+      "SOC 11-3000 Operations Specialties Managers spans the widest range of sub-professions (HR, IT, procurement, compliance, logistics)",
+      "Sarbanes-Oxley Section 406 is the only mandatory regulatory code; all others are voluntary professional standards",
+      "Several codes have international and national counterparts (IESBA/AICPA, IIA/Chartered IIA, ISM/CIPS, SHRM/CIPD)",
+      "Most codes require periodic reaffirmation or renewal with continuing education",
+      "ICMCI Code of Professional Conduct (1989) claims distinction as the first international code for any profession",
+      "Strong fiduciary emphasis in financial planning codes (CFP Board, NAPFA)",
+      "UK Royal Charter bodies (CMI, CIPD, CIPS, CIM) have binding codes under their charters"
+    ]
+  },
+  "agent_id": "S1",
+  "researched_at": "2026-03-21"
+}

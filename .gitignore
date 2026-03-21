@@ -1,0 +1,17 @@
+# Downloaded documents (external storage — too large for git)
+NAICS/DOCUMENTS/
+ISIC/DOCUMENTS/
+
+# Recycle bin
+NAICS/RECYCLE-BIN/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Empty source directories (placeholder structure)
+sources/
+synthesis/

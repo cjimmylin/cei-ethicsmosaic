@@ -1,0 +1,63 @@
+{
+  "phase": "websearch",
+  "agent": "WS4_GovMil",
+  "total": 5,
+  "success": 5,
+  "results": [
+    {
+      "index": 489,
+      "filename_stem": "NDAA-National-Prosecution-Standards-Chapter-1-Ethics",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/NDAA-National-Prosecution-Standards-Chapter-1-Ethics.pdf",
+      "bytes": 616112,
+      "found_url": "https://www.in.gov/ipac/files/NDAA-NPS-3rd-Ed.-w-Revised-Commentary.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 504,
+      "filename_stem": "DoD-Joint-Ethics-Regulation-JER",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/DoD-Joint-Ethics-Regulation-JER.pdf",
+      "bytes": 5272356,
+      "found_url": "https://apps.dtic.mil/sti/tr/pdf/ADA309860.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 507,
+      "filename_stem": "IC-Principles-of-Professional-Ethics-for-the-Intelligence-Community",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/IC-Principles-of-Professional-Ethics-for-the-Intelligence-Community.pdf",
+      "bytes": 60792,
+      "found_url": "https://cryptome.wikileaks.org/2014/09/dni-spy-ethics-14-0918.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 785,
+      "filename_stem": "USAF-Air-Force-Core-Values-AFI-1-1",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/USAF-Air-Force-Core-Values-AFI-1-1.pdf",
+      "bytes": 295428,
+      "found_url": "https://cdn.factcheck.org/UploadedFiles/AFI-1-1.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 791,
+      "filename_stem": "USDD-DoD-Law-of-War-Manual",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/USDD-DoD-Law-of-War-Manual.pdf",
+      "bytes": 81517904,
+      "found_url": "https://archive.org/download/dod-law-of-war-manual-june-2015-updated-july-2023/DOD-LAW-OF-WAR-MANUAL-JUNE-2015-UPDATED-JULY%202023.pdf",
+      "recovery_error": null
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "source": "BLS Standard Occupational Classification (SOC) 2018",
+  "total_major_groups": 23,
+  "major_groups": [
+    {
+      "code": "11-0000",
+      "name": "Management Occupations",
+      "minor_groups": [
+        {"code": "11-1000", "name": "Top Executives"},
+        {"code": "11-2000", "name": "Advertising, Marketing, Promotions, Public Relations, and Sales Managers"},
+        {"code": "11-3000", "name": "Operations Specialties Managers"},
+        {"code": "11-9000", "name": "Other Management Occupations"}
+      ]
+    },
+    {
+      "code": "13-0000",
+      "name": "Business and Financial Operations Occupations",
+      "minor_groups": [
+        {"code": "13-1000", "name": "Business Operations Specialists"},
+        {"code": "13-2000", "name": "Financial Specialists"}
+      ]
+    },
+    {
+      "code": "15-0000",
+      "name": "Computer and Mathematical Occupations",
+      "minor_groups": [
+        {"code": "15-1200", "name": "Computer Occupations"},
+        {"code": "15-2000", "name": "Mathematical Science Occupations"}
+      ]
+    },
+    {
+      "code": "17-0000",
+      "name": "Architecture and Engineering Occupations",
+      "minor_groups": [
+        {"code": "17-1000", "name": "Architects, Surveyors, and Cartographers"},
+        {"code": "17-2000", "name": "Engineers"},
+        {"code": "17-3000", "name": "Drafters, Engineering Technicians, and Mapping Technicians"}
+      ]
+    },
+    {
+      "code": "19-0000",
+      "name": "Life, Physical, and Social Science Occupations",
+      "minor_groups": [
+        {"code": "19-1000", "name": "Life Scientists"},
+        {"code": "19-2000", "name": "Physical Scientists"},
+        {"code": "19-3000", "name": "Social Scientists and Related Workers"},
+        {"code": "19-4000", "name": "Life, Physical, and Social Science Technicians"},
+        {"code": "19-5000", "name": "Occupational Health and Safety Specialists and Technicians"}
+      ]
+    },
+    {
+      "code": "21-0000",
+      "name": "Community and Social Service Occupations",
+      "minor_groups": [
+        {"code": "21-1000", "name": "Counselors, Social Workers, and Other Community and Social Service Specialists"},
+        {"code": "21-2000", "name": "Religious Workers"}
+      ]
+    },
+    {
+      "code": "23-0000",
+      "name": "Legal Occupations",
+      "minor_groups": [
+        {"code": "23-1000", "name": "Lawyers, Judges, and Related Workers"},
+        {"code": "23-2000", "name": "Legal Support Workers"}
+      ]
+    },
+    {
+      "code": "25-0000",
+      "name": "Educational Instruction and Library Occupations",
+      "minor_groups": [
+        {"code": "25-1000", "name": "Postsecondary Teachers"},
+        {"code": "25-2000", "name": "Preschool, Elementary, Middle, Secondary, and Special Education Teachers"},
+        {"code": "25-3000", "name": "Other Teachers and Instructors"},
+        {"code": "25-4000", "name": "Librarians, Curators, and Archivists"},
+        {"code": "25-9000", "name": "Other Educational Instruction and Library Occupations"}
+      ]
+    },
+    {
+      "code": "27-0000",
+      "name": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "minor_groups": [
+        {"code": "27-1000", "name": "Art and Design Workers"},
+        {"code": "27-2000", "name": "Entertainers and Performers, Sports and Related Workers"},
+        {"code": "27-3000", "name": "Media and Communication Workers"},
+        {"code": "27-4000", "name": "Media and Communication Equipment Workers"}
+      ]
+    },
+    {
+      "code": "29-0000",
+      "name": "Healthcare Practitioners and Technical Occupations",
+      "minor_groups": [
+        {"code": "29-1000", "name": "Health Diagnosing and Treating Practitioners"},
+        {"code": "29-2000", "name": "Health Technologists and Technicians"},
+        {"code": "29-9000", "name": "Other Healthcare Practitioners and Technical Occupations"}
+      ]
+    },
+    {
+      "code": "31-0000",
+      "name": "Healthcare Support Occupations",
+      "minor_groups": [
+        {"code": "31-1100", "name": "Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides"},
+        {"code": "31-2000", "name": "Occupational Therapy and Physical Therapist Assistants and Aides"},
+        {"code": "31-9000", "name": "Other Healthcare Support Occupations"}
+      ]
+    },
+    {
+      "code": "33-0000",
+      "name": "Protective Service Occupations",
+      "minor_groups": [
+        {"code": "33-1000", "name": "Supervisors of Protective Service Workers"},
+        {"code": "33-2000", "name": "Firefighting and Prevention Workers"},
+        {"code": "33-3000", "name": "Law Enforcement Workers"},
+        {"code": "33-9000", "name": "Other Protective Service Workers"}
+      ]
+    },
+    {
+      "code": "35-0000",
+      "name": "Food Preparation and Serving Related Occupations",
+      "minor_groups": [
+        {"code": "35-1000", "name": "Supervisors of Food Preparation and Serving Workers"},
+        {"code": "35-2000", "name": "Cooks and Food Preparation Workers"},
+        {"code": "35-3000", "name": "Food and Beverage Serving Workers"},
+        {"code": "35-9000", "name": "Other Food Preparation and Serving Related Workers"}
+      ]
+    },
+    {
+      "code": "37-0000",
+      "name": "Building and Grounds Cleaning and Maintenance Occupations",
+      "minor_groups": [
+        {"code": "37-1000", "name": "Supervisors of Building and Grounds Cleaning and Maintenance Workers"},
+        {"code": "37-2000", "name": "Building Cleaning and Pest Control Workers"},
+        {"code": "37-3000", "name": "Grounds Maintenance Workers"}
+      ]
+    },
+    {
+      "code": "39-0000",
+      "name": "Personal Care and Service Occupations",
+      "minor_groups": [
+        {"code": "39-1000", "name": "Supervisors of Personal Care and Service Workers"},
+        {"code": "39-2000", "name": "Animal Care and Service Workers"},
+        {"code": "39-3000", "name": "Entertainment Attendants and Related Workers"},
+        {"code": "39-4000", "name": "Funeral Service Workers"},
+        {"code": "39-5000", "name": "Personal Appearance Workers"},
+        {"code": "39-6000", "name": "Baggage Porters, Bellhops, and Concierges"},
+        {"code": "39-7000", "name": "Tour and Travel Guides"},
+        {"code": "39-9000", "name": "Other Personal Care and Service Workers"}
+      ]
+    },
+    {
+      "code": "41-0000",
+      "name": "Sales and Related Occupations",
+      "minor_groups": [
+        {"code": "41-1000", "name": "Supervisors of Sales Workers"},
+        {"code": "41-2000", "name": "Retail Sales Workers"},
+        {"code": "41-3000", "name": "Sales Representatives, Services"},
+        {"code": "41-4000", "name": "Sales Representatives, Wholesale and Manufacturing"},
+        {"code": "41-9000", "name": "Other Sales and Related Workers"}
+      ]
+    },
+    {
+      "code": "43-0000",
+      "name": "Office and Administrative Support Occupations",
+      "minor_groups": [
+        {"code": "43-1000", "name": "Supervisors of Office and Administrative Support Workers"},
+        {"code": "43-2000", "name": "Communications Equipment Operators"},
+        {"code": "43-3000", "name": "Financial Clerks"},
+        {"code": "43-4000", "name": "Information and Record Clerks"},
+        {"code": "43-5000", "name": "Material Recording, Scheduling, Dispatching, and Distributing Workers"},
+        {"code": "43-6000", "name": "Secretaries and Administrative Assistants"},
+        {"code": "43-9000", "name": "Other Office and Administrative Support Workers"}
+      ]
+    },
+    {
+      "code": "45-0000",
+      "name": "Farming, Fishing, and Forestry Occupations",
+      "minor_groups": [
+        {"code": "45-1000", "name": "Supervisors of Farming, Fishing, and Forestry Workers"},
+        {"code": "45-2000", "name": "Agricultural Workers"},
+        {"code": "45-3000", "name": "Fishing and Hunting Workers"},
+        {"code": "45-4000", "name": "Forest, Conservation, and Logging Workers"}
+      ]
+    },
+    {
+      "code": "47-0000",
+      "name": "Construction and Extraction Occupations",
+      "minor_groups": [
+        {"code": "47-1000", "name": "Supervisors of Construction and Extraction Workers"},
+        {"code": "47-2000", "name": "Construction Trades Workers"},
+        {"code": "47-3000", "name": "Helpers, Construction Trades"},
+        {"code": "47-4000", "name": "Other Construction and Related Workers"},
+        {"code": "47-5000", "name": "Extraction Workers"}
+      ]
+    },
+    {
+      "code": "49-0000",
+      "name": "Installation, Maintenance, and Repair Occupations",
+      "minor_groups": [
+        {"code": "49-1000", "name": "Supervisors of Installation, Maintenance, and Repair Workers"},
+        {"code": "49-2000", "name": "Electrical and Electronic Equipment Mechanics, Installers, and Repairers"},
+        {"code": "49-3000", "name": "Vehicle and Mobile Equipment Mechanics, Installers, and Repairers"},
+        {"code": "49-9000", "name": "Other Installation, Maintenance, and Repair Occupations"}
+      ]
+    },
+    {
+      "code": "51-0000",
+      "name": "Production Occupations",
+      "minor_groups": [
+        {"code": "51-1000", "name": "Supervisors of Production Workers"},
+        {"code": "51-2000", "name": "Assemblers and Fabricators"},
+        {"code": "51-3000", "name": "Food Processing Workers"},
+        {"code": "51-4000", "name": "Metal Workers and Plastic Workers"},
+        {"code": "51-5000", "name": "Printing Workers"},
+        {"code": "51-6000", "name": "Textile, Apparel, and Furnishings Workers"},
+        {"code": "51-7000", "name": "Woodworkers"},
+        {"code": "51-8000", "name": "Plant and System Operators"},
+        {"code": "51-9000", "name": "Other Production Occupations"}
+      ]
+    },
+    {
+      "code": "53-0000",
+      "name": "Transportation and Material Moving Occupations",
+      "minor_groups": [
+        {"code": "53-1000", "name": "Supervisors of Transportation and Material Moving Workers"},
+        {"code": "53-2000", "name": "Air Transportation Workers"},
+        {"code": "53-3000", "name": "Motor Vehicle Operators"},
+        {"code": "53-4000", "name": "Rail Transportation Workers"},
+        {"code": "53-5000", "name": "Water Transportation Workers"},
+        {"code": "53-6000", "name": "Other Transportation Workers"},
+        {"code": "53-7000", "name": "Material Moving Workers"}
+      ]
+    },
+    {
+      "code": "55-0000",
+      "name": "Military Specific Occupations",
+      "minor_groups": [
+        {"code": "55-1000", "name": "Military Officer Special and Tactical Operations Leaders"},
+        {"code": "55-2000", "name": "First-Line Enlisted Military Supervisors"},
+        {"code": "55-3000", "name": "Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members"}
+      ]
+    }
+  ]
+}

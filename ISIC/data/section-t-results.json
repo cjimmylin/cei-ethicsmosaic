@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ISIC-T97-001",
+    "isic_section": "T",
+    "isic_division": "97",
+    "organization": "International Au Pair Association",
+    "org_abbreviation": "IAPA",
+    "document_title": "Code of Conduct for Au Pair Organisations",
+    "document_type": "code_of_conduct",
+    "document_type_detailed": "code_of_conduct",
+    "enforcement_level": "self_regulatory_membership_binding",
+    "url": "https://iapa.org/about/code-of-conduct/",
+    "scope": "International",
+    "country": "International",
+    "profession_name": "Au Pair Placement Organisation Staff",
+    "org_type": "industry_association",
+    "year_published": null,
+    "year_accessed": 2026,
+    "notes": "NOTE: This code governs au pair PLACEMENT AGENCIES (Division 78 — Employment Activities), NOT individual household employers (Division 97). Included here as the closest normative instrument touching the Div. 97 household-employer ecosystem. Sets standards for selection of au pairs and families, ethical treatment, professional conduct. ISIC primary classification: Division 78.",
+    "isic_classification_note": "Properly classified: Division 78 (Employment Activities). Cross-listed here for Div. 97 household employment context."
+  },
+  {
+    "id": "ISIC-T97-002",
+    "isic_section": "T",
+    "isic_division": "97",
+    "organization": "International Labour Organization",
+    "org_abbreviation": "ILO",
+    "document_title": "Domestic Workers Convention, 2011 (C189)",
+    "document_type": "international_convention",
+    "document_type_detailed": "ilo_convention",
+    "enforcement_level": "treaty_ratification",
+    "url": "https://normlex.ilo.org/dyn/nrmlx_en/f?p=NORMLEXPUB:12100:0::NO::p12100_ILO_CODE:C189",
+    "scope": "International",
+    "country": "International",
+    "profession_name": "Domestic Worker / Household Employee",
+    "org_type": "intergovernmental_organization",
+    "year_published": 2011,
+    "year_accessed": 2026,
+    "notes": "International treaty framework establishing minimum labor standards for domestic workers: rest periods, minimum wage, protection from abuse, minimum age. Adopted June 16, 2011; entered into force September 5, 2013. This is a REGULATORY/TREATY FRAMEWORK, not a professional association ethics code. Included as the best available normative framework for Div. 97. Full text also at https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/ILO_C_189.pdf",
+    "document_type_note": "Treaty/convention — not a professional association code of ethics. No professional body equivalent found for household employers."
+  }
+]

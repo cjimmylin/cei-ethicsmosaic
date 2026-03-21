@@ -1,0 +1,90 @@
+{
+  "track": "NAICS",
+  "sectors": [
+    {
+      "sector_code": "11",
+      "sector_name": "Agriculture, Forestry, Fishing and Hunting",
+      "subsectors": [
+        {"code": "111", "name": "Crop Production", "total_codes_found": 4, "codes": [
+          {"organization": "American Society of Agricultural Consultants (ASAC)", "document_title": "Code of Ethics", "url": "https://www.agconsultants.org/code_of_ethics.php", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "unknown", "notes": "CAC credential requires annual ethics CE."},
+          {"organization": "American Society of Agronomy (ASA) — CCA Program", "document_title": "Certified Crop Adviser (CCA) Code of Ethics", "url": "https://www.sciencesocieties.org/files/certifications/certified/cca-us-canada-credential-booklet.pdf", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "unknown", "notes": "Stewardship of natural resources."},
+          {"organization": "CropLife International / FAO / WHO", "document_title": "International Code of Conduct on Pesticide Management", "url": "https://croplife.org/our-work/promoting-stewardship/international-code-of-conduct-on-pesticide-management/", "document_type": "code_of_conduct", "geographic_scope": "global", "year_published": "2013", "notes": "Originally 1985, updated through 2013."},
+          {"organization": "Fair Labor Association (FLA)", "document_title": "Agriculture Code of Conduct and Compliance Benchmarks", "url": "https://www.fairlabor.org/accountability/standards/agriculture/ag-code/", "document_type": "code_of_conduct", "geographic_scope": "international", "year_published": "2022", "notes": "ILO-based for agricultural workers."}
+        ]},
+        {"code": "112", "name": "Animal Production and Aquaculture", "total_codes_found": 6, "codes": [
+          {"organization": "American Veterinary Medical Association (AVMA)", "document_title": "Principles of Veterinary Medical Ethics", "url": "https://www.avma.org/resources-tools/avma-policies/principles-veterinary-medical-ethics-avma", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "2024", "notes": "Stewardship, Integrity, Respect."},
+          {"organization": "American Registry of Professional Animal Scientists (ARPAS)", "document_title": "ARPAS Code of Ethics", "url": "https://www.arpas.org/About/Ethics", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "unknown", "notes": "Certification of animal scientists."},
+          {"organization": "National Pork Board", "document_title": "Pork Quality Assurance Plus (PQA Plus) — We Care Ethical Principles", "url": "https://porkcheckoff.org/certification-tools/training-certification/pqa-plus/", "document_type": "ethics_guidelines", "geographic_scope": "US", "year_published": "2025", "notes": "85% of US pigs from PQA Plus certified farms."},
+          {"organization": "National Cattlemen's Beef Association", "document_title": "Beef Quality Assurance National Manual", "url": "https://www.bqa.org/resources/manuals", "document_type": "standards_of_practice", "geographic_scope": "US", "year_published": "unknown", "notes": "85% of US beef from BQA-certified farmers."},
+          {"organization": "Global Seafood Alliance", "document_title": "Best Aquaculture Practices (BAP) Certification Standards", "url": "https://www.bapcertification.org/Standards", "document_type": "standards_of_practice", "geographic_scope": "global", "year_published": "2003", "notes": "Four pillars: Community, Environment, Animal Welfare, Food Safety."},
+          {"organization": "National Farm Animal Care Council (NFACC)", "document_title": "Codes of Practice for Care and Handling of Farm Animals", "url": "https://www.nfacc.ca/codes-of-practice", "document_type": "standards_of_practice", "geographic_scope": "Canada", "year_published": "unknown", "notes": "15 commodity-specific codes."}
+        ]},
+        {"code": "113", "name": "Forestry and Logging", "total_codes_found": 5, "codes": [
+          {"organization": "Society of American Foresters (SAF)", "document_title": "SAF Code of Ethics", "url": "https://www.eforester.org/CodeofEthics.aspx", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "2000", "notes": "Six pledges. Violations lead to reprimand/expulsion."},
+          {"organization": "Association of Consulting Foresters (ACF)", "document_title": "ACF Code of Ethics", "url": "https://www.acf-foresters.org/code-of-ethics", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "2015", "notes": "28 canons."},
+          {"organization": "Institute of Chartered Foresters (ICF)", "document_title": "ICF Code of Conduct", "url": "https://charteredforesters.org/wp-content/uploads/2016/11/ICF-Code-of-Conduct-2015-1.pdf", "document_type": "code_of_conduct", "geographic_scope": "United Kingdom", "year_published": "2015", "notes": "Regulated profession under UK law."},
+          {"organization": "Ontario Professional Foresters Association (OPFA)", "document_title": "Code of Ethics", "url": "https://opfa.ca/about-us/code-of-ethics/", "document_type": "code_of_ethics", "geographic_scope": "Canada", "year_published": "2001", "notes": "Professional Foresters Act 2000."},
+          {"organization": "International Society of Arboriculture (ISA)", "document_title": "ISA Certified Arborist Code of Ethics", "url": "https://www.isa-arbor.com/Credentials/ISA-Ethics-and-Integrity/Code-of-Ethics", "document_type": "code_of_ethics", "geographic_scope": "international", "year_published": "unknown", "notes": "Enforceable for credential holders."}
+        ]},
+        {"code": "114", "name": "Fishing, Hunting and Trapping", "total_codes_found": 7, "codes": [
+          {"organization": "FAO", "document_title": "Code of Conduct for Responsible Fisheries", "url": "https://www.fao.org/4/v9878e/v9878e00.htm", "document_type": "code_of_conduct", "geographic_scope": "global", "year_published": "1995", "notes": "170+ FAO member governments."},
+          {"organization": "American Fisheries Society (AFS)", "document_title": "Standards of Professional Conduct", "url": "https://fisheries.org/about/governance/standards-of-professional-conduct/", "document_type": "standards_of_practice", "geographic_scope": "US", "year_published": "2019", "notes": "Adopted unanimously July 2019."},
+          {"organization": "The Wildlife Society (TWS)", "document_title": "Code of Ethics", "url": "https://wildlife.org/wp-content/uploads/2024/06/20240324_Code_of_Ethics.pdf", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "2024", "notes": "Amended March 2024."},
+          {"organization": "Marine Stewardship Council (MSC)", "document_title": "MSC Fisheries Standard", "url": "https://www.msc.org/standards-and-certification/fisheries-standard", "document_type": "standards_of_practice", "geographic_scope": "global", "year_published": "2024", "notes": "Version 3.1. Based on FAO Code."},
+          {"organization": "Sustainable Seafood Coalition (SSC)", "document_title": "Voluntary Codes of Conduct", "url": "https://sustainableseafoodcoalition.org/codes-of-conduct/", "document_type": "code_of_conduct", "geographic_scope": "United Kingdom", "year_published": "2014", "notes": "Labelling + Sourcing codes. 33 members."},
+          {"organization": "Association of Fish & Wildlife Agencies (AFWA)", "document_title": "Best Management Practices for Trapping", "url": "https://www.fishwildlife.org/afwa-inspires/furbearer-management", "document_type": "standards_of_practice", "geographic_scope": "US", "year_published": "unknown", "notes": "Scientific evaluation of trapping humaneness."},
+          {"organization": "National Trappers Association (NTA)", "document_title": "Code of Ethics for Responsible Trapping", "url": "https://www.nationaltrappers.com/trappers.html", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "unknown", "notes": "Humane methods, prompt trap checking."}
+        ]},
+        {"code": "115", "name": "Support Activities for Agriculture and Forestry", "total_codes_found": 3, "codes": [
+          {"organization": "National Pest Management Association (NPMA)", "document_title": "NPMA Code of Conduct", "url": "https://www.npmapestworld.org/policies/policies-and-codes/", "document_type": "code_of_conduct", "geographic_scope": "US", "year_published": "unknown", "notes": "All members must adhere."},
+          {"organization": "FAO / WHO", "document_title": "International Code of Conduct on Pesticide Management", "url": "https://www.fao.org/pest-and-pesticide-management/pesticide-risk-reduction/code-conduct/en/", "document_type": "code_of_conduct", "geographic_scope": "global", "year_published": "2013", "notes": "Shared responsibility framework."},
+          {"organization": "Uganda Ministry of Agriculture", "document_title": "Ethical Code of Conduct for Agricultural Extension Providers", "url": "https://agriculture.go.ug/wp-content/uploads/2019/04/Ethical-Code-of-Conduct-for-Agricultural-Extension-and-Advisory-Services-Providers.pdf", "document_type": "code_of_conduct", "geographic_scope": "Uganda", "year_published": "2019", "notes": "Example of national-level agricultural extension ethics."}
+        ]}
+      ]
+    },
+    {
+      "sector_code": "21",
+      "sector_name": "Mining, Quarrying, and Oil and Gas Extraction",
+      "subsectors": [
+        {"code": "211", "name": "Oil and Gas Extraction", "total_codes_found": 5, "codes": [
+          {"organization": "Society of Petroleum Engineers (SPE)", "document_title": "SPE Code of Conduct for Members", "url": "https://www.spe.org/en/about/professional-code-of-conduct/", "document_type": "code_of_conduct", "geographic_scope": "international", "year_published": "2025", "notes": "Originally 1985, revised April 2025."},
+          {"organization": "American Association of Petroleum Geologists (AAPG)", "document_title": "AAPG Code of Ethics", "url": "https://www.aapg.org/portals/0/docs/AAPGCodeOfEthics_102013.pdf", "document_type": "code_of_ethics", "geographic_scope": "international", "year_published": "2013", "notes": "World's largest geological society."},
+          {"organization": "Society of Petroleum Evaluation Engineers (SPEE)", "document_title": "SPEE Code of Professional Ethics", "url": "https://spee.org/wp-content/uploads/2021/12/spee-bylaws_20180402.pdf", "document_type": "code_of_ethics", "geographic_scope": "international", "year_published": "2018", "notes": "Reserve estimation and resource valuation."},
+          {"organization": "IPIECA", "document_title": "Governance and Business Ethics Module", "url": "https://www.ipieca.org/resources", "document_type": "ethics_guidelines", "geographic_scope": "global", "year_published": "2020", "notes": "Founded 1974 at UNEP request."},
+          {"organization": "Extractive Industries Transparency Initiative (EITI)", "document_title": "EITI Code of Conduct", "url": "https://eiti.org/", "document_type": "code_of_conduct", "geographic_scope": "global", "year_published": "2019", "notes": "Covers oil, gas, and mining transparency."}
+        ]},
+        {"code": "212", "name": "Mining (except Oil and Gas)", "total_codes_found": 8, "codes": [
+          {"organization": "Society for Mining, Metallurgy & Exploration (SME)", "document_title": "SME Code of Ethics", "url": "https://www.smenet.org/membership-benefits/membership-categories/code-of-ethics", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "unknown", "notes": "Eight core principles."},
+          {"organization": "Australasian Institute of Mining and Metallurgy (AusIMM)", "document_title": "Code of Ethics and Professional Conduct Regulations", "url": "https://www.ausimm.com/about-us/governance/code-of-ethics-and-professional-conduct-regulations/", "document_type": "code_of_ethics", "geographic_scope": "Australia", "year_published": "2020", "notes": "Linked to JORC and VALMIN codes."},
+          {"organization": "International Council on Mining and Metals (ICMM)", "document_title": "Mining Principles — Principle 01: Ethical Business", "url": "https://www.icmm.com/en-gb/our-principles/mining-principles/principle-1", "document_type": "standards_of_practice", "geographic_scope": "global", "year_published": "unknown", "notes": "~1/3 of global mining industry."},
+          {"organization": "Canadian Institute of Mining (CIM)", "document_title": "CIM Code of Conduct", "url": "https://www.cim.org/about-us/governance/whistleblower-policy/", "document_type": "code_of_conduct", "geographic_scope": "Canada", "year_published": "unknown", "notes": "GMPA member."},
+          {"organization": "Geological Society of America (GSA)", "document_title": "Code of Ethics & Professional Conduct", "url": "https://www.geosociety.org/gsa/membership/code-of-ethics/gsa/membership/code-of-ethics.aspx", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "2019", "notes": "First mandatory standards in GSA history."},
+          {"organization": "American Institute of Professional Geologists (AIPG)", "document_title": "AIPG Code of Ethics", "url": "https://aipg.org/page/Ethics", "document_type": "code_of_ethics", "geographic_scope": "international", "year_published": "2019", "notes": "Canons + Ethical Standards + Rules of Conduct."},
+          {"organization": "Responsible Jewellery Council (RJC)", "document_title": "Code of Practices (COP)", "url": "https://www.responsiblejewellery.com/standards/code-of-practices/", "document_type": "code_of_conduct", "geographic_scope": "global", "year_published": "2019", "notes": "Mine to retail. 2,000+ members."},
+          {"organization": "Certified Mine Safety Professional (CMSP)", "document_title": "CMSP Code of Conduct", "url": "https://www.smecmsp.org/index.cfm/codeofconduct/", "document_type": "code_of_conduct", "geographic_scope": "US", "year_published": "unknown", "notes": "10% of CMSP exam covers ethics."}
+        ]},
+        {"code": "213", "name": "Support Activities for Mining", "total_codes_found": 5, "codes": [
+          {"organization": "SPE", "document_title": "SPE Code of Conduct", "url": "https://www.spe.org/en/about/professional-code-of-conduct/", "document_type": "code_of_conduct", "geographic_scope": "international", "year_published": "2025", "notes": "Applies to support service professionals."},
+          {"organization": "AIPG", "document_title": "AIPG Code of Ethics", "url": "https://aipg.org/page/Ethics", "document_type": "code_of_ethics", "geographic_scope": "international", "year_published": "2019", "notes": "Geologists providing exploration support."},
+          {"organization": "American Geosciences Institute (AGI)", "document_title": "AGI Guidelines for Ethical Professional Conduct", "url": "https://www.americangeosciences.org/community/agi-guidelines-ethical-professional-conduct/", "document_type": "ethics_guidelines", "geographic_scope": "US", "year_published": "unknown", "notes": "Umbrella guidelines."},
+          {"organization": "SME", "document_title": "SME Code of Ethics", "url": "https://www.smenet.org/membership-benefits/membership-categories/code-of-ethics", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "unknown", "notes": "Mining support services."},
+          {"organization": "EITI", "document_title": "EITI Code of Conduct", "url": "https://eiti.org/", "document_type": "code_of_conduct", "geographic_scope": "global", "year_published": "2019", "notes": "Extractive industry value chain."}
+        ]}
+      ]
+    }
+  ],
+  "agent_id": "N1",
+  "researched_at": "2026-03-21",
+  "summary": {
+    "total_codes_found": 43,
+    "sector_11_total": 25,
+    "sector_21_total": 18,
+    "notable_findings": [
+      "Agriculture richer than predicted: 25 codes vs council estimate of 3-10",
+      "FAO Code of Conduct for Responsible Fisheries (1995) — 170+ member governments",
+      "Livestock quality assurance programs (BQA, PQA Plus) cover 85% of US beef and pork",
+      "Mining has robust professional geology codes (AIPG, GSA, AusIMM) beyond engineering",
+      "ICMM Mining Principles cover ~1/3 of global mining industry"
+    ]
+  }
+}

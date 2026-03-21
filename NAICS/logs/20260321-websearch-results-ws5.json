@@ -1,0 +1,129 @@
+{
+  "phase": "websearch",
+  "agent": "WS5_HealthSci",
+  "total": 11,
+  "success": 11,
+  "results": [
+    {
+      "index": 15,
+      "filename_stem": "ISA-ISA-Certified-Arborist-Code-of-Ethics",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/ISA-ISA-Certified-Arborist-Code-of-Ethics.pdf",
+      "bytes": 51196,
+      "found_url": "https://siaq.org/media/h31ljbs0/code-of-ethics.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 17,
+      "filename_stem": "AFS-Standards-of-Professional-Conduct",
+      "status": "success",
+      "strategy": "websearch_html",
+      "format": "html",
+      "local_file": "DOCUMENTS/AFS-Standards-of-Professional-Conduct.html",
+      "bytes": 62259,
+      "found_url": "https://orafs.org/code-of-ethics/",
+      "recovery_error": null
+    },
+    {
+      "index": 18,
+      "filename_stem": "TWS-Code-of-Ethics",
+      "status": "success",
+      "strategy": "websearch_html",
+      "format": "html",
+      "local_file": "DOCUMENTS/TWS-Code-of-Ethics.html",
+      "bytes": 121158,
+      "found_url": "https://wildlife.org/operations-and-finance/tws-code/",
+      "recovery_error": null
+    },
+    {
+      "index": 395,
+      "filename_stem": "AOTA-AOTA-2025-Occupational-Therapy-Code-of-Ethics",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/AOTA-AOTA-2025-Occupational-Therapy-Code-of-Ethics.pdf",
+      "bytes": 464485,
+      "found_url": "https://www.aota.org/-/media/corporate/files/practice/ethics/aota-2025-code-of-ethics_final-draft_pre-publication.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 427,
+      "filename_stem": "TJC-Patient-Rights-and-Organizational-Ethics-Standards",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/TJC-Patient-Rights-and-Organizational-Ethics-Standards.pdf",
+      "bytes": 581666,
+      "found_url": "https://www.practicalbioethics.org/wp-content/uploads/2021/12/Patient-Rights-and-Organization-Ethics-The-Joint-Commission-Perspective.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 432,
+      "filename_stem": "AAP-AAP-Code-of-Conduct-and-Bioethics-Policy-Statements",
+      "status": "success",
+      "strategy": "websearch_html",
+      "format": "html",
+      "local_file": "DOCUMENTS/AAP-AAP-Code-of-Conduct-and-Bioethics-Policy-Statements.html",
+      "bytes": 217845,
+      "found_url": "https://www.aap.org/en/about-the-aap/american-academy-of-pediatrics-equity-and-inclusion-efforts/code-of-conduct/",
+      "recovery_error": null
+    },
+    {
+      "index": 565,
+      "filename_stem": "NSPS-Surveyor-s-Creed-and-Canons",
+      "status": "success",
+      "strategy": "websearch_html",
+      "format": "html",
+      "local_file": "DOCUMENTS/NSPS-Surveyor-s-Creed-and-Canons.html",
+      "bytes": 46355,
+      "found_url": "https://www.pointtopointsurvey.com/2008/12/national-society-of-professional-surveyors/",
+      "recovery_error": null
+    },
+    {
+      "index": 572,
+      "filename_stem": "AMPPA-AMPP-Code-of-Ethics",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/AMPPA-AMPP-Code-of-Ethics.pdf",
+      "bytes": 115253,
+      "found_url": "https://higherlogicdownload.s3.amazonaws.com/NACE/cedda8a4-c3c0-4583-b1b6-3b248e6eb1f2/UploadedImages/Membership/pdf/Code-of-Ethics.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 615,
+      "filename_stem": "AMCD-Multicultural-and-Social-Justice-Counseling-Competencies",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/AMCD-Multicultural-and-Social-Justice-Counseling-Competencies.pdf",
+      "bytes": 327801,
+      "found_url": "https://www.counseling.org/docs/default-source/competencies/multicultural-and-social-justice-counseling-competencies.pdf?sfvrsn=20",
+      "recovery_error": null
+    },
+    {
+      "index": 661,
+      "filename_stem": "ICM-ICM-International-Code-of-Ethics-for-Midwives",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/ICM-ICM-International-Code-of-Ethics-for-Midwives.pdf",
+      "bytes": 353140,
+      "found_url": "https://internationalmidwives.org/wp-content/uploads/eng-international-code-of-ethics-for-midwives.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 668,
+      "filename_stem": "NCCAOM-NCCAOM-Code-of-Ethics",
+      "status": "success",
+      "strategy": "websearch_html",
+      "format": "html",
+      "local_file": "DOCUMENTS/NCCAOM-NCCAOM-Code-of-Ethics.html",
+      "bytes": 61495,
+      "found_url": "https://theacupunctureobserver.com/nccaom-code-of-ethics-grounds-for-professional-discipline/",
+      "recovery_error": null
+    }
+  ]
+}

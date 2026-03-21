@@ -1,0 +1,584 @@
+{
+  "track": "SOC",
+  "agent": "S8",
+  "date_collected": "2026-03-21",
+  "soc_groups": [
+    {
+      "soc_code": "41-0000",
+      "soc_name": "Sales and Related Occupations",
+      "minor_groups": [
+        {
+          "code": "41-1000",
+          "name": "Supervisors of Sales Workers",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "Sales & Marketing Executives International (SMEI)",
+              "document_title": "Sales & Marketing Creed — International Code of Ethics",
+              "url": "https://smei.org/mission/salescode/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "unknown",
+              "soc_detailed": "41-1012 First-Line Supervisors of Non-Retail Sales Workers",
+              "notes": "SMEI founded 1935. Certified Sales Executive (CSE) designation requires adherence. Code mandates highest ethical and professional conduct in all business relationships with customers, suppliers, colleagues, competitors, governmental agencies, and the public. Members shall not participate in actions detrimental to customers or competitors."
+            },
+            {
+              "organization": "National Automobile Dealers Association (NADA)",
+              "document_title": "NADA Code of Ethics and Ethics Guide",
+              "url": "https://www.nada.org/nada/code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2017",
+              "soc_detailed": "41-1012 First-Line Supervisors of Non-Retail Sales Workers",
+              "notes": "Ethics Guide covers four areas: sales, service, financial services, and advertising. Commits members to highest ethical standards, fair/open/honest treatment, clear product representation, and full compliance with anti-discrimination laws. Originally adopted 1963, updated 2017."
+            }
+          ]
+        },
+        {
+          "code": "41-2000",
+          "name": "Retail Sales Workers",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "National Automobile Dealers Association (NADA)",
+              "document_title": "NADA Code of Ethics — Sales Standards",
+              "url": "https://www.nada.org/nada/about-nada/code-of-ethics/ethics-guide",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2017",
+              "soc_detailed": "41-2031 Retail Salespersons",
+              "notes": "Sales-specific standards require embracing the spirit and letter of law governing retail sales of new and used vehicles, honesty and truthfulness with customers, and thorough product knowledge to satisfy transportation needs."
+            },
+            {
+              "organization": "National Auctioneers Association (NAA)",
+              "document_title": "NAA Code of Ethics",
+              "url": "https://www.auctioneers.org/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "unknown",
+              "soc_detailed": "41-2031 Retail Salespersons; 41-9099 Sales and Related Workers, All Other",
+              "notes": "Eight principles: Integrity, Respect, Fiduciary Duty, Compliance, Confidentiality, Loyalty, Duty, Excellence. Establishes per se violations (felony conviction, license revocation). Formal grievance procedure with 30-day response period."
+            }
+          ]
+        },
+        {
+          "code": "41-3000",
+          "name": "Sales Representatives, Services",
+          "total_codes_found": 6,
+          "codes": [
+            {
+              "organization": "National Association of Realtors (NAR)",
+              "document_title": "Code of Ethics and Standards of Practice",
+              "url": "https://www.nar.realtor/about-nar/governing-documents/code-of-ethics/2026-code-of-ethics-standards-of-practice",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1913",
+              "soc_detailed": "41-3091 Sales Agents, Financial Services; 41-9022 Real Estate Sales Agents",
+              "notes": "One of the first codifications of ethical duties adopted by any business group. 17 articles organized around duties to clients/customers, public, and fellow REALTORS. Over 1.5 million members. Ethics training required every 3 years. Covers honest/fair dealing, avoiding misrepresentation, client confidentiality, prioritizing client interests, avoiding conflicts of interest. Updated annually."
+            },
+            {
+              "organization": "National Association of Insurance and Financial Advisors (NAIFA)",
+              "document_title": "Code of Ethics / Ethics for Financial Professionals",
+              "url": "https://belong.naifa.org/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2024",
+              "soc_detailed": "41-3021 Insurance Sales Agents",
+              "notes": "Founded 1890. Approximately 200,000 financial professionals. In July 2024, Board approved updated 'Ethics for Financial Professionals' incorporating FSP Code of Professional Responsibility. Covers client confidentiality, acting in clients' best interest, accurate/honest information presentation, and political advocacy for financial interests."
+            },
+            {
+              "organization": "American Society of Travel Advisors (ASTA)",
+              "document_title": "ASTA Code of Ethics — Integrity in Travel",
+              "url": "https://www.asta.org/about/content.cfm?ItemNumber=745",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "unknown",
+              "soc_detailed": "41-3041 Travel Agents",
+              "notes": "12-point code emphasizing 'Integrity in Travel.' Covers accuracy, disclosure of costs/restrictions/terms, credential integrity. Complaints filed with ASTA Consumer Affairs Department. Failure to adhere may result in disciplinary action."
+            },
+            {
+              "organization": "Institute of Real Estate Management (IREM)",
+              "document_title": "IREM Code of Professional Ethics",
+              "url": "https://www.irem.org/about-irem/ethics/irem-code-of-professional-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "unknown",
+              "soc_detailed": "41-9022 Real Estate Sales Agents",
+              "notes": "Covers property management professionals (CPM designation). Requires holding proprietary information in confidence, maintaining accurate financial records, protecting owner's funds, loyalty to client interests. Where firm/client interests conflict, client takes precedence. Ethics and Discipline Committee enforces."
+            },
+            {
+              "organization": "Royal Institution of Chartered Surveyors (RICS)",
+              "document_title": "RICS Rules of Conduct",
+              "url": "https://www.rics.org/content/dam/ricsglobal/documents/standards/2021_roc_en.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "2021",
+              "soc_detailed": "41-9022 Real Estate Sales Agents",
+              "notes": "International standard. Over 140,000 members globally. Principles: honest/fair/transparent/professional conduct; due skill, care and diligence; fair terms of engagement; avoiding conflicts of interest; fair/clear/timely communications. Requires realistic price assessments based on professional judgment."
+            },
+            {
+              "organization": "Pharmaceutical Research and Manufacturers of America (PhRMA)",
+              "document_title": "Code on Interactions with Health Care Professionals",
+              "url": "https://www.phrma.org/resources/code-on-interactions-with-health-care-professionals",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2022",
+              "soc_detailed": "41-3091 Sales Agents, Financial Services (pharma sales reps often classified here)",
+              "notes": "Originally published 2002, updated 2009, 2019, 2021 (effective Jan 2022). Promotes ethical relationships between pharma companies and HCPs. U.S. enforcement authorities view this as baseline for ethical interactions. Non-compliance used as evidence of misconduct under Anti-Kickback Statute."
+            }
+          ]
+        },
+        {
+          "code": "41-4000",
+          "name": "Sales Representatives, Wholesale and Manufacturing",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "Manufacturers' Representatives Educational Research Foundation (MRERF) / Institute for Professional Advancement (IPA)",
+              "document_title": "IPA Code of Ethics",
+              "url": "https://mrerf.org/about-us/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "unknown",
+              "soc_detailed": "41-4012 Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+              "notes": "Key principles: use only legal/ethical means in all activities; accept no personal compensation without employer's knowledge/consent; maintain confidentiality of privileged information; refuse to engage in activities for personal gain at company's expense; truthful/accurate communications; cooperation with industry colleagues. Certification holders must complete continuing education and pay annual dues while upholding code."
+            },
+            {
+              "organization": "Advanced Medical Technology Association (AdvaMed)",
+              "document_title": "AdvaMed Code of Ethics on Interactions with Health Care Professionals",
+              "url": "https://www.advamed.org/member-center/resource-library/advamed-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2023",
+              "soc_detailed": "41-4011 Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+              "notes": "Governs medical device/diagnostics sales representatives' interactions with HCPs. Originally 1993 (HIMA), relaunched 2003 as AdvaMed Code. Revised 2003, 2009, 2020, 2022. Addresses training/education, meals, grants, consulting arrangements. U.S. enforcement authorities view as baseline for Anti-Kickback Statute compliance."
+            },
+            {
+              "organization": "Direct Selling Association (DSA)",
+              "document_title": "DSA Code of Ethics",
+              "url": "https://www.dsa.org/consumerprotection/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "unknown",
+              "soc_detailed": "41-4012 Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products; 41-9091 Door-to-Door Sales Workers",
+              "notes": "Membership condition. Covers consumer protection (accurate product representations, documented earnings claims) and salespeople protection (90% buyback of unsold inventory within 12 months). Enforced by independent code administrator with power to decide remedies. Prohibits deceptive, false, unethical or unlawful practices."
+            },
+            {
+              "organization": "World Federation of Direct Selling Associations (WFDSA)",
+              "document_title": "WFDSA World Code of Conduct for Direct Selling",
+              "url": "https://wfdsa.org/wp-content/uploads/2021/04/Code-of-Ethics-Booklet-2017.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "2017",
+              "soc_detailed": "41-4012 Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products; 41-9091 Door-to-Door Sales Workers",
+              "notes": "First established 1985. All member DSAs must abide by the World Code. Covers consumer protection (prohibited practices, cooling-off periods, returns), treatment of direct sellers (recruiting, remuneration, earnings claims, repurchase). Based in Washington DC."
+            }
+          ]
+        },
+        {
+          "code": "41-9000",
+          "name": "Other Sales and Related Workers",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "National Association of Realtors (NAR)",
+              "document_title": "Code of Ethics and Standards of Practice",
+              "url": "https://www.nar.realtor/about-nar/governing-documents/the-code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1913",
+              "soc_detailed": "41-9021 Real Estate Brokers",
+              "notes": "See 41-3000 entry. Also applies to 41-9021 Real Estate Brokers. First adopted 1913, celebrated centennial in 2013. 17 articles covering duties to clients, public, and fellow members."
+            },
+            {
+              "organization": "American Advertising Federation (AAF) / Institute for Advertising Ethics (IAE)",
+              "document_title": "IAE Principles and Practices of Advertising Ethics",
+              "url": "https://www.iaethics.org/principles-and-practices",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "unknown",
+              "soc_detailed": "41-9011 Demonstrators and Product Promoters; 41-9099 Sales and Related Workers, All Other",
+              "notes": "Administered by AAF in partnership with Reynolds Journalism Institute and Missouri School of Journalism. 8 principles covering truthfulness, highest personal ethics in creating/disseminating commercial information, distinguishing advertising from news/editorial, and avoiding deception. Voluntary compliance."
+            },
+            {
+              "organization": "National Auctioneers Association (NAA)",
+              "document_title": "NAA Code of Ethics",
+              "url": "https://auctioneers.org/NAA/About%20NAA/Code-of-Ethics/NAA/About-NAA/Governance-And-Financials/Code-of-Ethics.aspx",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "unknown",
+              "soc_detailed": "41-9099 Sales and Related Workers, All Other (Auctioneers)",
+              "notes": "See 41-2000 entry. Eight principles with formal grievance process and automatic per se violations for felony convictions or license revocations."
+            },
+            {
+              "organization": "National Association of Sales Professionals (NASP)",
+              "document_title": "CPSP Ethical Sales Practices Standards",
+              "url": "https://www.nasp.com/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "unknown",
+              "soc_detailed": "41-9099 Sales and Related Workers, All Other",
+              "notes": "Certified Professional Sales Person (CPSP) certification emphasizes ethical sales practices as part of the psychology of selling, advanced sales strategies, and professional conduct. Specific code details available through NASP certification program."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "soc_code": "43-0000",
+      "soc_name": "Office and Administrative Support Occupations",
+      "minor_groups": [
+        {
+          "code": "43-1000",
+          "name": "Supervisors of Office and Administrative Support Workers",
+          "total_codes_found": 1,
+          "codes": [
+            {
+              "organization": "International Association of Administrative Professionals (IAAP)",
+              "document_title": "IAAP Code of Ethics",
+              "url": "https://www.iaap-hq.org/page/codeconduct",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "unknown",
+              "soc_detailed": "43-1011 First-Line Supervisors of Office and Administrative Support Workers",
+              "notes": "Four standards of professional conduct: (1) Act as trusted agent, exercising knowledge/skill in employer's interest; (2) Maintain dignity, status, competence of the profession; (3) Insist employment/promotion decisions be based on knowledge/ability/experience/performance; (4) If asked to engage in activities contrary to public safety/welfare, clearly indicate harmful consequences and resign or notify authorities if unresolved. Also administers CAP (Certified Administrative Professional) designation which requires ethics exam content."
+            }
+          ]
+        },
+        {
+          "code": "43-2000",
+          "name": "Communications Equipment Operators",
+          "total_codes_found": 1,
+          "codes": [
+            {
+              "organization": "National Court Reporters Association (NCRA)",
+              "document_title": "Code of Professional Ethics",
+              "url": "https://www.ncra.org/home/the-profession/NCRA-Code-of-Professional-Ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "unknown",
+              "soc_detailed": "43-2011 Switchboard Operators (related: court reporters and captioners)",
+              "notes": "Mandatory code for NCRA members. Requires impartiality toward all participants, alertness to conflicts of interest, guarding against impropriety, preserving confidentiality of entrusted information, and truthful/accurate public statements. COPE (Committee on Professional Ethics) issues advisory opinions. Also has a separate Captioners Code of Professional Ethics."
+            }
+          ]
+        },
+        {
+          "code": "43-3000",
+          "name": "Financial Clerks",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "American Institute of Professional Bookkeepers (AIPB)",
+              "document_title": "AIPB Code of Ethics for Certified Bookkeepers",
+              "url": "https://aipb.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "unknown",
+              "soc_detailed": "43-3031 Bookkeeping, Accounting, and Auditing Clerks",
+              "notes": "Required for Certified Bookkeeper (CB) designation. Three categories of obligations: (1) To Clients — high quality services, staying current, confidentiality, loyalty, avoiding conflicts of interest; (2) To Society — integrity, objectivity in professional judgment; (3) To Profession — avoid acts discrediting the profession. Signing is a certification requirement."
+            },
+            {
+              "organization": "American Payroll Association (APA / PayrollOrg)",
+              "document_title": "APA Code of Ethics",
+              "url": "https://denverapa.org/content.php?page=APA_Code_of_Ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1982",
+              "soc_detailed": "43-3051 Payroll and Timekeeping Clerks",
+              "notes": "Eight-point code since inception in early 1980s. Covers: personal aspect of employer-employee relationship; perfect compliance/accuracy/timeliness; payroll technology developments; legislative/regulatory awareness; absolute confidentiality of payroll information; refraining from self-interest activities; enhancing professional abilities; supporting fellow payroll professionals. Governs certified members; all APA members encouraged to follow."
+            }
+          ]
+        },
+        {
+          "code": "43-4000",
+          "name": "Information and Record Clerks",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "ARMA International",
+              "document_title": "Code of Professional Responsibility",
+              "url": "https://arma.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "unknown",
+              "soc_detailed": "43-4071 File Clerks; 43-4199 Information and Record Clerks, All Other",
+              "notes": "Covers records and information management (RIM) professionals. Two broad areas: society and the profession. Requires supporting free flow of publicly available information, opposing censorship, supporting creation/maintenance of accurate information, prioritizing accuracy and integrity in information management systems. Members may be censured, suspended, or expelled for violations."
+            },
+            {
+              "organization": "NALS — the Association for Legal Support Professionals",
+              "document_title": "NALS Code of Ethics and Professional Responsibility",
+              "url": "https://www.nals.org/page/NALSCodeofEthics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "unknown",
+              "soc_detailed": "43-4031 Court, Municipal, and License Clerks; 43-4199 Information and Record Clerks, All Other",
+              "notes": "Five canons: (1) Maintain high degree of competency and integrity through continuing education; (2) Maintain high standard of ethical conduct contributing to integrity of the profession; (3) Avoid conflicts of interest; (4) Preserve and protect client confidences and privileged communications; (5) Exercise care in professional judgment and determining extent of client assistance. Formerly National Association of Legal Secretaries."
+            },
+            {
+              "organization": "Association for Healthcare Documentation Integrity (AHDI)",
+              "document_title": "AHDI Code of Ethics",
+              "url": "https://ahdionline.org/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "unknown",
+              "soc_detailed": "43-4199 Information and Record Clerks, All Other (Medical Transcriptionists)",
+              "notes": "Applies to all AHDI members and holders of the Registered Healthcare Documentation Specialist credential. Requires maintaining confidentiality of all patient information (including peer review, QI, risk management), striving for accuracy and timeliness, implementing healthcare documentation standards, and compliance with HIPAA, HITECH Act, and ARRA 2009."
+            }
+          ]
+        },
+        {
+          "code": "43-5000",
+          "name": "Material Recording, Scheduling, Dispatching, and Distributing Workers",
+          "total_codes_found": 1,
+          "codes": [
+            {
+              "organization": "Institute for Supply Management (ISM)",
+              "document_title": "Principles and Standards of Ethical Supply Management Conduct",
+              "url": "https://www.ismworld.org/globalassets/pub/docs/210_ethics_book.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "unknown",
+              "soc_detailed": "43-5061 Production, Planning, and Expediting Clerks; 43-5071 Shipping, Receiving, and Inventory Clerks",
+              "notes": "ISM (formerly National Association of Purchasing Management, est. 1915). 10 foundational standards based on 3 core principles. Covers preventing appearance of unethical conduct, avoiding financial conflicts of interest, protecting confidential/proprietary information, avoiding improper reciprocal agreements, and obeying the letter and spirit of laws/regulations/trade agreements."
+            }
+          ]
+        },
+        {
+          "code": "43-6000",
+          "name": "Secretaries and Administrative Assistants",
+          "total_codes_found": 1,
+          "codes": [
+            {
+              "organization": "International Association of Administrative Professionals (IAAP)",
+              "document_title": "IAAP Code of Ethics",
+              "url": "https://www.iaap-hq.org/page/codeconduct",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "unknown",
+              "soc_detailed": "43-6011 Executive Secretaries and Executive Administrative Assistants; 43-6014 Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+              "notes": "See 43-1000 entry. Four-standard code. CAP (Certified Administrative Professional) designation replaced CPS (Certified Professional Secretary) in 2011. CAP exam includes professional conduct and ethics content. 200-225 multiple choice questions covering HR management, marketing, finance, IT, and personnel law."
+            }
+          ]
+        },
+        {
+          "code": "43-9000",
+          "name": "Other Office and Administrative Support Workers",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "National Court Reporters Association (NCRA)",
+              "document_title": "Code of Professional Ethics",
+              "url": "https://www.ncra.org/docs/default-source/uploadedfiles/resources/memberresources/ncra-code-of-ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "unknown",
+              "soc_detailed": "43-9081 Proofreaders and Copy Markers (related: court reporters 23-2091 mapped here in some classifications)",
+              "notes": "See 43-2000 entry. Also includes separate Captioners Code of Professional Ethics. COPE issues advisory opinions for guidance on evolving ethical issues. Members must accept only assignments within their competence, meet delivery dates, and maintain proficiency through continuing education."
+            },
+            {
+              "organization": "Professional Convention Management Association (PCMA)",
+              "document_title": "Principles of Professional and Ethical Conduct",
+              "url": "https://www.pcma.org/about/principles-of-professional-and-ethical-conduct/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "unknown",
+              "soc_detailed": "43-9199 Office and Administrative Support Workers, All Other (convention/event planners often classified here)",
+              "notes": "Eight principles: integrity/respect/honesty/credibility; highest ethical professionalism; good faith negotiation; respect for organizational policies; continuing education; avoiding damage to organization/industry/self; refusing inappropriate gifts/incentives; avoiding/disclosing conflicts of interest."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "soc_code": "45-0000",
+      "soc_name": "Farming, Fishing, and Forestry Occupations",
+      "minor_groups": [
+        {
+          "code": "45-1000",
+          "name": "Supervisors of Farming, Fishing, and Forestry Workers",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "Society of American Foresters (SAF)",
+              "document_title": "SAF Code of Ethics",
+              "url": "https://www.eforester.org/CodeofEthics.aspx",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2000",
+              "soc_detailed": "45-1011 First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+              "notes": "Adopted by member referendum November 3, 2000. Preamble plus six pledges: (1) Responsibility to Land — maintain long-term capacity; (2) Landowner Relations — respect landowner rights + stewardship responsibility; (3) Scientific Integrity — continuous improvement; (4) Public Policy — formulate sound forest policies, challenge untrue statements; (5) Professional Conduct — accurate/complete information, disclose conflicts; (6) Ethical Behavior — honesty, fairness, good will, respect for law. SAF Ethics Committee (5 members, 5-year terms) administers. Violations lead to reprimand or expulsion."
+            },
+            {
+              "organization": "Ecological Society of America (ESA)",
+              "document_title": "ESA Code of Ethics",
+              "url": "https://esa.org/about/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2021",
+              "soc_detailed": "45-1011 First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+              "notes": "Amended May 2021. Covers all ESA members and ecologists certified by the Society. Covers general conduct (offer advice only within competence, avoid dissemination of erroneous/biased statements), professional practice (disclose conflicts, no false claims), publication ethics (authorship, attribution, permission for unpublished results). Professional Ethics Committee enforces."
+            }
+          ]
+        },
+        {
+          "code": "45-2000",
+          "name": "Agricultural Workers",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "American Society of Agronomy (ASA) — Certified Crop Adviser Program",
+              "document_title": "CCA Code of Ethics",
+              "url": "https://www.sciencesocieties.org/files/certifications/certified/cca-us-canada-credential-booklet.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "unknown",
+              "soc_detailed": "45-2011 Agricultural Inspectors; 45-2041 Graders and Sorters, Agricultural Products",
+              "notes": "All CCA certification holders must sign Code of Ethics. Compels responsible conduct with clients, stewardship of natural resources and the environment, and focus on grower profitability while optimizing/protecting natural resources. Continuing education required to maintain certification."
+            },
+            {
+              "organization": "Soil Science Society of America (SSSA)",
+              "document_title": "SSSA Statement of Ethics / Soils Certifying Board Code of Ethics",
+              "url": "https://www.soils.org/files/certifications/cpss-cpsc/cpss-code-of-ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "unknown",
+              "soc_detailed": "45-2099 Agricultural Workers, All Other",
+              "notes": "Applies to Certified Professional Soil Scientists (CPSS) and Certified Professional Soil Classifiers (CPSC). Organized into five articles: Preamble, Relation to Public (avoid sensational/exaggerated statements), Relation to Clients/Employers, Relation to Fellow Professionals (no malicious injury), Duty to Profession (aid in excluding those who violate code). Required for certification."
+            },
+            {
+              "organization": "National Association of Landscape Professionals (NALP)",
+              "document_title": "NALP Code of Ethics",
+              "url": "https://www.landscapeprofessionals.org/LP/Membership/Code_of_Ethics/LP/Membership/Code_of_Ethics.aspx",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "unknown",
+              "soc_detailed": "45-2092 Farmworkers and Laborers, Crop, Nursery, and Greenhouse (landscape workers)",
+              "notes": "Covers landscape and lawn care professionals. Key commitments: professional conduct with honest/scientific/accurate information; environmental protection; adherence to contractual obligations; fair dealing with subcontractors/suppliers; continuing education and certification; safety practices; respecting intellectual property rights."
+            },
+            {
+              "organization": "Society for Range Management (SRM)",
+              "document_title": "SRM Code of Ethics",
+              "url": "https://rangelands.org/about-3/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2002",
+              "soc_detailed": "45-2099 Agricultural Workers, All Other (Rangeland workers)",
+              "notes": "Revised 2002. Members guided by professional code of ethics unified by a strong land ethic. Certified Professional in Rangeland Management (CPRM) credential holders must not have been found to engage in unprofessional conduct. Code applies to all SRM meetings/events and when representing the Society."
+            }
+          ]
+        },
+        {
+          "code": "45-3000",
+          "name": "Fishing and Hunting Workers",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "FAO (Food and Agriculture Organization of the United Nations)",
+              "document_title": "Code of Conduct for Responsible Fisheries",
+              "url": "https://www.fao.org/4/v9878e/v9878e00.htm",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "global",
+              "year_published": "1995",
+              "soc_detailed": "45-3011 Fishers and Related Fishing Workers",
+              "notes": "Adopted October 31, 1995 by FAO Conference (Resolution 4/95). Most cited global fisheries instrument after 1982 UN Convention. Voluntary, aimed at everyone involved in fisheries/aquaculture. General principles cover: aquatic ecosystem conservation, food security, intergenerational considerations, fair working/living conditions, rights of fishworkers, diversification of income. 170+ FAO member governments."
+            },
+            {
+              "organization": "American Fisheries Society (AFS)",
+              "document_title": "Standards of Professional Conduct",
+              "url": "https://fisheries.org/about/governance/standards-of-professional-conduct/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "soc_detailed": "45-3011 Fishers and Related Fishing Workers",
+              "notes": "Adopted unanimously by Governing Board July 16, 2019. Members must serve and manage aquatic resources for benefit of resources and public based on best scientific data. Must be ethical in relationships with public, employers, peers, fellow members. Must advise against employer actions violating law/regulation and reject coercion of professional judgment. Ethics and Professional Conduct Committee reviews cases."
+            },
+            {
+              "organization": "Marine Stewardship Council (MSC)",
+              "document_title": "MSC Fisheries Standard",
+              "url": "https://www.msc.org/standards-and-certification/fisheries-standard",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "global",
+              "year_published": "2024",
+              "soc_detailed": "45-3011 Fishers and Related Fishing Workers",
+              "notes": "Version 3.1 (July 2024). Based on FAO Code. Three core principles with 28 performance indicators. Includes mandatory self-disclosure on forced and child labor measures (since 2019). Enhanced protections for endangered species, habitats, and improved monitoring systems."
+            },
+            {
+              "organization": "The Wildlife Society (TWS)",
+              "document_title": "TWS Code of Ethics",
+              "url": "https://wildlife.org/wp-content/uploads/2024/06/20240324_Code_of_Ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2024",
+              "soc_detailed": "45-3021 Hunters and Trappers",
+              "notes": "Amended and approved March 2024. Requires highest standards of professionalism, honesty, and integrity. Members must uphold dignity of wildlife profession, avoid dishonesty/fraud/deceit/misrepresentation. Must inform clients of prime responsibility to public interest, conservation, and environment. Violations can result in censure, suspension, termination, and/or revocation of certification credentials."
+            }
+          ]
+        },
+        {
+          "code": "45-4000",
+          "name": "Forest, Conservation, and Logging Workers",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "Society of American Foresters (SAF)",
+              "document_title": "SAF Code of Ethics",
+              "url": "https://www.eforester.org/CodeofEthics.aspx",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2000",
+              "soc_detailed": "45-4011 Forest and Conservation Workers",
+              "notes": "See 45-1000 entry. Primary professional ethics code for foresters in the US. Six pledges covering land stewardship, scientific integrity, public policy engagement, professional conduct, and ethical behavior. Ethics Committee administers enforcement."
+            },
+            {
+              "organization": "Association of Consulting Foresters (ACF)",
+              "document_title": "ACF Code of Ethics",
+              "url": "https://www.acf-foresters.org/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2015",
+              "soc_detailed": "45-4011 Forest and Conservation Workers",
+              "notes": "28 canons formulating guiding principles of professional conduct in relations with clients, employers, public, and fellow foresters. Includes: loyalty to clients/employers, engaging other experts when in client's best interest, prohibiting contingency-based appraisals, aiding in safeguarding profession against unqualified persons."
+            },
+            {
+              "organization": "Institute of Chartered Foresters (ICF)",
+              "document_title": "ICF Code of Conduct",
+              "url": "https://charteredforesters.org/wp-content/uploads/2016/11/ICF-Code-of-Conduct-2015-1.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "United Kingdom",
+              "year_published": "2015",
+              "soc_detailed": "45-4011 Forest and Conservation Workers",
+              "notes": "Regulated profession under UK law. Chartered Forester is a protected title. Code covers professional standards for all ICF members."
+            },
+            {
+              "organization": "International Society of Arboriculture (ISA)",
+              "document_title": "ISA Certified Arborist Code of Ethics",
+              "url": "https://www.isa-arbor.com/Credentials/ISA-Ethics-and-Integrity/Code-of-Ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "unknown",
+              "soc_detailed": "45-4011 Forest and Conservation Workers (Arborists)",
+              "notes": "Enforceable for ISA Certified Arborist candidates and certificants. Covers compliance with organizational rules/policies/legal requirements, disclosure of conflicts of interest, and responsibilities concerning public health and safety. Signing is a requirement for certification; recertification denied without agreement. Separate BCMA (Board-Certified Master Arborist) Code of Ethics also exists."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_soc_groups": 3,
+    "total_minor_groups": 16,
+    "total_codes_found": 43,
+    "unique_codes": 41,
+    "cross_referenced_entries": 2,
+    "coverage_notes": "SOC 41-0000 (Sales) is well-covered with 18 codes across real estate, insurance, automotive, direct selling, pharmaceutical/medical device, advertising, and wholesale/manufacturing sales. SOC 43-0000 (Office/Admin Support) has 11 codes covering administrative professionals, bookkeepers, payroll, records managers, legal support, healthcare documentation, court reporters, and supply management. SOC 45-0000 (Farming/Fishing/Forestry) has 14 codes with particularly strong coverage in forestry (SAF, ACF, ICF, ISA) and fisheries (FAO, AFS, MSC, TWS). Notable gaps: no formal code of ethics found for the National Retail Federation (NRF) or general retail sales workers; limited codes for agricultural field workers as opposed to agricultural professionals/scientists.",
+    "key_observations": [
+      "NAR Code of Ethics (1913) is one of the oldest professional ethics codes in any field, with 1.5 million+ members and mandatory triennial training.",
+      "Medical device (AdvaMed) and pharmaceutical (PhRMA) sales codes are treated by U.S. enforcement authorities as compliance baselines for the Anti-Kickback Statute, giving them quasi-regulatory force.",
+      "The DSA/WFDSA Code of Ethics includes unique consumer protections such as the 90% inventory buyback requirement within 12 months for departing salespeople.",
+      "Administrative professional codes (IAAP) uniquely include a whistleblower provision requiring notification of authorities for employer activities contrary to public safety.",
+      "Forestry has overlapping international coverage: SAF (US), ACF (US consulting), ICF (UK chartered), ISA (international arborists) — reflecting the regulated nature of the profession in multiple jurisdictions.",
+      "The FAO Code of Conduct for Responsible Fisheries (1995) is the most widely adopted global fisheries instrument, applying to 170+ member governments.",
+      "The Wildlife Society Code of Ethics (2024 amendment) includes credential revocation as an enforcement mechanism, providing one of the strongest enforcement regimes in the 45-0000 group."
+    ]
+  }
+}

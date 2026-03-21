@@ -1,0 +1,505 @@
+{
+  "track": "SOC",
+  "soc_major_groups": [
+    {
+      "group_code": "53-0000",
+      "group_name": "Transportation and Material Moving Occupations",
+      "minor_groups": [
+        {
+          "code": "53-1000",
+          "name": "Supervisors of Transportation and Material Moving Workers",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "Council of Supply Chain Management Professionals (CSCMP)",
+              "document_title": "CSCMP Standards of Professional Conduct",
+              "url": "https://cscmp.org/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US/International",
+              "year_published": "",
+              "notes": "Founded 1963. Leading global association for supply chain management professionals including logistics supervisors and transportation managers. Promotes integrity, transparency, and compliance in supply chain operations."
+            },
+            {
+              "organization": "Association for Supply Chain Management (ASCM, formerly APICS)",
+              "document_title": "APICS Exam Code of Ethics",
+              "url": "https://www.ascm.org/learning-development/certifications-credentials/purchase-exam/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "",
+              "notes": "Required for all ASCM/APICS certification holders (CPIM, CSCP, CLTD). Covers professional competence, integrity, respecting fundamental rights and dignity of individuals, sensitivity to cultural and role differences. Violations may result in decertification."
+            }
+          ]
+        },
+        {
+          "code": "53-2000",
+          "name": "Air Transportation Workers",
+          "total_codes_found": 6,
+          "codes": [
+            {
+              "organization": "Air Line Pilots Association (ALPA)",
+              "document_title": "ALPA Code of Ethics",
+              "url": "https://www.alpa.org/about/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/Canada",
+              "year_published": "1956 (revised 2020)",
+              "notes": "Established 1956 by Board of Directors, revised 2020 for inclusivity. Five principles: passenger safety as first responsibility, duty to employer, command responsibility, professional conduct, continuous learning. Professional Standards Committee serves as guardian. One pilot's actions impact the entire profession."
+            },
+            {
+              "organization": "International Air Transport Association (IATA)",
+              "document_title": "IATA Code of Business Conduct",
+              "url": "https://www.iata.org/contentassets/c135b70ae5f34013b120b5008ca13369/code-business-conduct.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "",
+              "notes": "Global trade association of the world's airlines. Applies to all IATA employees, subsidiaries, consultants, contractors, suppliers and business partners worldwide. Covers ethical conduct and social responsibilities in all business operations."
+            },
+            {
+              "organization": "National Air Traffic Controllers Association (NATCA)",
+              "document_title": "Professional Air Traffic Controller's Code",
+              "url": "https://www.natca.org/wp-content/uploads/2020/08/ATC-Code-Poster.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2009",
+              "notes": "Established 2009 after studying ALPA, legal, and medical profession models. Covers personal commitment to safety, excellence, and upholding oath to public trust. Controllers' individual actions represent the entire profession. Includes Professional Standards Program for peer-based conflict resolution."
+            },
+            {
+              "organization": "National Air Traffic Controllers Association (NATCA)",
+              "document_title": "NATCA Code of Conduct",
+              "url": "https://www.natca.org/code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Anti-discrimination and harassment policy. Applies to all NATCA staff, members, leadership, and event participants. Covers events, meetings, and professional interactions."
+            },
+            {
+              "organization": "Association of Flight Attendants-CWA (AFA-CWA)",
+              "document_title": "AFA-CWA Ethical Practices Code",
+              "url": "https://afaalaska.org/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Prohibits officers from receiving compensation from corporate boards or personal payments from employers. Protects members' rights to assemble, vote, nominate candidates, and participate in union affairs. Prohibits retaliation against members exercising their rights. Requires express authorization for management negotiations."
+            },
+            {
+              "organization": "American Institute of Aeronautics and Astronautics (AIAA)",
+              "document_title": "AIAA Code of Ethics",
+              "url": "https://aiaa.org/about-aiaa/governance/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/International",
+              "year_published": "",
+              "notes": "Covers aerospace professionals broadly including aviation engineers and technicians. Seven principles: public safety paramount, reject bribery/fraud/corruption, credit others' contributions, avoid harm, objectivity in statements, avoid conflicts of interest, undertake only qualified tasks. Ethics Committee handles violations."
+            }
+          ]
+        },
+        {
+          "code": "53-3000",
+          "name": "Motor Vehicle Operators",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "American Trucking Associations (ATA) - Moving & Storage Conference",
+              "document_title": "ATA Moving & Storage Conference Code of Ethics",
+              "url": "https://www.trucking.org/sites/default/files/2021-04/ATA%20Moving%20%20Storage%20Conference%20Code%20of%20Ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2021",
+              "notes": "ATA is the largest national trade association for the trucking industry representing 37,000+ members. Moving & Storage Conference division code emphasizes honest, ethical, efficient and quality services to the public."
+            },
+            {
+              "organization": "American Bus Association (ABA)",
+              "document_title": "ABA Code of Ethics",
+              "url": "https://www.buses.org/about/about-aba/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Covers motorcoach operators, tour operators, and service suppliers. Five core commitments: professional standards adherence, business integrity, financial honesty, safety focus, public confidence. Five prohibited acts including misappropriating funds, breaching contracts, violating regulations. Ethics Committee investigates complaints."
+            },
+            {
+              "organization": "Transportation Intermediaries Association (TIA)",
+              "document_title": "TIA Code of Ethics",
+              "url": "https://www.tianet.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Required for all TIA members and Certified Transportation Broker (CTB) certification holders. Founded 1978. Covers fair dealing, honesty, integrity, professional conduct for freight brokers and 3PL providers. Ethics Committee arbitrates disputes."
+            },
+            {
+              "organization": "Amalgamated Transit Union (ATU)",
+              "document_title": "ATU Constitution and General Laws — Member Conduct Standards",
+              "url": "https://www.atu.org/pdfs/ATU_CGL2022Final.pdf",
+              "document_type": "constitution_bylaws",
+              "geographic_scope": "US/Canada",
+              "year_published": "2025 (revised at 61st Convention)",
+              "notes": "Largest labor union representing transit workers (200,000+ members) including bus drivers, paratransit operators, light rail operators. Founded 1892. Members shall not engage in conduct unbecoming a member, shall not knowingly wrong a member, shall promote best interests of the union. Constitution and General Laws document since founding."
+            }
+          ]
+        },
+        {
+          "code": "53-4000",
+          "name": "Rail Transportation Workers",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "American Association of Private Railroad Car Owners (AAPRCO)",
+              "document_title": "Code of Ethics & Safety",
+              "url": "https://www.aaprco.com/about/code-of-ethics-safety/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Private railroad car owners. Safety is of primary importance; AAPRCO has denied membership to owners with poor safety records. Documented safety protocols required for all operators. Extensive safety review required in advance of every trip."
+            },
+            {
+              "organization": "Norfolk Southern Corporation",
+              "document_title": "Thoroughbred Code of Ethics",
+              "url": "https://www.norfolksouthern.com/en/commitments/who-we-are/vision-values/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Corporate code for all NS employees, officers, and board. Chapters on safe work environment, respect, business integrity, financial integrity, safeguarding assets, unified representation. Ethics and Compliance Committee oversees. Annual certification required. 24/7 hotline at (800) 732-9279. Retaliation prohibited."
+            },
+            {
+              "organization": "BNSF Railway",
+              "document_title": "BNSF Code of Conduct",
+              "url": "https://www.bnsf.com/bnsf-resources/pdf/about-bnsf/code-of-conduct.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Corporate code covering all BNSF employees. Focuses on ethical behavior, integrity, and legal compliance. Salaried employees certify annually. Values: customer focus, empowerment with concern for colleagues, continuous improvement, doing the right thing safely and efficiently. Mandatory reporting of misconduct. Hotline at 800-533-BNSF."
+            }
+          ],
+          "notes": "No standalone industry-wide professional code of ethics found for rail transportation workers as a whole. AAR (Association of American Railroads) focuses on technical standards. SMART Transportation Division and Brotherhood of Locomotive Engineers and Trainmen (BLET) focus on labor rights and safety rather than formal ethics codes. FRA regulates through 5 CFR 6001 (for federal employees) and 49 CFR operating rules."
+        },
+        {
+          "code": "53-5000",
+          "name": "Water Transportation Workers",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "International Maritime Organization (IMO)",
+              "document_title": "Code of Ethics for IMO Personnel",
+              "url": "https://wwwcdn.imo.org/localresources/en/OurWork/Documents/Code%20of%20Ethics%20for%20IMO%20Personnel.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2025 (effective August 15)",
+              "notes": "UN specialized agency. Values: Independence, Loyalty, Impartiality, Integrity. Covers integrity, accountability, discrimination, abuse of authority, harassment. Sets ethical tone for the maritime industry globally."
+            },
+            {
+              "organization": "The Nautical Institute",
+              "document_title": "Code of Ethics",
+              "url": "https://www.nautinst.org/static/b1c5ded5-576c-4471-8b1755eba899c025/code-of-ethics-Jul-23.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2023",
+              "notes": "Voluntary code for maritime professionals worldwide (merchant/naval officers, pilots, Harbour Masters, surveyors, ship managers, trainers). Four principles: Professional Competence and Behaviour, Ethical Standards and Integrity, Representative of the Profession, Stewardship. Ethical considerations take precedence over commercial interests."
+            },
+            {
+              "organization": "Society of Naval Architects and Marine Engineers (SNAME)",
+              "document_title": "SNAME Code of Ethics",
+              "url": "https://sname.org/sname-code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/International",
+              "year_published": "",
+              "notes": "Follows Professional Engineers Code of Ethics. Foundation of honesty, justice, and courtesy. Covers confidentiality, conflicts of interest, single-source compensation, advancing integrity/honor/dignity of the profession. Professionals shall be good stewards of the environment."
+            },
+            {
+              "organization": "Nautilus International / RMT / UK Chamber of Shipping",
+              "document_title": "Code of Conduct for the Merchant Navy",
+              "url": "https://www.ukchamberofshipping.com/latest/code-conduct-merchant-navy/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK/International",
+              "year_published": "2014 (revised)",
+              "notes": "Joint agreement between Nautilus International, RMT, and UK Chamber of Shipping; approved by Maritime & Coastguard Agency. Sets out disciplinary rules and procedures for seafarers onboard ship. 10 mandatory rules including punctuality, sobriety, no drugs, no weapons. Covers assault, willful damage, disobedience, theft, ill-treatment."
+            },
+            {
+              "organization": "International Labour Organization (ILO)",
+              "document_title": "Maritime Labour Convention (MLC), 2006",
+              "url": "https://www.ilo.org/international-labour-standards/maritime-labour-convention-2006",
+              "document_type": "international_convention",
+              "geographic_scope": "International",
+              "year_published": "2006 (entered force 2013)",
+              "notes": "Known as the 'Seafarers' Bill of Rights.' Ratified by 97 states representing 97%+ of global shipping. Covers 1.5 million seafarers' rights: employment agreements, hours of work/rest, wages, leave, repatriation, medical care, accommodation, health/safety, complaint procedures. Enforceable at ports of signatory states even against non-signatory vessels."
+            }
+          ]
+        },
+        {
+          "code": "53-6000",
+          "name": "Other Transportation Workers",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "National Customs Brokers & Forwarders Association of America (NCBFAA)",
+              "document_title": "NCBFAA Code of Ethics",
+              "url": "https://www.ncbfaa.org/about-ncbfaa",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Since 1897. Strict code for customs brokers, freight forwarders, NVOCCs, and ocean transportation intermediaries. 1,400+ member companies. Non-profit dedicated to fair and efficient trade practices."
+            },
+            {
+              "organization": "International Federation of Freight Forwarders Associations (FIATA)",
+              "document_title": "FIATA Model Rules for Freight Forwarding Services",
+              "url": "https://fiata.org/about/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "International",
+              "year_published": "1996 (updated 2019)",
+              "notes": "Covers 40,000 forwarding/logistics firms, 10 million employees in 160 countries. Model Rules first formulated 1996, updated 2019. Stipulate general principles on rights, obligations, and liabilities. Promote integrity, transparency, compliance with international trade regulations. Includes antitrust policy."
+            },
+            {
+              "organization": "Federal Aviation Administration (FAA) / U.S. Department of Transportation",
+              "document_title": "Supplemental Standards of Ethical Conduct (5 CFR Part 6001)",
+              "url": "https://www.ecfr.gov/current/title-5/chapter-L/part-6001",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "1996 (issued), current",
+              "notes": "Federal regulation for DOT employees including aviation support workers. Prohibits FAA employees from holding stock in airlines, aircraft manufacturers, or suppliers. FRA employees prohibited from railroad company financial interests. Supplements OGE Standards of Ethical Conduct (5 CFR 2635). Waiver process available."
+            }
+          ]
+        },
+        {
+          "code": "53-7000",
+          "name": "Material Moving Workers",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "International Warehouse Logistics Association (IWLA)",
+              "document_title": "IWLA Standards of Business Ethics (in Bylaws)",
+              "url": "https://iwla.com/wp-content/uploads/2022/06/IWLA-Bylaws-Ratified-March-2020.pdf",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US/North America",
+              "year_published": "2020",
+              "notes": "Since 1891. Only trade association for warehouse-based 3PL providers. Bylaws promote high standard of business ethics for public/contract warehousing and warehouse logistics services. Ratified March 2020."
+            },
+            {
+              "organization": "National Commission for the Certification of Crane Operators (NCCCO)",
+              "document_title": "CCO Code of Ethics and Substance Abuse Policy",
+              "url": "https://www.nccco.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1995 (founded)",
+              "notes": "Independent nonprofit founded 1995 by the construction industry. All CCO-certified crane operators must agree to comply with Code of Ethics and Substance Abuse Policy. ANSI-accredited and federally recognized. Certifications subject to suspension/revocation for ethics violations. Covers crane, rigging, and signalperson certifications."
+            },
+            {
+              "organization": "Supply Chain Canada (formerly SCMA/SCMAO)",
+              "document_title": "Code of Ethics for Professionals in the Field of Supply Chain Management",
+              "url": "https://www.supplychaincanada.com/en/about-scma/join-scma/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "Canada/International",
+              "year_published": "",
+              "notes": "Covers supply chain professionals including materials management and logistics. Members must conduct themselves as a reasonable and informed third party would find appropriate. Covers conflicts of interest, best practices adoption, credential maintenance. Reviewed at minimum every five years. Members obliged to comply to uphold integrity of profession."
+            }
+          ],
+          "notes": "Material moving occupations (forklift operators, laborers, stockers, packers) are generally governed by employer-level codes and OSHA safety standards rather than industry-wide professional ethics codes. ILWU (International Longshore and Warehouse Union) and ILA (International Longshoremen's Association) focus on labor rights and collective bargaining rather than formal professional ethics codes."
+        }
+      ]
+    },
+    {
+      "group_code": "55-0000",
+      "group_name": "Military Specific Occupations",
+      "minor_groups": [
+        {
+          "code": "55-1000",
+          "name": "Military Officer Special and Tactical Operations Leaders",
+          "total_codes_found": 8,
+          "codes": [
+            {
+              "organization": "U.S. Department of Defense",
+              "document_title": "DoD Directive 5500.07 — Standards of Conduct",
+              "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/550007p(2).pdf",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "2007 (most recent revision May 2024)",
+              "notes": "Establishes ethics policy and standards throughout the DoD. Applies to all DoD Components and personnel. Implements 14 principles of ethical conduct from Executive Order 12674. Noncompliance is administratively punitive for civilians; violations by military may be punishable under Article 92, UCMJ."
+            },
+            {
+              "organization": "U.S. Department of Defense",
+              "document_title": "Joint Ethics Regulation (JER), DoD 5500.07-R",
+              "url": "https://dodsoco.ogc.osd.mil/Portals/102/Documents/Issuances/JER%20and%20Directives/JER%20May%2015%202024.pdf",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "1993 (current revision May 15, 2024)",
+              "notes": "Comprehensive ethics regulation for all DoD military and civilian personnel. Covers financial disclosures, conflicts of interest, gifts, outside activities, post-government employment restrictions. Regulations are general orders — violations punishable under UCMJ Article 92. Supplemented by service-specific regulations."
+            },
+            {
+              "organization": "President of the United States",
+              "document_title": "Code of Conduct for Members of the Armed Forces (Executive Order 10631)",
+              "url": "https://www.archives.gov/federal-register/codification/executive-order/10631.html",
+              "document_type": "executive_order",
+              "geographic_scope": "US",
+              "year_published": "1955 (amended 1977, 1988)",
+              "notes": "Signed by President Eisenhower August 17, 1955. Six articles addressing conduct in combat and captivity. Amended by EO 12017 (1977, Carter) and EO 12633 (1988, Reagan — gender-neutral language). Every member of the armed forces expected to measure up to these standards."
+            },
+            {
+              "organization": "U.S. Army",
+              "document_title": "The Army Ethic (Army Values: LDRSHIP)",
+              "url": "https://www.army.mil/values/",
+              "document_type": "values_framework",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Seven core values: Loyalty, Duty, Respect, Selfless Service, Honor, Integrity, Personal Courage (LDRSHIP acronym). The Army Ethic is the professional ethic defining moral principles that guide conduct in missions, performance of duty, and all aspects of life. Reflected in law, creeds, oaths, and Army culture."
+            },
+            {
+              "organization": "U.S. Navy",
+              "document_title": "Navy Core Values: Honor, Courage, and Commitment",
+              "url": "https://www.history.navy.mil/browse-by-topic/heritage/customs-and-traditions0/the-sailor-s-creed.html",
+              "document_type": "values_framework",
+              "geographic_scope": "US",
+              "year_published": "1992",
+              "notes": "Core values adopted 1992, replacing professionalism/integrity/tradition from the 1950s. Honor: highest ethical manner, uncompromising code of integrity. Courage: moral and mental strength to do right. Commitment: positive change and constant improvement. Sailor's Creed formalized 1993 by Admiral Frank B. Kelso II."
+            },
+            {
+              "organization": "U.S. Marine Corps",
+              "document_title": "Marine Corps Core Values: Honor, Courage, Commitment",
+              "url": "https://www.marines.com/life-as-a-marine/standards/values.html",
+              "document_type": "values_framework",
+              "geographic_scope": "US",
+              "year_published": "1996",
+              "notes": "Formally established 1996. Honor: ultimate ethical and moral behavior, never lie/cheat/steal. Courage: mental, moral, and physical strength to adhere to a higher standard of personal conduct. Commitment: highest order of discipline. Marine Corps advocates Virtue Ethics — focusing on character rather than rules. Eleven leadership principles."
+            },
+            {
+              "organization": "U.S. Air Force",
+              "document_title": "Air Force Core Values (AFI 1-1)",
+              "url": "https://static.e-publishing.af.mil/production/1/af_cc/publication/afi1-1/afi1-1.pdf",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "1995 (core values adopted)",
+              "notes": "Three core values: Integrity First, Service Before Self, Excellence In All We Do. Adopted 1995. AFI 1-1 is the foundational instruction for Air Force culture and conduct. Airman's Creed: 'I am an American Airman. I am a Warrior. I have answered my Nation's call.' Covers all active duty, reserve, guard, and civilian Airmen."
+            },
+            {
+              "organization": "NATO",
+              "document_title": "NATO Code of Conduct",
+              "url": "https://www.nato.int/content/dam/nato/webready/documents/hr/code-of-conduct.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International (31 member states)",
+              "year_published": "2020 (agreed December 18)",
+              "notes": "Agreed by North Atlantic Council December 18, 2020. Applies to both civilian and military staff in all NATO bodies. Requires integrity, loyalty, accountability, impartiality, and professionalism. Read in context of NATO Civilian Personnel Regulations and applicable national military regulations."
+            }
+          ]
+        },
+        {
+          "code": "55-2000",
+          "name": "First-Line Enlisted Military Supervisors",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "U.S. Army",
+              "document_title": "Creed of the Noncommissioned Officer (NCO Creed)",
+              "url": "https://www.army.mil/values/nco.html",
+              "document_type": "creed",
+              "geographic_scope": "US",
+              "year_published": "1974 (formalized in publication 1985)",
+              "notes": "Written 1973 at U.S. Army Sergeants Major Academy by SFC Earle Brigham and Jimmie Jakes Sr. 289 words. Establishes professional and ethical standards: 'No one is more professional than I.' Covers mission accomplishment and welfare of soldiers as twin priorities. Will not use grade or position for personal gain. Emphasizes integrity, moral courage, initiative, loyalty to seniors, peers, and subordinates."
+            },
+            {
+              "organization": "U.S. Department of Defense",
+              "document_title": "DoD Directive 5500.07 — Standards of Conduct (as applied to NCOs/enlisted supervisors)",
+              "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/550007p(2).pdf",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "2007 (most recent revision May 2024)",
+              "notes": "Same DoD-wide ethics regulation applies to all ranks. For enlisted military members, JER regulations are general orders — violations punishable under UCMJ Article 92. Covers financial interests, gifts, outside employment, and all standards of ethical conduct."
+            },
+            {
+              "organization": "U.S. Coast Guard",
+              "document_title": "Coast Guard Core Values: Honor, Respect, Devotion to Duty",
+              "url": "https://www.gocoastguard.com/about/values",
+              "document_type": "values_framework",
+              "geographic_scope": "US",
+              "year_published": "1994",
+              "notes": "Instituted 1994. Honor: uncompromising ethical conduct, loyal and accountable to public trust. Respect: values diverse workforce, treats each other with fairness, dignity and compassion. Devotion to Duty: professionals who seek responsibility, accept accountability, committed to organizational goals. Coast Guard Ethos further elaborates duties."
+            },
+            {
+              "organization": "U.S. Space Force",
+              "document_title": "Guardian Ideal and Guardian Values",
+              "url": "https://www.spaceforce.mil/News/Article/2782534/cso-unveils-guardian-ideal-space-force-values-at-afa/",
+              "document_type": "values_framework",
+              "geographic_scope": "US",
+              "year_published": "2021",
+              "notes": "Four core Guardian values: Character, Connection, Commitment, Courage. Unveiled by Chief of Space Operations 2021. Guardian Spirit handbook provides daily guidance. Guardian Commitment is a two-way promise between leaders and teams. Emphasizes selfless public service as foundational."
+            },
+            {
+              "organization": "U.S. Office of Government Ethics / Executive Branch",
+              "document_title": "14 General Principles of Ethical Conduct for Federal Employees (5 CFR 2635.101)",
+              "url": "https://www.ecfr.gov/current/title-5/chapter-L/part-6001",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "1989 (EO 12674, modified 1990 by EO 12731)",
+              "notes": "14 principles from Executive Order 12674 (1989), applicable to all federal employees including military personnel. Core concepts: public office not for private gain, act impartially without preferential treatment. Covers loyalty to Constitution, no financial conflicts, no soliciting gifts, avoid appearance of violations. Foundation for all DoD ethics programs."
+            }
+          ]
+        },
+        {
+          "code": "55-3000",
+          "name": "Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "President of the United States",
+              "document_title": "Code of Conduct for Members of the Armed Forces (Executive Order 10631)",
+              "url": "https://www.archives.gov/federal-register/codification/executive-order/10631.html",
+              "document_type": "executive_order",
+              "geographic_scope": "US",
+              "year_published": "1955 (amended 1977, 1988)",
+              "notes": "Applies to all service members including enlisted tactical specialists. Six articles: never surrender willingly, continue to resist in captivity, make every effort to escape, give only name/rank/service number/DOB if captured, keep faith with fellow prisoners, never accept parole or special favors from the enemy."
+            },
+            {
+              "organization": "U.S. Army",
+              "document_title": "The Soldier's Creed",
+              "url": "https://www.army.mil/values/",
+              "document_type": "creed",
+              "geographic_scope": "US",
+              "year_published": "2003",
+              "notes": "Applies to all soldiers including enlisted tactical specialists. 'I am an American Soldier. I am a warrior and a member of a team. I serve the people of the United States and live the Army Values.' Emphasizes warrior ethos: 'I will always place the mission first. I will never accept defeat. I will never quit. I will never leave a fallen comrade.'"
+            },
+            {
+              "organization": "U.S. Navy",
+              "document_title": "The Sailor's Creed",
+              "url": "https://www.history.navy.mil/browse-by-topic/heritage/customs-and-traditions0/the-sailor-s-creed.html",
+              "document_type": "creed",
+              "geographic_scope": "US",
+              "year_published": "1993",
+              "notes": "Product of Blue Ribbon Recruit Training Panels at direction of Admiral Frank B. Kelso II, CNO. 'I am a United States Sailor... I proudly serve my country's Navy combat team with Honor, Courage, and Commitment.' Taught and recited in boot camp. Represents the fighting spirit of the Navy."
+            },
+            {
+              "organization": "U.S. Air Force",
+              "document_title": "The Airman's Creed",
+              "url": "https://www.airforce.com/vision",
+              "document_type": "creed",
+              "geographic_scope": "US",
+              "year_published": "2007",
+              "notes": "Adopted 2007. 'I am an American Airman. I am a Warrior. I have answered my Nation's call.' Emphasizes that Airmen are far more than a conglomeration of diverse specialties — they are part of the profession of arms made up entirely of volunteers sworn to defend the Constitution."
+            },
+            {
+              "organization": "U.S. Department of Defense",
+              "document_title": "DoD Law of War Manual",
+              "url": "https://ogc.osd.mil/Portals/99/Law%20of%20War/Practice%20Documents/DoD%20GC%20Ney%20Aug%206%202020%20memo%20-%20brief%20overview%20of%20the%20law%20of%20war.pdf",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US/International",
+              "year_published": "2015 (updated 2023)",
+              "notes": "Implements Geneva Conventions and law of armed conflict (LOAC/IHL) for all U.S. military personnel. Establishes ethical principles for combat operations: distinction (between combatants and civilians), proportionality, military necessity, and humanity. All service members receive LOAC training. Violations are war crimes prosecutable under UCMJ and international law."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "agent_id": "S10",
+  "researched_at": "2026-03-21",
+  "summary": {
+    "total_codes_found": 44,
+    "group_53_total": 26,
+    "group_55_total": 18,
+    "minor_groups_with_zero_codes": [],
+    "key_findings": [
+      "Air Transportation Workers (53-2000) has the richest ethics landscape in the transportation group with 6 codes spanning pilots (ALPA, 1956), air traffic controllers (NATCA, 2009), flight attendants (AFA-CWA), and aerospace professionals (AIAA/IATA)",
+      "Water Transportation Workers (53-5000) has strong international coverage with 5 codes including the IMO Code of Ethics, Nautical Institute Code, SNAME Code, Merchant Navy Code of Conduct, and the ILO Maritime Labour Convention (the 'Seafarers Bill of Rights')",
+      "Military ethics operates through a layered system: federal law (UCMJ), executive orders (Code of Conduct, EO 10631), DoD-wide regulation (JER/5500.07), service-specific values frameworks, and individual creeds (Soldier's, Sailor's, Airman's, NCO)",
+      "Each U.S. military service branch has distinct core values: Army (LDRSHIP — 7 values), Navy/Marines (Honor, Courage, Commitment), Air Force (Integrity First, Service Before Self, Excellence), Coast Guard (Honor, Respect, Devotion to Duty), Space Force (Character, Connection, Commitment, Courage)",
+      "Rail Transportation Workers (53-4000) lack an industry-wide professional ethics code; existing codes are corporate-level (Norfolk Southern, BNSF) rather than profession-wide",
+      "Material Moving Workers (53-7000) are primarily governed by employer-level codes and safety certifications (NCCCO) rather than profession-wide ethics codes",
+      "Motor Vehicle Operators (53-3000) have 4 codes but trucking industry ethics codes are fragmented across ATA subdivisions, the bus industry (ABA), freight brokers (TIA), and transit unions (ATU)",
+      "The DoD Joint Ethics Regulation (JER, May 2024 revision) is the single most comprehensive military ethics document, applying to all DoD military and civilian personnel across all branches",
+      "NATO Code of Conduct (2020) provides an international ethics framework across 31 member states for both military and civilian NATO personnel",
+      "The 14 General Principles of Ethical Conduct (EO 12674, 5 CFR 2635.101) form the foundational layer for all federal employees including military, making military ethics one of the most heavily regulated occupational ethics domains"
+    ]
+  }
+}

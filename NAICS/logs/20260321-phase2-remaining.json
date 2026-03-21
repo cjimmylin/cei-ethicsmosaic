@@ -1,0 +1,941 @@
+{
+  "total": 104,
+  "failures": [
+    {
+      "index": 15,
+      "url": "https://www.isa-arbor.com/Credentials/ISA-Ethics-and-Integrity/Code-of-Ethics",
+      "organization": "International Society of Arboriculture (ISA)",
+      "filename_stem": "ISA-ISA-Certified-Arborist-Code-of-Ethics",
+      "document_title": "ISA Certified Arborist Code of Ethics",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 17,
+      "url": "https://fisheries.org/about/governance/standards-of-professional-conduct/",
+      "organization": "American Fisheries Society (AFS)",
+      "filename_stem": "AFS-Standards-of-Professional-Conduct",
+      "document_title": "Standards of Professional Conduct",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 18,
+      "url": "https://wildlife.org/wp-content/uploads/2024/06/20240324_Code_of_Ethics.pdf",
+      "organization": "The Wildlife Society (TWS)",
+      "filename_stem": "TWS-Code-of-Ethics",
+      "document_title": "Code of Ethics",
+      "error": "pdf_failed:curl_error_56 html_fallback:http_404",
+      "category": "direct_pdf"
+    },
+    {
+      "index": 47,
+      "url": "https://www.ieee.org/content/dam/ieee-org/ieee/web/org/about/ieee_code_of_conduct.pdf",
+      "organization": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "filename_stem": "IEEE-IEEE-Code-of-Conduct",
+      "document_title": "IEEE Code of Conduct",
+      "error": "pdf_failed:not_a_pdf html_fallback:http_307",
+      "category": "direct_pdf"
+    },
+    {
+      "index": 61,
+      "url": "https://www.ciob.org/ethics-respect-people",
+      "organization": "Chartered Institute of Building (CIOB)",
+      "filename_stem": "CIOB-CIOB-Code-of-Conduct",
+      "document_title": "CIOB Code of Conduct",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 74,
+      "url": "https://www.necanet.org/",
+      "organization": "National Electrical Contractors Association (NECA)",
+      "filename_stem": "NECA-NECA-Code-of-Ethics",
+      "document_title": "NECA Code of Ethics",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 142,
+      "url": "https://www.aisc.org/about-us/code-of-conduct/",
+      "organization": "American Institute of Steel Construction (AISC)",
+      "filename_stem": "AISC-AISC-Code-of-Conduct",
+      "document_title": "AISC Code of Conduct",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 203,
+      "url": "https://www.alpa.org/about/code-of-ethics",
+      "organization": "Air Line Pilots Association (ALPA)",
+      "filename_stem": "ALPA-ALPA-Code-of-Ethics",
+      "document_title": "ALPA Code of Ethics",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 237,
+      "url": "https://www.acm.org/code-of-ethics",
+      "organization": "Association for Computing Machinery (ACM)",
+      "filename_stem": "ACM-ACM-Code-of-Ethics-and-Professional-Conduct",
+      "document_title": "ACM Code of Ethics and Professional Conduct",
+      "error": "blocked_preclassified",
+      "category": "blocked"
+    },
+    {
+      "index": 239,
+      "url": "https://aitp-ncfl.org/home/about-2/aitp-code-of-ethics/",
+      "organization": "Association of Information Technology Professionals (AITP/CompTIA)",
+      "filename_stem": "AITP-CompTIA-AITP-Code-of-Ethics-and-Standards-of-Conduct",
+      "document_title": "AITP Code of Ethics and Standards of Conduct",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 241,
+      "url": "https://www.ifla.org/publications/ifla-code-of-ethics-for-librarians-and-other-information-workers-full-version/",
+      "organization": "International Federation of Library Associations and Institutions (IFLA)",
+      "filename_stem": "IFLA-IFLA-Code-of-Ethics-for-Librarians-and-Other-Information-Wor",
+      "document_title": "IFLA Code of Ethics for Librarians and Other Information Workers",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 246,
+      "url": "https://www.federalreserve.gov/aboutthefed/files/code-of-conduct.pdf",
+      "organization": "Federal Reserve Banks",
+      "filename_stem": "FRB-Code-of-Conduct-for-Senior-Financial-Officers-and-Additional",
+      "document_title": "Code of Conduct for Senior Financial Officers and Additional Policies on Ethics and Conflicts of Interest",
+      "error": "pdf_failed:curl_error_56 html_fallback:http_404",
+      "category": "direct_pdf"
+    },
+    {
+      "index": 247,
+      "url": "https://www.bis.org/about/code_of_conduct.htm",
+      "organization": "Bank for International Settlements (BIS)",
+      "filename_stem": "BIS-Code-of-Conduct-for-Central-Bank-Officials",
+      "document_title": "Code of Conduct for Central Bank Officials",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 248,
+      "url": "https://www.aba.com/about-us/code-of-ethics",
+      "organization": "American Bankers Association (ABA)",
+      "filename_stem": "ABA-Code-of-Ethics",
+      "document_title": "Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 249,
+      "url": "https://www.icba.org/about/governance/code-of-ethics",
+      "organization": "Independent Community Bankers of America (ICBA)",
+      "filename_stem": "ICBA-Code-of-Ethics",
+      "document_title": "Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 250,
+      "url": "https://www.mba.org/about-mba/code-of-conduct",
+      "organization": "Mortgage Bankers Association (MBA)",
+      "filename_stem": "MBA-Code-of-Ethics-and-Standards-of-Conduct",
+      "document_title": "Code of Ethics and Standards of Conduct",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 251,
+      "url": "https://www.namb.org/code-of-ethics",
+      "organization": "National Association of Mortgage Brokers (NAMB)",
+      "filename_stem": "NAMB-Code-of-Ethics-and-Best-Lending-Practices",
+      "document_title": "Code of Ethics and Best Lending Practices",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 254,
+      "url": "https://www.acainternational.org/about/code-of-ethics",
+      "organization": "ACA International",
+      "filename_stem": "ACAI-Code-of-Ethics",
+      "document_title": "Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 256,
+      "url": "https://www.lsta.org/content/code-of-conduct/",
+      "organization": "Loan Syndications and Trading Association (LSTA)",
+      "filename_stem": "LSTA-Code-of-Conduct-for-the-U-S-Syndicated-Loan-Market",
+      "document_title": "Code of Conduct for the U.S. Syndicated Loan Market",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 257,
+      "url": "https://www.sfnet.com/about/code-of-ethics",
+      "organization": "Secured Finance Network (SFNet)",
+      "filename_stem": "SFNet-Code-of-Ethics",
+      "document_title": "Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 258,
+      "url": "https://www.factoring.org/code-of-ethics",
+      "organization": "International Factoring Association (IFA)",
+      "filename_stem": "IFA-Code-of-Ethics",
+      "document_title": "Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 259,
+      "url": "https://www.csbs.org/code-ethics",
+      "organization": "Conference of State Bank Supervisors (CSBS)",
+      "filename_stem": "CSBS-Code-of-Ethics-and-Professional-Conduct-for-State-Bank-Exami",
+      "document_title": "Code of Ethics and Professional Conduct for State Bank Examiners",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 260,
+      "url": "https://www.cfainstitute.org/ethics-standards/ethics/code-of-ethics-standards-of-professional-conduct",
+      "organization": "CFA Institute",
+      "filename_stem": "CFAI-Code-of-Ethics-and-Standards-of-Professional-Conduct",
+      "document_title": "Code of Ethics and Standards of Professional Conduct",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 263,
+      "url": "https://www.sec.gov/about/ethics",
+      "organization": "Securities and Exchange Commission (SEC)",
+      "filename_stem": "SEC-SEC-Code-of-Ethics-for-Senior-Financial-Officers",
+      "document_title": "SEC Code of Ethics for Senior Financial Officers",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 265,
+      "url": "https://www.financialplanningassociation.org/ethics",
+      "organization": "Financial Planning Association (FPA)",
+      "filename_stem": "FPA-Code-of-Ethics-and-Professional-Responsibility",
+      "document_title": "Code of Ethics and Professional Responsibility",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 266,
+      "url": "https://www.napfa.org/financial-planning/fiduciary-oath",
+      "organization": "National Association of Personal Financial Advisors (NAPFA)",
+      "filename_stem": "NAPFA-NAPFA-Fiduciary-Oath",
+      "document_title": "NAPFA Fiduciary Oath",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 267,
+      "url": "https://caia.org/code-of-conduct",
+      "organization": "Chartered Alternative Investment Analyst Association (CAIA)",
+      "filename_stem": "CAIA-Code-of-Conduct-and-Standards-of-Practice",
+      "document_title": "Code of Conduct and Standards of Practice",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 268,
+      "url": "https://www.garp.org/code-conduct",
+      "organization": "Global Association of Risk Professionals (GARP)",
+      "filename_stem": "GARP-GARP-Code-of-Conduct",
+      "document_title": "GARP Code of Conduct",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 271,
+      "url": "https://www.investmentadviser.org/standards-of-practice/",
+      "organization": "Investment Adviser Association (IAA)",
+      "filename_stem": "IAA-Standards-of-Practice-and-Code-of-Ethics-Guidance",
+      "document_title": "Standards of Practice and Code of Ethics Guidance",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 272,
+      "url": "https://www.cfainstitute.org/ethics-standards/ethics/standards-practice-handbook",
+      "organization": "CFA Institute",
+      "filename_stem": "CFAI-Standards-of-Practice-Handbook",
+      "document_title": "Standards of Practice Handbook",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 273,
+      "url": "https://www.cisi.org/cisiweb2/cisi-website/membership/code-of-conduct",
+      "organization": "Chartered Institute for Securities & Investment (CISI)",
+      "filename_stem": "CISI-Code-of-Conduct",
+      "document_title": "Code of Conduct",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 276,
+      "url": "https://www.cftc.gov/About/Governance/Ethics",
+      "organization": "Commodity Futures Trading Commission (CFTC)",
+      "filename_stem": "CFTC-Standards-of-Ethical-Conduct",
+      "document_title": "Standards of Ethical Conduct",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 277,
+      "url": "https://investmentsandwealth.org/about/code-of-professional-responsibility",
+      "organization": "Investments & Wealth Institute (formerly IMCA)",
+      "filename_stem": "formerly-IMCA-Code-of-Professional-Responsibility",
+      "document_title": "Code of Professional Responsibility",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 280,
+      "url": "https://www.aima.org/sound-practices/hedge-fund-governance.html",
+      "organization": "Alternative Investment Management Association (AIMA)",
+      "filename_stem": "AIMA-Guide-to-Sound-Practices-for-Hedge-Fund-Governance",
+      "document_title": "Guide to Sound Practices for Hedge Fund Governance",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 283,
+      "url": "https://www.theinstitutes.org/guide/cpcu-code-professional-conduct",
+      "organization": "The Institutes (CPCU)",
+      "filename_stem": "CPCU-CPCU-Code-of-Professional-Conduct",
+      "document_title": "CPCU Code of Professional Conduct",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 284,
+      "url": "https://www.naifa.org/about/code-of-ethics",
+      "organization": "National Association of Insurance and Financial Advisors (NAIFA)",
+      "filename_stem": "NAIFA-Code-of-Ethics",
+      "document_title": "Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 286,
+      "url": "https://www.casact.org/professionalism/code-professional-ethics",
+      "organization": "Casualty Actuarial Society (CAS)",
+      "filename_stem": "CAS-Code-of-Professional-Ethics-for-Actuaries",
+      "document_title": "Code of Professional Ethics for Actuaries",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 290,
+      "url": "https://nabip.org/who-we-are/code-of-ethics",
+      "organization": "NABIP (formerly NAHU)",
+      "filename_stem": "formerly-NAHU-Code-of-Ethics",
+      "document_title": "Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 291,
+      "url": "https://www.insuranceinstitute.ca/en/professional-development/code-of-ethics",
+      "organization": "Insurance Institute of Canada (IIC)",
+      "filename_stem": "IIC-Code-of-Ethics",
+      "document_title": "Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 292,
+      "url": "https://www.iaisweb.org/activities-topics/standards-and-guidance/insurance-core-principles/",
+      "organization": "International Association of Insurance Supervisors (IAIS)",
+      "filename_stem": "IAIS-Insurance-Core-Principles-ICP-7-and-ICP-8",
+      "document_title": "Insurance Core Principles \u2014 ICP 7 and ICP 8",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 293,
+      "url": "https://www.namic.org/about/code-of-conduct",
+      "organization": "National Association of Mutual Insurance Companies (NAMIC)",
+      "filename_stem": "NAMIC-Code-of-Conduct-and-Ethics-Policy",
+      "document_title": "Code of Conduct and Ethics Policy",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 294,
+      "url": "https://www.actec.org/resources/standards-of-professional-responsibility/",
+      "organization": "American College of Trust and Estate Counsel (ACTEC)",
+      "filename_stem": "ACTEC-Standards-of-Professional-Responsibility-and-Ethics",
+      "document_title": "Standards of Professional Responsibility and Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 295,
+      "url": "https://www.imanet.org/advocacy/ima-statement-of-ethical-professional-practice",
+      "organization": "Institute of Management Accountants (IMA)",
+      "filename_stem": "IMA-IMA-Statement-of-Ethical-Professional-Practice",
+      "document_title": "IMA Statement of Ethical Professional Practice",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 304,
+      "url": "https://www.nar.realtor/about-nar/governing-documents/the-realtor-pledge",
+      "organization": "NAR",
+      "filename_stem": "NAR-Realtor-Pledge",
+      "document_title": "Realtor Pledge",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 309,
+      "url": "https://www.ccim.com/about-ccim/code-of-ethics/",
+      "organization": "CCIM Institute",
+      "filename_stem": "CCIMI-Code-of-Ethics",
+      "document_title": "Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 311,
+      "url": "https://www.naahq.org/about/code-of-ethics",
+      "organization": "National Apartment Association (NAA)",
+      "filename_stem": "NAA-Code-of-Ethics",
+      "document_title": "Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 312,
+      "url": "https://cre.org/about-cre/code-of-ethics/",
+      "organization": "Counselors of Real Estate (CRE)",
+      "filename_stem": "CRE-Code-of-Ethics-and-Standards-of-Professional-Practice",
+      "document_title": "Code of Ethics and Standards of Professional Practice",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 313,
+      "url": "https://www.icsc.com/about/code-of-professional-standards",
+      "organization": "ICSC (Innovating Commerce Serving Communities)",
+      "filename_stem": "ICSCI-Code-of-Professional-Standards",
+      "document_title": "Code of Professional Standards",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 314,
+      "url": "https://www.ifma.org/about/about-ifma/code-of-ethics/",
+      "organization": "International Facility Management Association (IFMA)",
+      "filename_stem": "IFMA-Code-of-Ethics",
+      "document_title": "Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 315,
+      "url": "https://www.boma.org/BOMA/About/BOMA_Code_of_Ethics.aspx",
+      "organization": "BOMA International",
+      "filename_stem": "BOMAI-Code-of-Ethics",
+      "document_title": "Code of Ethics",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 316,
+      "url": "https://www.rebny.com/about-rebny/code-of-ethics/",
+      "organization": "Real Estate Board of New York (REBNY)",
+      "filename_stem": "REBNY-Code-of-Ethics-and-Fair-Dealing",
+      "document_title": "Code of Ethics and Fair Dealing",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 324,
+      "url": "https://www.licensinginternational.org/about/code-of-business-practices/",
+      "organization": "Licensing International (formerly LIMA)",
+      "filename_stem": "formerly-LIMA-Code-of-Business-Practices-and-Ethics",
+      "document_title": "Code of Business Practices and Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 325,
+      "url": "https://www.inta.org/about/code-of-conduct/",
+      "organization": "International Trademark Association (INTA)",
+      "filename_stem": "INTA-Code-of-Ethics",
+      "document_title": "Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 326,
+      "url": "https://www.franchise.org/code-of-ethics",
+      "organization": "International Franchise Association (IFA)",
+      "filename_stem": "IFA-Code-of-Ethics-2",
+      "document_title": "Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 327,
+      "url": "https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/",
+      "organization": "American Bar Association (ABA)",
+      "filename_stem": "ABA-Model-Rules-of-Professional-Conduct",
+      "document_title": "Model Rules of Professional Conduct",
+      "error": "blocked_preclassified",
+      "category": "blocked"
+    },
+    {
+      "index": 335,
+      "url": "https://www.apa.org/ethics/code",
+      "organization": "American Psychological Association (APA)",
+      "filename_stem": "APA-Ethical-Principles-of-Psychologists-and-Code-of-Conduct",
+      "document_title": "Ethical Principles of Psychologists and Code of Conduct",
+      "error": "blocked_preclassified",
+      "category": "blocked"
+    },
+    {
+      "index": 347,
+      "url": "https://www.aiga.org/resources/aiga-standards-of-professional-practice",
+      "organization": "AIGA (The Professional Association for Design)",
+      "filename_stem": "AIGAT-Standards-of-Professional-Practice",
+      "document_title": "Standards of Professional Practice",
+      "error": "blocked_preclassified",
+      "category": "blocked"
+    },
+    {
+      "index": 360,
+      "url": "https://www.landman.org/about/governance/code-of-ethics-and-standards-of-practice",
+      "organization": "American Association of Professional Landmen (AAPL)",
+      "filename_stem": "AAPL-Code-of-Ethics-and-Standards-of-Practice",
+      "document_title": "Code of Ethics and Standards of Practice",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 363,
+      "url": "https://www.ethics.org/",
+      "organization": "Ethics & Compliance Initiative (ECI)",
+      "filename_stem": "ECI-Model-Code-of-Conduct-Framework",
+      "document_title": "Model Code of Conduct Framework",
+      "error": "url_error_[Errno 8] nodename nor servname provided",
+      "category": "html_page"
+    },
+    {
+      "index": 395,
+      "url": "https://research.aota.org/ajot/article/doi/10.5014/ajot.2025.79S302/28485/AOTA-2025-Occupational-Therapy-Code-of-Ethics",
+      "organization": "American Occupational Therapy Association (AOTA)",
+      "filename_stem": "AOTA-AOTA-2025-Occupational-Therapy-Code-of-Ethics",
+      "document_title": "AOTA 2025 Occupational Therapy Code of Ethics",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 427,
+      "url": "https://www.jointcommission.org/en-us/standards",
+      "organization": "The Joint Commission",
+      "filename_stem": "TJC-Patient-Rights-and-Organizational-Ethics-Standards",
+      "document_title": "Patient Rights and Organizational Ethics Standards",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 432,
+      "url": "https://publications.aap.org/collection/686/Ethics-Bioethics",
+      "organization": "American Academy of Pediatrics (AAP)",
+      "filename_stem": "AAP-AAP-Code-of-Conduct-and-Bioethics-Policy-Statements",
+      "document_title": "AAP Code of Conduct and Bioethics Policy Statements",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 437,
+      "url": "https://www.ncaa.org/sports/2016/1/26/ethics.aspx",
+      "organization": "National Collegiate Athletic Association (NCAA)",
+      "filename_stem": "NCAA-NCAA-Constitution-Ethical-Conduct-Provisions",
+      "document_title": "NCAA Constitution \u2014 Ethical Conduct Provisions",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 438,
+      "url": "https://nassm.org/node/111",
+      "organization": "North American Society for Sport Management (NASSM)",
+      "filename_stem": "NASSM-NASSM-Code-of-Ethics",
+      "document_title": "NASSM Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 439,
+      "url": "https://www.usopc.org/code-of-conduct",
+      "organization": "United States Olympic & Paralympic Committee (USOPC)",
+      "filename_stem": "USOPC-USOPC-Code-of-Conduct",
+      "document_title": "USOPC Code of Conduct",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 451,
+      "url": "https://www.hftp.org/about/code-of-ethics/",
+      "organization": "Hospitality Financial and Technology Professionals (HFTP)",
+      "filename_stem": "HFTP-HFTP-Code-of-Ethics",
+      "document_title": "HFTP Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 454,
+      "url": "https://www.anfponline.org/about-anfp/code-of-ethics",
+      "organization": "Association of Nutrition & Foodservice Professionals (ANFP)",
+      "filename_stem": "ANFP-ANFP-Code-of-Ethics",
+      "document_title": "ANFP Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 457,
+      "url": "https://www.eta-i.org/ethics.html",
+      "organization": "Electronic Technicians Association International (ETA)",
+      "filename_stem": "ETA-ETA-Code-of-Ethics",
+      "document_title": "ETA Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 458,
+      "url": "https://www.nahb.org/about/code-of-ethics",
+      "organization": "National Association of Home Builders (NAHB)",
+      "filename_stem": "NAHB-NAHB-Code-of-Ethics-2",
+      "document_title": "NAHB Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 462,
+      "url": "https://www.iccfa.com/about/code-of-ethics/",
+      "organization": "International Cemetery, Cremation and Funeral Association (ICCFA)",
+      "filename_stem": "ICCFA-ICCFA-Code-of-Ethics",
+      "document_title": "ICCFA Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 469,
+      "url": "https://cof.org/content/principles-and-practices",
+      "organization": "Council on Foundations",
+      "filename_stem": "CF-Principles-and-Practices-for-Effective-Grantmaking",
+      "document_title": "Principles and Practices for Effective Grantmaking",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 473,
+      "url": "https://www.domesticworkers.org/bill-of-rights/",
+      "organization": "National Domestic Workers Alliance (NDWA)",
+      "filename_stem": "NDWA-Domestic-Workers-Bill-of-Rights-Ethical-Standards-Framework",
+      "document_title": "Domestic Workers Bill of Rights \u2014 Ethical Standards Framework",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 480,
+      "url": "https://www.nlc.org/resource/code-of-ethics/",
+      "organization": "National League of Cities (NLC)",
+      "filename_stem": "NLC-Code-of-Ethics-for-City-Officials",
+      "document_title": "Code of Ethics for City Officials",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 489,
+      "url": "https://ndaa.org/wp-content/uploads/National-Prosecution-Standards-Fourth-Edition.pdf",
+      "organization": "National District Attorneys Association (NDAA)",
+      "filename_stem": "NDAA-National-Prosecution-Standards-Chapter-1-Ethics",
+      "document_title": "National Prosecution Standards (Chapter 1: Ethics)",
+      "error": "pdf_failed:curl_error_56 html_fallback:http_403",
+      "category": "direct_pdf"
+    },
+    {
+      "index": 490,
+      "url": "https://www.naswa.org/about/mission",
+      "organization": "National Association of State Workforce Agencies (NASWA)",
+      "filename_stem": "NASWA-NASWA-Code-of-Ethics-and-Professional-Standards",
+      "document_title": "NASWA Code of Ethics and Professional Standards",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 492,
+      "url": "https://www.ipma-hr.org/about/code-of-ethics",
+      "organization": "International Public Management Association for Human Resources (IPMA-HR)",
+      "filename_stem": "IPMA-HR-IPMA-HR-Code-of-Ethics",
+      "document_title": "IPMA-HR Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 495,
+      "url": "https://www.iema.net/membership/code-of-practice",
+      "organization": "Institute of Environmental Management and Assessment (IEMA)",
+      "filename_stem": "IEMA-IEMA-Code-of-Practice",
+      "document_title": "IEMA Code of Practice",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 496,
+      "url": "https://www.nahro.org/about/code-of-professional-conduct-and-ethics/",
+      "organization": "National Association of Housing and Redevelopment Officials (NAHRO)",
+      "filename_stem": "NAHRO-NAHRO-Code-of-Professional-Conduct-and-Ethics",
+      "document_title": "NAHRO Code of Professional Conduct and Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 497,
+      "url": "https://www.aace1.org/page/codeofethics",
+      "organization": "American Association of Code Enforcement (AACE)",
+      "filename_stem": "AACE-AACE-Code-of-Ethics",
+      "document_title": "AACE Code of Ethics",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 504,
+      "url": "https://dodsoco.ogc.osd.mil/Portals/102/Documents/Issuances/JER%20and%20Directives/JER%20May%2015%202024.pdf",
+      "organization": "U.S. Department of Defense (DoD)",
+      "filename_stem": "DoD-Joint-Ethics-Regulation-JER",
+      "document_title": "Joint Ethics Regulation (JER)",
+      "error": "pdf_failed:curl_error_56 html_fallback:http_403",
+      "category": "direct_pdf"
+    },
+    {
+      "index": 507,
+      "url": "https://www.dni.gov/files/documents/CLPO/Principles_of_Professional_Ethics_for_the_IC.pdf",
+      "organization": "Intelligence Community (IC)",
+      "filename_stem": "IC-Principles-of-Professional-Ethics-for-the-Intelligence-Commu",
+      "document_title": "Principles of Professional Ethics for the Intelligence Community",
+      "error": "pdf_failed:curl_error_56 html_fallback:http_403",
+      "category": "direct_pdf"
+    },
+    {
+      "index": 509,
+      "url": "https://www.managers.org.uk/about-cmi/governance/policies/code-of-conduct/",
+      "organization": "Chartered Management Institute (CMI)",
+      "filename_stem": "CMI-CMI-Code-of-Conduct-and-Practice",
+      "document_title": "CMI Code of Conduct and Practice",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 513,
+      "url": "https://www.sec.gov/rules-regulations/2003/03/disclosure-required-sections-406-407-sarbanes-oxley-act-2002",
+      "organization": "U.S. Securities and Exchange Commission (SEC)",
+      "filename_stem": "SEC-Sarbanes-Oxley-Act-Section-406-Code-of-Ethics-for-Senior-Fin",
+      "document_title": "Sarbanes-Oxley Act Section 406 \u2014 Code of Ethics for Senior Financial Officers",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 552,
+      "url": "https://www.acm.org/code-of-ethics/software-engineering-code",
+      "organization": "IEEE Computer Society / ACM (Joint)",
+      "filename_stem": "Joint-Software-Engineering-Code-of-Ethics-and-Professional-Practic",
+      "document_title": "Software Engineering Code of Ethics and Professional Practice",
+      "error": "blocked_preclassified",
+      "category": "blocked"
+    },
+    {
+      "index": 565,
+      "url": "https://nsps.us.com/page/CreedandCanons",
+      "organization": "National Society of Professional Surveyors (NSPS)",
+      "filename_stem": "NSPS-Surveyor-s-Creed-and-Canons",
+      "document_title": "Surveyor's Creed and Canons",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 572,
+      "url": "https://store.ampp.org/ethics-for-the-corrosion-professional",
+      "organization": "AMPP (Association for Materials Protection and Performance)",
+      "filename_stem": "AMPPA-AMPP-Code-of-Ethics",
+      "document_title": "AMPP Code of Ethics",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 615,
+      "url": "https://www.counseling.org/resources/competencies/multicultural-and-social-justice-counseling-competencies",
+      "organization": "Association for Multicultural Counseling and Development (AMCD)",
+      "filename_stem": "AMCD-Multicultural-and-Social-Justice-Counseling-Competencies",
+      "document_title": "Multicultural and Social Justice Counseling Competencies",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 622,
+      "url": "https://www.americanbar.org/groups/professional_responsibility/publications/model_code_of_judicial_conduct/",
+      "organization": "American Bar Association (ABA)",
+      "filename_stem": "ABA-Model-Code-of-Judicial-Conduct",
+      "document_title": "Model Code of Judicial Conduct",
+      "error": "blocked_preclassified",
+      "category": "blocked"
+    },
+    {
+      "index": 637,
+      "url": "https://www.nals.org/page/NALSCodeofEthics",
+      "organization": "NALS \u2014 National Association for Legal Support Professionals",
+      "filename_stem": "NALSN-NALS-Code-of-Ethics-and-Professional-Responsibility",
+      "document_title": "NALS Code of Ethics and Professional Responsibility",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 650,
+      "url": "https://www.sagaftra.org/contracts-industry-resources/agents-managers/managers/code-ethics-conduct",
+      "organization": "SAG-AFTRA",
+      "filename_stem": "SAGAF-Personal-Manager-Code-of-Ethics-and-Conduct-2",
+      "document_title": "Personal Manager Code of Ethics and Conduct",
+      "error": "blocked_preclassified",
+      "category": "blocked"
+    },
+    {
+      "index": 660,
+      "url": "https://www.aapa.org/career-central/practice-tools/ethical-guidelines-for-the-pa-profession/",
+      "organization": "American Academy of Physician Associates (AAPA)",
+      "filename_stem": "AAPA-Guidelines-for-Ethical-Conduct-for-the-PA-Profession-2",
+      "document_title": "Guidelines for Ethical Conduct for the PA Profession",
+      "error": "http_401",
+      "category": "html_page"
+    },
+    {
+      "index": 661,
+      "url": "https://internationalmidwives.org/resources/international-code-of-ethics-for-midwives/",
+      "organization": "International Confederation of Midwives (ICM)",
+      "filename_stem": "ICM-ICM-International-Code-of-Ethics-for-Midwives",
+      "document_title": "ICM International Code of Ethics for Midwives",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 668,
+      "url": "https://www.nccaom.org/about-nccaom/",
+      "organization": "National Certification Commission for Acupuncture and Oriental Medicine (NCCAOM)",
+      "filename_stem": "NCCAOM-NCCAOM-Code-of-Ethics",
+      "document_title": "NCCAOM Code of Ethics",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 695,
+      "url": "https://ifpo.org/",
+      "organization": "International Foundation for Protection Officers (IFPO)",
+      "filename_stem": "IFPO-IFPO-Professional-Ethics-Standards",
+      "document_title": "IFPO Professional Ethics Standards",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 701,
+      "url": "https://www.usbg.org/about1/usbg-policies/member-code-of-conduct2",
+      "organization": "United States Bartenders' Guild (USBG)",
+      "filename_stem": "USBG-Member-Code-of-Conduct",
+      "document_title": "Member Code of Conduct",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 727,
+      "url": "https://auctioneers.org/NAA/About%20NAA/Code-of-Ethics/NAA/About-NAA/Governance-And-Financials/Code-of-Ethics.aspx",
+      "organization": "National Auctioneers Association (NAA)",
+      "filename_stem": "NAA-NAA-Code-of-Ethics-2",
+      "document_title": "NAA Code of Ethics",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 730,
+      "url": "https://denverapa.org/content.php?page=APA_Code_of_Ethics",
+      "organization": "American Payroll Association (APA / PayrollOrg)",
+      "filename_stem": "APA-PayrollOrg-APA-Code-of-Ethics",
+      "document_title": "APA Code of Ethics",
+      "error": "url_error_[Errno 8] nodename nor servname provided",
+      "category": "html_page"
+    },
+    {
+      "index": 741,
+      "url": "https://albertacarpenters.com/home/members/bylaws-trade-rules-agreements/ubc-in-alberta-code-of-conduct/",
+      "organization": "United Brotherhood of Carpenters and Joiners (UBC)",
+      "filename_stem": "UBC-UBC-Code-of-Conduct",
+      "document_title": "UBC Code of Conduct",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 748,
+      "url": "https://www.tms.org/About",
+      "organization": "The Minerals, Metals & Materials Society (TMS)",
+      "filename_stem": "TMS-TMS-Endorsement-of-NSPE-Code-of-Ethics",
+      "document_title": "TMS Endorsement of NSPE Code of Ethics",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 754,
+      "url": "https://reta.com/page/aboutreta",
+      "organization": "Refrigerating Engineers and Technicians Association (RETA)",
+      "filename_stem": "RETA-RETA-Code-of-Conduct",
+      "document_title": "RETA Code of Conduct",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 757,
+      "url": "https://www.secureav.com/AMTMCC-v1.0.htm",
+      "organization": "Aviation Code of Conduct Permanent Board",
+      "filename_stem": "ACCPB-Aviation-Maintenance-Technicians-Model-Code-of-Conduct",
+      "document_title": "Aviation Maintenance Technicians Model Code of Conduct",
+      "error": "dead_link_404",
+      "category": "html_page"
+    },
+    {
+      "index": 775,
+      "url": "https://www.ukchamberofshipping.com/latest/code-conduct-merchant-navy/",
+      "organization": "Nautilus International / RMT / UK Chamber of Shipping",
+      "filename_stem": "NIRMT-Code-of-Conduct-for-the-Merchant-Navy",
+      "document_title": "Code of Conduct for the Merchant Navy",
+      "error": "blocked_http_403",
+      "category": "html_page"
+    },
+    {
+      "index": 785,
+      "url": "https://static.e-publishing.af.mil/production/1/af_cc/publication/afi1-1/afi1-1.pdf",
+      "organization": "U.S. Air Force",
+      "filename_stem": "USAF-Air-Force-Core-Values-AFI-1-1",
+      "document_title": "Air Force Core Values (AFI 1-1)",
+      "error": "pdf_failed:curl_error_56 html_fallback:http_403",
+      "category": "direct_pdf"
+    },
+    {
+      "index": 791,
+      "url": "https://ogc.osd.mil/Portals/99/Law%20of%20War/Practice%20Documents/DoD%20GC%20Ney%20Aug%206%202020%20memo%20-%20brief%20overview%20of%20the%20law%20of%20war.pdf",
+      "organization": "U.S. Department of Defense",
+      "filename_stem": "USDD-DoD-Law-of-War-Manual",
+      "document_title": "DoD Law of War Manual",
+      "error": "pdf_failed:curl_error_56 html_fallback:http_403",
+      "category": "direct_pdf"
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+{
+  "track": "NAICS",
+  "sectors": [
+    {
+      "sector_code": "42",
+      "sector_name": "Wholesale Trade",
+      "subsectors": [
+        {
+          "code": "423",
+          "name": "Merchant Wholesalers, Durable Goods",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "Industrial Supply Association (ISA)",
+              "document_title": "ISA Member Standards and Practices",
+              "url": "https://www.isapartners.org/about/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "1902",
+              "notes": "Founded 1902. Trade association for industrial MROP supply channel. Brings together manufacturers, distributors, and industrial manufacturers' representatives. No standalone code of ethics document found publicly; ethics standards embedded in membership requirements."
+            },
+            {
+              "organization": "North American Wholesale Lumber Association (NAWLA)",
+              "document_title": "NAWLA Ethical Business Practices",
+              "url": "https://nawla.org/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "North America",
+              "year_published": "1893",
+              "notes": "Founded 1893 as longest-standing lumber organization in America. Historical emphasis on ethical policies and fair terms of sale across all three segments of the lumber industry. Specific code document not found publicly."
+            },
+            {
+              "organization": "Responsible Business Alliance (RBA)",
+              "document_title": "RBA Code of Conduct Version 8.0",
+              "url": "https://www.responsiblebusiness.org/code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "2024",
+              "notes": "Founded 2004 as EICC. Covers electronics, retail, auto, and toy companies. Five sections: Labor, Health and Safety, Environment, Ethics, and Management Systems. V8.0 effective January 1, 2024. Originally electronics-focused but applicable to all wholesale durable goods distribution. References UDHR, ILO, OECD, ISO standards."
+            },
+            {
+              "organization": "Motor & Equipment Manufacturers Association (MEMA) / Automotive Aftermarket Suppliers Association (AASA)",
+              "document_title": "MEMA/AASA Industry Standards",
+              "url": "https://www.mema.org/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "1904",
+              "notes": "Founded 1904. AASA established 2002 as MEMA division for aftermarket manufacturers. Represents 1,000+ companies. No standalone code of ethics found publicly; functions more as advocacy and standards body."
+            },
+            {
+              "organization": "Commercial Vehicle Solutions Network (CVSN)",
+              "document_title": "CVSN Member Standards",
+              "url": "https://cvsn.org/about-cvsn",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": null,
+              "notes": "Premier trade association for independent commercial vehicle aftermarket. Brings together distributors, suppliers, service centers. No standalone code of ethics found publicly."
+            }
+          ]
+        },
+        {
+          "code": "424",
+          "name": "Merchant Wholesalers, Nondurable Goods",
+          "total_codes_found": 7,
+          "codes": [
+            {
+              "organization": "International Foodservice Distributors Association (IFDA)",
+              "document_title": "IFDA Corporate Social Responsibility Standards",
+              "url": "https://ifdaonline.org/industry-corporate-social-responsibility/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "1906",
+              "notes": "Founded 1906 as National Wholesale Grocers Association (NWGA). Members committed to supplying safe food products. Industry donates estimated 7.5 million cases of food/beverage annually ($331M+). CSR covers food donation, waste reduction, environmental sustainability, animal welfare."
+            },
+            {
+              "organization": "Healthcare Distribution Alliance (HDA)",
+              "document_title": "HDA Pharmaceutical Distribution Standards",
+              "url": "https://www.hda.org/about/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": null,
+              "notes": "Originally Western Wholesale Druggists' Association, then National Wholesale Druggists' Association (NWDA). Represents primary pharmaceutical distributors. Led passage of Drug Supply Chain Security Act (DSCSA) in 2013. Focus on supply chain security and patient safety."
+            },
+            {
+              "organization": "Wine & Spirits Wholesalers of America (WSWA)",
+              "document_title": "WSWA Member Standards",
+              "url": "https://www.wswa.org/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "1943",
+              "notes": "Founded 1943. 360 member companies in all 50 states + DC. Represents wine and spirits wholesale distributors and brokers. No standalone code of ethics found publicly; advocacy-focused organization."
+            },
+            {
+              "organization": "Distilled Spirits Council of the United States (DISCUS)",
+              "document_title": "Code of Responsible Practices for Beverage Alcohol Advertising and Marketing",
+              "url": "https://distilledspirits.org/code-of-responsible-practices/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2022",
+              "notes": "Original code adopted shortly after repeal of Prohibition (87+ years of self-regulation). Covers advertising, consumer communications, promotional events, packaging, labels, sponsorships, product placements. Requires 71.6% adult audience threshold. Widely lauded as model of self-regulation exceeding First Amendment requirements. PDF: https://www.distilledspirits.org/wp-content/uploads/2022/12/DISCUS_CodeofResponsiblePractices_2022.pdf"
+            },
+            {
+              "organization": "European Federation of Pharmaceutical Industries and Associations (EFPIA)",
+              "document_title": "EFPIA Code of Practice",
+              "url": "https://www.efpia.eu/relationships-code/the-efpia-code/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "Europe",
+              "year_published": "2025",
+              "notes": "Ethical rules for promotion of medicinal products and interactions with HCPs, HCOs, and patient organisations. Applies to all communication types (traditional and digital). Enforced through Codes Committee and Ethics & Compliance Committee. Embodies IFPMA Code principles. Annual compliance reporting. PDF: https://www.efpia.eu/media/fg2n40ks/efpia-codeofpractice_26022025pdf.pdf"
+            },
+            {
+              "organization": "Wholesale Florist and Florist Supplier Association (WFFSA)",
+              "document_title": "WFFSA Member Standards",
+              "url": "https://wffsa.org/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": null,
+              "notes": "Trade association for wholesale florists. Provides programs, services, events for wholesale florists and suppliers. No standalone code of ethics found publicly."
+            },
+            {
+              "organization": "EuroCommerce",
+              "document_title": "EU Code of Conduct on Responsible Food Business and Marketing Practices",
+              "url": "https://www.eurocommerce.eu/farm-to-fork/eu-code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "Europe",
+              "year_published": "2021",
+              "notes": "EuroCommerce represents retail and wholesale in 28 European countries. EuroCommerce and 12+ member companies are first signatories. Commitments in healthier choices, product transparency, eliminating waste, climate impact. Part of EU Farm-to-Fork Strategy."
+            }
+          ]
+        },
+        {
+          "code": "425",
+          "name": "Wholesale Trade Agents and Brokers",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "National Association of Wholesaler-Distributors (NAW)",
+              "document_title": "NAW Member Standards",
+              "url": "https://www.naw.org/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "1946",
+              "notes": "Founded 1946. Leading US trade association representing $8.2 trillion wholesale distribution industry. Provides benchmarking, strategic management information, networking. No standalone code of ethics found publicly; primarily an advocacy and education organization. Applies broadly across wholesale trade including agents and brokers."
+            },
+            {
+              "organization": "Ethical Trading Initiative (ETI)",
+              "document_title": "ETI Base Code",
+              "url": "https://www.ethicaltrade.org/eti-base-code",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "1998",
+              "notes": "Founded 1998. UK-based body uniting companies, trade unions, and NGOs. 90 member companies, 10 million workers globally. Nine core principles based on ILO conventions: freely chosen employment, freedom of association, safe/hygienic conditions, no child labor, living wages, reasonable working hours, no discrimination, regular employment, no harsh/inhumane treatment. Widely adopted across wholesale/retail supply chains. PDF: https://www.ethicaltrade.org/sites/default/files/shared_resources/ETI%20Base%20Code%20(English).pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector_code": "44-45",
+      "sector_name": "Retail Trade",
+      "subsectors": [
+        {
+          "code": "441",
+          "name": "Motor Vehicle and Parts Dealers",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "National Automobile Dealers Association (NADA) / American Truck Dealers (ATD)",
+              "document_title": "NADA/ATD Code of Ethics",
+              "url": "https://www.nada.org/nada/code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": null,
+              "notes": "Code reinforces dealers' commitment to quality service and high ethical standards. Five core principles: highest ethical standards, fair/open/honest treatment, knowledgeable/professional service, clear/factual product representation, positive/factual advertising. Requires full compliance with federal/state/local laws. Companion Ethics Guide covers sales, service, financial services, and advertising. ATD (est. 1970) represents 1,800 heavy/medium-duty truck dealerships."
+            },
+            {
+              "organization": "National Automobile Dealers Association (NADA)",
+              "document_title": "NADA Ethics Guide",
+              "url": "https://www.nada.org/nada/about-nada/code-of-ethics/ethics-guide",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": null,
+              "notes": "Companion to NADA Code of Ethics. Focuses on four key areas: sales (fair negotiations, transparent pricing), service (high quality repair at fair price, trained technicians, itemized invoices), financial services (clear disclosure), and advertising (truthful claims). Provides specific operational guidance for implementing ethical principles."
+            },
+            {
+              "organization": "National Independent Automobile Dealers Association (NIADA)",
+              "document_title": "NIADA Code of Ethics",
+              "url": "https://niada.com/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1946",
+              "notes": "Founded 1946. Represents ~40,000 licensed used car dealers. Members commit to duty, honor, integrity; advancement of small business and free-market system; compliance with all laws; truth and accuracy in advertising and selling; constant improvement of business methods for public service."
+            },
+            {
+              "organization": "Japan Automobile Dealers Association (JADA)",
+              "document_title": "JADA Professional Standards",
+              "url": "https://www.jada.or.jp/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "Japan",
+              "year_published": "1959",
+              "notes": "Founded 1959. Nationwide organization for automobile dealers in Japan. Advocates on behalf of members before Parliament, government, media, and public. Research on automobile dealership operations. Cooperates with government on automobile distribution policies. No standalone English-language code of ethics found."
+            }
+          ]
+        },
+        {
+          "code": "444",
+          "name": "Building Material and Garden Equipment and Supplies Dealers",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "National Lumber and Building Material Dealers Association (NLBMDA)",
+              "document_title": "NLBMDA Member Standards",
+              "url": "https://www.dealer.org/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": null,
+              "notes": "Voice and resource of the Lumber and Building Material industry to federal legislators and regulatory agencies. Located in Washington DC. No standalone code of ethics found publicly."
+            },
+            {
+              "organization": "Connecticut Nursery and Landscape Association (CNLA)",
+              "document_title": "CNLA Code of Ethics — Principles of Professional and Ethical Conduct",
+              "url": "https://www.cnla.biz/about/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US-Regional (Connecticut)",
+              "year_published": null,
+              "notes": "Represents garden center and nursery retailers. Members commit to conducting themselves with integrity, respect, honesty, and credibility. Recognizes work affects health and welfare of employees, community, and society. Pledges to do no harm. Representative of similar codes adopted by state nursery/landscape associations nationwide."
+            },
+            {
+              "organization": "Nursery & Garden Industry South Australia (NGISA)",
+              "document_title": "NGISA Code of Ethics",
+              "url": "https://ngisa.com.au/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "Australia (South Australia)",
+              "year_published": null,
+              "notes": "Operates under strict code requiring members to support the nursery industry in conscientious and honourable manner, respect other members and public with non-discriminatory conduct, and perform business dealings to accepted professional and technical standards."
+            }
+          ]
+        },
+        {
+          "code": "445",
+          "name": "Food and Beverage Retailers",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "FMI — The Food Industry Association",
+              "document_title": "FMI Member Standards",
+              "url": "https://www.fmi.org",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US/International",
+              "year_published": null,
+              "notes": "Formerly Food Marketing Institute. 1,225+ food retail and wholesale member companies in US and worldwide. Programs in public affairs, food safety, research, education, industry relations. No standalone code of ethics found publicly."
+            },
+            {
+              "organization": "National Grocers Association (NGA)",
+              "document_title": "NGA Member Standards",
+              "url": "https://www.nationalgrocers.org/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": null,
+              "notes": "Represents independent grocers, wholesalers, and suppliers. Advocates for fair competition and industry growth. No standalone code of ethics found publicly."
+            },
+            {
+              "organization": "Office of the Grocery Sector Code of Conduct (Canada)",
+              "document_title": "Canada Grocery Code of Conduct",
+              "url": "https://canadacode.org/code/code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "Canada",
+              "year_published": "2025",
+              "notes": "Mandatory industry code effective January 1, 2026. Promotes fair dealings between grocers and suppliers. Covers trade rules, governance, adjudication and dispute resolution. Distinctive reciprocal feature: both suppliers and retailers have obligations. All supply chain players expected to act in Good Faith with fair/ethical dealing. PDF: https://canadacode.org/wp-content/uploads/2025/12/OGSCC-Canada-Grocery-Code-Provisions-Nov.-27-2025.pdf"
+            }
+          ]
+        },
+        {
+          "code": "449",
+          "name": "Furniture, Home Furnishings, Electronics, and Appliance Retailers",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "Home Furnishings Association (HFA, formerly National Home Furnishings Association / NHFA)",
+              "document_title": "NHFA Certified Retailer Standards",
+              "url": "https://myhfa.org/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": null,
+              "notes": "Nation's largest organization for home furnishings retailers. Certification mark certifies that services meet standards for high quality customer service, ethical home furnishings business practices, and sales practices. 501(C)(6) providing education to the industry."
+            },
+            {
+              "organization": "Responsible Business Alliance (RBA)",
+              "document_title": "RBA Code of Conduct Version 8.0",
+              "url": "https://www.responsiblebusiness.org/code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "2024",
+              "notes": "Founded 2004 as EICC for electronics industry. Now covers electronics, retail, auto, and toy companies. Sections: Labor, Health & Safety, Environment, Ethics, Management Systems. References UDHR, ILO, OECD, ISO/SA standards. Applicable to electronics and appliance retail supply chains. Updated every 5 years."
+            },
+            {
+              "organization": "Consumer Technology Association (CTA)",
+              "document_title": "CTA Code of Conduct",
+              "url": "https://www.cta.tech/Landing-Pages/Policies/Code-of-Conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": null,
+              "notes": "Trade association representing US consumer technology industry. Committed to safety, diversity, social responsibility, and promoting highest standards of ethical conduct. Runs CES (Consumer Electronics Show). Covers small businesses, startups, and world's best-known brands."
+            }
+          ]
+        },
+        {
+          "code": "455",
+          "name": "General Merchandise Retailers",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "Retail Industry Leaders Association (RILA)",
+              "document_title": "RILA Ethics & Compliance Framework / Retail Compliance Center",
+              "url": "https://www.rila.org/retail-compliance-center",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": null,
+              "notes": "Represents leading US retailers by sales volume. Partnered with Ethics & Compliance Initiative (ECI) to offer Framework for Excellence Program. Retail Compliance Center empowers retailers to build robust ethics and compliance programs. Covers responsible/ethical sourcing, social compliance, and supply chain performance."
+            },
+            {
+              "organization": "International Franchise Association (IFA)",
+              "document_title": "IFA Code of Ethics",
+              "url": "https://www.franchise.org/ifa-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/International",
+              "year_published": null,
+              "notes": "Framework for best practices in franchise relationships. Core values: mutual commitment, willing interdependence between franchisors and franchisees, trust and honesty. Self-regulation component with enforcement mechanism. Members may file formal complaints with IFA President. Applicable to franchise-based general merchandise retailers."
+            },
+            {
+              "organization": "amfori Business Social Compliance Initiative (BSCI)",
+              "document_title": "amfori BSCI Code of Conduct v.2021",
+              "url": "https://www.amfori.org/en/solutions/social/about-bsci",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "2021",
+              "notes": "Set of ESG due diligence standards for supply chains. 13 Performance Areas. Based on OECD guidelines, UNGPs, ILO conventions. 81-question audit covering labor, health/safety, environment, management, ethics. Recognized by Consumer Goods Forum's SSCI. Widely used by major general merchandise retailers (Walmart, Costco, etc.). PDF: https://assets.ctfassets.net/8122zj5k3sy9/16Ol0xiTosLNUSvnX0pSSI/89b9398d62f879c54cee386603d2bee8/amfori-bsci-code-of-conduct-english-december-2021-v2-2-1.pdf"
+            },
+            {
+              "organization": "Australian Retailers Association (ARA)",
+              "document_title": "ARA Code of Ethics",
+              "url": "https://www.retail.org.au/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "Australia",
+              "year_published": null,
+              "notes": "Six fundamental principles: Integrity (honest and straightforward), Professional Behaviour (comply with laws), Fairness (reasonable in public business), Caring (respect for human dignity), Commitment to Excellence (protect business standards, consumer confidence), Honesty (consider consequences of actions). Required for all ARA members."
+            }
+          ]
+        },
+        {
+          "code": "456",
+          "name": "Health and Personal Care Retailers",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "American Pharmacists Association (APhA)",
+              "document_title": "Code of Ethics for Pharmacists",
+              "url": "https://www.pharmacist.com/Code-of-Ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1994",
+              "notes": "Established 1852, last modified 1994. States principles forming fundamental basis of pharmacist roles and responsibilities. Eight key principles covering: covenantal patient relationship, promoting good of every patient, respecting autonomy/dignity, being honest/truthful, maintaining competence, respecting values/abilities of colleagues, serving individual/community/societal needs, seeking justice in health resource distribution. Endorsed by AMCP and ASHP."
+            },
+            {
+              "organization": "International Pharmaceutical Federation (FIP)",
+              "document_title": "FIP Statement of Professional Standards — Codes of Ethics for Pharmacists",
+              "url": "https://www.fip.org/activities-priorityareas-professionalethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2014",
+              "notes": "Approved by FIP Council 2014. Framework for codes of ethics worldwide. 16 guidelines adopted 1988 covering independence, health educator role, patient freedom of choice. 2015: introduced 'Oath of a Pharmacist' at Düsseldorf congress, adopted by schools/organizations globally. Deliberately broad for national adaptation. PDF: https://www.fip.org/file/1368"
+            },
+            {
+              "organization": "National Community Pharmacists Association (NCPA)",
+              "document_title": "NCPA Code of Ethics and Professional Conduct",
+              "url": "https://ncpa.org/about",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": null,
+              "notes": "Founded 1898 as National Association of Retail Druggists (NARD). Represents 23,000+ independent community pharmacies. Members committed to upholding highest standards in professional practice. Dedicated to restoring, maintaining, promoting health and well-being in ethical and socially responsible manner."
+            },
+            {
+              "organization": "American Optometric Association (AOA)",
+              "document_title": "AOA Code of Ethics, Optometric Oath, and Standards of Professional Conduct",
+              "url": "https://www.aoa.org/about-the-aoa/ethics-and-values",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2011",
+              "notes": "Three guiding documents: Code of Ethics (basic tenets), Optometric Oath, Standards of Professional Conduct (adopted June 2011, amplifies Code with detailed behavioral guidance). Covers practice to fullest scope of competence, patient confidentiality, professional conduct. PDF: https://www.aoa.org/AOA/Documents/About%20the%20AOA/Ethics%20&%20Values/Standards-of-Professional-Conduct_Adopted-June-2011.pdf"
+            }
+          ]
+        },
+        {
+          "code": "457",
+          "name": "Gasoline Stations and Fuel Dealers",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "Australian Competition and Consumer Commission (ACCC)",
+              "document_title": "Oil Code of Conduct (Oilcode)",
+              "url": "https://www.accc.gov.au/business/industry-codes/oil-code-of-conduct",
+              "document_type": "regulatory_code",
+              "geographic_scope": "Australia",
+              "year_published": "2017",
+              "notes": "Mandatory industry code under Competition and Consumer Act 2010. Regulates conduct of suppliers, distributors, and retailers of fuel. Nationally consistent terminal gate pricing for wholesale transparency. Covers fuel reselling agreements, franchise and commission agency arrangements. ACCC monitors and enforces. Formal legislation: Competition and Consumer (Industry Codes—Oil) Regulations 2017."
+            },
+            {
+              "organization": "National Association of Convenience Stores (NACS)",
+              "document_title": "NACS Member Standards",
+              "url": "https://www.convenience.org/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US/International",
+              "year_published": "1961",
+              "notes": "Founded 1961. Represents convenience and fuel retailing industry in US and ~50 countries. Members operate stores that frequently include fuel sales. Conducts market research, hosts trade shows, political/legal advocacy. No standalone code of ethics found publicly; relevant to gasoline stations as many combine convenience retail with fuel."
+            }
+          ]
+        },
+        {
+          "code": "458",
+          "name": "Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",
+          "total_codes_found": 9,
+          "codes": [
+            {
+              "organization": "Jewelers of America (JA)",
+              "document_title": "Code of Professional Practices",
+              "url": "https://www.jewelers.org/about/code-of-professional-practices",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1906",
+              "notes": "Founded 1906. Members must commit annually as condition of membership. Covers: honesty/integrity/transparency, anti-bribery/corruption, fraud protection, labor/human rights, prohibiting harassment/abuse, professional development, community contribution, indigenous peoples' rights. Consistent with Responsible Jewellery Council principles (co-founded 2005)."
+            },
+            {
+              "organization": "American Gem Society (AGS)",
+              "document_title": "AGS Code of Ethics",
+              "url": "https://www.americangemsociety.org/about-ags/ags-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": null,
+              "notes": "Nonprofit trade association dedicated to highest standards of ethical conduct and professional behavior. Members must: clearly disclose all information essential to purchasing decisions, never intentionally deceive, compete fairly, resolve consumer complaints promptly, comply with Kimberley Process and World Diamond Council System of Warranties. Annual recertification required."
+            },
+            {
+              "organization": "Responsible Jewellery Council (RJC)",
+              "document_title": "RJC Code of Practices (COP) 2024",
+              "url": "https://www.responsiblejewellery.com/standards/code-of-practices/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "2024",
+              "notes": "Founded 2005 by De Beers, Tiffany, Cartier, and 11 others. 2,000+ member companies globally across entire mine-to-retail supply chain. COP covers ethical, human rights, social, environmental practices. Three standards: COP, Chain of Custody (COC), Lab Grown Material Standard (LGMS). 2024 update adds DEI requirements. COP certification mandatory for all commercial members. PDF: https://www.responsiblejewellery.com/wp-content/uploads/RJC-2024-COP-Standard.pdf"
+            },
+            {
+              "organization": "World Diamond Council (WDC)",
+              "document_title": "World Diamond Council System of Warranties (SoW)",
+              "url": "https://www.worlddiamondcouncil.org/system-of-warranties/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "2021",
+              "notes": "Introduced January 2002 to complement Kimberley Process. Extends conflict-free assurance from rough to polished diamonds and jewelry. 2021 revision broadened to include human rights, labor rights, anti-corruption, anti-money laundering. Voluntary self-regulation with company registration and unique ID. Covers every time diamonds change hands."
+            },
+            {
+              "organization": "Footwear Distributors and Retailers of America (FDRA)",
+              "document_title": "FDRA Footwear Production Code of Conduct",
+              "url": "http://fdra.org/wp-content/uploads/2014/06/Code-of-Conduct-FDRA.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US/International",
+              "year_published": "2014",
+              "notes": "Founded 1944. Largest US footwear trade association, representing 95%+ of industry. Code based on 25+ company codes. Covers working hours, overtime, structural safety, transparency. Industry-wide standard for factory compliance. Endorsed by Wolverine Worldwide, Brown Shoe Company, R.G. Barry, BBC International, and others."
+            },
+            {
+              "organization": "Fair Labor Association (FLA)",
+              "document_title": "FLA Workplace Code of Conduct",
+              "url": "https://www.fairlabor.org/accountability/standards/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "1999",
+              "notes": "Founded 1999 from Apparel Industry Partnership (1996). International network of companies, universities, civil society. Ten Principles of Fair Labor and Responsible Sourcing. Covers: forced labor prohibition, child labor, harassment/abuse, nondiscrimination, health/safety, freedom of association, wages/benefits, working hours, regular employment, environment. ~75% of audited factories in apparel sector. PDF: https://www.fairlabor.org/wp-content/uploads/2022/09/21010-B_FLA_CodeOfConduct_Final.pdf"
+            },
+            {
+              "organization": "Worldwide Responsible Accredited Production (WRAP)",
+              "document_title": "WRAP 12 Principles",
+              "url": "https://wrapcompliance.org/en/certification/certification-explained/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "2000",
+              "notes": "Founded 2000 by American Apparel and Footwear Association. World's largest independent certification for apparel, footwear, and sewn products. 12 Principles based on ILO conventions cover: child/forced labor, health/safety, harassment/abuse, discrimination, hours/compensation, freedom of association, environment, customs compliance, security. Accepted by Walmart, Disney, Costco, Kmart, Fruit of the Loom, and hundreds more."
+            },
+            {
+              "organization": "British Retail Consortium (BRC)",
+              "document_title": "BRC Global Standard for Ethical Trade and Responsible Sourcing",
+              "url": "https://brc.org.uk/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "UK/International",
+              "year_published": null,
+              "notes": "UK trade association for retailers. Standard establishes criteria for sustainable management, supply chain transparency, and worker rights. Also developed Retailer Protocol for Modern Slavery cases. Additional BRC standards for food safety (est. 1998), now internationally recognized benchmarks. Now branded as BRCGS (BRC Global Standards)."
+            },
+            {
+              "organization": "Retail Council of Canada (RCC)",
+              "document_title": "RCC Responsible Trading Guidelines",
+              "url": "https://www.retailcouncil.org/responsible-sourcing-2/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "Canada",
+              "year_published": "2013",
+              "notes": "Originally developed 2003, updated 2013 with expanded scope. Baseline in responsible sourcing for all sizes of Canadian retailers. References ILO conventions, best practice from NGOs and multilateral organizations. Responsible Sourcing Committee covers human rights, child labour, working conditions, trafficking, modern slavery, fair/living wages, worker safety."
+            }
+          ]
+        },
+        {
+          "code": "459",
+          "name": "Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",
+          "total_codes_found": 6,
+          "codes": [
+            {
+              "organization": "Antiquarian Booksellers' Association of America (ABAA)",
+              "document_title": "ABAA Code of Ethics",
+              "url": "https://www.abaa.org/general-content-pages/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1949",
+              "notes": "Founded 1949. Strictest and most sweeping ethics code in the book trade. All members bound. Requires: authentic/accurately described material, full cash refund for misrepresented items, clear title passing, responsibility not to purchase/hold/resell stolen materials, not soliciting in other booksellers' premises. Rigorous membership screening beyond paying fees."
+            },
+            {
+              "organization": "International League of Antiquarian Booksellers (ILAB)",
+              "document_title": "ILAB Code of Usages and Customs",
+              "url": "https://ilab.org/page/codes-customs",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": null,
+              "notes": "Defines universally recognized usages in antiquarian bookselling. Covers manuscripts, autographs, prints, maps, drawings, books, and all written/printed material. Requirements: accurate identification/description, clear pricing, 10% reciprocal trade discount to ILAB members, preservation of complete copies (no breaking intact books/manuscripts), scrupulous valuations. High ethical standards as basis of practice."
+            },
+            {
+              "organization": "Independent Online Booksellers Association (IOBA)",
+              "document_title": "IOBA Code of Ethics",
+              "url": "https://www.ioba.org/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "1999",
+              "notes": "Founded 1999. Preserves traditional bookselling values in online context. Requirements: full business contact information, clear terms/conditions/return policies, accurate use of book trade terminology, clear/accurate descriptions, prompt shipping, fair return policies. Fosters mutual trust and respect between booksellers and customers."
+            },
+            {
+              "organization": "National Pawnbrokers Association (NPA)",
+              "document_title": "Pawnbroker Code of Ethics",
+              "url": "https://www.nationalpawnbrokers.org/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": null,
+              "notes": "Members commit to: honest/forthright transactions, service with integrity, maintaining professional/distinguished place of business, fair/vigorous competition to stimulate industry growth, obeying all local/state/federal laws and assisting prosecution of violators. Also: contributing to professional development, advocating pawnbroker rights, enhancing positive public image."
+            },
+            {
+              "organization": "Direct Selling Association (DSA)",
+              "document_title": "DSA Code of Ethics",
+              "url": "https://www.dsa.org/consumerprotection/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": null,
+              "notes": "Fair and ethical principles for member companies in direct selling. Prohibits deceptive/false/unethical/unlawful consumer or recruiting practices. Each member designates a Code Responsibility Officer. Enforced by independent code administrator not connected to any member company with power to decide remedies. FTC copy available. PDF: https://www.dsa.org/docs/default-source/Code-of-Ethics/code-of-ethics.pdf"
+            },
+            {
+              "organization": "World Federation of Direct Selling Associations (WFDSA)",
+              "document_title": "WFDSA World Code of Ethics",
+              "url": "https://wfdsa.org/wp-content/uploads/2021/04/Code-of-Ethics-Booklet-2017.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2017",
+              "notes": "Founded 1978 by 12 DSAs. First World Code of Ethics established 1985. Covers: consumer protection, conduct towards direct sellers, prohibited practices, identification, cooling-off/returns, privacy, fairness, referral selling, delivery, recruiting, business information, remuneration, earnings claims, fees, loading, repurchase. All member DSAs must abide to extent consistent with local law."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_sector_codes": [
+    {
+      "organization": "Ethical Trading Initiative (ETI)",
+      "document_title": "ETI Base Code",
+      "url": "https://www.ethicaltrade.org/eti-base-code",
+      "document_type": "code_of_conduct",
+      "geographic_scope": "International",
+      "year_published": "1998",
+      "applicable_sectors": ["42", "44-45"],
+      "notes": "Nine core principles based on ILO conventions. 90 member companies. Widely adopted across wholesale and retail supply chains."
+    },
+    {
+      "organization": "amfori BSCI",
+      "document_title": "amfori BSCI Code of Conduct v.2021",
+      "url": "https://www.amfori.org/en/solutions/social/about-bsci",
+      "document_type": "code_of_conduct",
+      "geographic_scope": "International",
+      "year_published": "2021",
+      "applicable_sectors": ["42", "44-45"],
+      "notes": "13 Performance Areas. Recognized by Consumer Goods Forum SSCI. Used by major retailers and wholesalers globally."
+    },
+    {
+      "organization": "Responsible Business Alliance (RBA)",
+      "document_title": "RBA Code of Conduct v8.0",
+      "url": "https://www.responsiblebusiness.org/code-of-conduct/",
+      "document_type": "code_of_conduct",
+      "geographic_scope": "International",
+      "year_published": "2024",
+      "applicable_sectors": ["423", "449"],
+      "notes": "Originally electronics-focused, now covers retail, auto, and toy companies. Five sections covering Labor, Health & Safety, Environment, Ethics, Management Systems."
+    },
+    {
+      "organization": "Fair Labor Association (FLA)",
+      "document_title": "FLA Workplace Code of Conduct",
+      "url": "https://www.fairlabor.org/accountability/standards/",
+      "document_type": "code_of_conduct",
+      "geographic_scope": "International",
+      "year_published": "1999",
+      "applicable_sectors": ["42", "44-45"],
+      "notes": "Ten Principles of Fair Labor. Applies across apparel, footwear, and general merchandise supply chains for both wholesale and retail."
+    }
+  ],
+  "summary": {
+    "total_unique_codes_found": 40,
+    "sector_42_total": 14,
+    "sector_44_45_total": 34,
+    "by_document_type": {
+      "code_of_ethics": 17,
+      "code_of_conduct": 12,
+      "standards_of_practice": 8,
+      "ethics_guidelines": 3,
+      "regulatory_code": 1
+    },
+    "by_geographic_scope": {
+      "US": 17,
+      "International": 13,
+      "Europe": 2,
+      "Canada": 2,
+      "Australia": 2,
+      "US_Regional": 1,
+      "Japan": 1,
+      "UK_International": 1,
+      "North_America": 1
+    },
+    "key_findings": [
+      "Motor vehicle dealer ethics codes are the most developed in retail trade, with NADA/ATD providing both a Code of Ethics and detailed Ethics Guide covering sales, service, financial services, and advertising",
+      "Jewelry retail has the densest ethics infrastructure of any subsector: JA Code of Professional Practices, AGS Code of Ethics, RJC Code of Practices, WDC System of Warranties, and Kimberley Process Certification Scheme form an interconnected multi-level framework from mine to retail",
+      "Health and personal care retail benefits from strong professional ethics codes (APhA established 1852, FIP 2014 international framework) that apply directly to retail pharmacy practice",
+      "Clothing/apparel retail is governed primarily by supply chain codes (FLA, WRAP, FDRA) rather than point-of-sale ethics, reflecting the industry's outsourced manufacturing model",
+      "Wholesale trade associations (NAW, NGA, FMI) tend to focus on advocacy and education rather than formal ethics codes; the strongest wholesale ethics documents come from specific product verticals (DISCUS for spirits, EFPIA for pharmaceuticals)",
+      "International and cross-sector codes (ETI Base Code, amfori BSCI, RBA) provide the most comprehensive ethical frameworks and are increasingly adopted by both wholesale and retail organizations",
+      "The Canada Grocery Code of Conduct (effective 2026) is notable for its reciprocal obligations on both retailers and suppliers, distinguishing it from most international models",
+      "Gasoline stations and fuel dealers have limited industry-specific ethics codes; the Australian Oil Code of Conduct (mandatory regulatory code) is the strongest example internationally",
+      "General merchandise retailers rely heavily on frameworks developed by RILA and external bodies (amfori BSCI, IFA) rather than sector-specific ethics codes",
+      "The antiquarian book trade (ABAA, ILAB) has some of the oldest and most detailed ethical codes, emphasizing accurate description, provenance, and material preservation"
+    ]
+  },
+  "agent_id": "N5",
+  "researched_at": "2026-03-21"
+}

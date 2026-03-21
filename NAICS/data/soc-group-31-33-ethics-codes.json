@@ -1,0 +1,502 @@
+{
+  "track": "SOC",
+  "agent": "S6",
+  "date": "2026-03-21",
+  "soc_groups": [
+    {
+      "soc_code": "31-0000",
+      "soc_name": "Healthcare Support Occupations",
+      "minor_groups": [
+        {
+          "code": "31-1100",
+          "name": "Home Health and Personal Care Aides; Nursing Assistants, Orderlies, and Psychiatric Aides",
+          "total_codes_found": 7,
+          "codes": [
+            {
+              "organization": "National Association of Health Care Assistants (NAHCA)",
+              "document_title": "CNA Code of Ethics and Federal Regulations Handbook",
+              "url": "https://www.nahcacna.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1995",
+              "occupations_covered": ["31-1131 Nursing Assistants"],
+              "notes": "Founded 1995 by former CNAs Lori Porter and Lisa Sweet. NAHCA is the only national association exclusively for Certified Nursing Assistants. The CNA Code of Ethics and Federal Regulations Handbook educates members on ethical conduct and performance standards. Members take an oath of service committing to ethical practice and leadership. Core values include preserving life, easing suffering, restoring health, dignity, and teamwork."
+            },
+            {
+              "organization": "National Alliance for Direct Support Professionals (NADSP)",
+              "document_title": "NADSP Code of Ethics for Direct Support Professionals",
+              "url": "https://nadsp.org/resources/the-nadsp-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2000",
+              "occupations_covered": ["31-1120 Home Health and Personal Care Aides", "31-1131 Nursing Assistants"],
+              "notes": "Developed in 2000 by a national panel including DSPs, self-advocates, family members, and researchers. Nine areas of ethical conduct: person-centered supports, promoting physical and emotional well-being, integrity and responsibility, confidentiality, justice/fairness/equity, respect, self-determination, relationships, and advocacy. First allegiance is to the person supported. Widely adopted by state agencies (e.g., New York OPWDD mandates it). Accompanied by DSP Dialogues training manual."
+            },
+            {
+              "organization": "National Association for Home Care & Hospice (NAHC) / National Alliance for Care at Home",
+              "document_title": "NAHC Code of Ethics",
+              "url": "https://allianceforcareathome.org/about/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1982",
+              "occupations_covered": ["31-1120 Home Health and Personal Care Aides"],
+              "notes": "Adopted 1982. Eight sections covering: patient rights and responsibilities, services to patients/families, fair billing and pricing, marketing and representation, relationships with other providers, personnel management, compliance with laws and regulations, and community responsibility. Ethics Committee of at least three disinterested parties handles breach complaints; may suspend or expel members. NAHC rebranded to National Alliance for Care at Home."
+            },
+            {
+              "organization": "California Association of Psychiatric Technicians (CAPT)",
+              "document_title": "Psychiatric Technician Code of Ethics",
+              "url": "https://www.psychtechs.net/professional-resources.php?page=ethics_and_scope",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1996",
+              "occupations_covered": ["31-1133 Psychiatric Aides"],
+              "notes": "Adopted September 18, 1996, by the California Association of Psychiatric Technicians. Code accompanied by Interpretive Statements that expand on each item. Framework for ethical decisions regarding responsibilities to clients/patients, public, interdisciplinary health team, and profession. Addresses patient welfare, advocacy, confidentiality, reporting obligations, and legal responsibilities. Requirements of the Code may exceed but never be less than those of the law."
+            },
+            {
+              "organization": "American Association of Psychiatric Technicians (AAPT)",
+              "document_title": "AAPT Code of Ethics",
+              "url": "https://psychtechs.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1995",
+              "occupations_covered": ["31-1133 Psychiatric Aides"],
+              "notes": "AAPT is a nonprofit that administers national certification for psychiatric technicians at four levels (NCPT Levels 1-4). The code of ethics guides professional conduct of psychiatric technicians and is referenced in the certification framework. AAPT certification requires renewal every four years with 12 hours of continuing education. Organization provides ethics standards for mental health and developmental disability workers nationwide."
+            },
+            {
+              "organization": "CNA Professional Standards (Multi-source consensus)",
+              "document_title": "Certified Nursing Assistant Code of Ethics",
+              "url": "https://www.disabled-world.com/disability/caregivers/cna-code-ethics.php",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2010",
+              "occupations_covered": ["31-1131 Nursing Assistants", "31-1132 Orderlies"],
+              "notes": "Widely recognized professional standards framework for CNAs. Based on fundamental values of worth, dignity, and uniqueness of all persons. Covers: CNA appearance and behavior, training and education (state-approved programs, CPR, certification exams), work performance (confidentiality, HIPAA compliance), patient care obligations, and reporting duties. CNAs obligated to report jeopardized patient welfare to charge nurse. Derived from ANA nursing ethics framework adapted for CNA scope of practice."
+            },
+            {
+              "organization": "American Nurses Association (ANA)",
+              "document_title": "Code of Ethics for Nurses with Interpretive Statements",
+              "url": "https://codeofethics.ana.org/home",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1950",
+              "occupations_covered": ["31-1131 Nursing Assistants", "31-1132 Orderlies"],
+              "notes": "First adopted 1950, most recently revised 2025. Nine provisions covering: compassion and respect for human dignity; primary commitment to patient; patient advocacy and rights; authority and accountability; duties to self; ethical environments; advancing profession through research; collaboration for human rights; social justice. Although primarily for registered nurses, the ANA Code is explicitly applied to CNA practice through the Nursing Education Advisory and Networking Team framework and serves as the foundational ethical reference for all nursing personnel including assistants and orderlies."
+            }
+          ]
+        },
+        {
+          "code": "31-2000",
+          "name": "Occupational Therapy and Physical Therapist Assistants and Aides",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "American Physical Therapy Association (APTA)",
+              "document_title": "Standards of Ethical Conduct for the Physical Therapist Assistant",
+              "url": "https://www.apta.org/apta-and-you/leadership-and-governance/policies/standards-of-ethical-conduct-for-the-physical-therapist-assistant",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2009",
+              "occupations_covered": ["31-2021 Physical Therapist Assistants", "31-2022 Physical Therapist Aides"],
+              "notes": "Adopted by APTA House of Delegates June 2009, effective July 2010. Eight standards: respect for dignity/rights; trustworthiness and compassion; sound decisions within PT supervision boundaries; integrity in relationships; legal and ethical obligations; competence and professional development; organizational behavior and business practices; meeting community health needs. Accompanied by the APTA Guide for Conduct of the PTA. In January 2026, replaced by a unified Code of Ethics for the Physical Therapy Profession combining PT and PTA standards."
+            },
+            {
+              "organization": "American Physical Therapy Association (APTA)",
+              "document_title": "Code of Ethics for the Physical Therapy Profession",
+              "url": "https://www.apta.org/apta-and-you/leadership-and-governance/policies/code-of-ethics-for-the-physical-therapy-profession",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2025",
+              "occupations_covered": ["31-2021 Physical Therapist Assistants", "31-2022 Physical Therapist Aides"],
+              "notes": "Adopted by APTA House of Delegates 2025, effective January 1, 2026. Unified code combining the former Code of Ethics for the Physical Therapist and the Standards of Ethical Conduct for the Physical Therapist Assistant into one comprehensive document. Core values: accountability, altruism, collaboration, compassion and caring, duty, excellence, integrity, and social responsibility."
+            },
+            {
+              "organization": "American Occupational Therapy Association (AOTA)",
+              "document_title": "AOTA 2025 Occupational Therapy Code of Ethics",
+              "url": "https://www.aota.org/practice/practice-essentials/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "occupations_covered": ["31-2011 Occupational Therapy Assistants", "31-2012 Occupational Therapy Aides"],
+              "notes": "Originally adopted as AOTA 2020 Code of Ethics (American Journal of OT, 2020), replaced by AOTA 2025 Code of Ethics passed April 24, 2025. Applies to all occupational therapy personnel including OTAs and OT Aides. Provides aspirational Core Values and enforceable Standards of Conduct. OTAs work under supervision of and in partnership with occupational therapists. The AOTA Ethics Commission enforces the Standards of Conduct under Enforcement Procedures. Six core principles: beneficence, nonmaleficence, autonomy, justice, veracity, and fidelity."
+            }
+          ]
+        },
+        {
+          "code": "31-9000",
+          "name": "Other Healthcare Support Occupations",
+          "total_codes_found": 6,
+          "codes": [
+            {
+              "organization": "American Association of Medical Assistants (AAMA)",
+              "document_title": "AAMA Code of Ethics",
+              "url": "https://www.aama-ntl.org/about",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1996",
+              "occupations_covered": ["31-9092 Medical Assistants"],
+              "notes": "Sets forth principles of ethical and moral conduct for medical assistants. Key principles: render service with full respect for human dignity; respect confidential information; uphold honor and high principles of the profession; seek to improve knowledge and skills; participate in community service. Accompanied by the Medical Assisting Creed for resolving ethical/moral issues. CMA (AAMA) credential holders must follow a separate Code of Conduct requiring high standards, accountability, fairness, and legal compliance. Violations can result in denial of certification."
+            },
+            {
+              "organization": "American Association of Medical Assistants (AAMA)",
+              "document_title": "AAMA Code of Conduct and Disciplinary Standards for CMAs",
+              "url": "https://www.aama-ntl.org/docs/default-source/about-profession-and-credential/cma-exam/aama-code-of-conduct-and-disciplinary-standards.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "occupations_covered": ["31-9092 Medical Assistants"],
+              "notes": "Binding code of conduct for CMA (AAMA) credential holders. Requirements include: maintaining high standards, accepting responsibility for actions, being fair and honest, enhancing professional capabilities, following all applicable laws and regulations, and encouraging ethical conduct in others. Grounds for denial or revocation include felony conviction, professional license revocation, and AAMA disciplinary action. Distinct from the aspirational Code of Ethics."
+            },
+            {
+              "organization": "National Association of Phlebotomy Technicians and Professionals (NAPTP)",
+              "document_title": "NAPTP Code of Ethics",
+              "url": "https://naptp.com/naptp-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "occupations_covered": ["31-9097 Phlebotomists"],
+              "notes": "Nine provisions: (1) compassion and respect for human dignity without prejudice; (2) primary commitment to the patient; (3) advocacy for patient rights, health, and safety; (4) authority, accountability, and responsibility for practice decisions; (5) duties to self including competence and growth; (6) maintaining ethical work environments; (7) advancing the profession through research, scholarship, and standards; (8) collaboration for human rights and health diplomacy; (9) articulating professional values and integrating social justice. Each provision accompanied by interpretive statements."
+            },
+            {
+              "organization": "American Society of Phlebotomy Technicians (ASPT)",
+              "document_title": "ASPT Professional Standards and Ethics",
+              "url": "https://www.aspt.org/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "1983",
+              "occupations_covered": ["31-9097 Phlebotomists"],
+              "notes": "Founded 1983 as the second oldest national certifying agency of phlebotomy. Professionalism begins with the certification process. Core ethical obligations include: respect, patient advocacy, confidentiality, accountability, ongoing personal and professional growth, strict infection control procedures, maintaining a clean environment, never interpreting or disclosing lab results, and conforming to high standards of communication and conduct. Awards the PTC (ASPT) credential."
+            },
+            {
+              "organization": "American Massage Therapy Association (AMTA)",
+              "document_title": "AMTA Code of Ethics",
+              "url": "https://www.amtamassage.org/about/core-documents/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1991",
+              "occupations_covered": ["31-9011 Massage Therapists"],
+              "notes": "Adherence is prerequisite for AMTA membership. Key principles: commitment to highest quality bodywork; acknowledging inherent worth and individuality without discrimination; professional excellence through regular self-assessment and continued education; confidentiality and respecting client privacy; refraining from sexual conduct during massage sessions; providing only services within scope of practice and training; complying with applicable laws and regulations. Rules of Ethics are enforceable; violations subject to disciplinary action."
+            },
+            {
+              "organization": "Associated Bodywork & Massage Professionals (ABMP)",
+              "document_title": "ABMP Code of Ethics",
+              "url": "https://www.abmp.com/abmp-code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2010",
+              "occupations_covered": ["31-9011 Massage Therapists"],
+              "notes": "Members pledge to serve best interests of clients and provide highest quality bodywork. Key commitments: conduct thorough health history intake and evaluate for contraindications; obtain informed consent for session plan; respect client right to decline, modify, or stop session; maintain client confidentiality unless medically necessary or legally required; no dating clients, sexual activity, or sexual impropriety; provide only services within scope of practice and competence. ABMP is one of the largest massage/bodywork membership associations in the US."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "soc_code": "33-0000",
+      "soc_name": "Protective Service Occupations",
+      "minor_groups": [
+        {
+          "code": "33-1000",
+          "name": "Supervisors of Protective Service Workers",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "International Association of Fire Chiefs (IAFC)",
+              "document_title": "IAFC Code of Ethics for Chiefs",
+              "url": "https://www.iafc.org/docs/default-source/1assoc/code-of-ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2003",
+              "occupations_covered": ["33-1021 First-Line Supervisors of Firefighting and Prevention Workers"],
+              "notes": "Submitted by IAFC Ethics Committee, adopted by IAFC Board of Directors May 2003. Recognizes that fire chiefs serve in positions of public trust imposing responsibility to use publicly owned resources effectively and judiciously. Key principles: not using public position for personal advantage; using information only for public benefit; no conflicting outside employment; handling personnel matters on basis of merit; no commercial product endorsements for personal gain; developing and training personnel on ethical conduct. Part of IAFC Fire Service Professional Code of Ethics framework."
+            },
+            {
+              "organization": "International Association of Chiefs of Police (IACP)",
+              "document_title": "Law Enforcement Code of Ethics",
+              "url": "https://www.theiacp.org/topics/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1957",
+              "occupations_covered": ["33-1012 First-Line Supervisors of Police and Detectives"],
+              "notes": "Adopted at 64th Annual IACP Conference, October 1957; revised 2024. Fundamental duty is to serve the community, safeguard lives and property, protect the innocent against deception, the weak against oppression, and the peaceful against violence. Officers must respect constitutional rights of all to liberty, equality, and justice. Badge is symbol of public faith and trust. Paired with the Police Code of Conduct which provides enforceable mandates (acting impartially, exercising discretion, using only necessary force, maintaining confidentiality). The foundational professional ethics document for American law enforcement."
+            },
+            {
+              "organization": "National Organization of Black Law Enforcement Executives (NOBLE)",
+              "document_title": "NOBLE Guiding Principles",
+              "url": "https://noblenational.org/about-noble/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "1976",
+              "occupations_covered": ["33-1012 First-Line Supervisors of Police and Detectives"],
+              "notes": "Founded September 1976 at symposium co-sponsored by Police Foundation and LEAA. Guiding principles serve as code of ethics: Uncompromising Integrity (conducting business according to ethical law enforcement standards); Courage of Convictions (proactively addressing controversial policies); Respect (for rights of all persons); Accountability (mutual between criminal justice system and community); Community Partnership (community integral to criminal justice); Value Diversity (throughout the criminal justice system). Mission: promote justice, equity, and excellence in administration of justice."
+            }
+          ]
+        },
+        {
+          "code": "33-2000",
+          "name": "Firefighting and Prevention Workers",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "National Society of Executive Fire Officers (NSEFO) / Congressional Fire Services Institute (CFSI)",
+              "document_title": "National Firefighter Code of Ethics",
+              "url": "https://www.iafc.org/topics-and-tools/resources/resource/firefighter-code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2007",
+              "occupations_covered": ["33-2011 Firefighters", "33-2021 Fire Inspectors and Investigators", "33-2022 Forest Firefighters"],
+              "notes": "Product of almost two years of development by the NSEFO board (now IAFC EFO Section). Establishes criteria for promoting a culture of ethical integrity and high standards of professionalism. Key principles: never discriminate based on protected characteristics; never harass, intimidate, or threaten; be truthful and honest; report cheating or dishonest acts; not use position for personal gain; engage in no activities that could impair primary responsibilities. U.S. Fire Administration posted it throughout National Fire Academy facilities and incorporated into all NFA course materials. Individual firefighters encouraged to sign the Code."
+            },
+            {
+              "organization": "International Association of Fire Fighters (IAFF)",
+              "document_title": "IAFF Code of Ethical Practices",
+              "url": "https://www.iaff.org/wp-content/uploads/IAFF-Code-of-Ethical-Practices-Conflict-of-Interest.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1918",
+              "occupations_covered": ["33-2011 Firefighters"],
+              "notes": "Listed in IAFF Manual of Common Procedures. The IAFF, founded 1918, is a labor union representing over 340,000 professional firefighters and paramedics. Code of ethics covers member conduct and professional obligations. Addresses conduct unbecoming a member, with charges requiring specific terms. IAFF also committed to promoting positive human relations: every fire fighter regardless of protected characteristics has right to safe and respectful workplace. Separate conflict of interest provisions also apply."
+            },
+            {
+              "organization": "National Volunteer Fire Council (NVFC)",
+              "document_title": "NVFC Member Code of Conduct",
+              "url": "https://www.nvfc.org/wp-content/uploads/2017/05/NVFC-Member-Code-of-Conduct.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2017",
+              "occupations_covered": ["33-2011 Firefighters"],
+              "notes": "Updated August 2018. Adapted from the National Firefighter Code of Ethics developed by NSEFO. Key requirements: be courteous, considerate, and civil; exercise utmost patience and discretion; avoid financial conflicts or perception of impropriety; not intimidate, bully, or threaten fellow members or public; refrain from behavior that reflects negatively on the fire service. Failure to comply may result in suspension or termination of NVFC membership."
+            },
+            {
+              "organization": "National Association of Fire Investigators (NAFI)",
+              "document_title": "NAFI Code of Ethics",
+              "url": "https://www.nafi.org/about/ethics.cfm",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "1971",
+              "occupations_covered": ["33-2021 Fire Inspectors and Investigators"],
+              "notes": "Binding upon all NAFI members. Ten principles: (1) adherence to code; (2) impartiality regardless of characteristics; (3) regard profession as important and honorable; (4) inspire confidence of colleagues and public; (5) foster cooperation between agencies and public; (6) protect confidential information, no personal advantage; (7) continuously improve techniques and experience; (8) not work with those whose goals conflict with honest investigation; (9) make no false claims to qualifications; (10) be a fact finder seeking truth and accurate cause of fires/explosions. Accompanied by the Fire Investigator's Creed requiring honest and unbiased investigation."
+            },
+            {
+              "organization": "International Association of Arson Investigators (IAAI)",
+              "document_title": "IAAI Code of Ethics",
+              "url": "https://www.firearson.com/about/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "1949",
+              "occupations_covered": ["33-2021 Fire Inspectors and Investigators"],
+              "notes": "IAAI founded 1949; all members required to uphold the Code. Focuses on maintaining high professional standards and eliminating factors interfering with administration of justice. Key principles: regard oneself as member of important and honorable profession; conduct personal and official life to inspire public confidence; exhibit professionalism and integrity in all duties; not use position for personal advantage or profit; respect fellow investigators' standards and confidences; know work thoroughly and pursue every opportunity to learn. Grievance procedure available for alleged violations. IAAI chapters worldwide maintain the code."
+            }
+          ]
+        },
+        {
+          "code": "33-3000",
+          "name": "Law Enforcement Workers",
+          "total_codes_found": 8,
+          "codes": [
+            {
+              "organization": "International Association of Chiefs of Police (IACP)",
+              "document_title": "IACP Law Enforcement Oath of Honor",
+              "url": "https://www.theiacp.org/resources/the-oath-of-honor",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2000",
+              "occupations_covered": ["33-3051 Police and Sheriff's Patrol Officers", "33-3021 Detectives and Criminal Investigators"],
+              "notes": "Developed by IACP Committee on Police Ethics in 2000; revised by IACP Governing Body effective January 1, 2021, to emphasize treating all individuals with dignity and respect and preserving human life. Text: 'On my honor, I will never betray my badge, my integrity, my character, or the public trust. I will always have the courage to hold myself and others accountable for our actions. I will always uphold the Constitution, my community, and the agency I serve.' Available in five languages: English, Arabic, French, Spanish, and Portuguese. Designed as a shorter, more memorable complement to the full Law Enforcement Code of Ethics."
+            },
+            {
+              "organization": "National Sheriffs' Association (NSA)",
+              "document_title": "Code of Ethics of the Office of Sheriff",
+              "url": "https://www.sheriffs.org/about-nsa/history/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1988",
+              "occupations_covered": ["33-3051 Police and Sheriff's Patrol Officers"],
+              "notes": "Ten principles: (1) enforce and administer law according to U.S. and state constitutions ensuring equal protection; (2) establish and enforce employee conduct guidelines; (3) not tolerate or condone brutal or inhumane treatment of citizens or inmates; (4) maintain campaign integrity and adhere to election financing laws; (5) conduct regular audits of public funds; (6) apply management principles for efficient resource allocation; (7) merit-based hiring without bias; (8) adequate training and supervision for competent service; (9) avoid using office for private gain; (10) accept leadership responsibility for encouraging colleagues to uphold the code. Violation is grounds for censure, suspension, or expulsion from Association."
+            },
+            {
+              "organization": "American Correctional Association (ACA)",
+              "document_title": "ACA Code of Ethics",
+              "url": "https://www.aca.org/about/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1994",
+              "occupations_covered": ["33-3012 Correctional Officers and Jailers"],
+              "notes": "Adopted August 1994 by ACA Board of Governors and Delegate Assembly. Expects unfailing honesty, respect for dignity and individuality of human beings, and commitment to professional and compassionate service. Seventeen principles covering: civil and legal rights; welfare-centered service; collegial relationships and mutual respect; constructive criticism only; inter-agency cooperation; public information rights balanced with privacy; public safety; no position abuse; objectivity; conflict of interest avoidance; rejection of improper gifts; distinguishing personal/organizational views; reporting corrupt conduct; non-discrimination; information integrity; merit-based personnel decisions; safe workplaces."
+            },
+            {
+              "organization": "American Jail Association (AJA)",
+              "document_title": "Code of Ethics for Jail Officers",
+              "url": "https://www.americanjail.org/files/Resolutions/AJA%20Resolution%20-%20Code%20of%20Ethics%20for%20Jail%20Officers.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1991",
+              "occupations_covered": ["33-3012 Correctional Officers and Jailers"],
+              "notes": "Approved by AJA Board of Directors, adopted November 10, 1991; reaffirmed May 3, 2008 in Sacramento, California. Officers swear to be a good citizen and credit to community, state, and nation. Key principles: abstain from questionable behavior; lifestyle above reproach; perform duties according to laws and regulations; communicate professionally; contribute to jail environment keeping inmates in constructive activities; support professional development activities. Part of integral program to achieve high standard of professional conduct in the nation's jails."
+            },
+            {
+              "organization": "American Probation and Parole Association (APPA)",
+              "document_title": "Code of Ethics for the Field of Community Corrections",
+              "url": "https://www.appa-net.org/eweb/docs/APPA/Code-of-Ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1994",
+              "occupations_covered": ["33-3011 Bailiffs", "33-3012 Correctional Officers and Jailers"],
+              "notes": "APPA is an international association of individuals in probation, parole, and community-based corrections for both adult and juvenile sectors. Professionals recognize their office as a symbol of public faith and accept it as a public trust. Key areas: effecting social adjustment of offenders, conducting personal life with decorum, upholding the law with dignity, awareness of responsibility to community, objectivity in performance, respecting inalienable rights, appreciating inherent worth of individuals, and maintaining confidentiality."
+            },
+            {
+              "organization": "Federal Probation and Pretrial Officers Association (FPPOA)",
+              "document_title": "FPPOA Code of Ethics",
+              "url": "https://www.fppoa.org/content.aspx?page_id=22&club_id=981031&module_id=406943",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1993",
+              "occupations_covered": ["33-3012 Correctional Officers and Jailers"],
+              "notes": "Revised March 11, 1993. Six principles: (1) professional service to courts, parole authorities, and community in effecting social adjustment of offenders; (2) personal conduct with decorum, no improper favors, loyalty to moral principles above personal consideration; (3) upholding the law with dignity and awareness of judicial system prestige; (4) objectivity, respecting inalienable rights, appreciating inherent worth of individuals, maintaining confidentiality; (5) cooperation with colleagues and partner agencies, continuous professional development; (6) viewing office as embodiment of public trust, sacred responsibility."
+            },
+            {
+              "organization": "National Association for Civilian Oversight of Law Enforcement (NACOLE)",
+              "document_title": "NACOLE Code of Ethics",
+              "url": "https://www.nacole.org/nacole_code_of_ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2015",
+              "occupations_covered": ["33-3051 Police and Sheriff's Patrol Officers"],
+              "notes": "Adopted August 12, 2015. For civilian oversight practitioners overseeing law enforcement agencies, jails, and prisons. Key principles: transparency and accountability (regular reports and analysis); confidentiality (security of non-disclosable records); fair treatment (dignity and respect without discrimination including age, ethnicity, race, gender identity, housing status, mental health, religion, political beliefs); professional development (staying informed of legal, professional, social issues); impartiality; and independence. Practitioners earn trust through commitment to public good."
+            },
+            {
+              "organization": "National Association of Emergency Medical Technicians (NAEMT)",
+              "document_title": "EMS Code of Ethics",
+              "url": "https://www.naemt.org/about-ems/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1978",
+              "occupations_covered": ["33-3051 Police and Sheriff's Patrol Officers"],
+              "notes": "Also listed under 33-9000 for EMTs. Included here because many law enforcement officers are cross-trained as EMTs and the code applies to all EMS practitioners working in law enforcement agencies. See entry under 33-9000 for full description."
+            }
+          ]
+        },
+        {
+          "code": "33-9000",
+          "name": "Other Protective Service Workers",
+          "total_codes_found": 9,
+          "codes": [
+            {
+              "organization": "National Association of Emergency Medical Technicians (NAEMT)",
+              "document_title": "EMS Code of Ethics",
+              "url": "https://www.naemt.org/about-ems/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1978",
+              "occupations_covered": ["33-9098 School Bus Monitors and Protective Service Workers, All Other"],
+              "notes": "Drafted by Charles Gillespie, MD; adopted 1978, revised June 14, 2013. Applies to all EMS practitioners (EMTs, paramedics, etc.) who fall under SOC 29-2040 but many are cross-classified under protective services. Eleven principles: (1) conserve life, alleviate suffering, promote health, do no harm; (2) provide equitable service without discrimination based on nationality, race, creed, color, or socioeconomic status, and not judge merits of patient's request for service; (3) avoid harmful applications of knowledge; (4) respect and hold confidential information; (5) use social media responsibly; (6) strive for clinical excellence; (7) support professional standards; (8) accept responsibility for professional actions knowing relevant laws; (9) engage in advocacy for EMS legislation; (10) cooperate professionally; (11) refuse unethical participation and expose incompetence."
+            },
+            {
+              "organization": "National Registry of Emergency Medical Technicians (NREMT)",
+              "document_title": "NREMT Code of Conduct",
+              "url": "https://nremt.org/Policies/Certification-Policies/Code-of-Conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2010",
+              "occupations_covered": ["33-9098 School Bus Monitors and Protective Service Workers, All Other"],
+              "notes": "Condition for NREMT certification and recertification. Requirements: comply with all NREMT policies including website Terms of Use; provide full, truthful, and updated information on all applications; adhere to highest standards of professionalism and ethics; act consistent with all federal, state, and local laws relating to EMS practice. NREMT maintains NCCA accreditation for four certification levels: EMR, EMT, AEMT, and Paramedic (NRP). Separate from but complementary to the NAEMT Code of Ethics."
+            },
+            {
+              "organization": "ASIS International",
+              "document_title": "ASIS International Code of Ethics",
+              "url": "https://www.asisonline.org/security-news/code-of-ethics-and-code-of-conduct/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "1955",
+              "occupations_covered": ["33-9032 Security Guards", "33-9031 Gambling Surveillance Officers and Gambling Investigators"],
+              "notes": "Aspirational code revised 2023 by global volunteer representatives. Six articles: (1) perform duties in accordance with law and highest moral principles; (2) represent services/products fairly and truthfully; (3) be faithful and diligent in professional responsibilities (fair, steadfast adherence to promises and best efforts); (4) be competent, not accepting tasks beyond competence or claiming unposessed competence; (5) safeguard confidential information, prevent improper disclosure, not use confidences to disadvantage of principal; (6) not maliciously injure professional reputation of colleagues, clients, or employers. Required affirmation for CPP/PSP/PCI certifications. ASIS represents 34,000+ security professionals worldwide."
+            },
+            {
+              "organization": "ASIS International",
+              "document_title": "ASIS International Code of Conduct",
+              "url": "https://www.asisonline.org/security-news/code-of-ethics-and-code-of-conduct/code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "2023",
+              "occupations_covered": ["33-9032 Security Guards", "33-9031 Gambling Surveillance Officers and Gambling Investigators"],
+              "notes": "Companion to ASIS Code of Ethics. Enforceable code governing member conduct and professional practice. Revised 2023 alongside the Code of Ethics. Provides specific behavioral expectations for security professionals in areas including honesty, integrity, competence, and professional relationships. ASIS also offers the Certification Code of Professional Responsibility for certified security professionals (CPP, PSP, PCI, APP credential holders)."
+            },
+            {
+              "organization": "International Foundation for Protection Officers (IFPO)",
+              "document_title": "IFPO Professional Ethics Standards",
+              "url": "https://ifpo.org/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "International",
+              "year_published": "1988",
+              "occupations_covered": ["33-9032 Security Guards"],
+              "notes": "Non-profit established January 1988 to address training and certification needs of security/protection officers internationally. Ethical standards are core requirement for CPO (Certified Protection Officer) qualification: proctors must comply with code of ethics. Professional Security Officer Program (PSOP) covers professional ethics as required subject. Security Officers and Patrol Services Competency Model requires professionals to 'abide by a strict code of ethics and behavior, treat others with honesty, fairness, and respect, and make decisions that are objective and reflect the just treatment of others.' Ethics training integrated across all IFPO certification programs."
+            },
+            {
+              "organization": "National Council of Investigation & Security Services (NCISS)",
+              "document_title": "NCISS Code of Ethics and Professional Standards",
+              "url": "https://www.nciss.org/code-of-ethics-2021",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2021",
+              "occupations_covered": ["33-9032 Security Guards", "33-9021 Private Detectives and Investigators"],
+              "notes": "Set as standard bearer for investigative and security industry. Key principles: competence and diligence in professional services according to law; maintain competency in operating locales; honesty, integrity, and truthfulness in client dealings; honor client contracts; ethical services within limits of law; safeguard client confidential information; prevent unauthorized disclosure; not knowingly violate any individual right guaranteed by U.S. Constitution or state constitutions. Applies to regular members and NCISS leadership."
+            },
+            {
+              "organization": "National Association of Legal Investigators (NALI)",
+              "document_title": "NALI Code of Ethics",
+              "url": "https://nalionline.org/become-a-member/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2023",
+              "occupations_covered": ["33-9021 Private Detectives and Investigators"],
+              "notes": "In 2023, NALI Executive Council adopted Code of Professional Conduct: Standards and Ethics for the Investigative Profession, 4th ed., by Kitty Hailey. Establishes high standard for legal investigation practice. Key principles: maintain highest professional standards with integrity, honesty, and excellence; afford all persons their rights and privileges; do not infringe on rights; truthfully represent services to public. CLI (Certified Legal Investigator) credential holders must adhere to this code. NALI organizes, serves, and educates members while enforcing professional canons of ethics."
+            },
+            {
+              "organization": "National Animal Care & Control Association (NACA)",
+              "document_title": "NACA Code of Ethics Statement and Code of Conduct",
+              "url": "https://www.nacanet.org/code-of-ethics-statement/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2005",
+              "occupations_covered": ["33-9011 Animal Control Workers"],
+              "notes": "Key principles: perform duties impartially without bias based on status, sex, race, religion; maintain exemplary conduct to inspire community respect; use force only when necessary and reasonable to protect public, animals, or oneself; refrain from unnecessary infliction of pain or suffering; exercise discretion responsibly within the law (consider education before legal action); maintain confidentiality of information; avoid corruption or bribery; take responsibility for professional performance; continuously enhance knowledge and competence. Required for NACA ACO (Animal Control Officer) Certification."
+            },
+            {
+              "organization": "Transportation Security Administration (TSA) / Department of Homeland Security",
+              "document_title": "TSA Employee Responsibilities and Code of Conduct (TSA MD 1100.73-5)",
+              "url": "https://www.tsa.gov/sites/default/files/foia-readingroom/1100.73-5_employee_responsibilities_and_code_of_conduct.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2004",
+              "occupations_covered": ["33-9093 Transportation Security Screeners"],
+              "notes": "Federal management directive governing all TSA employees including Transportation Security Officers (TSOs). Requirements: perform duties professionally and in business-like manner; conduct not adversely reflecting on TSA on or off duty; uphold public trust with integrity; abide by 14 general principles of ethical conduct (5 CFR 2635.101) and DHS Supplemental Standards (5 CFR Part 4601). Annual ethics training provided (up to one hour of official duty time). Covers financial disclosure, outside activities, gift restrictions, and political activities. Accompanied by TSA Handbook and TSA Guide to Major Ethics Rules."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_codes_found": 41,
+    "soc_31_codes": 16,
+    "soc_33_codes": 25,
+    "by_document_type": {
+      "code_of_ethics": 33,
+      "code_of_conduct": 5,
+      "ethics_guidelines": 2,
+      "standards_of_practice": 1
+    },
+    "by_geographic_scope": {
+      "US": 36,
+      "International": 5
+    },
+    "key_findings": [
+      "Healthcare Support (31-0000): Ethics codes are fragmented across occupation-specific associations rather than unified under one body. CNAs rely on NAHCA and NADSP codes plus derivative ANA standards; OT/PT assistants are governed by AOTA and APTA respectively; massage therapists have two competing codes (AMTA and ABMP); phlebotomists have NAPTP and ASPT.",
+      "Protective Service (33-0000): Exceptionally well-documented ethics infrastructure. Law enforcement has the most layered system with IACP Code of Ethics (1957), Oath of Honor (2000), plus separate codes from NSA, ACA, AJA, APPA, and FPPOA for corrections and community supervision.",
+      "Fire service has multiple overlapping codes: National Firefighter Code of Ethics (NSEFO/CFSI 2007), IAFC Code for Chiefs (2003), IAFF Code of Ethical Practices, and NVFC Code of Conduct for volunteers.",
+      "Security professionals governed by ASIS International (dual code of ethics and code of conduct since 1955) plus IFPO, NCISS, and NALI for investigators.",
+      "Several codes have been recently revised: IACP Oath of Honor (2021), ASIS Code of Ethics (2023), AOTA Code (2025), APTA unified code (2025/2026 effective).",
+      "Corrections is served by four distinct codes (ACA, AJA, APPA, FPPOA) covering institutional, jail, community, and federal contexts respectively.",
+      "The TSA code (33-9093) is unique as a federal government management directive rather than a voluntary professional association code."
+    ]
+  }
+}

@@ -1,0 +1,826 @@
+{
+  "track": "NAICS",
+  "sectors": [
+    {
+      "sector_code": "52",
+      "sector_name": "Finance and Insurance",
+      "subsectors": [
+        {
+          "code": "521",
+          "name": "Monetary Authorities-Central Bank",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "Federal Reserve System",
+              "document_title": "Supplemental Standards of Ethical Conduct for Employees of the Board of Governors of the Federal Reserve System",
+              "url": "https://www.ecfr.gov/current/title-5/chapter-LXXX/part-8101",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "1996",
+              "notes": "5 CFR Part 8101. Supplements OGE Standards of Ethical Conduct."
+            },
+            {
+              "organization": "Federal Reserve Banks",
+              "document_title": "Code of Conduct for Senior Financial Officers and Additional Policies on Ethics and Conflicts of Interest",
+              "url": "https://www.federalreserve.gov/aboutthefed/files/code-of-conduct.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2022",
+              "notes": "Post-2021 trading scandal reforms. Restricts individual stock trading."
+            },
+            {
+              "organization": "Bank for International Settlements (BIS)",
+              "document_title": "Code of Conduct for Central Bank Officials",
+              "url": "https://www.bis.org/about/code_of_conduct.htm",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "2019",
+              "notes": "BIS organizational code covering independence, conflicts of interest, confidentiality."
+            }
+          ]
+        },
+        {
+          "code": "522",
+          "name": "Credit Intermediation and Related Activities",
+          "total_codes_found": 12,
+          "codes": [
+            {
+              "organization": "American Bankers Association (ABA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.aba.com/about-us/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Covers trust, integrity, fair dealing. Over 4,000 member institutions."
+            },
+            {
+              "organization": "Independent Community Bankers of America (ICBA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.icba.org/about/governance/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2017",
+              "notes": "Community banking sector ethics."
+            },
+            {
+              "organization": "Mortgage Bankers Association (MBA)",
+              "document_title": "Code of Ethics and Standards of Conduct",
+              "url": "https://www.mba.org/about-mba/code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2015",
+              "notes": "Residential and commercial mortgage lending."
+            },
+            {
+              "organization": "National Association of Mortgage Brokers (NAMB)",
+              "document_title": "Code of Ethics and Best Lending Practices",
+              "url": "https://www.namb.org/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2014",
+              "notes": "Ethics for mortgage brokers and loan originators."
+            },
+            {
+              "organization": "Credit Union National Association (CUNA) / America's Credit Unions",
+              "document_title": "Code of Ethics for Credit Union Directors and Committee Members",
+              "url": "https://www.americascreditunions.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "CUNA merged with NAFCU in 2024. Cooperative ethics."
+            },
+            {
+              "organization": "Consumer Bankers Association (CBA)",
+              "document_title": "Principles and Standards of Conduct",
+              "url": "https://www.consumerbankers.com/about-cba",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Retail banking standards."
+            },
+            {
+              "organization": "ACA International",
+              "document_title": "Code of Ethics",
+              "url": "https://www.acainternational.org/about/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2016",
+              "notes": "Debt collection industry ethics."
+            },
+            {
+              "organization": "National Association of Federal Credit Unions (NAFCU)",
+              "document_title": "Code of Ethics and Standards of Conduct",
+              "url": "https://www.nafcu.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Now merged into America's Credit Unions."
+            },
+            {
+              "organization": "Loan Syndications and Trading Association (LSTA)",
+              "document_title": "Code of Conduct for the U.S. Syndicated Loan Market",
+              "url": "https://www.lsta.org/content/code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2017",
+              "notes": "Syndicated loan market conduct standards."
+            },
+            {
+              "organization": "Secured Finance Network (SFNet)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.sfnet.com/about/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Asset-based lending and factoring. Formerly CFA."
+            },
+            {
+              "organization": "International Factoring Association (IFA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.factoring.org/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2015",
+              "notes": "Factoring and accounts receivable finance."
+            },
+            {
+              "organization": "Conference of State Bank Supervisors (CSBS)",
+              "document_title": "Code of Ethics and Professional Conduct for State Bank Examiners",
+              "url": "https://www.csbs.org/code-ethics",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Professional ethics for state banking examiners."
+            }
+          ]
+        },
+        {
+          "code": "523",
+          "name": "Securities, Commodity Contracts, and Other Financial Investments",
+          "total_codes_found": 21,
+          "codes": [
+            {
+              "organization": "CFA Institute",
+              "document_title": "Code of Ethics and Standards of Professional Conduct",
+              "url": "https://www.cfainstitute.org/ethics-standards/ethics/code-of-ethics-standards-of-professional-conduct",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2014",
+              "notes": "Gold standard in investment ethics. 190,000+ charterholders globally."
+            },
+            {
+              "organization": "CFA Institute",
+              "document_title": "Asset Manager Code of Professional Conduct",
+              "url": "https://www.cfainstitute.org/ethics-standards/codes/asset-manager-code",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "2009",
+              "notes": "Firm-level code. 1,500+ firms endorsed."
+            },
+            {
+              "organization": "Financial Industry Regulatory Authority (FINRA)",
+              "document_title": "FINRA Rules — Conduct Rules (Rule 2000 Series)",
+              "url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "2024",
+              "notes": "SRO for broker-dealers. ~3,400 firms, 625,000+ registered reps."
+            },
+            {
+              "organization": "Securities and Exchange Commission (SEC)",
+              "document_title": "SEC Code of Ethics for Senior Financial Officers",
+              "url": "https://www.sec.gov/about/ethics",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "2003",
+              "notes": "Required by SOX Section 406."
+            },
+            {
+              "organization": "Certified Financial Planner Board (CFP Board)",
+              "document_title": "Code of Ethics and Standards of Conduct",
+              "url": "https://www.cfp.net/ethics/code-of-ethics-and-standards-of-conduct",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Fiduciary duty for all financial planning. ~95,000 certificants."
+            },
+            {
+              "organization": "Financial Planning Association (FPA)",
+              "document_title": "Code of Ethics and Professional Responsibility",
+              "url": "https://www.financialplanningassociation.org/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Overlaps with CFP Board. Client-first fiduciary standard."
+            },
+            {
+              "organization": "National Association of Personal Financial Advisors (NAPFA)",
+              "document_title": "NAPFA Fiduciary Oath",
+              "url": "https://www.napfa.org/financial-planning/fiduciary-oath",
+              "document_type": "oath_or_pledge",
+              "geographic_scope": "US",
+              "year_published": "2003",
+              "notes": "Fee-only advisors' fiduciary oath. Members sign annually."
+            },
+            {
+              "organization": "Chartered Alternative Investment Analyst Association (CAIA)",
+              "document_title": "Code of Conduct and Standards of Practice",
+              "url": "https://caia.org/code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "2018",
+              "notes": "Alternative investment professionals."
+            },
+            {
+              "organization": "Global Association of Risk Professionals (GARP)",
+              "document_title": "GARP Code of Conduct",
+              "url": "https://www.garp.org/code-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "2019",
+              "notes": "~60,000 certified FRMs globally."
+            },
+            {
+              "organization": "Municipal Securities Rulemaking Board (MSRB)",
+              "document_title": "MSRB Rules of Professional Conduct",
+              "url": "https://www.msrb.org/Rules-and-Interpretations/MSRB-Rules",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "2024",
+              "notes": "SRO for municipal securities."
+            },
+            {
+              "organization": "National Futures Association (NFA)",
+              "document_title": "Code of Arbitration and Compliance Rules",
+              "url": "https://www.nfa.futures.org/rulebook/rules.aspx",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "2024",
+              "notes": "SRO for futures and derivatives."
+            },
+            {
+              "organization": "Investment Adviser Association (IAA)",
+              "document_title": "Standards of Practice and Code of Ethics Guidance",
+              "url": "https://www.investmentadviser.org/standards-of-practice/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "SEC-registered investment advisers. $35+ trillion AUM."
+            },
+            {
+              "organization": "CFA Institute",
+              "document_title": "Standards of Practice Handbook",
+              "url": "https://www.cfainstitute.org/ethics-standards/ethics/standards-practice-handbook",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "international",
+              "year_published": "2014",
+              "notes": "11th edition. Case studies interpreting the CFA Code."
+            },
+            {
+              "organization": "Chartered Institute for Securities & Investment (CISI)",
+              "document_title": "Code of Conduct",
+              "url": "https://www.cisi.org/cisiweb2/cisi-website/membership/code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK/international",
+              "year_published": "2020",
+              "notes": "UK-based. ~45,000 members."
+            },
+            {
+              "organization": "Investment Company Institute (ICI)",
+              "document_title": "Principles for Fund Governance and Code of Ethics Guidelines",
+              "url": "https://www.ici.org/policy/governance",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Mutual fund and ETF governance."
+            },
+            {
+              "organization": "Security Traders Association (STA)",
+              "document_title": "Code of Ethics and Standards of Professional Conduct",
+              "url": "https://www.stany.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2017",
+              "notes": "Equity and fixed-income traders."
+            },
+            {
+              "organization": "Commodity Futures Trading Commission (CFTC)",
+              "document_title": "Standards of Ethical Conduct",
+              "url": "https://www.cftc.gov/About/Governance/Ethics",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "2011",
+              "notes": "5 CFR Part 8401."
+            },
+            {
+              "organization": "Investments & Wealth Institute (formerly IMCA)",
+              "document_title": "Code of Professional Responsibility",
+              "url": "https://investmentsandwealth.org/about/code-of-professional-responsibility",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "CIMA and CPWA certificants."
+            },
+            {
+              "organization": "North American Securities Administrators Association (NASAA)",
+              "document_title": "Model Rules of Professional Conduct for Investment Advisers",
+              "url": "https://www.nasaa.org/industry-resources/investment-advisers/model-rules/",
+              "document_type": "model_rules",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Model rules adopted by state securities regulators."
+            },
+            {
+              "organization": "CFA Institute",
+              "document_title": "Global Investment Performance Standards (GIPS) — Ethical Requirements",
+              "url": "https://www.cfainstitute.org/ethics-standards/codes/gips-standards",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "international",
+              "year_published": "2020",
+              "notes": "1,700+ firms in 47 countries."
+            },
+            {
+              "organization": "Alternative Investment Management Association (AIMA)",
+              "document_title": "Guide to Sound Practices for Hedge Fund Governance",
+              "url": "https://www.aima.org/sound-practices/hedge-fund-governance.html",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "international",
+              "year_published": "2017",
+              "notes": "Hedge fund governance. $2+ trillion AUM."
+            }
+          ]
+        },
+        {
+          "code": "524",
+          "name": "Insurance Carriers and Related Activities",
+          "total_codes_found": 13,
+          "codes": [
+            {
+              "organization": "National Association of Insurance Commissioners (NAIC)",
+              "document_title": "Model Code of Ethics for State Insurance Regulators",
+              "url": "https://content.naic.org/",
+              "document_type": "model_rules",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Model law for state adoption."
+            },
+            {
+              "organization": "NAIC",
+              "document_title": "Unfair Trade Practices Act (Model Law 880)",
+              "url": "https://content.naic.org/sites/default/files/model-law-880.pdf",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "2021",
+              "notes": "Adopted in all 50 states."
+            },
+            {
+              "organization": "The Institutes (CPCU)",
+              "document_title": "CPCU Code of Professional Conduct",
+              "url": "https://www.theinstitutes.org/guide/cpcu-code-professional-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Nine canons for CPCU designation holders."
+            },
+            {
+              "organization": "National Association of Insurance and Financial Advisors (NAIFA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.naifa.org/about/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Largest insurance advisor association."
+            },
+            {
+              "organization": "Society of Actuaries (SOA)",
+              "document_title": "Code of Professional Conduct",
+              "url": "https://www.soa.org/about/governance/about-code-of-professional-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US/international",
+              "year_published": "2019",
+              "notes": "14 precepts. Enforced through disciplinary process."
+            },
+            {
+              "organization": "Casualty Actuarial Society (CAS)",
+              "document_title": "Code of Professional Ethics for Actuaries",
+              "url": "https://www.casact.org/professionalism/code-professional-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Property-casualty actuaries."
+            },
+            {
+              "organization": "American Academy of Actuaries (AAA)",
+              "document_title": "Code of Professional Conduct",
+              "url": "https://www.actuary.org/content/code-professional-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Cross-practice code for all US actuaries."
+            },
+            {
+              "organization": "Chartered Insurance Institute (CII)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.cii.co.uk/membership/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "UK/international",
+              "year_published": "2019",
+              "notes": "125,000+ members globally."
+            },
+            {
+              "organization": "Risk and Insurance Management Society (RIMS)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.rims.org/about-us/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2017",
+              "notes": "Risk managers."
+            },
+            {
+              "organization": "NABIP (formerly NAHU)",
+              "document_title": "Code of Ethics",
+              "url": "https://nabip.org/who-we-are/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2022",
+              "notes": "Health insurance agents and brokers."
+            },
+            {
+              "organization": "Insurance Institute of Canada (IIC)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.insuranceinstitute.ca/en/professional-development/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "Canada",
+              "year_published": "2018",
+              "notes": "CIP and FCIP designees."
+            },
+            {
+              "organization": "International Association of Insurance Supervisors (IAIS)",
+              "document_title": "Insurance Core Principles — ICP 7 and ICP 8",
+              "url": "https://www.iaisweb.org/activities-topics/standards-and-guidance/insurance-core-principles/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "international",
+              "year_published": "2019",
+              "notes": "200+ jurisdictions."
+            },
+            {
+              "organization": "National Association of Mutual Insurance Companies (NAMIC)",
+              "document_title": "Code of Conduct and Ethics Policy",
+              "url": "https://www.namic.org/about/code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Mutual insurance companies."
+            }
+          ]
+        },
+        {
+          "code": "525",
+          "name": "Funds, Trusts, and Other Financial Vehicles",
+          "total_codes_found": 9,
+          "codes": [
+            {
+              "organization": "American College of Trust and Estate Counsel (ACTEC)",
+              "document_title": "Standards of Professional Responsibility and Ethics",
+              "url": "https://www.actec.org/resources/standards-of-professional-responsibility/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Trust and estate lawyers."
+            },
+            {
+              "organization": "Institute of Management Accountants (IMA)",
+              "document_title": "IMA Statement of Ethical Professional Practice",
+              "url": "https://www.imanet.org/advocacy/ima-statement-of-ethical-professional-practice",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2017",
+              "notes": "140,000+ members."
+            },
+            {
+              "organization": "Institute of Internal Auditors (IIA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.theiia.org/en/standards/what-are-the-standards/mandatory-guidance/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2017",
+              "notes": "230,000+ members in 190 countries."
+            },
+            {
+              "organization": "AICPA",
+              "document_title": "Code of Professional Conduct",
+              "url": "https://pub.aicpa.org/codeofconduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2024",
+              "notes": "Comprehensive. Parts 1-3. All CPAs."
+            },
+            {
+              "organization": "International Ethics Standards Board for Accountants (IESBA)",
+              "document_title": "International Code of Ethics for Professional Accountants",
+              "url": "https://www.ethicsboard.org/international-code-ethics-professional-accountants",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2024",
+              "notes": "130+ jurisdictions."
+            },
+            {
+              "organization": "Institutional Limited Partners Association (ILPA)",
+              "document_title": "ILPA Principles",
+              "url": "https://ilpa.org/ilpa-principles/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "international",
+              "year_published": "2019",
+              "notes": "PE fund investors. 600+ members, $2+ trillion."
+            },
+            {
+              "organization": "National Council of Real Estate Investment Fiduciaries (NCREIF)",
+              "document_title": "Code of Ethics and Reporting Standards",
+              "url": "https://www.ncreif.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2017",
+              "notes": "Real estate investment fiduciaries."
+            },
+            {
+              "organization": "DCIIA",
+              "document_title": "Principles for Investment Policy and Fiduciary Best Practices",
+              "url": "https://www.dciia.org/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "DC plan fiduciaries."
+            },
+            {
+              "organization": "US Department of Labor — EBSA",
+              "document_title": "Fiduciary Requirements for ERISA Plans (29 CFR 2550)",
+              "url": "https://www.dol.gov/agencies/ebsa/key-topics/fiduciary-responsibilities",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "2024",
+              "notes": "ERISA fiduciary standards. Personal liability."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector_code": "53",
+      "sector_name": "Real Estate and Rental and Leasing",
+      "subsectors": [
+        {
+          "code": "531",
+          "name": "Real Estate",
+          "total_codes_found": 16,
+          "codes": [
+            {
+              "organization": "National Association of Realtors (NAR)",
+              "document_title": "Code of Ethics and Standards of Practice",
+              "url": "https://www.nar.realtor/about-nar/governing-documents/code-of-ethics/2024-code-of-ethics-standards-of-practice",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2024",
+              "notes": "One of the oldest (1913). 17 Articles. ~1.5 million members."
+            },
+            {
+              "organization": "NAR",
+              "document_title": "Realtor Pledge",
+              "url": "https://www.nar.realtor/about-nar/governing-documents/the-realtor-pledge",
+              "document_type": "oath_or_pledge",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Aspirational pledge supplementing Code of Ethics."
+            },
+            {
+              "organization": "Appraisal Institute",
+              "document_title": "Code of Professional Ethics",
+              "url": "https://www.appraisalinstitute.org/professional-practice/ethics-and-standards/code-of-professional-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2020",
+              "notes": "MAI and SRA designated appraisers."
+            },
+            {
+              "organization": "Appraisal Foundation",
+              "document_title": "USPAP — Ethics Rule",
+              "url": "https://www.appraisalfoundation.org/imis/TAF/Standards/Appraisal_Standards/Uniform_Standards_of_Professional_Appraisal_Practice/TAF/USPAP.aspx",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "2024",
+              "notes": "Force of federal law via FIRREA 1989."
+            },
+            {
+              "organization": "Royal Institution of Chartered Surveyors (RICS)",
+              "document_title": "Rules of Conduct for Members and Firms",
+              "url": "https://www.rics.org/profession-standards/rics-standards-and-guidance/conduct-competence/rules-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "2022",
+              "notes": "134,000 members in 146 countries."
+            },
+            {
+              "organization": "Institute of Real Estate Management (IREM)",
+              "document_title": "Code of Professional Ethics",
+              "url": "https://www.irem.org/about-irem/code-of-professional-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2020",
+              "notes": "CPM and ARM designees. 12 articles."
+            },
+            {
+              "organization": "CCIM Institute",
+              "document_title": "Code of Ethics",
+              "url": "https://www.ccim.com/about-ccim/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2019",
+              "notes": "Commercial investment members."
+            },
+            {
+              "organization": "Society of Industrial and Office Realtors (SIOR)",
+              "document_title": "Code of Professional Standards and Ethics",
+              "url": "https://www.sior.com/about/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2019",
+              "notes": "Industrial and office real estate."
+            },
+            {
+              "organization": "National Apartment Association (NAA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.naahq.org/about/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Apartment industry."
+            },
+            {
+              "organization": "Counselors of Real Estate (CRE)",
+              "document_title": "Code of Ethics and Standards of Professional Practice",
+              "url": "https://cre.org/about-cre/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2019",
+              "notes": "Invitation-only real estate advisors."
+            },
+            {
+              "organization": "ICSC (Innovating Commerce Serving Communities)",
+              "document_title": "Code of Professional Standards",
+              "url": "https://www.icsc.com/about/code-of-professional-standards",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "2020",
+              "notes": "Retail real estate."
+            },
+            {
+              "organization": "International Facility Management Association (IFMA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.ifma.org/about/about-ifma/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2019",
+              "notes": "24,000+ members in 100+ countries."
+            },
+            {
+              "organization": "BOMA International",
+              "document_title": "Code of Ethics",
+              "url": "https://www.boma.org/BOMA/About/BOMA_Code_of_Ethics.aspx",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2019",
+              "notes": "Commercial building owners and managers."
+            },
+            {
+              "organization": "Real Estate Board of New York (REBNY)",
+              "document_title": "Code of Ethics and Fair Dealing",
+              "url": "https://www.rebny.com/about-rebny/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US (New York)",
+              "year_published": "2020",
+              "notes": "~17,000 members. National influence."
+            },
+            {
+              "organization": "International Real Estate Federation (FIABCI)",
+              "document_title": "Code of Professional Ethics",
+              "url": "https://www.fiabci.org/en/about/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2018",
+              "notes": "70+ countries."
+            },
+            {
+              "organization": "American Society of Farm Managers and Rural Appraisers (ASFMRA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.asfmra.org/about/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Rural/agricultural real estate."
+            }
+          ]
+        },
+        {
+          "code": "532",
+          "name": "Rental and Leasing Services",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "American Car Rental Association (ACRA)",
+              "document_title": "Code of Ethics and Conduct",
+              "url": "https://www.acraorg.com/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Car rental industry."
+            },
+            {
+              "organization": "American Rental Association (ARA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.ararental.org/About/Code-of-Ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Equipment rental. 9,500+ member locations."
+            },
+            {
+              "organization": "Equipment Leasing and Finance Association (ELFA)",
+              "document_title": "Code of Fair Business Practices",
+              "url": "https://www.elfaonline.org/about/code-of-fair-business-practices",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Equipment leasing/finance. $1+ trillion."
+            },
+            {
+              "organization": "Association of Progressive Rental Organizations (APRO)",
+              "document_title": "Code of Ethics and Best Practices",
+              "url": "https://www.rtohq.org/about/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Rent-to-own industry."
+            },
+            {
+              "organization": "National Vehicle Leasing Association (NVLA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.nvla.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2017",
+              "notes": "Vehicle leasing."
+            }
+          ]
+        },
+        {
+          "code": "533",
+          "name": "Lessors of Nonfinancial Intangible Assets",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "Licensing International (formerly LIMA)",
+              "document_title": "Code of Business Practices and Ethics",
+              "url": "https://www.licensinginternational.org/about/code-of-business-practices/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "2020",
+              "notes": "$300+ billion in licensed goods retail."
+            },
+            {
+              "organization": "International Trademark Association (INTA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.inta.org/about/code-of-conduct/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2019",
+              "notes": "7,200+ member organizations, 185 countries."
+            },
+            {
+              "organization": "International Franchise Association (IFA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.franchise.org/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2021",
+              "notes": "733,000+ franchise establishments in US."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "agent_id": "N7",
+  "researched_at": "2026-03-21",
+  "summary": {
+    "total_codes_found": 82,
+    "sector_52_total": 58,
+    "sector_53_total": 24,
+    "richest_subsector": "523 Securities (21 codes)",
+    "notable_findings": [
+      "CFA Institute Code is the gold standard for investment ethics (190K+ charterholders)",
+      "NAR Code of Ethics (1913) is among the oldest professional codes in the US",
+      "A single financial planner may be subject to 4+ overlapping ethics codes",
+      "USPAP Ethics Rule has force of federal law via FIRREA 1989",
+      "IESBA Code adopted in 130+ jurisdictions worldwide"
+    ]
+  }
+}

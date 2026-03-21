@@ -1,0 +1,808 @@
+{
+  "track": "SOC",
+  "major_groups": [
+    {
+      "group_code": "47-0000",
+      "group_name": "Construction and Extraction Occupations",
+      "minor_groups": [
+        {
+          "code": "47-1000",
+          "name": "Supervisors of Construction and Extraction Workers",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "Associated General Contractors of America (AGC)",
+              "document_title": "AGC Code of Ethical Conduct",
+              "url": "https://www.agcwa.com/agcs-code-of-ethical-conduct/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2000",
+              "notes": "Adopted Dec 2000 by AGC Board of Trustees. 8 principles: honesty, respect, safety above profit, environmental stewardship, quality delivery, accountability, dispute resolution, organizational leadership. Voluntary and non-binding per antitrust regulations. Applies to general contractor supervisors overseeing construction sites."
+            },
+            {
+              "organization": "Construction Management Association of America (CMAA)",
+              "document_title": "Code of Professional Conduct",
+              "url": "https://www.cmaanet.org/about-us/code-professional-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2021",
+              "notes": "Four foundational principles: Ethical Practice, Professional Excellence, Responsibility to Public, Client-Centered Practice. 10 core provisions. All CCMs/CACMs/CMITs must affirm adherence at renewal. Effective Jan 2021: minimum 1 ethics PDH for certification renewal."
+            },
+            {
+              "organization": "American Institute of Constructors (AIC)",
+              "document_title": "AIC Constructor Code of Ethics",
+              "url": "https://aic-builds.org/ethics/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2025",
+              "notes": "Binding on all AIC Members, CACs, and CPCs. Covers public interest, fair dealing, anti-deception, professional reputation protection, fair/unbiased advice, honesty, worker/public safety. Last modified Nov 2025."
+            },
+            {
+              "organization": "American Society of Safety Professionals (ASSP)",
+              "document_title": "Code of Professional Conduct",
+              "url": "https://www.assp.org/about/society-bylaws-and-guidelines/code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Formerly ASSE. 4 fundamental principles (integrity/compliance, safe workplaces, respectful treatment, continuous learning) and 10 canons including fidelity, anti-discrimination, informed decision-making, conflict of interest avoidance, risk reporting. Applies to construction safety supervisors. Complaints filed via executive@assp.org."
+            },
+            {
+              "organization": "Chartered Institute of Building (CIOB)",
+              "document_title": "CIOB Code of Conduct",
+              "url": "https://www.ciob.org/ethics-respect-people",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "",
+              "notes": "International body for construction management professionals. Members must have full regard for public interest, demonstrate competence, act with integrity/honesty/trustworthiness, treat others with respect/fairness/equality. Disciplinary process for violations. Applies to construction supervisors and managers."
+            }
+          ]
+        },
+        {
+          "code": "47-2000",
+          "name": "Construction Trades Workers",
+          "total_codes_found": 16,
+          "codes": [
+            {
+              "organization": "International Brotherhood of Electrical Workers (IBEW)",
+              "document_title": "IBEW Code of Excellence",
+              "url": "https://ibew.org/code-of-excellence/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2002",
+              "notes": "SPARQ values: Safety, Professionalism, Accountability, Relationships, Quality. Accepted by membership May 22, 2002. Members pledge punctuality, drug-free workplace, 8-for-8 work ethic, respect for property. Management must follow CBA and safety requirements. Covers electricians (SOC 47-2111)."
+            },
+            {
+              "organization": "United Association of Plumbers and Steamfitters (UA)",
+              "document_title": "UA Standard for Excellence",
+              "url": "https://ua.org/about-the-ua/built-on-excellence/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Comprehensive standard for 395,000+ members. Three pillars: Excellence, Productivity, Safety. Member duties: punctuality, appropriate dress, zero disruptions, on-time completion, no personal cell phones during work. Contractor duties: safe environment, continued education, adequate staffing, respectful/dignified treatment. Covers plumbers, pipefitters, steamfitters (SOC 47-2152)."
+            },
+            {
+              "organization": "Sheet Metal, Air, Rail and Transportation Workers (SMART)",
+              "document_title": "SMART Code of Excellence",
+              "url": "https://www.smart-union.org/code-of-excellence/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "230,000 members. Code emphasizes honesty, trustworthiness, productivity, reliability. Anti-discrimination/harassment policy. Drug and alcohol abuse prevention. Disreputable activity not tolerated. Local union Executive Board reviews non-compliant members with escalation to charges. Covers sheet metal workers (SOC 47-2211)."
+            },
+            {
+              "organization": "International Association of Bridge, Structural, Ornamental and Reinforcing Iron Workers",
+              "document_title": "Ironworkers' Standards of Excellence",
+              "url": "https://www.ironworkers.org/who-we-are/ironworkers'-standards-of-excellence",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Adopted by the General Executive Board and immediately became part of every Local Union's by-laws. Members pledge to be most skilled, productive and safest craft in building trades. Covers respect for tools, start/quit times, pride in craftsmanship. Purpose: increase pride, productivity and craftsmanship while maintaining wages, benefits and standard of living. Covers structural iron and steel workers (SOC 47-2221)."
+            },
+            {
+              "organization": "International Union of Bricklayers and Allied Craftworkers (BAC)",
+              "document_title": "BAC Code of Conduct",
+              "url": "https://bacweb.org/bac-code-conduct-award",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "IUBAC acronym encodes five commitments: fair day's work for fair wage, union loyalty, continuous improvement through IMI training, quality and responsibility, industry growth. BAC Code of Conduct Award recognizes locals demonstrating highest standards. Covers bricklayers, stonemasons, tile setters (SOC 47-2021, 47-2022, 47-2044)."
+            },
+            {
+              "organization": "Operative Plasterers' and Cement Masons' International Association (OPCMIA)",
+              "document_title": "OPCMIA Code of Conduct",
+              "url": "https://www.opcmia.org/members/code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Aims to stimulate members' pride in craftsmanship and customer satisfaction. Members must: apply knowledge diligently, mentor colleagues, arrive punctually, maintain zero tolerance for substance abuse, minimize idle time, respect customer property, avoid offensive clothing. Prohibits slowdowns, harassment, unauthorized jobsite departures. Three-strike disciplinary system. Covers cement masons, concrete finishers, plasterers (SOC 47-2051, 47-2161)."
+            },
+            {
+              "organization": "Plumbing-Heating-Cooling Contractors Association (PHCC)",
+              "document_title": "PHCC Code of Ethics",
+              "url": "https://www.phccweb.org/about/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Ten principles covering trade dignity, ethical advertising/pricing/installation, technological advancement, association participation, building code compliance, water/energy conservation. Published June 2018, last modified June 2019. Applies to plumbing and HVAC contractors and their tradespeople."
+            },
+            {
+              "organization": "United Brotherhood of Carpenters and Joiners (UBC)",
+              "document_title": "UBC Code of Conduct",
+              "url": "https://albertacarpenters.com/home/members/bylaws-trade-rules-agreements/ubc-in-alberta-code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Instills pride and defines expected conduct on jobs, in offices, and in the community. Members must demonstrate productivity, non-disruptive behavior, arrive on time ready to work, adhere to start/quit times, refrain from discrimination/harassment per human rights legislation, dress appropriately. Covers carpenters (SOC 47-2031)."
+            },
+            {
+              "organization": "International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, Forgers and Helpers (IBB)",
+              "document_title": "Boilermaker Code and Creed",
+              "url": "https://boilermakers.org/about/videos/the-boilermaker-code-and-creed",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Connects members to union history and points to professional conduct and high-level performance that bring value to employers and secure the future of Boilermakers. 50,000+ members across heavy industry, shipbuilding, manufacturing, railroads, cement, mining. Anti-discrimination/anti-harassment policy with formal complaint procedure. Each local lodge adopts by-laws governing conduct. Covers boilermakers (SOC 47-2011)."
+            },
+            {
+              "organization": "International Association of Heat and Frost Insulators and Allied Workers",
+              "document_title": "Professional Craftsman Code of Conduct",
+              "url": "https://www.insulators.org/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Promotes job site excellence and customer satisfaction. Founded 1903, formerly included 'Asbestos Workers' in name. Union has fought for carcinogen exposure regulations. Members work in commercial/industrial insulation. Covers insulation workers (SOC 47-2131)."
+            },
+            {
+              "organization": "United Union of Roofers, Waterproofers and Allied Workers",
+              "document_title": "Professional Code of Conduct and Standards of Mutual Responsibility",
+              "url": "https://unionroofers.com/resources/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Program for Local Unions to promote highest job performance. Uses NRCA Roofing and Waterproofing Manuals as guide. Goal: on-time, under-budget, built right first time with no accidents. Officers must exercise highest ethical standards, fundamental honesty. Adopts AFL-CIO Codes of Ethical Practice. Members must adhere to safety rules and contractual times. Covers roofers (SOC 47-2181)."
+            },
+            {
+              "organization": "International Union of Painters and Allied Trades (IUPAT)",
+              "document_title": "IUPAT Constitution and Code of Conduct",
+              "url": "https://www.iupat.org/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Represents ~100,000 painters, glaziers, wall coverers, flooring installers, drywall finishers, sign workers. Constitution (2019 final, Jan 2020) governs member conduct. Anti-harassment/intimidation/bullying policy covers jobsite, union halls, meetings, social media. Covers painters, paperhangers, glaziers (SOC 47-2141, 47-2142, 47-2121)."
+            },
+            {
+              "organization": "Laborers' International Union of North America (LIUNA)",
+              "document_title": "Code of Performance",
+              "url": "https://www.liuna.org/code-of-performance",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Nine member obligations: skills development via apprenticeship, punctuality, job referral rules, attendance, following supervision, fair day's work, respect for property, dispute resolution procedures, workplace safety. Enforced via hiring hall referral penalties. Applies to construction laborers (SOC 47-2061)."
+            },
+            {
+              "organization": "Laborers' International Union of North America (LIUNA)",
+              "document_title": "Ethical Practices Code / Code of Best Practices",
+              "url": "https://www.liuna.org/documents-and-resources",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Applies to entire union structure and all members/officers. Covers democratic rights, health/welfare fund integrity, anti-racketeering, conflict of interest prohibitions, financial transparency. Office of Inspector General investigates complaints of Barred Conduct. Broader ethical framework complementing the Code of Performance."
+            },
+            {
+              "organization": "Mason Contractors Association of America (MCAA)",
+              "document_title": "MCAA Code of Ethics",
+              "url": "https://masoncontractors.org/ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2024",
+              "notes": "Six 'I SHALL' commitments: excellent performance, honest business, fair treatment of employees/suppliers, knowledge sharing, quality masonry promotion, appreciation for MCAA objectives. Golden Rule creed. Constitution/Bylaws dated March 2024."
+            },
+            {
+              "organization": "National Electrical Contractors Association (NECA)",
+              "document_title": "NECA Code of Ethics",
+              "url": "https://www.necanet.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1901",
+              "notes": "Founding principle since NECA's establishment in 1901 by 49 contractors. Encourages active competition, sound ethical business practices, cooperation and good will among electrical contracting industry members. Applies to electrical contractor employers of electricians."
+            }
+          ]
+        },
+        {
+          "code": "47-3000",
+          "name": "Helpers, Construction Trades",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "Laborers' International Union of North America (LIUNA)",
+              "document_title": "Code of Performance",
+              "url": "https://www.liuna.org/code-of-performance",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Also applies to construction helpers and apprentices. Nine obligations including skills development through apprenticeship programs, punctuality, safety compliance, respect for property, and following supervision. Helpers are covered as entry-level LIUNA members progressing through training."
+            },
+            {
+              "organization": "Associated Builders and Contractors (ABC)",
+              "document_title": "ABC Members' Code of Ethics",
+              "url": "https://www.abc.org/Membership/Code-of-Ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1971",
+              "notes": "Originally approved Sept 24, 1971; reaffirmed June 2006 and March 2022. 8 provisions covering performance standards, honest pricing, professional cooperation, timely payments, safety leadership, fair compensation, industry training investment. Applies to merit-shop contractors employing construction helpers."
+            }
+          ]
+        },
+        {
+          "code": "47-4000",
+          "name": "Other Construction and Related Workers",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "International Union of Elevator Constructors (IUEC)",
+              "document_title": "IUEC Constitution and By-Laws",
+              "url": "https://www.iuec.org/wp-content/uploads/2021-Constitution-Bylaws.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2021",
+              "notes": "Constitution and By-Laws govern member conduct for elevator constructors. National Elevator Industry Education Program (NEIEP) requires apprentices to conduct themselves in a creditable and ethical manner at all times. Ethics hotline available for reporting concerns on jobsites. Covers elevator installers and repairers (SOC 47-4021)."
+            },
+            {
+              "organization": "International Union of Operating Engineers (IUOE)",
+              "document_title": "IUOE Code of Ethics",
+              "url": "https://www.iuoe.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Referenced in IUOE bylaws and local union constitutions. Prohibits conduct discrediting the organization. Violations referenced in Section VI(A) barring eligibility for union office. Enforced through local union bylaws. 400,000 members operating cranes, bulldozers, loaders, graders. Covers operating engineers and equipment operators (SOC 47-2073)."
+            },
+            {
+              "organization": "American Subcontractors Association (ASA)",
+              "document_title": "Model Code of Ethics for a Construction Subcontractor",
+              "url": "https://www.asaonline.com/",
+              "document_type": "model_rules",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Prepared for Sarbanes-Oxley compliance. 11 areas of ethical concern: competition, qualifications, standards of practice, conflicts of interest, public safety, suppliers, employees, public information, legal compliance, industry image, internal procedures. Applicable to specialty subcontractors in fencing, demolition, insulation, and other 47-4000 trades."
+            }
+          ]
+        },
+        {
+          "code": "47-5000",
+          "name": "Extraction Workers",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "Society for Mining, Metallurgy & Exploration (SME)",
+              "document_title": "SME Code of Ethics",
+              "url": "https://www.smenet.org/membership-benefits/membership-categories/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2024",
+              "notes": "Required for all Registered Members. 8 clauses: (1) community welfare/health/safety as highest duty, (2) uphold profession's honor, (3) work within competence, (4) build reputation on merit, (5) act as faithful agent avoiding conflicts, (6) honest expert testimony, (7) support professional development, (8) comply with mineral industry laws and SEC regulations. Complaint filing process; removal from membership for unprofessional conduct. Covers mining machine operators, earth drillers, explosives workers (SOC 47-5000 series)."
+            },
+            {
+              "organization": "International Association of Drilling Contractors (IADC)",
+              "document_title": "IADC Ethics and Corporate Compliance Standards",
+              "url": "https://iadc.org/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "international",
+              "year_published": "",
+              "notes": "Ethics and Corporate Compliance Committee fosters understanding and compliance with US and international laws including anti-corruption/anti-bribery. Promotes highest standards of ethics within the drilling industry. Drillers must see that all workers carry out safety rules. Covers rotary drill operators, derrick operators, roustabouts (SOC 47-5012, 47-5011, 47-5071)."
+            },
+            {
+              "organization": "Society for Mining, Metallurgy & Exploration (SME)",
+              "document_title": "SME Certified Mine Safety Professional Code of Conduct",
+              "url": "https://www.smecmsp.org/index.cfm/codeofconduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Specific code for the Certified Mine Safety Professional (CMSP) credential. Covers ethical standards for mine safety professionals who oversee extraction worker safety. Administered through SME's CMSP certification program."
+            },
+            {
+              "organization": "The Minerals, Metals & Materials Society (TMS)",
+              "document_title": "TMS Endorsement of NSPE Code of Ethics",
+              "url": "https://www.tms.org/About",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "TMS (AIME member society) endorses the NSPE Code of Ethics. Key principles: hold paramount safety/health/welfare of public, act as faithful agents, build reputation on merit, accept responsibility for actions, properly credit contributions. Applies to metallurgical and materials professionals in extraction and processing. 145,000+ members via AIME."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_code": "49-0000",
+      "group_name": "Installation, Maintenance, and Repair Occupations",
+      "minor_groups": [
+        {
+          "code": "49-1000",
+          "name": "Supervisors of Installation, Maintenance, and Repair Workers",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "American Society of Safety Professionals (ASSP)",
+              "document_title": "Code of Professional Conduct",
+              "url": "https://www.assp.org/about/society-bylaws-and-guidelines/code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Applies to maintenance supervisors overseeing worker safety. 4 fundamental principles and 10 canons. Members must serve stakeholders with fidelity/honesty/impartiality, report unacceptable risk levels, maintain confidentiality, accurately represent qualifications. Violations subject to discipline per ASSP Operating Guidelines."
+            },
+            {
+              "organization": "American Society for Quality (ASQ)",
+              "document_title": "ASQ Code of Ethics",
+              "url": "https://asq.org/about-asq/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1948",
+              "notes": "Established 1948, sets global standards of conduct. Fundamental principles: integrity/truthfulness, professional competence, safety/respect. Members must hold paramount safety/health/welfare, promote reliability and safety of all products, do not mislead regarding qualifications. Violations reported to Professional Ethics and Qualifications Committee; disciplinary action including revocation of certifications. Relevant to maintenance quality supervisors."
+            },
+            {
+              "organization": "Institute for Supply Management (ISM)",
+              "document_title": "Principles and Standards of Ethical Supply Management Conduct",
+              "url": "https://www.ismworld.org/82780827-principles-and-standards-of-ethical-supply-mgmt/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Core principles: integrity, value, loyalty. Standards cover: impropriety prevention, conflict of interest, undue influence avoidance, improper reciprocity, confidential information protection, professional competence. Applies to supervisors managing maintenance parts procurement and supply chains."
+            }
+          ]
+        },
+        {
+          "code": "49-2000",
+          "name": "Electrical and Electronic Equipment Mechanics, Installers, and Repairers",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "CompTIA",
+              "document_title": "CompTIA Professional Code of Ethics",
+              "url": "https://www.comptia.org/en-us/resources/test-policies/continuing-education-policies/candidate-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "All CompTIA certification holders must agree to abide by the code. Prohibits cheating, breach of security, misconduct, fraudulent information submission. Professional misconduct negatively reflecting on employer or certification program is a violation. Consequences: decertification, revocation of all CompTIA certifications, 12-month exam ban. Covers computer/electronics repair technicians (SOC 49-2011)."
+            },
+            {
+              "organization": "North American Technician Excellence (NATE)",
+              "document_title": "NATE Code of Conduct",
+              "url": "https://natex.org/wp-content/uploads/2022/05/RE-DESIGNED_Technician-Handbook.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "NATE certified technicians agree to deal with clients/consumers/professionals fairly, act free of bias regarding religion/ethnicity/gender/age/national origin. Professional representation: be neat/clean, arrive on time, be culturally aware. Honesty and loyalty required. No alcohol/drugs in work environment. Violations reviewed by NATE management; Board of Trustees may suspend/revoke certification with written decisions within 30 days. Covers HVACR mechanics and installers (SOC 49-9021)."
+            },
+            {
+              "organization": "Air Conditioning Contractors of America (ACCA)",
+              "document_title": "ACCA Code of Ethics",
+              "url": "https://www.acca.org/standards",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Establishes ethical standards for heating/cooling/refrigeration business. Principles: design/install/service/repair HVAC systems per accepted industry standards; quality/honesty/integrity/good faith as hallmarks. ACCA develops ANSI-approved quality standards adopted by utilities, government agencies, and manufacturers. Covers HVACR mechanics and installers (SOC 49-9021)."
+            },
+            {
+              "organization": "American Society of Certified Engineering Technicians (ASCET)",
+              "document_title": "ASCET Code of Ethics",
+              "url": "https://ascet.org/page/Ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Engineering technicians guided by highest standards of integrity, act as faithful agent or trustee for client/employer, uphold and advance honor and dignity among fellow members. Applicable to electrical/electronic equipment repair technicians working in engineering support roles (SOC 49-2000 series)."
+            },
+            {
+              "organization": "Refrigerating Engineers and Technicians Association (RETA)",
+              "document_title": "RETA Code of Conduct",
+              "url": "https://reta.com/page/aboutreta",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Applies to all RETA members, directors, officers, staff, certification candidates, and certificate holders. Intended to maintain confidence/respect of industry employers and employees, protect public health/safety, and protect persons in positions of responsibility. No individual eligible for RETA certification without compliance. Covers refrigeration mechanics working with ammonia and industrial refrigeration systems."
+            }
+          ]
+        },
+        {
+          "code": "49-3000",
+          "name": "Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "National Institute for Automotive Service Excellence (ASE)",
+              "document_title": "ASE Certified Technician's Code of Ethics",
+              "url": "https://www.ase.com",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Since 1972, sets standards for mechanic knowledge and skills. ASE-Certified Technicians pledge: first-class workmanship, continuous learning, use only manufacturer-recommended safe materials, recommend only necessary work, treat customer vehicles as own, correct honest mistakes, maintain public respect for ASE-Certified Technicians, practice Service Integrity. Covers automotive service technicians and mechanics (SOC 49-3023)."
+            },
+            {
+              "organization": "Automotive Service Association (ASA)",
+              "document_title": "ASA Code of Ethics",
+              "url": "https://www.asashop.org/who-we-are/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1951",
+              "notes": "Industry standard for professional business practices since 1951. Principles: high-quality repair at fair price, proven merchandise from reputable firms, employ best skilled technicians, furnish itemized invoices clearly identifying used/remanufactured parts, personal obligation to each customer, recommend only necessary corrective and maintenance services with clear explanation. Usually displayed in waiting room."
+            },
+            {
+              "organization": "National Automobile Dealers Association (NADA)",
+              "document_title": "NADA Code of Ethics",
+              "url": "https://www.nada.org/nada/code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Service section: perform high-quality repair at fair/competitive price, employ trained/skilled technicians, furnish itemized invoices identifying used/remanufactured parts, detail charges to assist customer understanding, provide written estimates as required, exercise reasonable care for customer property, maintain prompt complaint response system. Updated for 21st century with companion Ethics Guide covering sales, service, financial services, advertising."
+            },
+            {
+              "organization": "Professional Aviation Maintenance Association (PAMA)",
+              "document_title": "PAMA/SAE Institute Code of Ethics",
+              "url": "https://www.pama.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "All PAMA/SAE Institute certified professionals must contribute to ensuring highest levels of airworthiness and ethics, be intolerant of unethical behavior. Responsible to general public, maintain currency of knowledge, exercise truth/integrity/honesty in judgment, work within scope of expertise, remain loyal to public, never compromise safety for personal gain. Covers aircraft mechanics and service technicians (SOC 49-3011)."
+            },
+            {
+              "organization": "Aviation Code of Conduct Permanent Board",
+              "document_title": "Aviation Maintenance Technicians Model Code of Conduct",
+              "url": "https://www.secureav.com/AMTMCC-v1.0.htm",
+              "document_type": "model_rules",
+              "geographic_scope": "US",
+              "year_published": "2009",
+              "notes": "Released July 17, 2009. Seven sections: General Responsibilities, Third-party Safety, Training and Proficiency, Security, Environmental Issues, Use of Technology, Advancement and Promotion. Primary obligation to the Flying Public. Enhances safety, promotes training/conduct/personal responsibility, encourages good judgment and ethical behavior. Free public service. Covers aircraft mechanics (SOC 49-3011)."
+            }
+          ]
+        },
+        {
+          "code": "49-9000",
+          "name": "Other Installation, Maintenance, and Repair Occupations",
+          "total_codes_found": 6,
+          "codes": [
+            {
+              "organization": "American Welding Society (AWS)",
+              "document_title": "AWS QC1 Code of Ethics for Certified Welding Inspectors",
+              "url": "https://pubs.aws.org/content/free_downloads/QC1-2016_STANDARD_FOR_AWS_CERTIFICATION_OF_WELDING_INSPECTORS.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2016",
+              "notes": "AWS QC1:2016-AMD1 mandates welding inspectors maintain integrity and high standards to safeguard public health/well-being. Inspectors must act with complete integrity, be forthright/candid with employer, customer, regulators, and Standards Committee. Responsibility to preserve public health by performing duties conscientiously/impartially, only accepting assignments for which qualified. Three certification levels: SCWI, CWI, CAWI. Violations subject to suspension, reprimand, or revocation. Covers welders, cutters, solderers, and brazers in maintenance roles (SOC 51-4121 cross-referenced to 49-9000)."
+            },
+            {
+              "organization": "International Brotherhood of Electrical Workers (IBEW)",
+              "document_title": "IBEW Code of Excellence",
+              "url": "https://ibew.org/code-of-excellence/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2002",
+              "notes": "Also applicable to IBEW members performing electrical maintenance and repair work (not just new construction). SPARQ values apply to all electrical work contexts. Covers electrical and electronics repairers (SOC 49-2000 series) and industrial electrical maintenance workers."
+            },
+            {
+              "organization": "American Society of Mechanical Engineers (ASME)",
+              "document_title": "ASME Code of Ethics of Engineers",
+              "url": "https://www.asme.org/about-asme/governance/ethics-in-engineering",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Four fundamental principles: enhance human welfare, be honest/impartial/serve with fidelity, increase competence/prestige, support professional societies. Canons: hold paramount public safety, perform only in areas of competence, issue statements only objectively/truthfully, act as faithful agents, avoid deceptive acts, continue professional development. Applicable to industrial machinery mechanics and millwrights (SOC 49-9041, 49-9044)."
+            },
+            {
+              "organization": "Association for Materials Protection and Performance (AMPP)",
+              "document_title": "AMPP Ethics for the Corrosion Professional",
+              "url": "https://www.ampp.org/education/education-resources/courses-by-program/general-corrosion/ethics-for-the-corrosion-professional",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "international",
+              "year_published": "2021",
+              "notes": "Formed 2021 by merger of NACE International and SSPC. 40,000+ members in 130+ countries. Certified professionals committed to protecting people, assets, and environment from corrosion effects. Education program includes formal ethics course. Standards address emerging technologies, new materials, changing regulations. Covers maintenance workers in corrosion control and protective coatings (SOC 49-9043, 49-9099)."
+            },
+            {
+              "organization": "International Union of Elevator Constructors (IUEC)",
+              "document_title": "IUEC Constitution and By-Laws",
+              "url": "https://www.iuec.org/wp-content/uploads/2021-Constitution-Bylaws.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2021",
+              "notes": "Also applies to elevator maintenance and repair work (not just construction). Constitution governs member conduct. NEIEP requires creditable/ethical conduct at all times. Covers elevator installers and repairers performing maintenance (SOC 49-9098)."
+            },
+            {
+              "organization": "North American Technician Excellence (NATE)",
+              "document_title": "NATE Code of Conduct",
+              "url": "https://natex.org/wp-content/uploads/2022/05/RE-DESIGNED_Technician-Handbook.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Also applicable to HVACR service/repair technicians (not just installation). Founded 1997 as nation's largest non-profit HVACR certification organization. Fairness, anti-bias, honesty, loyalty, substance-free workplace requirements. Board of Trustees reviews ethical complaints biannually. Covers heating, AC, and refrigeration mechanics and installers in service/repair roles (SOC 49-9021)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_code": "51-0000",
+      "group_name": "Production Occupations",
+      "minor_groups": [
+        {
+          "code": "51-1000",
+          "name": "Supervisors of Production Workers",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "American Society for Quality (ASQ)",
+              "document_title": "ASQ Code of Ethics",
+              "url": "https://asq.org/about-asq/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1948",
+              "notes": "Established 1948. Members must uphold integrity/honor/dignity, be truthful/transparent, execute responsibilities objectively. Must promote reliability and safety of all products within jurisdiction. Only offer services in areas of competence. Hold paramount safety/health/welfare. Violations reported to Professional Ethics and Qualifications Committee; may result in certification revocation or expulsion. Directly relevant to production quality supervisors."
+            },
+            {
+              "organization": "Society of Manufacturing Engineers (SME)",
+              "document_title": "SME Code of Ethics",
+              "url": "https://www.sme.org/globalassets/sme.org/code-of-ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Certified manufacturing professionals must: be dedicated to improving manufacturing processes worldwide, instill awareness of public health/safety/conservation/environment, be honest/truthful/fair, offer services only in areas of competence with full qualification disclosure, act in accordance with Manufacturing Engineering Certification Institute requirements. Required for CMfgE and CMfgA certifications with triennial recertification."
+            },
+            {
+              "organization": "American Society of Mechanical Engineers (ASME)",
+              "document_title": "ASME Code of Ethics of Engineers",
+              "url": "https://www.asme.org/about-asme/governance/ethics-in-engineering",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Four fundamental principles and multiple canons. Emphasis on product safety in manufacturing: engineers should focus on designing and manufacturing safest products. Hold paramount public safety/health/welfare. Continue professional development and provide opportunities for ethical development of those under supervision. Relevant to production engineering supervisors."
+            }
+          ]
+        },
+        {
+          "code": "51-2000",
+          "name": "Assemblers and Fabricators",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "IPC (Association Connecting Electronics Industries)",
+              "document_title": "IPC Code of Conduct",
+              "url": "https://www.ipc.org/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "",
+              "notes": "IPC is the global association for electronics manufacturers, representing 6,000+ member companies. Sets industry standards (IPC-A-610, IPC/WHMA-A-620, J-STD-001) for electronic assembly quality and workmanship. Members commit to ethical manufacturing practices, worker welfare, and environmental responsibility. IPC-1401 specifies corporate social responsibility requirements for the electronics supply chain. Covers electrical/electronic equipment assemblers (SOC 51-2020 series)."
+            },
+            {
+              "organization": "International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, Forgers and Helpers (IBB)",
+              "document_title": "Boilermaker Code and Creed",
+              "url": "https://boilermakers.org/about/videos/the-boilermaker-code-and-creed",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Also covers fabrication shop workers. 50,000+ members across heavy industry, shipbuilding, manufacturing. Code connects to history and professional conduct. Anti-discrimination/anti-harassment policy. Each local lodge adopts by-laws governing conduct. Covers structural metal fabricators and fitters (SOC 51-2041) and related fabrication occupations."
+            }
+          ]
+        },
+        {
+          "code": "51-3000",
+          "name": "Food Processing Workers",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "Institute of Food Technologists (IFT)",
+              "document_title": "Code of Professional Conduct",
+              "url": "https://www.ift.org/about-us/ift-policies/code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2016",
+              "notes": "Approved November 2016. Six core principles: (1) Public health and environmental responsibility — ensure food safety, minimize waste, provide accurate marketplace info; (2) Professional ethics — confine to areas of competence, honest representation; (3) Client/employer faithfulness — respect confidentiality, disclose conflicts; (4) Information accuracy — evaluate benefits and harms, ensure true/accurate claims; (5) Research integrity — report accurately, avoid bias; (6) Professional advancement — avoid premature/misleading claims. Covers food science technologists and food processing supervisors."
+            },
+            {
+              "organization": "Institute of Food Science and Technology (IFST)",
+              "document_title": "IFST Code of Professional Conduct",
+              "url": "https://www.ifst.org/about-ifst/professional-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK",
+              "year_published": "",
+              "notes": "All members give undertaking to: uphold profession integrity, comply with regulatory/legal requirements, develop/maintain professional knowledge, act fairly/honestly/trustworthily/diligently, ensure professional judgment not compromised by bias/conflict of interest, consider risks and implications of actions/advice. Breach investigation may lead to disciplinary action including expulsion. Covers food processing and food science professionals internationally."
+            },
+            {
+              "organization": "United Food and Commercial Workers International Union (UFCW)",
+              "document_title": "UFCW Constitution and Worker Safety Standards",
+              "url": "https://www.ufcw.org/who-we-represent/food-processing-beverage-production/",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Represents workers at food/beverage processing facilities including Campbell's, Pepsi, Kraft, Coca-Cola. Union contracts establish standard operating procedures for safety. Workers can speak out or stop the line when safety is at risk. UFCW fights for transparency in injury/illness reporting, whistleblower protections. Occupational Safety and Health Office develops programs for meatpacking/food processing. Covers food batchmakers, meat cutters, food cooking machine operators (SOC 51-3000 series)."
+            }
+          ]
+        },
+        {
+          "code": "51-4000",
+          "name": "Metal Workers and Plastic Workers",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "American Welding Society (AWS)",
+              "document_title": "AWS QC1 Code of Ethics for Certified Welding Inspectors",
+              "url": "https://pubs.aws.org/content/free_downloads/QC1-2016_STANDARD_FOR_AWS_CERTIFICATION_OF_WELDING_INSPECTORS.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2016",
+              "notes": "AWS QC1:2016-AMD1. Mandates integrity and high standards to safeguard public health/well-being. Inspectors must act with complete integrity, be forthright/candid. Responsibility: preserve public health by performing duties conscientiously/impartially, only accepting qualified assignments. Three levels: SCWI, CWI, CAWI. Violations: suspension, reprimand, or revocation by Certification Committee. Primary code governing welding professionals (SOC 51-4121)."
+            },
+            {
+              "organization": "Society of Manufacturing Engineers (SME)",
+              "document_title": "SME Code of Ethics",
+              "url": "https://www.sme.org/globalassets/sme.org/code-of-ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Applies to certified manufacturing professionals working in metal/plastic fabrication. Must be dedicated to improving manufacturing processes, instill awareness of health/safety/conservation/environment, be honest/truthful/fair, offer services only in competence areas. Required for CMfgE and CMfgA certifications. Covers CNC machine tool operators, machinists, tool and die makers (SOC 51-4011, 51-4041, 51-4111)."
+            },
+            {
+              "organization": "American Society of Mechanical Engineers (ASME)",
+              "document_title": "ASME Code of Ethics of Engineers",
+              "url": "https://www.asme.org/about-asme/governance/ethics-in-engineering",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Applies to mechanical engineers supervising or working in metal fabrication/machining. Focus on designing and manufacturing safest products. Public safety paramount. Continue professional development. Issue public statements only objectively/truthfully. Relevant to tooling engineers and manufacturing process engineers overseeing metal/plastic production."
+            },
+            {
+              "organization": "The Minerals, Metals & Materials Society (TMS)",
+              "document_title": "TMS Endorsement of NSPE Code of Ethics",
+              "url": "https://www.tms.org/About",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "TMS endorses NSPE Code of Ethics for its members. Key: hold paramount safety/health/welfare, act as faithful agents, build reputation on merit, properly credit contributions. Applies to metallurgical professionals in metals processing and production (SOC 51-4000 series, particularly heat treating and metal refining)."
+            }
+          ]
+        },
+        {
+          "code": "51-5000",
+          "name": "Printing Workers",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "PRINTING United Alliance",
+              "document_title": "PRINTING United Alliance Code of Conduct",
+              "url": "https://www.printing.org/membership/terms-conditions/code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Members must uphold highest standards of ethical, professional behavior, hold paramount safety/health/welfare of public. Must uphold/enhance personal and professional honor/integrity/dignity of printing profession. Anti-discrimination/anti-harassment policy covering all protected classes. Violations may result in reprimand or forfeiture of membership or volunteer role. Covers prepress technicians, printing press operators, print binding workers (SOC 51-5111, 51-5112, 51-5113)."
+            },
+            {
+              "organization": "Graphic Artists Guild",
+              "document_title": "Code of Fair Practice for the Graphic Communications Industry",
+              "url": "https://graphicartistsguild.org/the-code-of-fair-practice-for-the-graphic-communications-industry/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1989",
+              "notes": "Originally published 1948 by Joint Ethics Committee (est. 1945); revised 1989. Promotes equity in creating, selling, buying, using graphics. Key provisions: artwork/copyright vested in artist unless agreed otherwise, no duplication without authorization, electronic rights separately negotiated, prompt payment required, alterations require artist consultation, portfolios must be returned. Used by thousands of professionals. Applicable to graphic designers and prepress workers in print production."
+            },
+            {
+              "organization": "International Printing Pressmen and Assistants' Union / Graphic Communications International Union (GCIU legacy)",
+              "document_title": "AFL-CIO Codes of Ethical Practices",
+              "url": "https://aflcio.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Printing trade unions (now merged into Teamsters as Graphic Communications Conference) adopt AFL-CIO Codes of Ethical Practices governing union officer conduct, democratic rights, health/welfare fund integrity, anti-corruption. Applicable to unionized printing production workers through their collective bargaining agreements."
+            }
+          ]
+        },
+        {
+          "code": "51-6000",
+          "name": "Textile, Apparel, and Furnishings Workers",
+          "total_codes_found": 1,
+          "codes": [
+            {
+              "organization": "Workers United (SEIU affiliate, UNITE legacy)",
+              "document_title": "Workers United/UNITE HERE Ethical Manufacturing Standards",
+              "url": "https://workersunited.org/who-we-ar/our-history",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Successor to ILGWU, ACWA, and TWUA with over a century of textile/clothing history. UNITE-made garments include negotiated enforceable contracts covering wages/benefits, safety, production standards. Ethical companies must have codes ensuring freedom of association, freedom from harassment, fair safety/wage/hour standards, with independent monitoring for compliance. Workers United is now SEIU affiliate. Covers textile machine setters, sewing machine operators, upholsterers (SOC 51-6000 series)."
+            }
+          ]
+        },
+        {
+          "code": "51-7000",
+          "name": "Woodworkers",
+          "total_codes_found": 1,
+          "codes": [
+            {
+              "organization": "United Brotherhood of Carpenters and Joiners (UBC)",
+              "document_title": "UBC Code of Conduct",
+              "url": "https://albertacarpenters.com/home/members/bylaws-trade-rules-agreements/ubc-in-alberta-code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "UBC also represents millworkers and cabinetmakers in addition to carpenters. Code covers productivity, professionalism, non-disruptive behavior, punctuality, anti-discrimination/harassment, appropriate dress. Established 1881 with commitment to excellence. Applicable to woodworking machine setters, cabinetmakers (SOC 51-7011, 51-7042) through UBC membership in manufacturing and shop settings."
+            }
+          ]
+        },
+        {
+          "code": "51-8000",
+          "name": "Plant and System Operators",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "International Union of Operating Engineers (IUOE)",
+              "document_title": "IUOE Code of Ethics",
+              "url": "https://www.iuoe.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "IUOE represents both construction equipment operators and stationary engineers who operate/maintain plant systems. Referenced in bylaws and local constitutions. Prohibits conduct discrediting the organization. Enforced through local bylaws. Covers stationary engineers, boiler operators, power plant operators (SOC 51-8011, 51-8021, 51-8013)."
+            },
+            {
+              "organization": "International Society of Automation (ISA)",
+              "document_title": "ISA Code of Conduct",
+              "url": "https://www.isa.org/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "2024",
+              "notes": "In force since April 6, 2024. Provides expectations for professional conduct for all ISA participants. ISA is foremost professional organization for automation standards and education. Develops global standards; certifies professionals in process control and automation. Standards participation requires adherence to ethical guidelines. Covers chemical plant operators, system operators, process control technicians (SOC 51-8091, 51-8099)."
+            },
+            {
+              "organization": "American Nuclear Society (ANS)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.ans.org/about/coe/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2022",
+              "notes": "14 principles of professional conduct approved Nov 17, 2022 by ANS Board. Covers public safety, disclosure obligations, dignity/respect, diversity/inclusion, anti-bribery. Applicable to nuclear power reactor operators (SOC 51-8011). Separate from but complementary to NRC licensing requirements for reactor operators."
+            }
+          ]
+        },
+        {
+          "code": "51-9000",
+          "name": "Other Production Occupations",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "American Society for Quality (ASQ)",
+              "document_title": "ASQ Code of Ethics",
+              "url": "https://asq.org/about-asq/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1948",
+              "notes": "Established 1948. Applies broadly to quality professionals in production including inspectors, testers, sorters, samplers. Must promote reliability/safety of all products, uphold integrity/honor/dignity, be truthful/transparent, hold paramount safety/health/welfare. Violations: certification revocation or expulsion. Covers inspectors, testers, sorters, samplers, and weighers (SOC 51-9061)."
+            },
+            {
+              "organization": "Association for Materials Protection and Performance (AMPP)",
+              "document_title": "AMPP Ethics for the Corrosion Professional",
+              "url": "https://www.ampp.org/education/education-resources/courses-by-program/general-corrosion/ethics-for-the-corrosion-professional",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "international",
+              "year_published": "2021",
+              "notes": "40,000+ members in 130+ countries. Certified professionals protect people, assets, environment from corrosion. Ethics education program for corrosion professionals. Standards address new technologies, materials, regulatory requirements. Covers coating, painting, and spraying machine setters/operators (SOC 51-9121) and other production workers in surface treatment."
+            },
+            {
+              "organization": "Society of Manufacturing Engineers (SME)",
+              "document_title": "SME Code of Ethics",
+              "url": "https://www.sme.org/globalassets/sme.org/code-of-ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "Applies to certified manufacturing professionals across all production specialties. Must be dedicated to improving manufacturing processes, instill awareness of health/safety/conservation/environment, be honest/truthful/fair, offer services only in competence areas. Covers chemical processing machine operators, mixing/blending machine operators, packaging machine operators (SOC 51-9011, 51-9023, 51-9111)."
+            },
+            {
+              "organization": "International Jewelers Guild / Jewelers of America (JA)",
+              "document_title": "Jewelers of America Code of Professional Practices",
+              "url": "https://www.jewelers.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "",
+              "notes": "JA members adhere to code of professional practices emphasizing consumer trust, accurate product representation, ethical sourcing, full disclosure of treatments/enhancements to gemstones, fair pricing. Applies to jewelers and precious stone/metal workers in production roles (SOC 51-9071)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "agent_id": "S9",
+  "researched_at": "2026-03-21"
+}

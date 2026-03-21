@@ -1,0 +1,513 @@
+{
+  "track": "SOC",
+  "agent": "S4",
+  "date_collected": "2026-03-21",
+  "soc_groups": [
+    {
+      "group_code": "23-0000",
+      "group_name": "Legal Occupations",
+      "minor_groups": [
+        {
+          "code": "23-1000",
+          "name": "Lawyers, Judges, and Related Workers",
+          "total_codes_found": 14,
+          "codes": [
+            {
+              "organization": "American Bar Association (ABA)",
+              "document_title": "Model Rules of Professional Conduct",
+              "url": "https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1983",
+              "notes": "Adopted by the ABA House of Delegates in 1983, replacing the 1969 Code of Professional Responsibility. Approximately 58 rules organized into eight subject areas: Client-Lawyer Relationship, Counselor, Advocate, Transactions with Persons Other than Clients, Law Firms and Associations, Public Service, Information About Legal Services, and Maintaining the Integrity of the Profession. Adopted with variations in all 50 US states. The foundational ethics code for the American legal profession."
+            },
+            {
+              "organization": "American Bar Association (ABA)",
+              "document_title": "Model Code of Judicial Conduct",
+              "url": "https://www.americanbar.org/groups/professional_responsibility/publications/model_code_of_judicial_conduct/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1990",
+              "notes": "Adopted August 7, 1990; amended 1997, 1999, 2003, 2007, and 2010. Four canons: (1) uphold independence, integrity, and impartiality; (2) perform duties impartially, competently, and diligently; (3) minimize conflicts between personal/extrajudicial activities and judicial obligations; (4) avoid political/campaign activity inconsistent with judicial impartiality. Adopted by most US states as basis for their judicial conduct codes."
+            },
+            {
+              "organization": "International Bar Association (IBA)",
+              "document_title": "International Principles on Conduct for the Legal Profession",
+              "url": "https://www.ibanet.org/document?id=-International-Principles-on-Conduct-for-the-Legal-Profession-2018",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2006",
+              "notes": "Adopted September 20, 2006; updated 2011 and 2018. Ten core principles developed with input from legal profession representatives across all continents: independence, honesty/integrity/fairness, conflicts of interest, confidentiality, clients' interests, lawyers' undertakings, clients' freedom, property of clients and third parties, competence, and fees. Intended as a universal framework for national codes of conduct."
+            },
+            {
+              "organization": "Council of Bars and Law Societies of Europe (CCBE)",
+              "document_title": "Code of Conduct for European Lawyers",
+              "url": "https://www.ccbe.eu/NTCdocument/EN_CCBE_CoCpdf1_1382973057.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "Europe",
+              "year_published": "1988",
+              "notes": "Adopted 1988, amended multiple times, with Model Code of Conduct for European Lawyers updated 2021. Binding rules governing cross-border legal work within Europe. CCBE represents about one million European lawyers from 32 countries. Accompanied by the Charter of Core Principles of the European Legal Profession (2006), listing ten core principles common to all European bars."
+            },
+            {
+              "organization": "United Nations",
+              "document_title": "Basic Principles on the Role of Lawyers",
+              "url": "https://www.ohchr.org/en/instruments-mechanisms/instruments/basic-principles-role-lawyers",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "International",
+              "year_published": "1990",
+              "notes": "Adopted by the Eighth UN Congress on the Prevention of Crime and the Treatment of Offenders in Havana, 1990. Soft-law instrument defining fundamental requirements for access to independent legal counsel. Key principles: lawyers must not be identified with clients' causes (principle 18); immunity for good-faith professional statements; right to free communication with clients. Landmark international instrument for legal profession independence."
+            },
+            {
+              "organization": "Judicial Group on Strengthening Judicial Integrity / UNODC",
+              "document_title": "Bangalore Principles of Judicial Conduct",
+              "url": "https://www.unodc.org/documents/ji/training/bangaloreprinciples.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2002",
+              "notes": "Drafted 2001, finalized 2002 at The Hague with participation of International Court of Justice judges. Six core values: Independence, Impartiality, Integrity, Propriety, Equality, Competence and Diligence. Developed in response to concerns about loss of public confidence in the judiciary due to perceptions of corruption. Endorsed by ECOSOC and widely adopted as the international standard for judicial conduct."
+            },
+            {
+              "organization": "Association of American Law Schools (AALS)",
+              "document_title": "Statement of Good Practices by Law Professors in the Discharge of Their Ethical and Professional Responsibilities",
+              "url": "https://www.washburnlaw.edu/facultystaff/otherpolicies/aalsgoodpractices.html",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "1989",
+              "notes": "Addresses responsibilities of law professors to students, as scholars, to colleagues, to the law school and university, and to the bar and public. Requires teaching excellence, conscientious exam design, impartial grading, and civil treatment of students. Law professors who are lawyers are also subject to professional ethics of their jurisdiction. Supplements the AAUP Statement on Professional Ethics."
+            },
+            {
+              "organization": "American Arbitration Association (AAA) / American Bar Association (ABA)",
+              "document_title": "Code of Ethics for Arbitrators in Commercial Disputes",
+              "url": "https://go.adr.org/rs/294-SFS-516/images/AAA304_Code_of_Ethics_for_Arbitrators_Commercial_Disputes.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1977",
+              "notes": "Originally prepared 1977 by joint ABA-AAA committee; revised 2003 by ABA Task Force and AAA special committee. Applies to commercial arbitration but not labor arbitration (which uses the separate Code of Professional Responsibility for Arbitrators of Labor-Management Disputes). 2004 revision applies a presumption of neutrality to all arbitrators, including party-appointed ones. Covers disclosure, impartiality, conflicts of interest, and communication."
+            },
+            {
+              "organization": "American Bar Association (ABA) / American Arbitration Association (AAA) / Association for Conflict Resolution (ACR)",
+              "document_title": "Model Standards of Conduct for Mediators",
+              "url": "https://www.americanbar.org/groups/dispute_resolution/resources/tools/ethics/",
+              "document_type": "standards_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2005",
+              "notes": "Originally prepared 1994 by joint ABA/AAA/ACR committee; revised 2005 and approved by all three organizations. Nine standards: self-determination, impartiality, conflicts of interest, competence, confidentiality, quality of the process, advertising/solicitation, fees, and advancement of mediation practice. Fundamental ethical guidelines for mediators in all practice contexts."
+            },
+            {
+              "organization": "Association of Legal Administrators (ALA)",
+              "document_title": "ALA Code of Professional Ethics",
+              "url": "https://www.alanet.org/about/strategy-governance/goverance-resource-hub/ala-code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1991",
+              "notes": "First adopted 1991; revised 2010 as Code of Professional Responsibility; further revised March 2021. Covers ethical administration of private firms, legal clinics, corporate legal departments, governmental agencies, and courts. Requires compatibility with ABA Model Rules of Professional Conduct, continuing education, protection of confidential information, and promotion of diversity and inclusion in legal management."
+            },
+            {
+              "organization": "National Notary Association (NNA)",
+              "document_title": "Notary Public Code of Professional Responsibility",
+              "url": "https://www.nationalnotary.org/knowledge-center/news/notary-public-code-of-professional-responsibility",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1998",
+              "notes": "First-ever detailed code of ethical and professional conduct for notaries, updated in 2020 edition. Guiding principles include impartiality, identity verification, confidentiality, record-keeping, and continuous education on notarization laws. The notary shall act as an impartial witness and not profit from any document or transaction apart from the fee allowed by statute."
+            },
+            {
+              "organization": "National Association of Legal Investigators (NALI)",
+              "document_title": "NALI Code of Ethics",
+              "url": "https://nalionline.org/become-a-member/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1970",
+              "notes": "Adopted 1970, recently updated 2023 when NALI Executive Council adopted 'Code of Professional Conduct: Standards and Ethics for the Investigative Profession, 4th ed.' as highest standard. Investigator must be dedicated to search for truth, maintain proper licensing, conduct investigations with integrity and honesty, respect rights of all persons, and accurately represent services. Certified Legal Investigators (CLI) must adhere to this code."
+            },
+            {
+              "organization": "American Land Title Association (ALTA)",
+              "document_title": "Principles of Fair Conduct",
+              "url": "https://njlta.org/page/AmericanLandTitle",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2010",
+              "notes": "Guide for title companies and employees in the title insurance industry. Key principles: engage only in lawful business practices consistent with high ethical standards; encourage culture of compliance with federal and state laws; treat consumers fairly and ethically; provide timely and comprehensive information regarding policies, services, products, and prices; and educate consumers about title insurance. ALTA founded 1907, representing 6,000+ title insurance agents and abstracters."
+            },
+            {
+              "organization": "American Association of Law Libraries (AALL)",
+              "document_title": "AALL Ethical Principles",
+              "url": "https://www.aallnet.org/advocacy/government-relations/recommended-guidelines/aall-ethical-principles/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "1999",
+              "notes": "Aspirational principles adopted April 5, 1999. Promote open, equitable, and effective access to legal information; protect patron confidentiality, privacy, and personal data; recognize duty to avoid unauthorized practice of law; promote fair and ethical trade practices; do not allow personal convictions to lead to inequitable service. AALL also endorses the ALA Code of Ethics."
+            }
+          ]
+        },
+        {
+          "code": "23-2000",
+          "name": "Legal Support Workers",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "NALA — The Paralegal Association",
+              "document_title": "NALA Code of Ethics and Professional Responsibility",
+              "url": "https://nala.org/certification/certification_old/nala-code-ethics-and-professional-responsibility/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1975",
+              "notes": "Canons covering the paralegal profession. Key provisions: Canon 1 prohibits unauthorized practice of law, establishing attorney-client relationships, and giving legal opinions; Canon 3 permits tasks properly delegated and supervised by attorneys; Canon 6 requires integrity and competency through continuing education; Canon 7 protects client confidences and privileged communications; Canon 8 requires disclosure of conflicts of interest. Revised March 2022."
+            },
+            {
+              "organization": "National Federation of Paralegal Associations (NFPA)",
+              "document_title": "Model Code of Ethics and Professional Responsibility",
+              "url": "https://www.paralegals.org/page/positions-issues-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1993",
+              "notes": "Adopted May 1993 as aspirational guide; made enforceable April 1997 with adoption of Model Disciplinary Rules. Covers competence (education, training, continuing education), billing accuracy, prohibition of ex parte communications with courts, professional title disclosure, and confidentiality. Expresses NFPA's commitment to increasing quality and efficiency of legal services."
+            },
+            {
+              "organization": "NALS — National Association for Legal Support Professionals",
+              "document_title": "NALS Code of Ethics and Professional Responsibility",
+              "url": "https://www.nals.org/page/NALSCodeofEthics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1999",
+              "notes": "Seven canons governing paralegals, legal assistants, legal secretaries, and all legal services professionals. Canon 1: maintain competency and integrity through continuing education; Canon 2: maintain ethical conduct and association integrity; Canon 3: avoid conflicts of interest; Canon 4: preserve client confidences and privileged communications; Canon 6: shall not solicit legal business on behalf of a lawyer; Canon 7: shall not perform paralegal functions except under direct lawyer supervision (unless permitted by law)."
+            },
+            {
+              "organization": "National Court Reporters Association (NCRA)",
+              "document_title": "Code of Professional Ethics",
+              "url": "https://www.ncra.org/home/the-profession/NCRA-Code-of-Professional-Ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1987",
+              "notes": "Mandatory code defining ethical relationships between court reporters and the public, bench, and bar. Requirements: be fair and impartial toward each participant; disclose actual or potential conflicts of interest; guard against appearance of impropriety; preserve confidentiality and security of information; be truthful in public statements about qualifications. Accompanied by Guidelines for Professional Practice (aspirational goals). Overseen by the Committee on Professional Ethics (COPE), which has issued 44+ advisory opinions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_code": "25-0000",
+      "group_name": "Educational Instruction and Library Occupations",
+      "minor_groups": [
+        {
+          "code": "25-1000",
+          "name": "Postsecondary Teachers",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "American Association of University Professors (AAUP)",
+              "document_title": "Statement on Professional Ethics",
+              "url": "https://www.aaup.org/report/statement-professional-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1966",
+              "notes": "Adopted April 1966, revised 1987 and 2009. Addresses five areas of responsibility: as teachers (encourage free pursuit of learning, respect students as individuals, ensure evaluations reflect true merit), as scholars (seek and state truth), as colleagues (respect colleagues, do not discriminate or harass), as members of institutions, and as citizens (promote conditions of free inquiry). Foundational document for academic ethics."
+            },
+            {
+              "organization": "NASPA — Student Affairs Administrators in Higher Education",
+              "document_title": "NASPA Guiding Principles and Code of Ethics",
+              "url": "https://www.naspa.org/about/code-of-ethics/naspa-guiding-principles-and-code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Adapted from Higher Education Consortium for Student Affairs Certification Code of Ethics. Three-part structure: guiding principles (overall objectives), aspirational goals, and ethical obligations. Eight guiding principles: integrity and honesty, confidentiality and privacy, quality and excellence, continuous learning, inclusivity and equity, respect for diversity, well-being, and dignity/respect/compassion."
+            },
+            {
+              "organization": "Council for the Advancement of Standards in Higher Education (CAS)",
+              "document_title": "CAS Statement of Shared Ethical Principles",
+              "url": "https://www.cas.edu/ethics--values.html",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2006",
+              "notes": "Seven shared ethical principles: autonomy, non-malfeasance, beneficence, justice, fidelity, veracity, and affiliation. CAS represents 42 higher education and student affairs professional organizations. Not intended to replace individual association codes but articulates shared foundational principles across student services professions. CAS established 1979."
+            },
+            {
+              "organization": "International Association of Universities (IAU) / Magna Charta Observatory (MCO)",
+              "document_title": "IAU-MCO Guidelines for an Institutional Code of Ethics in Higher Education",
+              "url": "https://iau.global/all-publications/iau-mco-guidelines-for-an-institutional-code-of-ethics-in-higher-education",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "International",
+              "year_published": "2012",
+              "notes": "Approved at 14th IAU General Conference 2012. Provides comprehensive guidelines for universities to develop or review institutional codes of ethics. Developed after 2010 IAU International Conference on Values and Ethics in Vilnius."
+            },
+            {
+              "organization": "TESOL International Association",
+              "document_title": "TESOL Code of Conduct",
+              "url": "https://www.tesol.org/code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "2015",
+              "notes": "Guidelines for TESOL members, volunteers, and participants. Requires members to embrace TESOL's mission and commitment to diversity, equity, inclusion, and access; uphold the profession's reputation through respectful actions; encourage and support colleagues in professional development; and act with integrity and respect. TESOL teacher preparation standards also include professional ethics requirements emphasizing truth, democratic citizenship, and human dignity."
+            }
+          ]
+        },
+        {
+          "code": "25-2000",
+          "name": "Preschool, Elementary, Middle, Secondary, and Special Education Teachers",
+          "total_codes_found": 7,
+          "codes": [
+            {
+              "organization": "National Education Association (NEA)",
+              "document_title": "Code of Ethics for Educators",
+              "url": "https://www.nea.org/resource-library/code-ethics-educators",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1975",
+              "notes": "Adopted 1975 by the nation's largest professional employee organization (3 million members). Two core principles: Commitment to the Student (non-discrimination, academic freedom, confidentiality, protection from harmful conditions, fair evaluation) and Commitment to the Profession (honest representation of qualifications, prohibitions on misrepresentation, protecting colleagues). Foundational code for American public education."
+            },
+            {
+              "organization": "American Federation of Teachers (AFT)",
+              "document_title": "AFT Code of Conduct",
+              "url": "https://www.aft.org/sites/default/files/media/documents/2023/AFT_Code_of_Conduct_July_2023.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Adopted by AFT Executive Council October 3, 2018; updated July 2023. Governs member conduct and organizational representation. Members must serve all members equitably without prejudice and comport themselves in ways not detrimental to the organization's reputation. AFT also endorsed the MCEE and developed a separate Code of Ethical International Recruitment and Employment of Teachers."
+            },
+            {
+              "organization": "National Association for the Education of Young Children (NAEYC)",
+              "document_title": "Code of Ethical Conduct and Statement of Commitment",
+              "url": "https://www.naeyc.org/resources/position-statements/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1989",
+              "notes": "Adopted 1989, updated 2005, reaffirmed 2011, with current revision in draft as of 2024. Four sections: relationships with children, families, colleagues, and community/society. Applies to all individuals caring for children birth through age 8. Offers guidelines for responsible behavior and a common basis for resolving principal ethical dilemmas in early childhood care and education."
+            },
+            {
+              "organization": "National Association of State Directors of Teacher Education and Certification (NASDTEC)",
+              "document_title": "Model Code of Ethics for Educators (MCEE)",
+              "url": "https://www.nasdtec.net/page/MCEE_Doc",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2015",
+              "notes": "2nd edition July 2023. Five principles: responsibility to the profession, professional competence, responsibility to students, responsibility to the school community, responsible and ethical use of technology. Developed collaboratively with NEA, AFT, and other organizations. Overseen by the National Council for the Advancement of Educator Ethics (NCAEE), established 2015 to promote ethical decision-making that impacts the safety and well-being of children."
+            },
+            {
+              "organization": "American School Counselor Association (ASCA)",
+              "document_title": "ASCA Ethical Standards for School Counselors",
+              "url": "https://www.schoolcounselor.org/About-School-Counseling/Ethical-Responsibilities/ASCA-Ethical-Standards-for-School-Counselors-(1)",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2004",
+              "notes": "Developed collaboratively with practitioners and counselor educators nationwide. Covers Pre-K through 12. Sections: Responsibility to Students, Parents/Guardians, School Staff, Self, Administrators/Supervisors, Intern Site Supervisors, Maintenance of Standards, and Ethical Decision Making. Revised 2010, 2016, and 2022. 2022 update expands language about school counselors as leaders, advocates, collaborators, and consultants who create systemic change."
+            },
+            {
+              "organization": "Education International (EI)",
+              "document_title": "EI Declaration on Professional Ethics",
+              "url": "https://www.ei-ie.org/en/item/21519:ei-declaration-on-professional-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2004",
+              "notes": "International ethics declaration for teachers and education personnel worldwide. Six articles: Commitment to the Profession, Commitment to Students, Commitment to Colleagues, Commitment to Management Personnel, Commitment to Parents, Commitment to the Teacher. Education International is the global hub for teacher unions representing 32.5 million education employees from 383 organizations in 178 countries. Designed to create professional identity and unity among teachers globally."
+            },
+            {
+              "organization": "ILO / UNESCO",
+              "document_title": "Recommendation concerning the Status of Teachers",
+              "url": "https://www.ilo.org/ilo-unesco-recommendation-concerning-status-teachers-1966",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "International",
+              "year_published": "1966",
+              "notes": "Adopted October 5, 1966 at special intergovernmental conference convened by UNESCO in Paris. Sets forth rights and responsibilities of teachers, international standards for preparation, recruitment, employment, and teaching conditions. Specifically recommends that codes of ethics be established by teachers' organizations to ensure professional prestige. Non-binding recommendation for all ILO/UNESCO member states. Complemented by 1997 UNESCO Recommendation on Higher-Education Teaching Personnel."
+            }
+          ]
+        },
+        {
+          "code": "25-3000",
+          "name": "Other Teachers and Instructors",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "National Tutoring Association (NTA)",
+              "document_title": "NTA Code of Ethics",
+              "url": "https://www.ntatutor.com/code-of-ethics.html",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2000",
+              "notes": "Ethical principles for tutors: guide students to do their own work; maintain professional (not personal) relationships; be punctual; keep student information confidential; provide honest feedback via positive praise and constructive suggestions; respect cultural backgrounds and personal value systems; keep current in subject areas and learning methodologies. NTA also has a separate Academic Coach Code of Ethics. Dedicated to achieving and maintaining high professional standards for tutors and tutoring programs."
+            },
+            {
+              "organization": "TESOL International Association",
+              "document_title": "Standards for Initial TESOL Pre-K-12 Teacher Preparation Programs",
+              "url": "https://www.tesol.org/media/v33fewo0/2018-tesol-teacher-prep-standards-final.pdf",
+              "document_type": "professional_standards",
+              "geographic_scope": "International",
+              "year_published": "2018",
+              "notes": "Professional teaching standards with embedded ethics requirements for ESL/EFL instructors. Candidates should strive toward excellence, recognize the importance of truth, nurture democratic citizenship, safeguard freedom to learn and teach, and believe in human dignity and educational opportunities for all. Includes the 6 Principles for Exemplary Teaching of English Learners drawn from decades of language pedagogy research."
+            }
+          ]
+        },
+        {
+          "code": "25-4000",
+          "name": "Librarians, Curators, and Archivists",
+          "total_codes_found": 11,
+          "codes": [
+            {
+              "organization": "American Library Association (ALA)",
+              "document_title": "ALA Code of Ethics",
+              "url": "https://www.ala.org/tools/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1939",
+              "notes": "Created 1939, most recently amended 2021 with addition of ninth principle on racial and social justice, diversity, equity, and inclusion. Nine core principles addressing intellectual freedom, privacy and confidentiality, resistance to censorship, fair representation of all viewpoints, equitable access, and professional excellence. Framework for ethical decision-making used by librarians, library staff, and information professionals. Complemented by the Library Bill of Rights."
+            },
+            {
+              "organization": "International Federation of Library Associations and Institutions (IFLA)",
+              "document_title": "IFLA Code of Ethics for Librarians and Other Information Workers",
+              "url": "https://www.ifla.org/publications/ifla-code-of-ethics-for-librarians-and-other-information-workers-full-version/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2012",
+              "notes": "Approved and endorsed August 2012 by IFLA's Committee on Freedom of Access to Information and Freedom of Expression (FAIFE). Covers access to information (rejecting censorship by states, governments, or institutions), free access to collections, professional conduct, copyright balance, and privacy. Translated into multiple languages for worldwide use. Serves as model and reference for national library association codes."
+            },
+            {
+              "organization": "Special Libraries Association (SLA)",
+              "document_title": "SLA Professional Ethics Guidelines",
+              "url": "https://sla.org/page/sla-professional-ethics-guidelines/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "1996",
+              "notes": "Guidelines positioned within interacting value systems: basic human rights, organizational missions, legal/cultural/societal norms, and personal ethical beliefs. Core principles: integrity, competence, diligence, honesty, discretion, confidentiality, accurate self-representation, avoidance of conflicts of interest. Recognizes different types of information (personally identifiable, proprietary, classified, public) and respects diversity of viewpoints and cultural differences."
+            },
+            {
+              "organization": "Association of College and Research Libraries (ACRL/ALA)",
+              "document_title": "Code of Ethics for Special Collections Librarians",
+              "url": "https://rbms.info/standards/code_of_ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1987",
+              "notes": "First appeared as 'Standards for Ethical Conduct for Rare Book, Manuscript, and Special Collections Librarians' in 1987; second edition 1993; recast as Code of Ethics with commentary 2003; current version approved June 19, 2020 by ACRL Board. Practitioners must be familiar with and adhere to the ALA Code of Ethics. Addresses unique ethical issues in special collections including personal collecting, appraisal, donor relations, and access restrictions."
+            },
+            {
+              "organization": "American Association of Law Libraries (AALL)",
+              "document_title": "AALL Ethical Principles",
+              "url": "https://www.aallnet.org/advocacy/government-relations/recommended-guidelines/aall-ethical-principles/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "1999",
+              "notes": "Aspirational principles for law librarians adopted April 5, 1999. Promote open, equitable access to legal information; protect patron confidentiality, privacy, and personal data; recognize duty to avoid unauthorized practice of law; promote fair trade practices; do not allow personal convictions to lead to inequitable service. AALL also endorses the ALA Code of Ethics. Bridges both legal and library professional ethics obligations."
+            },
+            {
+              "organization": "Society of American Archivists (SAA)",
+              "document_title": "SAA Core Values Statement and Code of Ethics",
+              "url": "https://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1980",
+              "notes": "First introduced 1980, updated 1992, significantly revised August 2020. Provides ethical framework addressing professional relationships, authentic records, physical protection of materials, access, privacy protection for donors and users. Goal: move the profession toward a more inclusive, ethical, and accountable community of archival practice. Must be read in conjunction with SAA's Core Values of Archivists."
+            },
+            {
+              "organization": "International Council on Archives (ICA)",
+              "document_title": "ICA Code of Ethics",
+              "url": "https://www.ica.org/resource/ica-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "1996",
+              "notes": "Adopted September 6, 1996 at ICA General Assembly in Beijing. Available in 24 languages. Key principles: protect integrity of archival material as reliable evidence; perform duties in accordance with archival principles regarding creation, maintenance, selection, preservation, and description of records; promote widest possible access while respecting privacy and acting within relevant legislation. Term 'archivists' encompasses all concerned with control, care, and preservation of archives."
+            },
+            {
+              "organization": "American Alliance of Museums (AAM)",
+              "document_title": "Code of Ethics for Museums",
+              "url": "https://www.aam-us.org/programs/ethics-standards-and-professional-practices/code-of-ethics-for-museums/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1993",
+              "notes": "Adopted November 12, 1993 by AAM Board of Directors; revised 2000. Five sections plus afterword covering Governance, Collections, Programs, and Promulgation. Root value: commitment to serving present and future generations. Loyalty to mission and public must never be compromised by conflicts of interest. Museums must act not only legally but ethically, frequently exceeding legal minimums. AAM recommends each member museum adopt its own institutional code applying these principles."
+            },
+            {
+              "organization": "International Council of Museums (ICOM)",
+              "document_title": "ICOM Code of Ethics for Museums",
+              "url": "https://icom.museum/en/resources/standards-guidelines/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "1986",
+              "notes": "First adopted 1986, revised 2004, translated into 38 languages. Sets minimum professional standards and promotes shared values for the international museum community. Covers acquisition procedures, legislation compliance, resource management, security, returns and restitutions, and due diligence/provenance (key role in fighting illicit traffic). Currently undergoing fourth consultation for revision, with vote expected at ICOM Annual Meeting June 2026."
+            },
+            {
+              "organization": "Association of Registrars and Collections Specialists (ARCS) / Collections Stewardship of AAM (CS-AAM)",
+              "document_title": "Code of Ethics and Professional Practices for Collections Professionals",
+              "url": "https://www.arcsinfo.org/about/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1984",
+              "notes": "Originally authored 1984 as 'Code of Ethics for Registrars' (first to address ethical issues specific to collections management and registration); revised 2021 by joint CS-AAM/ARCS task force. Part of AAM's Framework for Museum Excellence. Covers ethical management of collections held in public trust, including acquisition, deaccessioning, loans, insurance, and documentation. Both ARCS and AAM endorsed the updated version."
+            },
+            {
+              "organization": "National Association of School Nurses (NASN)",
+              "document_title": "NASN Code of Ethics",
+              "url": "https://www.nasn.org/nasn-resources/codeofethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2010",
+              "notes": "Based on ANA Center for Ethics and Human Rights. Core values: child well-being, diversity/equity/inclusion, excellence, innovation, integrity, leadership, scholarship. Updated 2024. Covers school nursing practice including advocacy, dignity, equity, and competency. Included in this group because school nurses work within educational settings under SOC 25-9000."
+            }
+          ]
+        },
+        {
+          "code": "25-9000",
+          "name": "Other Educational Instruction and Library Occupations",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "National Association of School Psychologists (NASP)",
+              "document_title": "Principles for Professional Ethics",
+              "url": "https://www.nasponline.org/standards-and-certification/professional-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1974",
+              "notes": "First adopted 1974; revised 1984, 1992, 1997, 2000, and 2020. Four themes: respecting dignity and rights, professional competence, honesty and integrity, and responsibility to schools/families/communities/profession/society. 17 ethical principles. Effective July 2020 revision. Covers school psychology practice across PreK-12 settings."
+            },
+            {
+              "organization": "UNESCO",
+              "document_title": "Recommendation on Education for Peace, Human Rights and Sustainable Development",
+              "url": "https://www.unesco.org/en/legal-affairs/recommendation-education-peace-and-human-rights-international-understanding-cooperation-fundamental",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "International",
+              "year_published": "2023",
+              "notes": "Adopted November 2023 by UNESCO's 194 Member States. 14 guiding principles including ethic of care, compassion, solidarity, and global citizenship. Non-binding guidance for reshaping education systems. Replaces 1974 Recommendation. Addresses ethical frameworks for educational workers broadly across all instructional contexts."
+            },
+            {
+              "organization": "NAFSA: Association of International Educators",
+              "document_title": "NAFSA Statement of Ethical Principles",
+              "url": "https://www.nafsa.org/about-us/about-nafsa/nafsas-statement-ethical-principles",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2006",
+              "notes": "Ethical principles for professionals in international education and exchange. Covers integrity, truthfulness, competence, service orientation, cultural sensitivity, respect for diversity, and advocacy for international students and scholars. NAFSA serves international educators, advisors, and administrators across higher education and related settings."
+            },
+            {
+              "organization": "National Tutoring Association (NTA)",
+              "document_title": "NTA Academic Coach Code of Ethics",
+              "url": "https://www.ntatutor.com/academic-coach-code-of-ethics.html",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2010",
+              "notes": "Separate code for academic coaches (distinct from the tutor code). Dedicated to providing members with opportunities to achieve and maintain high professional standards for academic coaches and administrators of academic coaching programs. Covers professional conduct, student-centered learning, confidentiality, cultural sensitivity, and continuous professional development."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_soc_groups": 2,
+    "total_minor_groups": 7,
+    "total_codes_found": 47,
+    "by_group": {
+      "23-0000_Legal_Occupations": 18,
+      "25-0000_Educational_Instruction_and_Library": 29
+    },
+    "by_geographic_scope": {
+      "US": 34,
+      "International": 12,
+      "Europe": 1
+    },
+    "by_document_type": {
+      "code_of_ethics": 31,
+      "ethics_guidelines": 11,
+      "code_of_conduct": 3,
+      "standards_of_conduct": 1,
+      "professional_standards": 1
+    },
+    "notes": "SOC 23-0000 is exceptionally well-covered due to the legal profession's long history of self-regulation. The ABA Model Rules (1983) serve as the template adopted by all 50 US states. International coverage is strong via IBA (10 principles, global), CCBE (European cross-border), UN Basic Principles (1990), and Bangalore Principles (judicial, 2002). SOC 25-0000 is broadly covered by NEA (3 million members, 1975), MCEE (2015/2023, collaborative), and NAEYC (early childhood, 1989). Library and museum sub-occupations have particularly robust ethical infrastructure with both US (ALA, SAA, AAM) and international (IFLA, ICA, ICOM) codes. Cross-listed: AALL bridges legal and library ethics; ASCA bridges education and counseling."
+  }
+}

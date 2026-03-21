@@ -1,0 +1,96 @@
+{
+  "phase": "websearch",
+  "agent": "WS3_Famous",
+  "total": 8,
+  "success": 8,
+  "results": [
+    {
+      "index": 47,
+      "filename_stem": "IEEE-IEEE-Code-of-Conduct",
+      "status": "success",
+      "strategy": "websearch_html",
+      "format": "html",
+      "local_file": "DOCUMENTS/IEEE-IEEE-Code-of-Conduct.html",
+      "bytes": 75299,
+      "found_url": "https://edunine.eu/edunine2025/eng/ieeePolicies.php",
+      "recovery_error": null
+    },
+    {
+      "index": 237,
+      "filename_stem": "ACM-ACM-Code-of-Ethics-and-Professional-Conduct",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/ACM-ACM-Code-of-Ethics-and-Professional-Conduct.pdf",
+      "bytes": 194121,
+      "found_url": "https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-and-professional-conduct.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 327,
+      "filename_stem": "ABA-Model-Rules-of-Professional-Conduct",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/ABA-Model-Rules-of-Professional-Conduct.pdf",
+      "bytes": 524353,
+      "found_url": "https://www.paclii.org/fm/rules/prof_conduct_rules/mropc343.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 335,
+      "filename_stem": "APA-Ethical-Principles-of-Psychologists-and-Code-of-Conduct",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/APA-Ethical-Principles-of-Psychologists-and-Code-of-Conduct.pdf",
+      "bytes": 278815,
+      "found_url": "https://www.apa.org/ethics/code/ethics-code-2017.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 347,
+      "filename_stem": "AIGAT-Standards-of-Professional-Practice",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/AIGAT-Standards-of-Professional-Practice.pdf",
+      "bytes": 145590,
+      "found_url": "https://graphicdesignthoughts.blog/wp-content/uploads/2011/11/aiga-best-practices.pdf",
+      "recovery_error": null
+    },
+    {
+      "index": 552,
+      "filename_stem": "Joint-Software-Engineering-Code-of-Ethics-and-Professional-Practice",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/Joint-Software-Engineering-Code-of-Ethics-and-Professional-Practice.pdf",
+      "bytes": 50951,
+      "found_url": "https://ics.uci.edu/~dfredmil/ics131-FQ03/week08ethics/IEEE-ACM-Ethics.PDF",
+      "recovery_error": null
+    },
+    {
+      "index": 622,
+      "filename_stem": "ABA-Model-Code-of-Judicial-Conduct",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/ABA-Model-Code-of-Judicial-Conduct.pdf",
+      "bytes": 139837,
+      "found_url": "https://biblioteca.cejamericas.org/bitstream/handle/2015/2852/us-model-code.pdf?sequence=1&isAllowed=y",
+      "recovery_error": null
+    },
+    {
+      "index": 650,
+      "filename_stem": "SAGAF-Personal-Manager-Code-of-Ethics-and-Conduct-2",
+      "status": "success",
+      "strategy": "websearch_pdf",
+      "format": "pdf",
+      "local_file": "DOCUMENTS/SAGAF-Personal-Manager-Code-of-Ethics-and-Conduct-2.pdf",
+      "bytes": 156027,
+      "found_url": "https://web.archive.org/web/2024/https://www.sagaftra.org/files/personal_manager_code_of_ethics_and_conduct.pdf",
+      "recovery_error": null
+    }
+  ]
+}

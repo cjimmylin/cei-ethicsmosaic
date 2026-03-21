@@ -1,0 +1,870 @@
+{
+  "track": "NAICS",
+  "sectors": [
+    {
+      "sector_code": "71",
+      "sector_name": "Arts, Entertainment, and Recreation",
+      "subsectors": [
+        {
+          "code": "711",
+          "name": "Performing Arts, Spectator Sports, and Related Industries",
+          "total_codes_found": 7,
+          "codes": [
+            {
+              "organization": "SAG-AFTRA (Screen Actors Guild - American Federation of Television and Radio Artists)",
+              "document_title": "SAG-AFTRA Code of Conduct",
+              "url": "https://www.sagaftra.org/sag-aftra-code-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2017",
+              "notes": "Union code governing member conduct. Updated post-#MeToo. Covers workplace harassment, professional behavior, and solidarity obligations. Also issued separate Code of Ethics for Talent Managers."
+            },
+            {
+              "organization": "SAG-AFTRA",
+              "document_title": "Standards and Protocols for the Use of Intimacy Coordinators",
+              "url": "https://www.sagaftra.org/sag-aftra-code-conduct",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "2024",
+              "notes": "February 2024 update formalizing consent, safety, and professionalism protocols for scenes involving nudity or simulated intimacy."
+            },
+            {
+              "organization": "Actors' Equity Association",
+              "document_title": "Codes, Guidelines and Internal Membership Rules",
+              "url": "https://www.actorsequity.org/resources/Producers/codes/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2023",
+              "notes": "Union for professional actors and stage managers in live theater. Covers member obligations re punctuality, professional conduct, dispute resolution via Deputies and Business Representatives."
+            },
+            {
+              "organization": "International Association of Venue Managers (IAVM)",
+              "document_title": "IAVM Code of Ethics",
+              "url": "https://iavm.org/ethics-and-venue-management/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2020",
+              "notes": "Covers 7,800+ managers of arenas, stadiums, performing arts centers, convention centers, and amphitheaters. Required affirmation for CVE/CVP certification."
+            },
+            {
+              "organization": "National Collegiate Athletic Association (NCAA)",
+              "document_title": "NCAA Constitution — Ethical Conduct Provisions",
+              "url": "https://www.ncaa.org/sports/2016/1/26/ethics.aspx",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2022",
+              "notes": "Article 10 of NCAA Constitution covers ethical conduct in college athletics: honesty, sportsmanship, anti-gambling, reporting violations."
+            },
+            {
+              "organization": "North American Society for Sport Management (NASSM)",
+              "document_title": "NASSM Code of Ethics",
+              "url": "https://nassm.org/node/111",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "North America",
+              "year_published": "2014",
+              "notes": "Academic and professional body for sport management. Covers research integrity, professional competence, and social responsibility in sport."
+            },
+            {
+              "organization": "United States Olympic & Paralympic Committee (USOPC)",
+              "document_title": "USOPC Code of Conduct",
+              "url": "https://www.usopc.org/code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Governs athletes, coaches, officials, and staff. Strong SafeSport provisions on abuse, harassment, and athlete welfare."
+            }
+          ]
+        },
+        {
+          "code": "712",
+          "name": "Museums, Historical Sites, and Similar Institutions",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "American Alliance of Museums (AAM)",
+              "document_title": "Code of Ethics for Museums",
+              "url": "https://www.aam-us.org/programs/ethics-standards-and-professional-practices/code-of-ethics-for-museums/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2000",
+              "notes": "Adopted 1993, revised 2000. Fundamental to AAM accreditation. Covers governance, collections stewardship, public trust, and institutional integrity. All museums regardless of size expected to follow."
+            },
+            {
+              "organization": "International Council of Museums (ICOM)",
+              "document_title": "ICOM Code of Ethics for Museums",
+              "url": "https://icom.museum/en/resources/standards-guidelines/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2004",
+              "notes": "Global standard adopted 1986, revised 2004. 8 principles covering institutional governance, acquisition, due diligence for provenance, cultural property protection, community engagement. Translated into 38 languages."
+            },
+            {
+              "organization": "Association of Zoos and Aquariums (AZA)",
+              "document_title": "Code of Professional Ethics",
+              "url": "https://www.aza.org/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2023",
+              "notes": "Required for AZA accreditation. Covers animal welfare, conservation mission, honest communication, and ethical treatment of wildlife. AZA accredits 240+ facilities."
+            },
+            {
+              "organization": "Society of American Archivists (SAA)",
+              "document_title": "SAA Core Values Statement and Code of Ethics",
+              "url": "https://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Covers archival professionals at museums, historical sites, and cultural institutions. Emphasizes access, accountability, diversity, preservation, and responsible custody."
+            },
+            {
+              "organization": "Association of Registrars and Collections Specialists (ARCS)",
+              "document_title": "ARCS Code of Ethics",
+              "url": "https://www.arcsinfo.org/about/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Ethics for museum registrars and collections managers handling acquisitions, loans, and de-accessions. Covers fiduciary duty, provenance research, and conflict of interest."
+            }
+          ]
+        },
+        {
+          "code": "713",
+          "name": "Amusement, Gambling, and Recreation Industries",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "American Gaming Association (AGA)",
+              "document_title": "Responsible Gaming Code of Conduct",
+              "url": "https://www.americangaming.org/member-code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2025",
+              "notes": "Updated regularly (2026 version published Dec 2025). Member companies pledge responsible gaming in daily operations. Covers underage gambling prevention, self-exclusion, employee training, and advertising ethics."
+            },
+            {
+              "organization": "American Gaming Association (AGA)",
+              "document_title": "Responsible Marketing Code for Sports Wagering",
+              "url": "https://www.americangaming.org/wp-content/uploads/2020/09/AGA-Responsible-SB-Marketing-Code.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Specific code for sports betting advertising and marketing. Covers truthfulness, targeting restrictions, and responsible messaging."
+            },
+            {
+              "organization": "International Association of Amusement Parks and Attractions (IAAPA)",
+              "document_title": "IAAPA Member Code of Conduct",
+              "url": "https://iaapa.org/membership/become-a-member/code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "2023",
+              "notes": "Global attractions industry. Covers quality products/services, fact-based communications, truthful advertising, conflict of interest avoidance, social and environmental responsibility."
+            },
+            {
+              "organization": "National Recreation and Park Association (NRPA)",
+              "document_title": "CPRP Code of Conduct",
+              "url": "https://www.nrpa.org/uploadedfiles/cprp_code_of_conduct.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Code of conduct for Certified Park and Recreation Professionals (CPRP). Covers ethical standards for parks, recreation, and leisure services professionals."
+            },
+            {
+              "organization": "National Indian Gaming Commission (NIGC)",
+              "document_title": "NIGC Regulations — Minimum Internal Control Standards",
+              "url": "https://www.nigc.gov/general-counsel/minimum-internal-control-standards",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "2023",
+              "notes": "Federal regulatory standards for tribal gaming operations. Includes ethical conduct provisions for gaming employees, anti-fraud measures, and integrity of gaming operations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector_code": "72",
+      "sector_name": "Accommodation and Food Services",
+      "subsectors": [
+        {
+          "code": "721",
+          "name": "Accommodation",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "American Hotel & Lodging Association (AHLA)",
+              "document_title": "AHLA Safe Stay Guidelines and Ethics Standards",
+              "url": "https://www.ahla.com/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2023",
+              "notes": "Industry guidelines covering employee conduct, anti-trafficking measures, and guest safety. AHLA also maintains the 5-Star Promise on employee safety and anti-harassment. Specific ethics code not publicly posted as standalone document."
+            },
+            {
+              "organization": "International Hotel & Restaurant Association (IH&RA) / International Hospitality Institute",
+              "document_title": "Code of Ethics for the Hospitality Industry",
+              "url": "https://ih-ra.com/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2018",
+              "notes": "Global hospitality ethics framework. Covers guest safety, employee welfare, environmental sustainability, and fair business practices. IH&RA represents hotels in 150+ countries."
+            },
+            {
+              "organization": "Hospitality Financial and Technology Professionals (HFTP)",
+              "document_title": "HFTP Code of Ethics",
+              "url": "https://www.hftp.org/about/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2019",
+              "notes": "Covers financial and technology professionals in hospitality. Addresses integrity, competence, confidentiality, and professional objectivity for hotel finance/IT staff."
+            }
+          ]
+        },
+        {
+          "code": "722",
+          "name": "Food Services and Drinking Places",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "National Restaurant Association (NRA)",
+              "document_title": "ServSafe Food Handler Ethical Standards and Event Code of Conduct",
+              "url": "https://restaurant.org/event-code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2023",
+              "notes": "The NRA does not publish a standalone industry-wide code of ethics but maintains ServSafe certification standards for food safety and an event code of conduct. Historical 1930s 'Code of Fair Competition' established early ethical expectations."
+            },
+            {
+              "organization": "Specialty Food Association",
+              "document_title": "Members' Code of Ethics",
+              "url": "https://www.specialtyfood.com/about-us/specialty-food-association-members-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Covers manufacturers, importers, distributors, and retailers of specialty foods. Mandates honest advertising, fair dealing, respect for competitors and customers."
+            },
+            {
+              "organization": "Restaurant Facility Management Association (RFMA)",
+              "document_title": "RFMA Code of Ethics",
+              "url": "https://www.rfmaonline.com/page/Ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Ethics code for restaurant facility management professionals. Covers professional integrity, competence, and responsible facility stewardship."
+            },
+            {
+              "organization": "Association of Nutrition & Foodservice Professionals (ANFP)",
+              "document_title": "ANFP Code of Ethics",
+              "url": "https://www.anfponline.org/about-anfp/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2021",
+              "notes": "Covers Certified Dietary Managers and foodservice professionals in institutional settings (hospitals, schools, care facilities). Focuses on food safety, nutrition integrity, and client welfare."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector_code": "81",
+      "sector_name": "Other Services (except Public Administration)",
+      "subsectors": [
+        {
+          "code": "811",
+          "name": "Repair and Maintenance",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "National Institute for Automotive Service Excellence (ASE)",
+              "document_title": "ASE-Certified Technician Code of Ethics",
+              "url": "https://www.ase.com",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "All ASE-certified technicians pledge to uphold this code. Covers first-class workmanship, lifelong learning, customer welfare, recommending only necessary work, and maintaining public respect for the profession. Embedded in ASE certification process."
+            },
+            {
+              "organization": "Air Conditioning Contractors of America (ACCA)",
+              "document_title": "ACCA Code of Ethics",
+              "url": "https://www.acca.org/about/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "HVAC contractors. Covers honest representation, fair pricing, quality workmanship, environmental responsibility, and continuing education."
+            },
+            {
+              "organization": "Electronic Technicians Association International (ETA)",
+              "document_title": "ETA Code of Ethics",
+              "url": "https://www.eta-i.org/ethics.html",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2018",
+              "notes": "Covers electronics technicians and certified professionals in repair and maintenance of electronic equipment. Emphasizes honesty, competence, and fair dealing."
+            },
+            {
+              "organization": "National Association of Home Builders (NAHB)",
+              "document_title": "NAHB Code of Ethics",
+              "url": "https://www.nahb.org/about/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "While primarily construction, covers remodeling and home repair/maintenance. Covers quality workmanship, fair dealing, compliance with building codes, and customer satisfaction."
+            }
+          ]
+        },
+        {
+          "code": "812",
+          "name": "Personal and Laundry Services",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "American Barber Association (ABA)",
+              "document_title": "Barber Code of Ethics",
+              "url": "https://americanbarber.org/aba/programs/abcc/barber-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Professional code for licensed barbers. Covers sanitation, client confidentiality, professional competence, and community responsibility. Part of the American Barber Certification Council (ABCC) program."
+            },
+            {
+              "organization": "National Funeral Directors Association (NFDA)",
+              "document_title": "Code of Professional Conduct",
+              "url": "https://nfda.org/about-nfda/code-of-professional-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2002",
+              "notes": "Binding on NFDA members. Covers obligations to family, care of decedent, public, government, and NFDA. Violations subject to disciplinary action. Addresses pricing transparency and pre-need arrangements."
+            },
+            {
+              "organization": "National Association of Productivity and Organizing Professionals (NAPO)",
+              "document_title": "NAPO Code of Ethics",
+              "url": "https://www.napo.net/page/about_ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2022",
+              "notes": "Professional organizers and productivity consultants. Covers client confidentiality, competence, integrity, reasonable fees, and professional boundaries."
+            },
+            {
+              "organization": "International Cemetery, Cremation and Funeral Association (ICCFA)",
+              "document_title": "ICCFA Code of Ethics",
+              "url": "https://www.iccfa.com/about/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2019",
+              "notes": "Covers cemetery, cremation, and funeral service professionals internationally. Emphasizes dignity, transparency in pricing, and respect for diverse cultural and religious practices."
+            },
+            {
+              "organization": "National Association of Professional Pet Sitters (NAPPS)",
+              "document_title": "NAPPS Code of Ethics",
+              "url": "https://petsitters.org/page/AboutUs_Tab",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2021",
+              "notes": "All NAPPS members must adhere to a code of ethics covering animal welfare, client confidentiality, professionalism, and responsible pet care."
+            }
+          ]
+        },
+        {
+          "code": "813",
+          "name": "Religious, Grantmaking, Civic, Professional, and Similar Organizations",
+          "total_codes_found": 8,
+          "codes": [
+            {
+              "organization": "Association of Fundraising Professionals (AFP)",
+              "document_title": "Code of Ethical Standards",
+              "url": "https://afpglobal.org/ethics/code-ethical-standards",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2023",
+              "notes": "Board approved December 2023, now enforceable. All AFP members required to sign. Covers donor rights, stewardship, solicitation ethics, and fiduciary responsibility. 26 specific standards."
+            },
+            {
+              "organization": "Independent Sector",
+              "document_title": "Statement of Values and Code of Ethics for Nonprofit and Philanthropic Organizations",
+              "url": "https://independentsector.org/resource/is-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2004",
+              "notes": "Foundational ethics framework for the nonprofit sector. Covers public good commitment, accountability beyond the law, responsible stewardship, openness, inclusiveness, and fundraising ethics."
+            },
+            {
+              "organization": "Standards for Excellence Institute / Independent Sector",
+              "document_title": "Standards for Excellence: An Ethics and Accountability Code for the Nonprofit Sector",
+              "url": "https://standardsforexcellence.org/about-the-standards/standards-for-excellence-code/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2022",
+              "notes": "Comprehensive ethics and accountability code. 6 categories: Mission/Strategy, Leadership, Ethics/Legal, Finance/Operations, Resource Development, Public Awareness. Online self-assessment available."
+            },
+            {
+              "organization": "National Council of Nonprofits",
+              "document_title": "Ethics and Accountability for Nonprofits — Principles and Standards",
+              "url": "https://www.councilofnonprofits.org/running-nonprofit/ethics-accountability/ethics-and-accountability-nonprofits",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2023",
+              "notes": "Compiles ethical standards from state associations of nonprofits. Covers governance, financial transparency, donor stewardship, and organizational accountability."
+            },
+            {
+              "organization": "American Society of Association Executives (ASAE)",
+              "document_title": "ASAE Standards of Conduct — Core Ethical Standards",
+              "url": "https://www.asaecenter.org/about-us/policies/code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2022",
+              "notes": "Governs conduct for leaders of professional and trade associations. Covers basic conduct, confidentiality, competition, giving/receiving, and member relations. Updated September 2022."
+            },
+            {
+              "organization": "Council on Foundations",
+              "document_title": "Principles and Practices for Effective Grantmaking",
+              "url": "https://cof.org/content/principles-and-practices",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2015",
+              "notes": "Ethical framework for foundations and grantmaking organizations. Covers donor intent, effective governance, transparency, responsible investment, and legal compliance."
+            },
+            {
+              "organization": "Evangelical Council for Financial Accountability (ECFA)",
+              "document_title": "ECFA Standards of Responsible Stewardship",
+              "url": "https://www.ecfa.org/Standards.aspx",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "2023",
+              "notes": "7 standards for evangelical Christian nonprofit organizations. Covers doctrinal commitment, governance, financial oversight, truthful communication, and responsible stewardship. 2,600+ accredited members."
+            },
+            {
+              "organization": "BoardSource",
+              "document_title": "Nonprofit Board Member Codes of Conduct and Ethics",
+              "url": "https://boardsource.org/resources/codes-of-conduct-and-ethics/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2023",
+              "notes": "Model code for nonprofit board governance. Covers fiduciary duty, conflict of interest, confidentiality, duty of care, and board member accountability."
+            }
+          ]
+        },
+        {
+          "code": "814",
+          "name": "Private Households",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "International Nanny Association (INA)",
+              "document_title": "INA Recommended Practices — Code of Ethical Conduct",
+              "url": "https://nanny.org/recommended-practices/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2021",
+              "notes": "Covers professional nannies. Addresses child welfare, confidentiality, professional development, family/employer relationships, and ethical boundaries. INA Credentialed Nanny designation."
+            },
+            {
+              "organization": "National Domestic Workers Alliance (NDWA)",
+              "document_title": "Domestic Workers Bill of Rights — Ethical Standards Framework",
+              "url": "https://www.domesticworkers.org/bill-of-rights/",
+              "document_type": "position_statement",
+              "geographic_scope": "US",
+              "year_published": "2022",
+              "notes": "Framework for fair and ethical treatment of household workers (nannies, house cleaners, caregivers). Covers fair wages, safe working conditions, freedom from harassment, and privacy. Adopted as law in 10+ states."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sector_code": "92",
+      "sector_name": "Public Administration",
+      "subsectors": [
+        {
+          "code": "921",
+          "name": "Executive, Legislative, and Other General Government Support",
+          "total_codes_found": 7,
+          "codes": [
+            {
+              "organization": "U.S. Office of Government Ethics (OGE)",
+              "document_title": "Standards of Ethical Conduct for Employees of the Executive Branch",
+              "url": "https://www.oge.gov/web/oge.nsf/Resources/Standards+of+Ethical+Conduct+for+Employees+of+the+Executive+Branch",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "2024",
+              "notes": "5 CFR Part 2635. Binding federal regulation. Based on Executive Order 12731 (1990). Modernization updates published May 2024. Covers gifts, conflicts of interest, outside employment, misuse of position. Applies to all 2M+ executive branch employees."
+            },
+            {
+              "organization": "American Society for Public Administration (ASPA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.aspanet.org/Code-of-Ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2013",
+              "notes": "8 principles: advance public interest, uphold Constitution, promote democratic participation, strengthen social equity, fully inform, demonstrate personal integrity, promote ethical organizations, advance professional excellence. Ethics Implementation Committee since 2014."
+            },
+            {
+              "organization": "International City/County Management Association (ICMA)",
+              "document_title": "ICMA Code of Ethics with Guidelines",
+              "url": "https://icma.org/page/icma-code-ethics-guidelines",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2024",
+              "notes": "Adopted 1924 — among the oldest professional ethics codes in public administration. 12 tenets covering democratic government, public trust, political neutrality, equity, transparency, and professional development. ICMA enforces through ethics investigations."
+            },
+            {
+              "organization": "National Association of Counties (NACo)",
+              "document_title": "County Code of Ethics",
+              "url": "https://www.naco.org/sites/default/files/documents/County%20Code%20of%20Ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2009",
+              "notes": "Model code for county officials. Covers public trust, impartiality, transparency, proper use of public resources, and avoiding conflicts of interest."
+            },
+            {
+              "organization": "United Nations — International Civil Service Commission (ICSC)",
+              "document_title": "Standards of Conduct for the International Civil Service",
+              "url": "https://icsc.un.org/Resources/General/Publications/standardse.pdf",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "international",
+              "year_published": "2013",
+              "notes": "Applies to all UN system employees. Replaces 1954/2001 editions. Covers independence, impartiality, integrity, accountability, respect for diversity, non-discrimination, and conflicts of interest. Translated into 6 official UN languages."
+            },
+            {
+              "organization": "Government Finance Officers Association (GFOA)",
+              "document_title": "GFOA Code of Ethics",
+              "url": "https://www.gfoa.org/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/Canada",
+              "year_published": "2023",
+              "notes": "Covers government finance officers in the US and Canada. Addresses honest financial management, transparency, prudent use of public funds, avoiding conflicts of interest, and professional competence."
+            },
+            {
+              "organization": "National League of Cities (NLC)",
+              "document_title": "Code of Ethics for City Officials",
+              "url": "https://www.nlc.org/resource/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Model ethics code for municipal elected and appointed officials. Covers public trust, transparency, conflict of interest, impartiality, and proper use of public office."
+            }
+          ]
+        },
+        {
+          "code": "922",
+          "name": "Justice, Public Order, and Safety Activities",
+          "total_codes_found": 9,
+          "codes": [
+            {
+              "organization": "International Association of Chiefs of Police (IACP)",
+              "document_title": "Law Enforcement Code of Ethics",
+              "url": "https://www.theiacp.org/topics/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2024",
+              "notes": "Originally adopted 1957 at 64th IACP Conference, updated 2024. Foundational document for law enforcement worldwide. Covers primary duty to serve, confidentiality, use of force, impartiality, and personal conduct. Widely adopted by US police departments."
+            },
+            {
+              "organization": "International Association of Chiefs of Police (IACP)",
+              "document_title": "IACP Oath of Honor",
+              "url": "https://www.theiacp.org/projects/iacp-ethics-toolkit",
+              "document_type": "oath_or_pledge",
+              "geographic_scope": "international",
+              "year_published": "2019",
+              "notes": "Short-form ethical pledge for law enforcement. Emphasizes integrity, bravery, honor, and treating all persons with dignity and respect. Part of IACP Ethics Toolkit."
+            },
+            {
+              "organization": "International Association of Fire Chiefs (IAFC)",
+              "document_title": "Fire Service Professional Code of Ethics",
+              "url": "https://www.iafc.org/docs/default-source/1assoc/code-of-ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2019",
+              "notes": "Covers fire service leadership. Establishes criteria encouraging personnel to promote a culture of ethical integrity and high standards of professionalism. Separate Firefighter Code of Ethics also maintained."
+            },
+            {
+              "organization": "National Fire Protection Association (NFPA) / National Fallen Firefighters Foundation",
+              "document_title": "Firefighter Code of Ethics",
+              "url": "https://www.iafc.org/topics-and-tools/volunteer/vws/chiefs-a-rit/topics/leadership/ethics/resourcedetails/Firefighter-Code-of-Ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Joint initiative. Covers all fire service personnel. Addresses integrity, accountability, leadership, professional competence, community service, and personal conduct on and off duty."
+            },
+            {
+              "organization": "American Correctional Association (ACA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.aca.org/about/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2022",
+              "notes": "Covers corrections professionals. Requires honesty, respect for dignity of individuals, commitment to professional service, protection of civil/legal rights, and reporting corrupt or unethical behavior."
+            },
+            {
+              "organization": "American Jail Association (AJA)",
+              "document_title": "Code of Ethics for Jail Officers",
+              "url": "https://www.americanjail.org/files/Resolutions/AJA%20Resolution%20-%20Code%20of%20Ethics%20for%20Jail%20Officers.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Specific to jail officers. Covers duty as good citizens, professional conduct, respect for incarcerated persons' rights, and commitment to community."
+            },
+            {
+              "organization": "American Probation and Parole Association (APPA)",
+              "document_title": "Code of Ethics for the Field of Community Corrections",
+              "url": "https://www.appa-net.org/eweb/docs/APPA/Code-of-Ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Covers probation, parole, and community corrections officers. Addresses public safety, offender rehabilitation, professional integrity, and fair administration of justice."
+            },
+            {
+              "organization": "International Association of Emergency Managers (IAEM)",
+              "document_title": "IAEM Code of Ethics and Professional Conduct",
+              "url": "https://www.iaem.org/about/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2021",
+              "notes": "Covers emergency management professionals (CEM/AEM certified). Addresses public safety, professional competence, ethical decision-making in crisis, and cooperation across agencies."
+            },
+            {
+              "organization": "National District Attorneys Association (NDAA)",
+              "document_title": "National Prosecution Standards (Chapter 1: Ethics)",
+              "url": "https://ndaa.org/wp-content/uploads/National-Prosecution-Standards-Fourth-Edition.pdf",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "US",
+              "year_published": "2023",
+              "notes": "4th edition. Chapter 1 covers ethical obligations of prosecutors: duty to seek justice not merely convict, disclosure obligations, avoiding conflicts, and professional conduct. Supplements ABA Model Rules."
+            }
+          ]
+        },
+        {
+          "code": "923",
+          "name": "Administration of Human Resource Programs",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "National Association of State Workforce Agencies (NASWA)",
+              "document_title": "NASWA Code of Ethics and Professional Standards",
+              "url": "https://www.naswa.org/about/mission",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Covers state-level administrators of unemployment insurance, employment services, and workforce development programs. Emphasis on equitable service delivery, data privacy, and program integrity."
+            },
+            {
+              "organization": "National Association of Social Workers (NASW)",
+              "document_title": "NASW Code of Ethics",
+              "url": "https://www.socialworkers.org/About/Ethics/Code-of-Ethics/Code-of-Ethics-English",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2021",
+              "notes": "While primarily covering professional social workers (NAICS 62), directly relevant to public administration of human services programs. Covers service, social justice, dignity, human relationships, integrity, and competence. 155 standards in 6 sections."
+            },
+            {
+              "organization": "International Public Management Association for Human Resources (IPMA-HR)",
+              "document_title": "IPMA-HR Code of Ethics",
+              "url": "https://www.ipma-hr.org/about/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2019",
+              "notes": "Covers public sector HR professionals administering civil service, benefits, and employment programs. Addresses merit-based systems, non-discrimination, confidentiality, and professional development."
+            }
+          ]
+        },
+        {
+          "code": "924",
+          "name": "Administration of Environmental Quality Programs",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "National Environmental Health Association (NEHA)",
+              "document_title": "NEHA Member Code of Ethics / Credential Code of Ethics",
+              "url": "https://www.neha.org/member-code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2022",
+              "notes": "Covers environmental health professionals (sanitarians, health inspectors). Separate credential code for REHS/RS holders. Covers continuing education, public health protection, and professional integrity."
+            },
+            {
+              "organization": "National Association of Environmental Professionals (NAEP)",
+              "document_title": "NAEP Code of Ethics and Standards of Practice",
+              "url": "https://www.naep.org/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Covers environmental impact assessment professionals, NEPA practitioners, and environmental compliance officers in government. Covers scientific integrity, transparency, and public interest."
+            },
+            {
+              "organization": "Institute of Environmental Management and Assessment (IEMA)",
+              "document_title": "IEMA Code of Practice",
+              "url": "https://www.iema.net/membership/code-of-practice",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2021",
+              "notes": "International body for environmental and sustainability professionals. Covers professional competence, ethical decision-making, environmental stewardship, and public interest. 15,000+ members in 100+ countries."
+            }
+          ]
+        },
+        {
+          "code": "925",
+          "name": "Administration of Housing Programs, Urban Planning, and Community Development",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "American Institute of Certified Planners (AICP) / American Planning Association (APA)",
+              "document_title": "AICP Code of Ethics and Professional Conduct",
+              "url": "https://www.planning.org/ethics/ethicscode/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2021",
+              "notes": "Adopted 2005, revised 2021. Three-part structure: aspirational principles (all planners), rules of conduct (AICP members), and enforcement procedures. Covers social justice, expanding choice and opportunity, racial and economic integration."
+            },
+            {
+              "organization": "National Association of Housing and Redevelopment Officials (NAHRO)",
+              "document_title": "NAHRO Code of Professional Conduct and Ethics",
+              "url": "https://www.nahro.org/about/code-of-professional-conduct-and-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Covers professionals in public housing, community development, and housing redevelopment agencies. Addresses fair housing, tenant welfare, transparency, and proper use of public funds."
+            },
+            {
+              "organization": "American Association of Code Enforcement (AACE)",
+              "document_title": "AACE Code of Ethics",
+              "url": "https://www.aace1.org/page/codeofethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Covers building code enforcement officers in housing and urban development. Addresses impartial enforcement, due process, professional competence, and public safety."
+            },
+            {
+              "organization": "International Economic Development Council (IEDC)",
+              "document_title": "IEDC Code of Ethics",
+              "url": "https://www.iedconline.org/pages/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2015",
+              "notes": "Covers economic development professionals. Addresses integrity, honesty, public trust, professional competence, and responsible development. Enforcement procedures in place."
+            }
+          ]
+        },
+        {
+          "code": "926",
+          "name": "Administration of Economic Programs",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "International Economic Development Council (IEDC)",
+              "document_title": "IEDC Code of Ethics",
+              "url": "https://www.iedconline.org/pages/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2015",
+              "notes": "Also listed under 925. Primary code for economic development professionals. Members pledge integrity, objectivity, and bringing respect to the profession."
+            },
+            {
+              "organization": "American Association of Political Consultants (AAPC)",
+              "document_title": "Code of Professional Ethics",
+              "url": "https://theaapc.org/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2023",
+              "notes": "All AAPC members required to sign annually. Sets standards for campaign and business practices to promote integrity and confidence in the political system. Relevant to government economic program administration."
+            },
+            {
+              "organization": "Organisation for Economic Co-operation and Development (OECD)",
+              "document_title": "OECD Recommendation on Public Integrity",
+              "url": "https://www.oecd.org/gov/ethics/recommendation-public-integrity/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "international",
+              "year_published": "2017",
+              "notes": "Framework for government integrity in economic program administration. 13 principles covering commitment, responsibilities, strategic approach, standards, merit-based employment, and risk management. Adopted by 38 OECD member countries."
+            }
+          ]
+        },
+        {
+          "code": "927",
+          "name": "Space Research and Technology",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "National Aeronautics and Space Administration (NASA)",
+              "document_title": "NASA Ethics Program — Standards of Ethical Conduct",
+              "url": "https://www.nasa.gov/organizations/ogc-ethics-program/",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "2017",
+              "notes": "NASA employees subject to 5 CFR Part 2635 (government-wide) plus 5 CFR Part 6901 (NASA-specific supplemental standards). Covers outside employment approval, financial disclosure, contractor relations, and scientific integrity."
+            },
+            {
+              "organization": "NASA",
+              "document_title": "NASA Supplemental Standards of Ethical Conduct",
+              "url": "https://www.ecfr.gov/current/title-5/chapter-LIX/part-6901",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "2014",
+              "notes": "5 CFR Part 6901. Agency-specific regulations supplementing OGE standards. Requires prior approval for outside employment and addresses NASA-specific conflicts of interest."
+            },
+            {
+              "organization": "NASA",
+              "document_title": "Guidelines for Promoting Scientific and Research Integrity",
+              "url": "https://www.nasa.gov/wp-content/uploads/2021/12/nasa_guidelines_for_promoting_scientific_and_research_integrity-july_2018.pdf",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Covers scientific misconduct, research data integrity, peer review ethics, and responsible authorship. Applies to all NASA-funded research."
+            }
+          ]
+        },
+        {
+          "code": "928",
+          "name": "National Security and International Affairs",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "U.S. Department of Defense (DoD)",
+              "document_title": "Joint Ethics Regulation (JER)",
+              "url": "https://dodsoco.ogc.osd.mil/Portals/102/Documents/Issuances/JER%20and%20Directives/JER%20May%2015%202024.pdf",
+              "document_type": "regulatory_code",
+              "geographic_scope": "US",
+              "year_published": "2024",
+              "notes": "Updated May 2024. Comprehensive ethics regulation for all DoD military and civilian personnel. Covers gifts, outside activities, financial interests, post-government employment, political activities, and standards of conduct."
+            },
+            {
+              "organization": "U.S. Armed Forces",
+              "document_title": "Code of Conduct for Members of the Armed Forces of the United States",
+              "url": "https://www.ausa.org/code-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "1955",
+              "notes": "Executive Order 10631 (1955), amended by EO 12633 (1988). 6 articles covering duty, surrender, captivity, and resistance. Applies to all US military personnel at all times. Foundational military ethics document."
+            },
+            {
+              "organization": "United Nations — International Civil Service Commission (ICSC)",
+              "document_title": "Standards of Conduct for the International Civil Service",
+              "url": "https://icsc.un.org/Resources/General/Publications/standardse.pdf",
+              "document_type": "standards_of_practice",
+              "geographic_scope": "international",
+              "year_published": "2013",
+              "notes": "Also listed under 921. Applies to UN personnel in peacekeeping, international security, and diplomatic roles. Covers independence, impartiality, integrity, and conduct during international operations."
+            },
+            {
+              "organization": "Central Intelligence Agency (CIA)",
+              "document_title": "CIA Values — Ethics and Integrity Standards",
+              "url": "https://www.cia.gov/about/mission-vision/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2023",
+              "notes": "CIA's stated values include Service, Integrity, Excellence, Courage, Teamwork, and Stewardship. Subject to Intelligence Community Directive 120 on intelligence community ethics. Detailed internal ethics code not publicly released."
+            },
+            {
+              "organization": "Intelligence Community (IC)",
+              "document_title": "Principles of Professional Ethics for the Intelligence Community",
+              "url": "https://www.dni.gov/files/documents/CLPO/Principles_of_Professional_Ethics_for_the_IC.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2014",
+              "notes": "Issued by the Director of National Intelligence. Covers all 18 US intelligence agencies. Addresses mission integrity, truth, lawfulness, objectivity, accountability, and stewardship. Classified annexes supplement the public document."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "agent_id": "N10",
+  "researched_at": "2026-03-21"
+}

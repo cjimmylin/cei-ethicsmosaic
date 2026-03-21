@@ -1,0 +1,642 @@
+{
+  "track": "SOC/ONET",
+  "agent": "S5",
+  "date_collected": "2026-03-21",
+  "soc_groups": [
+    {
+      "soc_code": "27-0000",
+      "soc_name": "Arts, Design, Entertainment, Sports, and Media Occupations",
+      "minor_groups": [
+        {
+          "code": "27-1000",
+          "name": "Art and Design Workers",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "AIGA — the Professional Association for Design",
+              "document_title": "AIGA Standards of Professional Practice",
+              "url": "https://www.aiga.org/resources/aiga-standards-of-professional-practice",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2010",
+              "notes": "Standards organized by responsibilities: to clients, to other designers, to the public, and to society and the environment. Encourages designers to contribute 5% of time to public-good projects. Addresses confidentiality, fair competition, intellectual property, and environmental responsibility."
+            },
+            {
+              "organization": "Graphic Artists Guild",
+              "document_title": "Code of Fair Practice for the Graphic Communications Industry",
+              "url": "https://graphicartistsguild.org/the-code-of-fair-practice-for-the-graphic-communications-industry/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "1989",
+              "notes": "Revised 1989; originally formulated in the 1940s. Promotes equity for those creating, selling, buying, and using graphic works. Addresses credit attribution, prohibition of plagiarism, portfolio handling, fair remuneration, and artists' right to sign work. Companion document: Graphic Artists Guild Handbook: Pricing & Ethical Guidelines (17th edition)."
+            },
+            {
+              "organization": "International Council of Design (ICoD)",
+              "document_title": "ICoD Code of Professional Conduct for Designers",
+              "url": "https://graphicartistsguild.org/product/icod-code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "International",
+              "year_published": "2011",
+              "notes": "International framework for professional conduct for graphic designers. Published through the Graphic Artists Guild as 'Doing Good Work: A Professional Code of Conduct for Graphic Artists.' Covers professional competence, integrity, confidentiality, and social responsibility."
+            }
+          ]
+        },
+        {
+          "code": "27-2000",
+          "name": "Entertainers and Performers, Sports and Related Workers",
+          "total_codes_found": 5,
+          "codes": [
+            {
+              "organization": "SAG-AFTRA (Screen Actors Guild–American Federation of Television and Radio Artists)",
+              "document_title": "SAG-AFTRA Code of Conduct",
+              "url": "https://www.sagaftra.org/sag-aftra-code-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Addresses workplace behavior, sexual harassment prevention, and professional standards for performers. Part of SAG-AFTRA's Four Pillars of Change Initiative. Members expected to uphold standards in dealings with other members and employees."
+            },
+            {
+              "organization": "SAG-AFTRA",
+              "document_title": "Personal Manager Code of Ethics and Conduct",
+              "url": "https://www.sagaftra.org/contracts-industry-resources/agents-managers/managers/code-ethics-conduct",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2014",
+              "notes": "First-ever personal manager code. Voluntary agreement promoting honest and ethical relationships between members and their managers. Requires managers to put member interests first, act honestly, not solicit employment except under franchised agent direction. Includes arbitration for dispute resolution."
+            },
+            {
+              "organization": "Producers Guild of America (PGA)",
+              "document_title": "PGA Member Policies and Code of Conduct",
+              "url": "https://producersguild.org/wp-content/uploads/2024/11/Guild-Member-Policies-1.27.25-Clean.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Emphasizes integrity, honesty, and professionalism in production. Addresses fair treatment of cast and crew, responsible budgeting, and compliance with industry regulations. PGA operates with Hollywood Commission in unified framework sharing Code of Conduct and policy templates. Updated January 2025."
+            },
+            {
+              "organization": "Directors Guild of America (DGA)",
+              "document_title": "DGA Code of Preferred Practices",
+              "url": "https://www.dga.org/Contracts/Creative-Rights/Code-of-Preferred-Practices",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2004",
+              "notes": "Voluntary guidelines for directors and executives who work with directors, developed by the DGA-Employers Creative Rights Committee. Covers preparation time, creative control, director's cut rights, notes and feedback processes, and key personnel selection."
+            },
+            {
+              "organization": "Writers Guild of America (WGA)",
+              "document_title": "WGA Community Standards and Code of Working Rules",
+              "url": "https://www.wga.org/contracts/know-your-rights/wgaw-community-standards",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Community standards requiring professional conduct in all work settings (writers' rooms, sets, meetings). Code of Working Rules prohibits accepting misrepresented credits, working on speculation, and mandates reporting employment as producer/director. Addresses harassment, discrimination, and power dynamics."
+            }
+          ]
+        },
+        {
+          "code": "27-3000",
+          "name": "Media and Communication Workers",
+          "total_codes_found": 8,
+          "codes": [
+            {
+              "organization": "Society of Professional Journalists (SPJ)",
+              "document_title": "SPJ Code of Ethics",
+              "url": "https://www.spj.org/spj-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1926",
+              "notes": "Original code borrowed from ASNE 1926; SPJ wrote its own 1973, revised 1984, 1987, 1996, 2014. Four core principles: seek truth and report it, minimize harm, act independently, be accountable and transparent. Voluntary and not legally enforceable under the First Amendment. Foundational document for American journalism ethics."
+            },
+            {
+              "organization": "Radio Television Digital News Association (RTDNA)",
+              "document_title": "RTDNA Code of Ethics",
+              "url": "https://www.rtdna.org/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2015",
+              "notes": "Most recently revised June 2015. Emphasizes accuracy, fairness, transparency, and accountability. Addresses minimizing harm to vulnerable individuals. Accompanied by detailed coverage guidelines for common and uncommon ethical situations prepared by journalists, managers, and subject-area experts."
+            },
+            {
+              "organization": "International Federation of Journalists (IFJ)",
+              "document_title": "IFJ Global Charter of Ethics for Journalists",
+              "url": "https://www.ifj.org/who/rules-and-policy/global-charter-of-ethics-for-journalists",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2019",
+              "notes": "Adopted at the 30th IFJ World Congress in Tunis, June 2019, by 300 delegates from 100+ countries. Completes the 1954 IFJ Declaration of Principles on the Conduct of Journalists (Bordeaux Declaration). 16 articles plus preamble. Based on the Universal Declaration of Human Rights. Defines duties and rights regarding ethics for journalists globally."
+            },
+            {
+              "organization": "National Press Photographers Association (NPPA)",
+              "document_title": "NPPA Code of Ethics for Visual Journalists",
+              "url": "https://nppa.org/resources/code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2012",
+              "notes": "Founded 1946. Promotes highest standards in visual journalism. Prohibits altering photographic content electronically or in the darkroom in ways that deceive the public. Standards include accuracy, avoiding manipulation, respecting subjects' dignity, special consideration for vulnerable subjects, and avoiding staging or altering scenes."
+            },
+            {
+              "organization": "Public Relations Society of America (PRSA)",
+              "document_title": "PRSA Code of Ethics",
+              "url": "https://www.prsa.org/professional-development/prsa-resources/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1950",
+              "notes": "First developed 1950; current version has preamble, statement of professional values, and six code provisions. Six core values: advocacy, honesty, expertise, independence, loyalty, fairness. Membership may be restricted for violations. Widely regarded as the cornerstone ethical code for public relations practice."
+            },
+            {
+              "organization": "American Advertising Federation (AAF)",
+              "document_title": "AAF Advertising Principles of American Business",
+              "url": "https://www.aaf.org/common/Uploaded%20files/Club%20Resources/CLB_Resources_Advertising_Principles.pdf",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "1984",
+              "notes": "Principles emphasizing truthfulness in advertising, substantiation of claims, non-deceptive practices, and respect for all audience segments. Addresses privacy, discrimination, endorsements transparency, and distinguishing ads from editorial/news content. Compliance is voluntary but widely recognized as industry best practice."
+            },
+            {
+              "organization": "International Association of Business Communicators (IABC)",
+              "document_title": "IABC Code of Ethics for Professional Communicators",
+              "url": "https://www.iabc.com/about-us/purpose-and-values/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "1995",
+              "notes": "Based on three principles: professional communication is legal, ethical, and in good taste. Addresses honesty, accuracy, correcting misinformation, not engaging in practices that corrupt channels of communication, and protecting confidential information."
+            },
+            {
+              "organization": "News Leaders Association (NLA, formerly ASNE)",
+              "document_title": "Statement of Principles",
+              "url": "https://members.newsleaders.org/resources-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1975",
+              "notes": "Originally adopted 1975 as ASNE Statement of Principles. Addresses responsibility, freedom of the press, independence, truth and accuracy, impartiality, and fair play. The oldest journalism ethics code in the U.S. was the ASNE Canons of Journalism (1923) which this document succeeded."
+            }
+          ]
+        },
+        {
+          "code": "27-4000",
+          "name": "Media and Communication Equipment Workers",
+          "total_codes_found": 1,
+          "codes": [
+            {
+              "organization": "Society of Broadcast Engineers (SBE)",
+              "document_title": "SBE Canons of Ethics",
+              "url": "https://sbe.org/about/by-laws-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1964",
+              "notes": "Founded 1964. Establishes principles of honesty, justice, and courtesy for broadcast engineers. Emphasizes integrity as keystone of professional conduct. Covers fidelity to public and employers, impartiality, dignity of profession, confidentiality, avoidance of conflicts of interest, professional development, and information sharing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "soc_code": "29-0000",
+      "soc_name": "Healthcare Practitioners and Technical Occupations",
+      "minor_groups": [
+        {
+          "code": "29-1000",
+          "name": "Health Diagnosing and Treating Practitioners",
+          "total_codes_found": 34,
+          "codes": [
+            {
+              "organization": "American Medical Association (AMA)",
+              "document_title": "AMA Code of Medical Ethics",
+              "url": "https://code-medical-ethics.ama-assn.org",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1847",
+              "notes": "First adopted 1847; continuously updated. Nine Principles of Medical Ethics plus Council on Ethical and Judicial Affairs Opinions organized by chapter. Covers patient-physician relationships, consent, privacy, genetics, organ transplantation, research, and more. The most comprehensive and authoritative professional medical ethics code in the U.S."
+            },
+            {
+              "organization": "American Medical Association (AMA)",
+              "document_title": "AMA Principles of Medical Ethics",
+              "url": "https://code-medical-ethics.ama-assn.org/principles",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1957",
+              "notes": "Nine aspirational principles adopted 1957, revised 1980, 2001. Separate from the full Code. Defines honorable behavior: competence, honesty, respect for law, continuing education, community service, freedom to choose patients."
+            },
+            {
+              "organization": "World Medical Association (WMA)",
+              "document_title": "WMA International Code of Medical Ethics",
+              "url": "https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2022",
+              "notes": "First adopted 1949 as complement to the Declaration of Geneva. Major 2022 revision (4-year process) adds provisions on environmental health, remote care, physician well-being. Defines professional duties toward patients, other physicians, health professionals, themselves, and society worldwide."
+            },
+            {
+              "organization": "World Medical Association (WMA)",
+              "document_title": "WMA Declaration of Geneva — The Physician's Pledge",
+              "url": "https://www.wma.net/what-we-do/medical-ethics/declaration-of-geneva/",
+              "document_type": "oath_pledge",
+              "geographic_scope": "International",
+              "year_published": "2017",
+              "notes": "Modern Hippocratic Oath; first adopted 1948. 2017 revision was the largest in decades, adding patient autonomy, physician self-care, medical knowledge sharing. Amended 1948, 1968, 1983, 1994, editorially revised 2005, 2006, amended 2017."
+            },
+            {
+              "organization": "American Osteopathic Association (AOA)",
+              "document_title": "AOA Code of Ethics",
+              "url": "https://osteopathic.org/about/leadership/aoa-governance-documents/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1953",
+              "notes": "Applies to all osteopathic physicians from enrollment through practice. Addresses confidentiality, candid communication with patients, physician-patient trust, community responsibility, and research standards. Transcends economic, political, and religious biases."
+            },
+            {
+              "organization": "American Nurses Association (ANA)",
+              "document_title": "Code of Ethics for Nurses with Interpretive Statements",
+              "url": "https://codeofethics.ana.org/home",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1950",
+              "notes": "First formally adopted 1950. 2025 revision (over 6,000 nurses consulted, 49-expert panel, 600+ hours): retains 9 provisions with edits, adds new 10th provision affirming nursing's role in advancing human and environmental well-being worldwide. Addresses health disparities, racism, allyship, workplace safety, and emerging technologies."
+            },
+            {
+              "organization": "International Council of Nurses (ICN)",
+              "document_title": "ICN Code of Ethics for Nurses",
+              "url": "https://www.icn.ch/resources/publications-and-reports/icn-code-ethics-nurses",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "1953",
+              "notes": "First adopted 1953, revised 1965, 1973 (new code), reaffirmed 1989, revised 2000, 2012, 2021. Four elements: nurses and people, nurses and practice, nurses and coworkers, nurses and the profession. Emphasizes advocacy for human rights of patients, families, and communities."
+            },
+            {
+              "organization": "American Dental Association (ADA)",
+              "document_title": "ADA Principles of Ethics and Code of Professional Conduct",
+              "url": "https://www.ada.org/about/principles/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1866",
+              "notes": "Three components: Principles of Ethics (aspirational), Code of Professional Conduct (enforceable rules), Advisory Opinions. Five fundamental principles: patient autonomy, nonmaleficence, beneficence, justice, veracity. Binding on ADA members; violations may result in discipline. Updated continuously."
+            },
+            {
+              "organization": "FDI World Dental Federation",
+              "document_title": "International Principles of Ethics for the Dental Profession",
+              "url": "https://www.fdiworlddental.org/sites/default/files/2020-11/fdi_world_dental_federation_-_international_principles_of_ethics_for_the_dental_profession_-_2018-07-02.pdf",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "International",
+              "year_published": "2018",
+              "notes": "Guidelines for every dentist and dental team member. Covers practicing according to science and principles of humanity, safeguarding oral health irrespective of patient status, referral obligations, continuing education duties, and public oral health education. Companion: FDI Dental Ethics Manual (2nd edition)."
+            },
+            {
+              "organization": "American Pharmacists Association (APhA)",
+              "document_title": "Code of Ethics for Pharmacists",
+              "url": "https://www.pharmacist.com/Code-of-Ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1852",
+              "notes": "Established 1852, most recently revised 1994. Eight principles covering covenantal patient-pharmacist relationship, patient care, autonomy, dignity, justice, competence, individual and community health, and professional obligations. Endorsed by ASHP (1996) and AMCP."
+            },
+            {
+              "organization": "International Pharmaceutical Federation (FIP)",
+              "document_title": "FIP Statement of Professional Standards — Code of Ethics for Pharmacists",
+              "url": "https://www.fip.org/file/1586",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2014",
+              "notes": "Approved by FIP Council 2014; builds on 1988 guidelines and 1997 statement. Deliberately broad framework for nations to adapt. Centers on autonomy, beneficence, non-maleficence, justice. Covers independence of profession, refusal to dispense when serving patient health, pharmacists as health educators, and patient freedom of choice."
+            },
+            {
+              "organization": "American Physical Therapy Association (APTA)",
+              "document_title": "Code of Ethics for the Physical Therapy Profession",
+              "url": "https://www.apta.org/apta-and-you/leadership-and-governance/policies/code-of-ethics-for-the-physical-therapy-profession",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2025",
+              "notes": "Adopted July 2025 by APTA House of Delegates, effective January 2026. Combines former Code of Ethics for PT with Standards of Ethical Conduct for PTA into one document. Core values: accountability, altruism, collaboration, compassion, duty, excellence, integrity, social responsibility. Enforceable through Ethics and Judicial Committee."
+            },
+            {
+              "organization": "American Occupational Therapy Association (AOTA)",
+              "document_title": "AOTA 2025 Occupational Therapy Code of Ethics",
+              "url": "https://www.aota.org/practice/practice-essentials/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1975",
+              "notes": "First established 1975; reviewed every 5 years. 2025 revision reflects evolving healthcare landscape and emerging technologies. Seven core values: altruism, equality, freedom, justice, dignity, truth, prudence. Some states use AOTA Code as part of licensure acts."
+            },
+            {
+              "organization": "American Speech-Language-Hearing Association (ASHA)",
+              "document_title": "ASHA Code of Ethics",
+              "url": "https://www.asha.org/policy/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1952",
+              "notes": "First formalized 1952 for audiologists and speech-language pathologists. Partly obligatory and disciplinary, partly aspirational. Enforced by Board of Ethics with confidential administration. At least 1 hour of ethics CE required per 3-year certification cycle. Covers 247,000+ members and affiliates."
+            },
+            {
+              "organization": "American Psychological Association (APA)",
+              "document_title": "Ethical Principles of Psychologists and Code of Conduct",
+              "url": "https://www.apa.org/ethics/code",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2002",
+              "notes": "Current version adopted 2002, amended 2010, 2017. Five aspirational principles: beneficence/nonmaleficence, fidelity/responsibility, integrity, justice, respect for rights/dignity. Ten enforceable standards covering competence, human relations, privacy, advertising, record keeping, education, research, assessment, therapy. Violations can result in license loss."
+            },
+            {
+              "organization": "American Psychiatric Association",
+              "document_title": "Principles of Medical Ethics with Annotations Especially Applicable to Psychiatry",
+              "url": "https://www.psychiatry.org/psychiatrists/practice/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1973",
+              "notes": "First published 1973. Adopts AMA Principles with psychiatry-specific annotations. Includes the famous Goldwater Rule (Section 7.3) prohibiting public commentary on non-examined individuals' mental health. Membership condition; violations can lead to reprimand, suspension, or expulsion."
+            },
+            {
+              "organization": "American Optometric Association (AOA)",
+              "document_title": "AOA Code of Ethics and Standards of Professional Conduct",
+              "url": "https://www.aoa.org/about-the-aoa/ethics-and-values",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2011",
+              "notes": "Standards of Professional Conduct adopted June 2011. Guided by four bioethical principles: patient autonomy, non-maleficence, beneficence, justice. Core duties: patient health paramount, respect dignity, advise on referrals, maintain confidentiality, ensure access, advance competence, maintain professional standards. Accompanied by Optometric Oath."
+            },
+            {
+              "organization": "American Chiropractic Association (ACA)",
+              "document_title": "ACA Code of Ethics",
+              "url": "https://www.acatoday.org/about/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2000",
+              "notes": "Thirteen principles covering professional excellence, professional conduct, doctor-patient relationships, patient confidentiality, professional accountability, community service, and reporting of unethical acts. Adherence required for ACA membership. Primary responsibility is patient benefit."
+            },
+            {
+              "organization": "American Podiatric Medical Association (APMA)",
+              "document_title": "APMA Code of Ethics",
+              "url": "https://www.apma.org/files/Code%20of%20Ethics_FINAL_1669749709677_2.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2017",
+              "notes": "Founded 1912. Members obligated to follow code. Covers patient safety, appropriate supervision, prohibition of referral kickbacks in federal programs. Approximately 80% of U.S. podiatrists are members."
+            },
+            {
+              "organization": "American Veterinary Medical Association (AVMA)",
+              "document_title": "Principles of Veterinary Medical Ethics (PVME)",
+              "url": "https://www.avma.org/resources-tools/avma-policies/principles-veterinary-medical-ethics-avma",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1968",
+              "notes": "Comprises Principles, Code of Conduct, and Definitions. Three fundamental principles: stewardship, integrity, respect. Code of Conduct covers delivering competent care, balancing patient welfare with client needs and public safety, and maintaining professionalism. Revised 2015 and updated 2024 draft. Enforceable through state veterinary boards."
+            },
+            {
+              "organization": "American College of Surgeons (ACS)",
+              "document_title": "ACS Statements on Principles",
+              "url": "https://www.facs.org/about-acs/statements/statements-on-principles/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1974",
+              "notes": "Initially published 1974, revised March 2004, updated April 2016. Describes Code of Professional Conduct, Qualifications of Surgeons, and surgeon-patient relationship. Covers qualifications, patient relations, interprofessional relations, medical education, and surgeons and society. Reviewed by Board of Regents."
+            },
+            {
+              "organization": "American Society of Anesthesiologists (ASA)",
+              "document_title": "Guidelines for the Ethical Practice of Anesthesiology",
+              "url": "https://www.asahq.org/standards-and-practice-parameters/principles-for-the-ethical-practice-of-anesthesiology",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2003",
+              "notes": "Originally approved October 2003, last amended October 2025. Recognizes AMA Principles as basic guide. Five areas of ethical responsibility: to patients, to medical colleagues, to health care facilities, to themselves, and to community/society. Emphasizes patient self-determination and informed consent."
+            },
+            {
+              "organization": "American College of Obstetricians and Gynecologists (ACOG)",
+              "document_title": "Code of Professional Ethics of ACOG",
+              "url": "https://www.acog.org/-/media/project/acog/acogorg/files/pdfs/acog-policies/code-of-professional-ethics-of-the-american-college-of-obstetricians-and-gynecologists.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2003",
+              "notes": "Sections on ethical foundations, physician conduct and practice, conflicts of interest, professional relations, and societal responsibilities. Addresses problems unique to women's health. Patient welfare as basis of all medical judgments. Noncompliance may affect Fellowship status."
+            },
+            {
+              "organization": "American College of Emergency Physicians (ACEP)",
+              "document_title": "Code of Ethics for Emergency Physicians",
+              "url": "https://www.acep.org/patient-care/policy-statements/code-of-ethics-for-emergency-physicians",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1997",
+              "notes": "Approved 1997; revised 2008, 2016, 2017, October 2023. Recognizes unique nature of emergency care and moral challenges. Covers beneficence, non-maleficence, autonomy, justice, and impartial treatment. Enforceable with formal review process for violations."
+            },
+            {
+              "organization": "American Academy of Ophthalmology (AAO)",
+              "document_title": "AAO Code of Ethics",
+              "url": "https://www.aao.org/education/ethics-detail/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1992",
+              "notes": "Three-part structure: Principles of Ethics (aspirational), Rules of Ethics (mandatory/enforceable), Administrative Procedures. Enforced by Ethics Committee and Board of Trustees. Penalties: admonition, censure, suspension, or termination of membership. Best interest of patient as guiding principle."
+            },
+            {
+              "organization": "American Academy of Physician Associates (AAPA)",
+              "document_title": "Guidelines for Ethical Conduct for the PA Profession",
+              "url": "https://www.aapa.org/career-central/practice-tools/ethical-guidelines-for-the-pa-profession/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "1983",
+              "notes": "Current code adopted 1983, amended 1985, reaffirmed 1990. Upholds patient autonomy, beneficence, nonmaleficence, and justice. Covers professional conduct, confidentiality, community service, sexual conduct prohibitions, harassment/discrimination, and research honesty."
+            },
+            {
+              "organization": "American College of Nurse-Midwives (ACNM)",
+              "document_title": "ACNM Code of Ethics with Explanatory Statements",
+              "url": "https://midwife.org/wp-content/uploads/2024/10/Code-of-Ethics-with-Explanatory-Statements.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2005",
+              "notes": "Describes moral obligations guiding midwife behaviors. Foundation: respect for basic human rights and dignity of all persons. Emphasizes confidentiality, accountability, advocacy for women's rights in healthcare. Developed alongside Standards for the Practice of Midwifery and ACNM Philosophy."
+            },
+            {
+              "organization": "International Confederation of Midwives (ICM)",
+              "document_title": "ICM International Code of Ethics for Midwives",
+              "url": "https://internationalmidwives.org/resources/international-code-of-ethics-for-midwives/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2014",
+              "notes": "Four sections: midwifery relationships, practice of midwifery, professional responsibilities, advancement of knowledge/practice. Based on recognition of women's human rights, mutual respect, trust, dignity. Covers informed decision-making, evidence-based practice, confidentiality, and right to privacy."
+            },
+            {
+              "organization": "American College of Healthcare Executives (ACHE)",
+              "document_title": "ACHE Code of Ethics",
+              "url": "https://www.ache.org/about-ache/our-story/our-commitments/ethics/ache-code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1941",
+              "notes": "Last amended November 2017. Covers professional relationships with colleagues, patients, organization members, community, and society. Requires honesty, integrity, equity, fairness. Mandates patient care above other considerations, resource allocation with ethical transparency. Membership requirement."
+            },
+            {
+              "organization": "Academy of Nutrition and Dietetics / Commission on Dietetic Registration (CDR)",
+              "document_title": "Code of Ethics for the Nutrition and Dietetics Profession",
+              "url": "https://www.eatright.org/code-of-ethics-for-rdns-and-ndtrs",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "notes": "Effective June 2018. Applies to RDNs and NDTRs. Core values: customer focus, integrity, innovation, social responsibility, diversity. Updated to address digital health care, social media, and evolving technologies. Principles: honesty/integrity, high professional standards, public health/safety/welfare."
+            },
+            {
+              "organization": "American Association for Respiratory Care (AARC)",
+              "document_title": "AARC Statement of Ethics and Professional Conduct",
+              "url": "https://www.aarc.org/wp-content/uploads/2017/03/statement-of-ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2015",
+              "notes": "Effective April 2015. Covers integrity, objectivity, trust, competence, respect for patient rights (privacy, informed consent, refusal of treatment), non-discrimination, avoidance of fraud and conflicts of interest, and promoting access and cost-effective care."
+            },
+            {
+              "organization": "National Association of Emergency Medical Technicians (NAEMT)",
+              "document_title": "EMS Code of Ethics",
+              "url": "https://www.naemt.org/about-ems/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1978",
+              "notes": "Originally written by Charles B. Gillespie, M.D., adopted 1978, revised June 2013. Pledges to conserve life, alleviate suffering, promote health, do no harm, encourage equal availability of care. 2013 revision updates terminology and adds non-discrimination regarding socioeconomic status. Core: compassion, accountability, integrity."
+            },
+            {
+              "organization": "National Association of EMS Physicians (NAEMSP)",
+              "document_title": "Code of Ethics for EMS Physician Medical Directors",
+              "url": "https://www.tandfonline.com/doi/full/10.1080/10903127.2020.1808747",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2020",
+              "notes": "Jointly adopted by NAEMSP, NASEMSO, and AMPA. Establishes principles of honorable behavior for EMS medical directors recognizing responsibility to public, EMS practitioners, and health care systems. Published in Prehospital Emergency Care journal."
+            },
+            {
+              "organization": "American Association of Medical Assistants (AAMA)",
+              "document_title": "AAMA Code of Ethics and Medical Assisting Creed",
+              "url": "https://www.aama-ntl.org/about",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1996",
+              "notes": "Code covers dignity of humanity, confidentiality, honor of profession, and continuous knowledge/skill improvement. Companion Creed affirms dedication to patient care and well-being, loyalty to employer, and commitment to professional principles. Medical assistants also adhere to separate Creed statement."
+            }
+          ]
+        },
+        {
+          "code": "29-2000",
+          "name": "Health Technologists and Technicians",
+          "total_codes_found": 8,
+          "codes": [
+            {
+              "organization": "American Registry of Radiologic Technologists (ARRT)",
+              "document_title": "ARRT Standards of Ethics",
+              "url": "https://www.arrt.org/pages/resources/ethics-information",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1993",
+              "notes": "Formalized 1993; updated 2020, 2023, 2025. Two parts: Code of Ethics (aspirational, 11 principles) and Rules of Ethics (mandatory, enforceable). Certificate holders must notify ARRT of ethics violations including state licensing issues and criminal charges within 30 days."
+            },
+            {
+              "organization": "American Society of Radiologic Technologists (ASRT)",
+              "document_title": "ASRT Code of Ethics",
+              "url": "https://www.asrt.org/main/standards-and-regulations",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1982",
+              "notes": "Jointly developed with ARRT. Principles cover professional manner, respect for patient dignity, service without discrimination, patient confidentiality, continuous improvement of knowledge/skills, and evidence-based practice. Expected of every ASRT member and ARRT registrant."
+            },
+            {
+              "organization": "American Society for Clinical Laboratory Science (ASCLS)",
+              "document_title": "ASCLS Code of Ethics",
+              "url": "https://ascls.org/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1974",
+              "notes": "Three concentric-circle duties: duty to patient (center), duty to colleagues and profession, duty to society. Patient welfare above own needs; high-quality care that is safe, effective, efficient, timely, equitable, patient-centered. Includes patient advocacy and equitable healthcare resource distribution."
+            },
+            {
+              "organization": "American Medical Technologists (AMT)",
+              "document_title": "AMT Standards of Practice",
+              "url": "https://americanmedtech.org/resource-library/category/guides/standards-of-practice",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2005",
+              "notes": "Established by AMT Board of Directors. Defines competent, honorable, and ethical behavior for AMT-certified professionals. Covers avoiding dishonest/unethical/illegal practices, patient welfare above all, respecting patient rights, safeguarding confidences. Required for certification maintenance."
+            },
+            {
+              "organization": "Nuclear Medicine Technology Certification Board (NMTCB) / Society of Nuclear Medicine and Molecular Imaging (SNMMI)",
+              "document_title": "Code of Ethics for Nuclear Medicine Technologists",
+              "url": "https://www.nmtcb.org/policies/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2004",
+              "notes": "Adopted at 2004 SNMMI Annual Meeting. Seven principles: compassion and respect for dignity, non-discrimination, strict patient confidentiality per federal/state regulations, compliance with laws, continual skill improvement, no fraud/deception/criminal activity, and professional advocacy."
+            },
+            {
+              "organization": "American Health Information Management Association (AHIMA)",
+              "document_title": "AHIMA Code of Ethics",
+              "url": "https://bok.ahima.org/topics/industry-resources/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2004",
+              "notes": "Applies to all AHIMA members, CCHIIM certification holders, and students. Core principles: advocate patient privacy/confidentiality, service before self-interest, protect sensitive information (genetic, adoption, substance use, sexual health, behavioral), truthful credentials, interdisciplinary collaboration. Enforceable and aspirational elements."
+            },
+            {
+              "organization": "National Athletic Trainers' Association (NATA)",
+              "document_title": "NATA Code of Ethics",
+              "url": "https://www.nata.org/membership/about-membership/member-resources/nata-code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2005",
+              "notes": "Revised May 2022. Five shared professional values: caring/compassion, integrity, respect, competence, accountability. Covers equitable treatment, regulatory compliance, positive representation of profession, ethical conduct including appropriate relationships, and patient safety/advocacy."
+            },
+            {
+              "organization": "National Certification Commission for Acupuncture and Oriental Medicine (NCCAOM)",
+              "document_title": "NCCAOM Code of Ethics",
+              "url": "https://www.nccaom.org/about-nccaom/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2004",
+              "notes": "NCCAOM establishes, assesses, and promotes recognized standards of competence and safety in acupuncture and Oriental medicine. Code covers patient safety, professional integrity, informed consent, scope of practice, non-discrimination, and continuing education requirements."
+            }
+          ]
+        },
+        {
+          "code": "29-9000",
+          "name": "Other Healthcare Practitioners and Technical Occupations",
+          "total_codes_found": 3,
+          "codes": [
+            {
+              "organization": "American Academy of Pediatrics (AAP)",
+              "document_title": "AAP Code of Conduct and Bioethics Committee Policy Statements",
+              "url": "https://www.aap.org/en/about-the-aap/american-academy-of-pediatrics-equity-and-inclusion-efforts/code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "1979",
+              "notes": "Committee on Bioethics began 1979 (ad hoc), official AAP committee 1985. Section on Bioethics founded 1988. Writes policy statements on bioethical issues in pediatrics: consent/decision-making for minors, confidentiality, end-of-life care, research involving children, resource allocation. Guided by beneficence, non-maleficence, autonomy, justice."
+            },
+            {
+              "organization": "American Academy of Family Physicians (AAFP)",
+              "document_title": "AAFP Ethics and AMA Principles of Medical Ethics Policy",
+              "url": "https://www.aafp.org/about/policies/all/amaprinciples-medicalethics.html",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "1971",
+              "notes": "AAFP references AMA Principles of Medical Ethics as foundational ethics policy. Additionally provides Curriculum Guideline on Medical Ethics covering clinical, professional, and medico-legal topics, and separate guidelines for ethical participation in research. 128,300+ members."
+            },
+            {
+              "organization": "World Health Organization (WHO) / World Federation for Medical Education (WFME)",
+              "document_title": "WFME Global Standards for Quality Improvement of Medical Education",
+              "url": "https://wfme.org/standards/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "International",
+              "year_published": "2003",
+              "notes": "Third edition 2020. Promotes highest scientific and ethical standards in medical education globally. Covers basic medical education, postgraduate education, and continuing professional development. Encourages integrated programs in biomedical, clinical, behavioral, and social sciences including medical ethics. Principles-based approach for local adaptation."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_codes_found": 62,
+    "soc_27_codes": 17,
+    "soc_29_codes": 45,
+    "geographic_breakdown": {
+      "US": 52,
+      "International": 10
+    },
+    "document_types": {
+      "code_of_ethics": 47,
+      "code_of_conduct": 6,
+      "ethics_guidelines": 8,
+      "oath_pledge": 1
+    },
+    "notes": "SOC 29-0000 (Healthcare) is the richest single SOC major group for professional ethics codes, reflecting the deep historical tradition of medical ethics dating to the Hippocratic Oath. The AMA Code of Medical Ethics (1847) is among the oldest professional codes in the world. Healthcare codes span physicians, nurses, dentists, pharmacists, therapists, technologists, and emergency practitioners at both national (US) and international levels. SOC 27-0000 (Arts/Media) includes foundational journalism ethics (SPJ since 1926) and entertainment union standards that increasingly address workplace conduct and harassment prevention."
+  }
+}

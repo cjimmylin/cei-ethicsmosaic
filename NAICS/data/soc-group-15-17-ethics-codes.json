@@ -1,0 +1,489 @@
+{
+  "track": "SOC",
+  "agent": "S2",
+  "date_collected": "2026-03-21",
+  "soc_groups": [
+    {
+      "group_code": "15-0000",
+      "group_name": "Computer and Mathematical Occupations",
+      "minor_groups": [
+        {
+          "code": "15-1200",
+          "name": "Computer Occupations",
+          "total_codes_found": 10,
+          "codes": [
+            {
+              "organization": "Association for Computing Machinery (ACM)",
+              "document_title": "ACM Code of Ethics and Professional Conduct",
+              "url": "https://www.acm.org/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2018",
+              "notes": "Adopted by ACM Council on June 22, 2018; replaces 1992 version. Organized in four sections: General Ethical Principles, Professional Responsibilities, Professional Leadership Principles, and Compliance. Over 100,000 members worldwide. Covers all computing professionals."
+            },
+            {
+              "organization": "IEEE (Institute of Electrical and Electronics Engineers)",
+              "document_title": "IEEE Code of Ethics",
+              "url": "https://www.ieee.org/about/corporate/governance/p7-8",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2020",
+              "notes": "Policy 7.8; originally adopted 1990, revised and approved by Board of Directors November 2020. 10 principles. Over 400,000 members in 160+ countries. Applies to all IEEE members including computer and software engineers."
+            },
+            {
+              "organization": "IEEE Computer Society / ACM (Joint)",
+              "document_title": "Software Engineering Code of Ethics and Professional Practice",
+              "url": "https://www.acm.org/code-of-ethics/software-engineering-code",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "1999",
+              "notes": "Version 5.2; developed by IEEE-CS/ACM Joint Task Force on Software Engineering Ethics and Professional Practices (SEEPP), led by Don Gotterbarn. Eight principles: Public, Client & Employer, Product, Judgment, Management, Profession, Colleagues, Self. Standard for teaching and practicing software engineering."
+            },
+            {
+              "organization": "ISC2 (International Information System Security Certification Consortium)",
+              "document_title": "ISC2 Code of Ethics",
+              "url": "https://www.isc2.org/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2004",
+              "notes": "Four mandatory canons for CISSP and other certification holders. All ISC2 members must commit to the Code. Violations may result in revocation of certification. Over 600,000 members. In 2026, ISC2 also launched a broader Code of Professional Conduct for all cybersecurity professionals."
+            },
+            {
+              "organization": "ISACA (Information Systems Audit and Control Association)",
+              "document_title": "Code of Professional Ethics",
+              "url": "https://www.isaca.org/code-of-professional-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2012",
+              "notes": "Applies to all ISACA members and certification holders (CISA, CISM, CRISC, CGEIT, CDPSE). Covers objectivity, due diligence, confidentiality, competence, transparency, and stakeholder education. Over 170,000 members in 188 countries."
+            },
+            {
+              "organization": "BCS, The Chartered Institute for IT",
+              "document_title": "BCS Code of Conduct",
+              "url": "https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK",
+              "year_published": "2022",
+              "notes": "Four key principles: public interest, professional competence, adherence to legal authority, and promoting integrity. Standards exceed general law. Enforced through disciplinary action up to expulsion. Royal Chartered body. Over 60,000 members."
+            },
+            {
+              "organization": "CompTIA (Computing Technology Industry Association)",
+              "document_title": "Candidate Code of Ethics",
+              "url": "https://www.comptia.org/en-us/resources/test-policies/continuing-education-policies/candidate-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2018",
+              "notes": "Applies to all CompTIA certification holders (A+, Security+, Network+, etc.). Prohibits dishonesty, fraud, unauthorized system access, exam cheating. Violations may lead to sanctions or certification revocation."
+            },
+            {
+              "organization": "Data Science Association",
+              "document_title": "Data Science Code of Professional Conduct",
+              "url": "https://www.datascienceassn.org/code-of-conduct.html",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "2013",
+              "notes": "Professional conduct creed for data science professionals. Addresses data privacy, algorithmic bias, transparency, and responsible use of data science techniques."
+            },
+            {
+              "organization": "IET (Institution of Engineering and Technology)",
+              "document_title": "IET Rules of Conduct",
+              "url": "https://www.theiet.org/about/governance/rules-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK/international",
+              "year_published": "2019",
+              "notes": "All IET members agree to abide by Rules of Conduct; re-affirmed annually. Covers electrical, electronic, computing, and information technology professionals. Over 150,000 members worldwide. Enforced through disciplinary regulations."
+            },
+            {
+              "organization": "PMI (Project Management Institute)",
+              "document_title": "Code of Ethics and Professional Conduct",
+              "url": "https://www.pmi.org/about/ethics/guidelines",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2025",
+              "notes": "Four core values: responsibility, respect, fairness, honesty. Contains both aspirational and mandatory standards. Updated version effective November 17, 2025. Over 700,000 members. Applies to all PMI credential holders (PMP, etc.). Included here as project management spans IT occupations (SOC 15-1299)."
+            }
+          ]
+        },
+        {
+          "code": "15-2000",
+          "name": "Mathematical Science Occupations",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "American Statistical Association (ASA)",
+              "document_title": "Ethical Guidelines for Statistical Practice",
+              "url": "https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice",
+              "document_type": "ethical_guidelines",
+              "geographic_scope": "US/international",
+              "year_published": "2022",
+              "notes": "Originally issued 1982; revised 2016 and 2022. Eight topic areas: Professionalism, Responsibilities to Funders/Clients/Employers, Responsibilities in Publications and Testimony, Responsibilities to Research Subjects, Responsibilities to Other Statisticians, Responsibilities Regarding Allegations of Misconduct, Responsibilities of Employers, and Responsibilities of Mentors. Over 18,000 members."
+            },
+            {
+              "organization": "American Mathematical Society (AMS)",
+              "document_title": "AMS Policy Statement on Ethical Guidelines",
+              "url": "https://www.ams.org/about-us/governance/policy-statements/sec-ethics",
+              "document_type": "ethical_guidelines",
+              "geographic_scope": "US/international",
+              "year_published": "2005",
+              "notes": "Set forth by AMS Council. Covers plagiarism, attribution, conflicts of interest, diversity, peer review, and editorial responsibilities. Enforced by Committee on Professional Ethics (COPE). Over 28,000 members."
+            },
+            {
+              "organization": "Mathematical Association of America (MAA)",
+              "document_title": "MAA Code of Ethics",
+              "url": "https://maa.org/policies-and-procedures/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2017",
+              "notes": "Organizational code focusing on governance, whistleblower protection, and non-retaliation. Also addresses values of equity, diversity, and human flourishing in mathematics. Over 25,000 members."
+            },
+            {
+              "organization": "SIAM (Society for Industrial and Applied Mathematics)",
+              "document_title": "SIAM Code of Conduct",
+              "url": "https://www.siam.org/about-us/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US/international",
+              "year_published": "2020",
+              "notes": "Organizational code of conduct promoting inclusive climate, open exchange of ideas, and ethical behavior. Applies to all members and anyone acting on behalf of the organization. Over 14,000 members."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_code": "17-0000",
+      "group_name": "Architecture and Engineering Occupations",
+      "minor_groups": [
+        {
+          "code": "17-1000",
+          "name": "Architects, Surveyors, and Cartographers",
+          "total_codes_found": 7,
+          "codes": [
+            {
+              "organization": "American Institute of Architects (AIA)",
+              "document_title": "AIA Code of Ethics and Professional Conduct",
+              "url": "https://www.aia.org/code-ethics-professional-conduct",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2024",
+              "notes": "First adopted 1909; current version effective February 1, 2024. Three-tier structure: Canons (broad principles), Ethical Standards (aspirational goals), Rules of Conduct (mandatory). Canons cover general obligations, public, clients, profession, colleagues, and environment. Enforced by National Ethics Council. Over 98,000 members."
+            },
+            {
+              "organization": "NCARB (National Council of Architectural Registration Boards)",
+              "document_title": "Model Rules of Conduct",
+              "url": "https://www.ncarb.org/sites/default/files/Rules_of_Conduct.pdf",
+              "document_type": "model_rules",
+              "geographic_scope": "US",
+              "year_published": "2022",
+              "notes": "Established 1977; serves as national model for state licensing boards. Five focus areas: competence, conflict of interest, full disclosure, compliance with laws, and signing/sealing documents. Annual certification required for NCARB Certificate holders."
+            },
+            {
+              "organization": "RIBA (Royal Institute of British Architects)",
+              "document_title": "RIBA Code of Professional Conduct",
+              "url": "https://www.architecture.com/knowledge-and-resources/resources-landing-page/code-of-professional-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK/international",
+              "year_published": "2019",
+              "notes": "Three core principles: integrity, competence, and relationships. Violations subject to disciplinary action including expulsion. Current version effective May 1, 2019."
+            },
+            {
+              "organization": "American Society of Landscape Architects (ASLA)",
+              "document_title": "ASLA Code of Professional Ethics",
+              "url": "https://www.asla.org/ContentDetail.aspx?id=4276",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2016",
+              "notes": "Foundation of professional practice. Contains Canons with Ethical Standards (aspirational goals) and Rules (mandatory; violations trigger complaints). Covers duties to clients, employers, employees, and fellow professionals. ASLA also maintains a separate Code of Environmental Ethics."
+            },
+            {
+              "organization": "National Society of Professional Surveyors (NSPS)",
+              "document_title": "Surveyor's Creed and Canons",
+              "url": "https://nsps.us.com/page/CreedandCanons",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1975",
+              "notes": "Seven canons covering public duty, jurisdiction rules, competence, impartiality, confidentiality, proper advertising, and professional integrity. Preamble pledges service before profit. Over 15,000 individual members."
+            },
+            {
+              "organization": "NCEES (National Council of Examiners for Engineering and Surveying)",
+              "document_title": "Model Rules of Professional Conduct",
+              "url": "https://ncees.org/wp-content/uploads/2025/09/Model_Rules_August-2025_web.pdf",
+              "document_type": "model_rules",
+              "geographic_scope": "US",
+              "year_published": "2025",
+              "notes": "Section 240.15 Rules of Professional Conduct. Provides licensure boards with guidelines for engineering and surveying licensing laws and ethics. Most recent version August 2025. Covers both professional engineers and professional surveyors."
+            },
+            {
+              "organization": "ASPRS (American Society for Photogrammetry and Remote Sensing)",
+              "document_title": "ASPRS Code of Ethics",
+              "url": "https://asprs.org/Main/Main/About/Code-of-Ethics.aspx",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2017",
+              "notes": "Founded 1934. Principles of honesty, justice, and courtesy. Covers photogrammetry, remote sensing, GIS, and geospatial disciplines. Obligations to employer, clients, and colleagues. Applies to over 7,000 members and certification holders."
+            }
+          ]
+        },
+        {
+          "code": "17-2000",
+          "name": "Engineers",
+          "total_codes_found": 20,
+          "codes": [
+            {
+              "organization": "NSPE (National Society of Professional Engineers)",
+              "document_title": "Code of Ethics for Engineers",
+              "url": "https://www.nspe.org/career-growth/ethics/code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Created 1946 (Canons of Ethics for Engineers); revised July 2019. Six Fundamental Canons: safety/health/welfare paramount, competence, truthful statements, faithful agents, avoid deceptive acts, honorable conduct. Board of Ethical Review (est. 1950s) issues advisory opinions. Foundational code referenced across all engineering disciplines."
+            },
+            {
+              "organization": "American Society of Civil Engineers (ASCE)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.asce.org/career-growth/ethics/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2020",
+              "notes": "First adopted 1914; completely rewritten October 26, 2020 (first wholesale update since 1974). New hierarchical stakeholder model: society, natural/built environment, profession, clients/employers, peers. Replaces former canon structure. Over 150,000 members."
+            },
+            {
+              "organization": "American Society of Mechanical Engineers (ASME)",
+              "document_title": "Society Policy: Ethics (P-15.7)",
+              "url": "https://www.asme.org/getmedia/3e165b2b-f7e7-4106-a772-5f0586d2268e/p-15-7-ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2021",
+              "notes": "Based on fundamental principles of integrity, honor, and dignity. Canons include: public safety paramount, competence, truthful statements, faithful agents, intellectual property, environmental sustainability. All ASME members agree to abide. Over 85,000 members."
+            },
+            {
+              "organization": "American Institute of Chemical Engineers (AIChE)",
+              "document_title": "AIChE Code of Ethics",
+              "url": "https://www.aiche.org/about/governance/policies/code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2015",
+              "notes": "Revised by Board of Directors in 2015. 11 principles covering public safety, environment, competence, faithful service, conflicts of interest, fair treatment, and equity/diversity/inclusion. Over 60,000 members."
+            },
+            {
+              "organization": "IEEE (Institute of Electrical and Electronics Engineers)",
+              "document_title": "IEEE Code of Ethics",
+              "url": "https://www.ieee.org/about/corporate/governance/p7-8",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2020",
+              "notes": "Policy 7.8; originally adopted 1990, revised 2020. 10 principles covering safety, conflicts of interest, honesty, discrimination, competence, and continuous improvement. Over 400,000 members in 160+ countries. Cross-listed with 15-1200 (Computer Occupations)."
+            },
+            {
+              "organization": "AIAA (American Institute of Aeronautics and Astronautics)",
+              "document_title": "AIAA Code of Ethics",
+              "url": "https://aiaa.org/about-aiaa/governance/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2023",
+              "notes": "Adopted May 9, 2013; updated June 8, 2023. Covers public safety, lawful/ethical conduct, integrity, fair treatment. Reports to AIAA Ethics Committee. Over 30,000 members in aerospace engineering."
+            },
+            {
+              "organization": "American Nuclear Society (ANS)",
+              "document_title": "ANS Code of Ethics",
+              "url": "https://www.ans.org/about/coe/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2003",
+              "notes": "Primary principle: safety, health, welfare of public and fellow workers paramount. Covers environmental protection, sustainable development, conflicts of interest, faithful agency, continuing professional development. Over 10,000 members."
+            },
+            {
+              "organization": "Society for Mining, Metallurgy & Exploration (SME)",
+              "document_title": "SME Code of Ethics",
+              "url": "https://www.smenet.org/membership-benefits/membership-categories/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2010",
+              "notes": "Required for all Registered Members. First duty: community welfare, health, and safety. Covers professional integrity, competence, fair competition, faithful agency, and truthfulness. Member society of AIME. Over 13,000 members."
+            },
+            {
+              "organization": "Society of Petroleum Engineers (SPE)",
+              "document_title": "SPE Code of Conduct for Members",
+              "url": "https://www.spe.org/en/about/professional-code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "1985",
+              "notes": "Guide for Professional Conduct approved by Board of Directors February 25, 1985. Covers integrity, societal responsibility, public health and safety, environmental responsibility, competence, and continuous learning. Member society of AIME. Over 130,000 members in 140+ countries."
+            },
+            {
+              "organization": "ASHRAE (American Society of Heating, Refrigerating and Air-Conditioning Engineers)",
+              "document_title": "ASHRAE Code of Ethics",
+              "url": "https://www.ashrae.org/about/governance/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2014",
+              "notes": "Members pledge honesty, fairness, courtesy, competence, integrity, respect. Covers public health and safety, environmental stewardship, competence, conflicts of interest, confidentiality, and non-discrimination. Over 57,000 members."
+            },
+            {
+              "organization": "INCOSE (International Council on Systems Engineering)",
+              "document_title": "Systems Engineering Code of Ethics",
+              "url": "https://www.incose.org/about-systems-engineering/systems-engineering-code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2012",
+              "notes": "Covers honesty, impartiality, integrity, knowledge currency, competence, and support for professional societies. Duties to society include environment/safety/welfare protection, risk management, and systems-level responsibility. Over 20,000 members."
+            },
+            {
+              "organization": "SAE International (Society of Automotive Engineers)",
+              "document_title": "SAE Code of Ethical Conduct",
+              "url": "https://www.sae.org/about/legal-policies/terms",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "international",
+              "year_published": "2017",
+              "notes": "Applies to Board members, officers, volunteers, staff, vendors, and consultants. Highest standards of legal, ethical, and moral conduct. Covers automotive, aerospace, and commercial vehicle industries. Over 200,000 members/volunteers."
+            },
+            {
+              "organization": "AMPP (Association for Materials Protection and Performance)",
+              "document_title": "AMPP Code of Ethics",
+              "url": "https://store.ampp.org/ethics-for-the-corrosion-professional",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "international",
+              "year_published": "2021",
+              "notes": "Formed 2021 from merger of NACE International (corrosion engineers, est. 1943) and SSPC (protective coatings). Professional ethics for corrosion and materials protection. Includes certification ethics requirements and ethics training courses."
+            },
+            {
+              "organization": "WFEO (World Federation of Engineering Organizations)",
+              "document_title": "WFEO Model Code of Ethics",
+              "url": "https://www.wfeo.org/code-of-ethics/",
+              "document_type": "model_code",
+              "geographic_scope": "international",
+              "year_published": "2023",
+              "notes": "Released at General Assembly, October 14, 2023. Model code for member organizations worldwide. Covers integrity, competence, leadership, environmental protection. Aligned with UN Sustainable Development Goals. Represents 30 million engineers through ~100 national members."
+            },
+            {
+              "organization": "Engineers Australia",
+              "document_title": "Code of Ethics and Guidelines on Professional Conduct",
+              "url": "https://www.engineersaustralia.org.au/publications/code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "Australia",
+              "year_published": "2022",
+              "notes": "Four core values: integrity, competence, leadership, sustainability. Accountable under General Regulations 2016. Revised November 2019 and 2022. Over 100,000 members."
+            },
+            {
+              "organization": "Engineers Canada",
+              "document_title": "Guideline on the Code of Ethics",
+              "url": "https://engineerscanada.ca/guidelines-and-papers/public-guideline-on-the-code-of-ethics",
+              "document_type": "ethical_guidelines",
+              "geographic_scope": "Canada",
+              "year_published": "2024",
+              "notes": "Non-binding national synthesis of provincial/territorial regulators' codes. Updated July 2024 by Canadian Engineering Qualifications Board (CEQB). Dynamic principles rather than prescriptive rules. Represents 295,000 licensed engineers."
+            },
+            {
+              "organization": "Institution of Civil Engineers (ICE)",
+              "document_title": "ICE Code of Professional Conduct",
+              "url": "https://www.ice.org.uk/download-centre/code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK/international",
+              "year_published": "2017",
+              "notes": "UK-based professional body for civil engineers. Covers integrity, competence, public interest, environmental responsibility, CPD. Companion Advice on Ethical Conduct updated December 2023. Over 95,000 members."
+            },
+            {
+              "organization": "Institution of Structural Engineers (IStructE)",
+              "document_title": "IStructE Code of Conduct",
+              "url": "https://www.istructe.org/about-us/istructe-code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK/international",
+              "year_published": "2022",
+              "notes": "New Code launched January 1, 2022. Members required to abide by Code and undertake annual CPD. Subscribers to Statement of Ethical Principles. Guidance on ethics also available. Royal Chartered body."
+            },
+            {
+              "organization": "IET (Institution of Engineering and Technology)",
+              "document_title": "IET Rules of Conduct",
+              "url": "https://www.theiet.org/about/governance/rules-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "UK/international",
+              "year_published": "2019",
+              "notes": "Approved by Board of Trustees October 3, 2019. All members agree to abide; re-affirmed annually. Covers electrical, electronic, computing, manufacturing, and information technology professionals. Over 150,000 members worldwide. Cross-listed with 15-1200."
+            },
+            {
+              "organization": "NCEES (National Council of Examiners for Engineering and Surveying)",
+              "document_title": "Model Rules of Professional Conduct",
+              "url": "https://ncees.org/wp-content/uploads/2025/09/Model_Rules_August-2025_web.pdf",
+              "document_type": "model_rules",
+              "geographic_scope": "US",
+              "year_published": "2025",
+              "notes": "Section 240.15 Rules of Professional Conduct for licensees. Guidelines for state engineering licensing boards. Most recent version August 2025. Cross-listed with 17-1000. Covers continuing professional competency and ethics awareness."
+            }
+          ]
+        },
+        {
+          "code": "17-3000",
+          "name": "Drafters, Engineering Technicians, and Mapping Technicians",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "ADDA (American Design Drafting Association)",
+              "document_title": "ADDA Code of Ethics",
+              "url": "https://www.adda.org/index.php/about-adda/114-code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2010",
+              "notes": "Eight principles: public safety paramount, competence, continuing development, faithful agency, quality products/services, associate with reputable organizations, objective/truthful statements, and uphold professional dignity. Enforced by Board of Directors with Board of Governors as appeals committee."
+            },
+            {
+              "organization": "NICET (National Institute for Certification in Engineering Technologies)",
+              "document_title": "NICET Code of Ethics",
+              "url": "https://www.nicet.org/about-us/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2015",
+              "notes": "Subsidiary of NSPE. Covers public safety, competence, quality of work, continuous improvement, and professional integrity. All applicants, candidates, and certificants must comply. Complements NSPE/NICET Code of Conduct. Certifications in fire protection, transportation, construction, industrial, and other engineering technology fields."
+            },
+            {
+              "organization": "ASPRS (American Society for Photogrammetry and Remote Sensing)",
+              "document_title": "ASPRS Code of Ethics",
+              "url": "https://asprs.org/Main/Main/About/Code-of-Ethics.aspx",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/international",
+              "year_published": "2017",
+              "notes": "Applies to mapping scientists, technologists, and interns. Principles of honesty, justice, and courtesy. Covers photogrammetry, remote sensing, GIS. Cross-listed with 17-1000 (Cartographers)."
+            },
+            {
+              "organization": "NSPE (National Society of Professional Engineers)",
+              "document_title": "Code of Ethics for Engineers",
+              "url": "https://www.nspe.org/career-growth/ethics/code-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "notes": "Engineering technicians and technologists who are NSPE members are also bound by this code. Six Fundamental Canons. Cross-listed with 17-2000 (Engineers). NICET operates as subsidiary of NSPE."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_cutting_observations": {
+    "universal_principles": [
+      "Hold paramount public safety, health, and welfare",
+      "Practice only within areas of competence",
+      "Avoid conflicts of interest and disclose when they arise",
+      "Maintain honesty, integrity, and truthfulness",
+      "Act as faithful agents to employers and clients",
+      "Maintain confidentiality of proprietary/sensitive information",
+      "Pursue continuing professional development"
+    ],
+    "domain_specific_themes": {
+      "computing": "Data privacy, algorithmic bias, cybersecurity responsibility, software quality, responsible AI",
+      "engineering": "Environmental sustainability, sustainable development, risk management, signing/sealing documents, professional licensure obligations",
+      "architecture": "Environmental stewardship, built environment, public welfare through design, client relationships, NEC enforcement",
+      "surveying": "Accuracy of measurements, land boundary integrity, impartiality, jurisdiction-specific rules",
+      "mathematics_statistics": "Responsible use of data, reproducibility, peer review integrity, prevention of misuse of statistical methods"
+    },
+    "notable_patterns": [
+      "Engineering codes overwhelmingly place public safety as the first and paramount obligation",
+      "Computing codes increasingly emphasize data ethics, algorithmic fairness, and AI responsibility",
+      "International engineering bodies (WFEO, Engineers Australia, Engineers Canada) align codes with UN SDGs",
+      "Architecture has uniquely tiered enforcement: AIA Canons/Ethical Standards/Rules, with only Rules being mandatory",
+      "Cross-disciplinary joint codes exist: ACM/IEEE-CS Software Engineering Code bridges computing and engineering",
+      "NCEES Model Rules provide uniform framework adopted by state licensing boards across all engineering disciplines"
+    ]
+  },
+  "total_unique_codes": 40,
+  "total_entries": 45,
+  "cross_listed_codes": 5,
+  "total_organizations": 40
+}

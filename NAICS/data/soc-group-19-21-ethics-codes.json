@@ -1,0 +1,681 @@
+{
+  "track": "SOC",
+  "agent": "S3",
+  "date": "2026-03-21",
+  "soc_major_groups": [
+    {
+      "soc_code": "19-0000",
+      "soc_name": "Life, Physical, and Social Science Occupations",
+      "minor_groups": [
+        {
+          "code": "19-1000",
+          "name": "Life Scientists",
+          "total_codes_found": 10,
+          "codes": [
+            {
+              "organization": "Ecological Society of America (ESA)",
+              "document_title": "Code of Ethics",
+              "url": "https://esa.org/about/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2021",
+              "soc_detailed": ["19-1023 Zoologists and Wildlife Biologists", "19-1029 Biological Scientists, All Other"],
+              "notes": "Amended May 2021. Guiding principles for all ESA members and certified ecologists. Covers scientific integrity, publication ethics, responsible professional practice, and public communication. Encourages ecological research and education and facilitating application of ecological science in management of ecological systems."
+            },
+            {
+              "organization": "Society for Conservation Biology (SCB)",
+              "document_title": "Code of Ethics",
+              "url": "https://conbio.org/about-scb/who-we-are/code-of-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2004",
+              "soc_detailed": ["19-1023 Zoologists and Wildlife Biologists", "19-1029 Biological Scientists, All Other"],
+              "notes": "Approved by SCB Board of Governors July 29, 2004, accepted by membership August 1, 2004. Promotes dissemination of conservation knowledge, advocacy for reliable scientific methodology in management decisions, respectful treatment of colleagues, and protection of research subjects' rights. Foundational ethics code for conservation biology."
+            },
+            {
+              "organization": "American Institute of Biological Sciences (AIBS)",
+              "document_title": "AIBS Ethics Policy",
+              "url": "https://www.aibs.org/about-aibs/ethics_statement.html",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2015",
+              "soc_detailed": ["19-1029 Biological Scientists, All Other"],
+              "notes": "Umbrella ethics policy for AIBS employees, members, and volunteers. Requires honesty, compliance with laws, renunciation of scientific fraud and misconduct, and civil/respectful professional interactions. Includes whistleblower protections. AIBS is a nonprofit federation of scientific societies and organizations representing about 100 professional societies."
+            },
+            {
+              "organization": "American Society for Microbiology (ASM)",
+              "document_title": "ASM Code of Ethics and Conduct",
+              "url": "https://asm.org/articles/ethics/coes/asm-code-of-ethics-and-conduct",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2005",
+              "soc_detailed": ["19-1022 Microbiologists"],
+              "notes": "Covers integrity and dignity of the microbial sciences profession. Members expected to be honest, ethical, impartial and professional. Includes unique biosecurity provision: members obligated to discourage any use of microbiology contrary to human welfare, including biological weapons. Ethics review process for reported breaches."
+            },
+            {
+              "organization": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+              "document_title": "ASBMB Code of Ethics and Conduct",
+              "url": "https://www.asbmb.org/about/code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "soc_detailed": ["19-1021 Biochemists and Biophysicists"],
+              "notes": "Upholds integrity and dignity of biochemistry and molecular biology. Requires honest, ethical, impartial and professional interactions. Addresses conflict of interest, professional misconduct, abuse of privileged positions, and power differentials. Members take responsibility to report breaches."
+            },
+            {
+              "organization": "Society of Toxicology (SOT)",
+              "document_title": "Code of Ethics and Conflict of Interest",
+              "url": "https://www.toxicology.org/about/vp/code-of-ethics.asp",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "1985",
+              "soc_detailed": ["19-1029 Biological Scientists, All Other"],
+              "notes": "First adopted 1985, last revised November 2012. Holds credible science as fundamental to all toxicological research. Requires objectivity, integrity, honesty, and truthfulness. Recognizes duty to communicate health, safety, and toxicity information responsibly. Full membership restricted to those with significant published work."
+            },
+            {
+              "organization": "American Society of Naturalists / Society for the Study of Evolution / Society of Systematic Biologists",
+              "document_title": "ASN Code of Ethics",
+              "url": "https://amnat.org/about/asn-code-of-ethics.html",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "soc_detailed": ["19-1029 Biological Scientists, All Other"],
+              "notes": "Collaboratively developed by three evolutionary biology societies. Covers research and publication ethics (data integrity, authorship, plagiarism), workplace conduct (anti-discrimination, anti-harassment, anti-retaliation), and enforcement procedures with sanctions for severe breaches. Underwent expert legal review."
+            },
+            {
+              "organization": "American Society of Agronomy / Crop Science Society of America / Soil Science Society of America (ASA-CSSA-SSSA)",
+              "document_title": "Statement of Ethics and Code of Conduct",
+              "url": "https://www.agronomy.org/files/ethics/asa-cssa-sssa-statement-of-ethics-2024.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2024",
+              "soc_detailed": ["19-1013 Soil and Plant Scientists"],
+              "notes": "Joint statement of ethics for three allied agronomic sciences societies. Updated 2024 with companion Code of Conduct (2025). Values include integrity, diversity/equity/inclusion, scientific knowledge dissemination, and responsibility for economic, social, and environmental sustainability. Members and awardees must abide."
+            },
+            {
+              "organization": "American Association for Laboratory Animal Science (AALAS)",
+              "document_title": "AALAS Ethics and Professional Standards",
+              "url": "https://aalas.org/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "1950",
+              "soc_detailed": ["19-1029 Biological Scientists, All Other"],
+              "notes": "Established 1950. Promotes highest level of ethics within laboratory animal science. Believes humane and responsible care of laboratory animals is vital to quality research. Administers three-tiered technician certification (ALAT, LAT, LATG) with embedded ethical standards. While not a standalone code, ethical expectations are woven into certification requirements."
+            },
+            {
+              "organization": "American Association for the Advancement of Science (AAAS)",
+              "document_title": "Statement on Scientific Freedom and Responsibility",
+              "url": "https://www.aaas.org/programs/scientific-responsibility-human-rights-law/aaas-statement-scientific-freedom",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "International",
+              "year_published": "2017",
+              "soc_detailed": ["19-1029 Biological Scientists, All Other", "19-2099 Physical Scientists, All Other"],
+              "notes": "Adopted by AAAS Board October 12, 2017. Defines scientific freedom (freedom to inquire, pursue knowledge, communicate openly) as inextricably linked to scientific responsibility (duty to conduct science with integrity, in the interest of humanity, with respect for human rights). Cross-disciplinary statement applicable to all life and physical scientists. AAAS has promoted scientific ethics since the 1970s."
+            }
+          ]
+        },
+        {
+          "code": "19-2000",
+          "name": "Physical Scientists",
+          "total_codes_found": 11,
+          "codes": [
+            {
+              "organization": "American Chemical Society (ACS)",
+              "document_title": "The Chemical Professional's Code of Conduct",
+              "url": "https://www.acs.org/careers/career-services/ethics/the-chemical-professionals-code-of-conduct.html",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "1994",
+              "soc_detailed": ["19-2031 Chemists", "19-2032 Materials Scientists"],
+              "notes": "First approved by ACS Council March 16, 1994, replacing The Chemist's Creed (1965). Most recently updated August 28, 2019. Four pillars: scientific integrity (accurate records, no fabrication/falsification/plagiarism), professional conduct (anti-discrimination, anti-harassment), responsibility and accountability (duty to report misconduct), and professional development (lifelong learning, mentoring)."
+            },
+            {
+              "organization": "American Physical Society (APS)",
+              "document_title": "APS Guidelines on Ethics",
+              "url": "https://www.aps.org/about/governance/statements/ethics",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2002",
+              "soc_detailed": ["19-2012 Physicists"],
+              "notes": "Scientific enterprise rests upon two ethical pillars: obligation to tell the truth (no fabrication, falsification, plagiarism) and obligation to treat people well (no abuse of power, fair and respectful relationships). Expanded and updated 2003. Comprehensive framework covering research integrity, mentoring, and professional interactions."
+            },
+            {
+              "organization": "American Physical Society (APS)",
+              "document_title": "Code of Conduct for APS Activities",
+              "url": "https://www.aps.org/about/governance/policies-procedures/code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2017",
+              "soc_detailed": ["19-2012 Physicists"],
+              "notes": "Sets behavioral expectations governing APS members, non-members, staff, contractors, exhibitors, and sponsors at APS programs and activities. Designed to promote positive interactions within the physics community and with the public. Enforced through APS ethics procedures with investigation of violations."
+            },
+            {
+              "organization": "American Geophysical Union (AGU)",
+              "document_title": "Scientific Integrity and Professional Ethics Policy",
+              "url": "https://www.agu.org/learn-about-agu/about-agu/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2012",
+              "soc_detailed": ["19-2042 Geoscientists", "19-2021 Atmospheric and Space Scientists"],
+              "notes": "Built on the internationally recognized Singapore Statement (2010 World Conference on Research Integrity). Groundbreaking inclusion of harassment, discrimination, and bullying within the definition of research misconduct. Updated 2017 and 2023. Governs all AGU members, staff, volunteers, contractors, and sponsors. Ethics Committee investigates allegations with preponderance-of-evidence standard."
+            },
+            {
+              "organization": "American Geosciences Institute (AGI)",
+              "document_title": "Guidelines for Ethical Professional Conduct",
+              "url": "https://www.americangeosciences.org/community/ethical-professional-conduct/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "1999",
+              "soc_detailed": ["19-2042 Geoscientists"],
+              "notes": "Originally adopted 1999, significantly updated. Addresses professional responsibility, integrity and accountability, respect for colleagues, public communication with clarity and accuracy, earth stewardship, and promotion of inclusive working environments free from harassment. AGI represents a federation of 52 geoscience societies."
+            },
+            {
+              "organization": "Geological Society of America (GSA)",
+              "document_title": "Code of Ethics and Professional Conduct",
+              "url": "https://www.geosociety.org/gsa/membership/code-of-ethics/gsa/membership/code-of-ethics.aspx",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2019",
+              "soc_detailed": ["19-2042 Geoscientists"],
+              "notes": "First mandatory code of ethics in GSA's 131-year history. Updated January 2023 to extend applicability to award recipients who are non-members. Guards against research misconduct, discrimination, harassment, and bullying. Enforceable with disciplinary sanctions. Since 2019, six members found in violation with sanctions imposed."
+            },
+            {
+              "organization": "American Meteorological Society (AMS)",
+              "document_title": "AMS Code of Conduct and Ethical Guidelines",
+              "url": "https://www.ametsoc.org/ams/about-ams/ams-organization-and-administration/ams-code-of-conduct/",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2015",
+              "soc_detailed": ["19-2021 Atmospheric and Space Scientists"],
+              "notes": "Core values: inclusion, objectivity, honesty, openness, fairness, respect, accountability. Adopts definition of scientific integrity as adherence to professional practices, ethical behavior, and principles of honesty, objectivity, and transparency. Committee on Ethics promotes high standards. Includes publication ethics policies and data access standards."
+            },
+            {
+              "organization": "American Astronomical Society (AAS)",
+              "document_title": "AAS Code of Ethics",
+              "url": "https://aas.org/policies/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2016",
+              "soc_detailed": ["19-2011 Astronomers"],
+              "notes": "Guidelines and best practices for professional behavior in AAS activities and astronomical work broadly. Emphasizes mutual trust based on honest behavior. Code of Ethics Committee (CoEC) appointed 2016 to promote ethical conduct, oversee complaint investigations, and supervise mediation or recommend sanctions. Anti-harassment and non-discrimination policies."
+            },
+            {
+              "organization": "American Association of Geographers (AAG)",
+              "document_title": "Statement on Professional Ethics",
+              "url": "https://www.aag.org/statement-of-professional-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1998",
+              "soc_detailed": ["19-2099 Physical Scientists, All Other"],
+              "notes": "Endorsed by AAG Council October 18, 1998; most recently revised June 12, 2024. Unusually broad scope spanning natural and social sciences, humanities, and arts. Unique provisions addressing military/intelligence funding concerns, environmental ethics obligations regarding anthropogenic environmental change, and well-being of more-than-human lives."
+            },
+            {
+              "organization": "Health Physics Society (HPS)",
+              "document_title": "Code of Ethics",
+              "url": "https://hps.org/aboutthesociety/codeofethics.html",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2003",
+              "soc_detailed": ["19-2099 Physical Scientists, All Other"],
+              "notes": "For radiation protection professionals. Four fundamental canons: hold paramount public safety, health, and welfare; perform services only in areas of competence; promote advancement of health physics through research, education, practice; conduct respectfully, ethically, and lawfully. Directly relevant to nuclear/radiation physicists."
+            },
+            {
+              "organization": "American Board of Health Physics (ABHP) / American Academy of Health Physics (AAHP)",
+              "document_title": "Standards of Professional Responsibility for Certified Health Physicists",
+              "url": "https://www.aahp-abhp.org/about-us/about-abhp/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "1990",
+              "soc_detailed": ["19-2099 Physical Scientists, All Other"],
+              "notes": "Certification-based ethical standards for Certified Health Physicists (CHPs). Requires highest standards of professional ethics and integrity. Obligates practice only within areas of competence. Commitment to remain professionally active and knowledgeable of scientific, technical, and regulatory developments. Embedded in ABHP certification requirements."
+            }
+          ]
+        },
+        {
+          "code": "19-3000",
+          "name": "Social Scientists and Related Workers",
+          "total_codes_found": 9,
+          "codes": [
+            {
+              "organization": "American Sociological Association (ASA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.asanet.org/about/ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1971",
+              "soc_detailed": ["19-3041 Sociologists"],
+              "notes": "First produced 1971, substantially revised; current version June 2018. Preamble, six General Principles, and specific Ethical Standards. Covers non-discrimination, research integrity, confidentiality, informed consent, publication ethics, and peer review. Committee on Professional Ethics (COPE) investigates complaints."
+            },
+            {
+              "organization": "American Anthropological Association (AAA)",
+              "document_title": "Principles of Professional Responsibility (Statement on Ethics)",
+              "url": "https://americananthro.org/about/anthropological-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1971",
+              "soc_detailed": ["19-3091 Anthropologists and Archeologists"],
+              "notes": "First adopted 1971, revised 1998, current version 2012. Seven principles: Do No Harm, Be Open and Honest, Obtain Informed Consent, Weigh Competing Ethical Obligations, Make Results Accessible, Protect and Preserve Records, Maintain Respectful Professional Relationships. Primary obligation to people, species, and materials studied. Notably, AAA does not adjudicate allegations."
+            },
+            {
+              "organization": "American Economic Association (AEA)",
+              "document_title": "Code of Professional Conduct",
+              "url": "https://www.aeaweb.org/about-aea/code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2018",
+              "soc_detailed": ["19-3011 Economists"],
+              "notes": "Adopted April 20, 2018 after over 200 public comments. Demands honesty, transparency, disinterested assessment, and disclosure of conflicts of interest. Emphasizes equal opportunity regardless of personal attributes. Acceptance required for participation in AEA-sponsored activities. Relatively recent for a major discipline, prompted by profession-wide equity concerns."
+            },
+            {
+              "organization": "American Political Science Association (APSA)",
+              "document_title": "Guide to Professional Ethics in Political Science",
+              "url": "https://apsanet.org/resources/ethics/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "1968",
+              "soc_detailed": ["19-3094 Political Scientists"],
+              "notes": "First code developed 1967-68 with twenty-one rules of professional conduct. Revised 1989, updated 2022 (Council approved February 2022), updated May 2023. Adopts AAUP Statement on Professional Ethics as baseline. Committee on Professional Ethics, Rights and Freedoms handles grievances and writes guidelines. Includes protections for human subjects research."
+            },
+            {
+              "organization": "American Statistical Association (ASA)",
+              "document_title": "Ethical Guidelines for Statistical Practice",
+              "url": "https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "1982",
+              "soc_detailed": ["19-3022 Survey Researchers"],
+              "notes": "Originally issued 1982, significantly revised 2022. Eight sections: Professional Integrity and Accountability, Integrity of Data and Methods, Responsibilities to Stakeholders/Research Subjects/Multidisciplinary Teams/Fellow Practitioners/Profession. 2022 revision notably adds organizational and institutional ethical obligations for the first time. Broad definition of 'statistical practitioner' regardless of job title."
+            },
+            {
+              "organization": "Society for American Archaeology (SAA)",
+              "document_title": "Principles of Archaeological Ethics",
+              "url": "https://saa.org/Member/SAAMember/Career-and-Practice/Principles-of-Archaeological-Ethics.aspx",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1996",
+              "soc_detailed": ["19-3091 Anthropologists and Archeologists"],
+              "notes": "Adopted 1996 by SAA Executive Board, substantially updated March 7, 2024 by member vote. Nine aspirational principles. Aligned with Universal Declaration of Human Rights, UN Declaration on Rights of Indigenous Peoples, and Hague Convention. Emphasizes stewardship, community responsibility, transparency, public engagement, collaboration with Indigenous peoples, and opposition to commercialization."
+            },
+            {
+              "organization": "American Society of Criminology (ASC)",
+              "document_title": "Code of Ethics",
+              "url": "https://asc41.org/wp-content/uploads/ASC_Code_of_Ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2016",
+              "soc_detailed": ["19-3099 Social Scientists and Related Workers, All Other"],
+              "notes": "Approved March 2016. General Principles and Ethical Standards for professional conduct in criminological activities. Distinguishes legal from ethical standards. Emphasizes research integrity, culturally appropriate informed consent, and special protections for vulnerable populations (illiterate, mentally ill, minors). Anonymous reporting via Lighthouse Services hotline."
+            },
+            {
+              "organization": "American Psychological Association (APA)",
+              "document_title": "Ethical Principles of Psychologists and Code of Conduct",
+              "url": "https://www.apa.org/ethics/code",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1953",
+              "soc_detailed": ["19-3039 Psychologists, All Other"],
+              "notes": "First version 1953, latest revision 2017 with 2024 draft revisions underway. Five aspirational principles (beneficence/nonmaleficence, fidelity/responsibility, integrity, justice, respect for rights/dignity) and ten enforceable standards. Extremely broad applicability across clinical, counseling, school, research, forensic, organizational psychology and more. Violations can lead to membership termination or loss of licensure."
+            },
+            {
+              "organization": "Behavior Analyst Certification Board (BACB)",
+              "document_title": "Ethics Code for Behavior Analysts",
+              "url": "https://www.bacb.com/ethics-information/ethics-codes/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2022",
+              "soc_detailed": ["19-3039 Psychologists, All Other"],
+              "notes": "Effective January 1, 2022. Applies to BCaBA and BCBA certificants and applicants. Four core principles: benefit others, treat others with compassion/dignity/respect, behave with integrity, ensure competence. Six standards sections covering professional responsibility, practice, clients/stakeholders, supervisees/trainees, public statements, and research. Notable addition of Standard 1.07 on Cultural Responsiveness and Diversity."
+            }
+          ]
+        },
+        {
+          "code": "19-4000",
+          "name": "Life, Physical, and Social Science Technicians",
+          "total_codes_found": 2,
+          "codes": [
+            {
+              "organization": "American Association for Laboratory Animal Science (AALAS)",
+              "document_title": "AALAS Technician Certification Ethical Standards",
+              "url": "https://aalas.org/",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "1950",
+              "soc_detailed": ["19-4021 Biological Technicians"],
+              "notes": "AALAS certification programs (ALAT, LAT, LATG) for laboratory animal technicians embed ethical requirements for humane and responsible animal care. Founded 1950. Standards integrated into certification rather than published as a standalone code. Applicable to biological and life science technicians working with laboratory animals."
+            },
+            {
+              "organization": "American Chemical Society (ACS)",
+              "document_title": "The Chemical Professional's Code of Conduct",
+              "url": "https://www.acs.org/careers/career-services/ethics/the-chemical-professionals-code-of-conduct.html",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "1994",
+              "soc_detailed": ["19-4031 Chemical Technicians"],
+              "notes": "ACS membership and code apply to chemical professionals broadly, including chemical technicians as well as doctoral chemists. Same code listed under 19-2000 (Physical Scientists). Code updated 2019. Covers scientific integrity, professional conduct, responsibility and accountability, and professional development."
+            }
+          ]
+        },
+        {
+          "code": "19-5000",
+          "name": "Occupational Health and Safety Specialists and Technicians",
+          "total_codes_found": 4,
+          "codes": [
+            {
+              "organization": "Board of Certified Safety Professionals (BCSP)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.bcsp.org/hubfs/8981246/Downloads-PDFs-and-PPTs/BCSPcodeofethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1989",
+              "soc_detailed": ["19-5011 Occupational Health and Safety Specialists"],
+              "notes": "Eight core principles for all BCSP certificants (CSP, ASP, OHST, CHST, STS, CET). Priority: safety and health of individuals and environmental protection. Includes obligations to notify affected parties of unacceptable risk, maintain qualifications, avoid conflicts of interest, and report misconduct. BCSP Judicial Commission can suspend, terminate, or reprimand for violations. Ethics training required for certification maintenance."
+            },
+            {
+              "organization": "American Society of Safety Professionals (ASSP)",
+              "document_title": "Code of Professional Conduct",
+              "url": "https://www.assp.org/about/society-bylaws-and-guidelines/code-of-conduct",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2002",
+              "soc_detailed": ["19-5011 Occupational Health and Safety Specialists", "19-5012 Occupational Health and Safety Technicians"],
+              "notes": "Formerly American Society of Safety Engineers (ASSE). Requires service with fidelity, honesty, and impartiality. Obligation to inform appropriate parties of unacceptable risk levels. Professional development through continual improvement. Anti-discrimination provisions. Conflict of interest disclosure requirements. Sets community standards for occupational safety and health professionals."
+            },
+            {
+              "organization": "American Industrial Hygiene Association (AIHA) / American Board of Industrial Hygiene (ABIH) / ACGIH / AAIH",
+              "document_title": "Code of Ethics for the Professional Practice of Industrial Hygiene",
+              "url": "https://www.aiha.org/about-aiha/aiha-governance/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1995",
+              "soc_detailed": ["19-5011 Occupational Health and Safety Specialists"],
+              "notes": "Jointly adopted 1995 by four industrial hygiene organizations: AIHA, ABIH, ACGIH, and AAIH. Protects working people and the public from chemical, microbiological, and physical health hazards. Requires practice following recognized scientific principles. Critical provision: if professional judgment overruled where health and lives are endangered, must notify employer, client, or other authority."
+            },
+            {
+              "organization": "American Board of Health Physics (ABHP) / Health Physics Society (HPS)",
+              "document_title": "HPS Code of Ethics",
+              "url": "https://hps.org/aboutthesociety/codeofethics.html",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2003",
+              "soc_detailed": ["19-5011 Occupational Health and Safety Specialists"],
+              "notes": "For radiation protection professionals who may also serve as occupational health and safety specialists. Four canons: paramount public safety, competence-limited practice, professional advancement, and respectful conduct. Members' duties may directly affect radiation safety of workers and the public. Cross-listed with 19-2000 Physical Scientists."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "soc_code": "21-0000",
+      "soc_name": "Community and Social Service Occupations",
+      "minor_groups": [
+        {
+          "code": "21-1000",
+          "name": "Counselors, Social Workers, and Other Community and Social Service Specialists",
+          "total_codes_found": 16,
+          "codes": [
+            {
+              "organization": "National Association of Social Workers (NASW)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.socialworkers.org/About/Ethics/Code-of-Ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1960",
+              "soc_detailed": ["21-1021 Child, Family, and School Social Workers", "21-1022 Healthcare Social Workers", "21-1023 Mental Health and Substance Abuse Social Workers", "21-1029 Social Workers, All Other"],
+              "notes": "First adopted 1960, most substantial revision 1996, updated 2017 and 2021. Preamble, six General Principles, and 150+ specific ethical standards across six areas of responsibility. Six core values: service, social justice, dignity and worth of the person, importance of human relationships, integrity, competence. 2021 update added professional self-care language. The definitive code for social work in the US."
+            },
+            {
+              "organization": "International Federation of Social Workers (IFSW) / International Association of Schools of Social Work (IASSW)",
+              "document_title": "Global Social Work Statement of Ethical Principles",
+              "url": "https://www.ifsw.org/global-social-work-statement-of-ethical-principles/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2018",
+              "soc_detailed": ["21-1021 Child, Family, and School Social Workers", "21-1022 Healthcare Social Workers", "21-1023 Mental Health and Substance Abuse Social Workers"],
+              "notes": "Approved at General Meetings in Dublin, Ireland, July 2018. Replaces 2004 Ethics in Social Work Statement. Principles of social justice, human rights, collective responsibility, and respect for diversities. Addresses digital technology and social media ethical challenges. National associations expected to develop their own codes consistent with this statement."
+            },
+            {
+              "organization": "Clinical Social Work Association (CSWA)",
+              "document_title": "Code of Ethics",
+              "url": "https://www.clinicalsocialworkassociation.org/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1997",
+              "soc_detailed": ["21-1023 Mental Health and Substance Abuse Social Workers"],
+              "notes": "Adopted 1997 by Clinical Social Work Federation, reaffirmed 2006, amended 2016 by CSWA. Supplements (does not replace) the NASW Code of Ethics with focus on clinical social work. Core ethical requirements: non-maleficence, beneficence, and autonomy (client self-determination). Builds upon NASW values of service, social justice, dignity, relationships, integrity, competence."
+            },
+            {
+              "organization": "American Counseling Association (ACA)",
+              "document_title": "ACA Code of Ethics",
+              "url": "https://www.counseling.org/resources/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1961",
+              "soc_detailed": ["21-1011 Substance Abuse and Behavioral Disorder Counselors", "21-1012 Educational, Guidance, and Career Counselors and Advisors", "21-1013 Marriage and Family Therapists", "21-1014 Mental Health Counselors", "21-1019 Counselors, All Other"],
+              "notes": "Updated approximately every 10 years; current version 2014. Core principles: autonomy, non-maleficence, beneficence, justice, fidelity, veracity. Covers social media, distance counseling, confidentiality, multiculturalism and diversity, technology use, record keeping, diagnosis, end-of-life care, and prevention of counselor value imposition. Foundational code for the counseling profession."
+            },
+            {
+              "organization": "American Mental Health Counselors Association (AMHCA)",
+              "document_title": "AMHCA Code of Ethics",
+              "url": "https://www.amhca.org/events/publications/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1980",
+              "soc_detailed": ["21-1014 Mental Health Counselors"],
+              "notes": "Revised 2015 and 2020. Six sections focused on clinical mental health counseling practice. Covers commitment to clients, other professionals, students/supervisees/employees, and the public. Addresses confidentiality as a right, integrity and welfare of supervisees, and moral/legal/ethical responsibility to community and public. Ethics Committee continuously reviews and updates."
+            },
+            {
+              "organization": "National Board for Certified Counselors (NBCC)",
+              "document_title": "NBCC Code of Ethics",
+              "url": "https://nbcc.org/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1982",
+              "soc_detailed": ["21-1014 Mental Health Counselors", "21-1019 Counselors, All Other"],
+              "notes": "Updated May 2023, revised August 2023. 114 ethical standards across six areas: professional responsibilities, counseling relationships, supervision/consultation, testing/appraisal/research, counselor education, and telemental health/social media/technology. Applies to all National Certified Counselors (NCCs). Established minimum ethical behaviors for professional certified counselors."
+            },
+            {
+              "organization": "American Association for Marriage and Family Therapy (AAMFT)",
+              "document_title": "AAMFT Code of Ethics",
+              "url": "https://www.aamft.org/AAMFT/Legal_Ethics/Code_of_Ethics.aspx",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1962",
+              "soc_detailed": ["21-1013 Marriage and Family Therapists"],
+              "notes": "First adopted 1962. Revised AAMFT Code of Ethics effective January 1, 2026. Core values include inclusive environment, equity, belonging, mutual respect, diversity/equity/inclusion, systemic and relational therapy excellence, integrity in governance, and innovation. Violations can lead to membership termination, license suspension or revocation. Long history of updates reflecting evolving therapy practice."
+            },
+            {
+              "organization": "International Association of Marriage and Family Counselors (IAMFC)",
+              "document_title": "IAMFC Ethical Code",
+              "url": "https://www.iamfconline.org/public/department3.cfm",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "International",
+              "year_published": "2017",
+              "soc_detailed": ["21-1013 Marriage and Family Therapists"],
+              "notes": "Published 2017, a division of ACA. Ten sections including The Counseling Relationship and Client Welfare, Assessment and Evaluation, Counselor Education and Supervision, and Diversity and Advocacy. Advocates for family as whole system while considering uniqueness of each member. Emphasizes cultural contexts for couples and families."
+            },
+            {
+              "organization": "Commission on Rehabilitation Counselor Certification (CRCC)",
+              "document_title": "Code of Professional Ethics for Certified Rehabilitation Counselors",
+              "url": "https://crccertification.com/code-of-ethics-4/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1987",
+              "soc_detailed": ["21-1015 Rehabilitation Counselors"],
+              "notes": "First edition 1987, substantial revisions 2002, 2010, 2017, and 2023 (adopted September 2022). Covers counseling relationship, confidentiality, advocacy/accessibility, multicultural considerations, professional responsibility, relationships with other professionals, forensic services, assessment, supervision, research, and technology/social media/virtual counseling. Based partly on ACA Code of Ethics."
+            },
+            {
+              "organization": "NAADAC: The Association for Addiction Professionals / National Certification Commission for Addiction Professionals (NCC AP)",
+              "document_title": "NAADAC/NCC AP Code of Ethics",
+              "url": "https://www.naadac.org/code-of-ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2004",
+              "soc_detailed": ["21-1011 Substance Abuse and Behavioral Disorder Counselors"],
+              "notes": "Revised 2016, 2021; newest version effective June 1, 2025. Standard of conduct for addiction professionals certified by NCC AP. Covers confidentiality, professional conduct (anti-harassment), public communication (no disparaging persons with substance use disorders), and professional development. Governs counselors working with substance use and addictive behavior disorders."
+            },
+            {
+              "organization": "National Career Development Association (NCDA)",
+              "document_title": "NCDA Code of Ethics",
+              "url": "https://www.ncda.org/aws/NCDA/pt/sd/news_article/565370/_blank/layout_details/false",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2007",
+              "soc_detailed": ["21-1012 Educational, Guidance, and Career Counselors and Advisors"],
+              "notes": "Revised 2015, new 2024 edition released. Over 17,000 words. 2024 updates reflect diverse membership, evolving work settings, and impact of AI on career development. Sets ethical standards including competence-based practice, guidelines for Internet career services, and duty to consult on ethical questions. A division of ACA focused specifically on career development professionals."
+            },
+            {
+              "organization": "National Organization for Human Services (NOHS)",
+              "document_title": "Ethical Standards for Human Services Professionals",
+              "url": "https://www.nationalhumanservices.org/ethical-standards/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1996",
+              "soc_detailed": ["21-1093 Social and Human Service Assistants", "21-1099 Community and Social Service Specialists, All Other"],
+              "notes": "Revised 2024. Standards of responsibility to seven groups: clients, public and society, colleagues, employers, the profession, self, and students. Protects client right to privacy/confidentiality except where harm may occur. Guides decision-making across broad human services profession. Establishes principles safeguarding client well-being and professional integrity."
+            },
+            {
+              "organization": "American Association of Sexuality Educators, Counselors and Therapists (AASECT)",
+              "document_title": "AASECT Code of Ethics and Code of Conduct",
+              "url": "https://www.aasect.org/ethics",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1978",
+              "soc_detailed": ["21-1019 Counselors, All Other"],
+              "notes": "Revised November 2020. Covers competence and integrity of sex therapists/counselors/educators, confidentiality, welfare of the client, and welfare of students/trainees/research subjects. Ethics Advisory Committee (EAC) promotes ethical conduct through consultation, guidance, education, and misconduct avoidance. Pledge of trust between association and public."
+            },
+            {
+              "organization": "American Psychological Association (APA)",
+              "document_title": "Ethical Principles of Psychologists and Code of Conduct",
+              "url": "https://www.apa.org/ethics/code",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1953",
+              "soc_detailed": ["21-1014 Mental Health Counselors"],
+              "notes": "Cross-listed from SOC 19-3000 (Psychologists). This code is also directly relevant to clinical and counseling psychologists working in community and social service roles. Five aspirational principles and ten enforceable standards. Standards 4 (Privacy and Confidentiality) and 10 (Therapy) are particularly relevant to community service practice."
+            },
+            {
+              "organization": "Association for Multicultural Counseling and Development (AMCD)",
+              "document_title": "Multicultural and Social Justice Counseling Competencies",
+              "url": "https://www.counseling.org/resources/competencies/multicultural-and-social-justice-counseling-competencies",
+              "document_type": "ethics_guidelines",
+              "geographic_scope": "US",
+              "year_published": "2015",
+              "soc_detailed": ["21-1014 Mental Health Counselors", "21-1019 Counselors, All Other"],
+              "notes": "While not a standalone code of ethics, these competencies (endorsed by ACA) function as ethical guidelines for culturally responsive counseling. A division of ACA. Framework addresses counselor self-awareness, client worldview understanding, counseling relationship dynamics, and advocacy at individual, community, and institutional levels."
+            },
+            {
+              "organization": "National Association of Forensic Counselors (NAFC)",
+              "document_title": "Ethical Standards and Code of Conduct",
+              "url": "https://www.forensiccounselor.org/images/file/NAFC%20Ethical%20Standards%20and%20Code%20of%20Conduct.pdf",
+              "document_type": "code_of_conduct",
+              "geographic_scope": "US",
+              "year_published": "2005",
+              "soc_detailed": ["21-1019 Counselors, All Other"],
+              "notes": "First certification board to establish the specialty profession of Forensic Counselor and Criminal Justice Specialist. Members required to maintain highest professional and ethical standards and represent NAFC to highest standards. Board of Governors includes mental health, criminal justice, addictions, and correctional/law enforcement professionals."
+            }
+          ]
+        },
+        {
+          "code": "21-2000",
+          "name": "Religious Workers",
+          "total_codes_found": 6,
+          "codes": [
+            {
+              "organization": "Association of Professional Chaplains (APC)",
+              "document_title": "APC Code of Ethics",
+              "url": "https://www.apchaplains.org/standards/professional-ethics/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2000",
+              "soc_detailed": ["21-2011 Clergy", "21-2021 Directors, Religious Activities and Education"],
+              "notes": "Commitment to accountability for ethical behavior by professional chaplains. Motivated by concern for safety and well-being of members and those served. Recognizes dignity and worth of every individual. Prohibits sexual misconduct, harassment, and assault in client relationships. Takes restorative rather than retributive approach to justice."
+            },
+            {
+              "organization": "Council on Collaboration (APC, ACPE, NACC, NAJC, CAPPE/ACPEP)",
+              "document_title": "Common Code of Ethics for Chaplains, Pastoral Counselors, Pastoral Educators and Students",
+              "url": "https://www.apchaplains.org/wp-content/uploads/2022/05/Common-Code-of-Ethics.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US/Canada",
+              "year_published": "2004",
+              "soc_detailed": ["21-2011 Clergy", "21-2021 Directors, Religious Activities and Education"],
+              "notes": "Affirmed November 7, 2004 in Portland, Maine by the Council on Collaboration. Unified ethics code for six cognate organizations representing over 10,000 chaplains, pastoral counselors, and clinical pastoral educators. Covers healthcare, counseling centers, prisons, and military settings. Four foundational documents including common standards and principles for processing ethical complaints."
+            },
+            {
+              "organization": "National Association of Catholic Chaplains (NACC)",
+              "document_title": "NACC Code of Professional Ethics",
+              "url": "https://www.nacc.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2001",
+              "soc_detailed": ["21-2011 Clergy"],
+              "notes": "Approved by USCCB subcommittee. Required completion of NACC Ethics Accountability Statement (Code of Ethics 206.11.1) for initial certification and renewal. Addresses breaches of trust: sexual misconduct/harassment, financial misconduct, felonious conduct, misrepresentation of education. Ethics Procedure Manual provides formal complaint processes. Part of BCCI common certification framework."
+            },
+            {
+              "organization": "Neshama: Association of Jewish Chaplains (NAJC)",
+              "document_title": "NAJC Code of Ethics",
+              "url": "https://najc.org/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "2000",
+              "soc_detailed": ["21-2011 Clergy"],
+              "notes": "Embedded in NAJC Bylaws (as amended January 3, 2023). Membership applicants must agree to the Code before membership is granted; renewal indicates continued adherence. Breaches of trust include sexual misconduct/harassment, financial misconduct, felonious conduct, and misrepresentation of education. Sanctions include censure, de-certification, suspension, or expulsion."
+            },
+            {
+              "organization": "American Association of Christian Counselors (AACC)",
+              "document_title": "AACC Code of Ethics",
+              "url": "https://aacc.net/wp-content/uploads/2023/10/AACC_Code-of-Ethics-2023_FINAL.pdf",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1998",
+              "soc_detailed": ["21-2011 Clergy", "21-2021 Directors, Religious Activities and Education"],
+              "notes": "Y-2023 revision supersedes all prior provisional codes (1998, 2000, 2001, 2003, 2014). Comprehensive, integrative synthesis of biblical, ethical, legal, clinical, and systemic information. Updates include expanded cultural competency section and new section on technology in counseling. Described as one of the most comprehensive ethics documents in the counseling field."
+            },
+            {
+              "organization": "ACPE: The Standard for Spiritual Care and Education (formerly Association for Clinical Pastoral Education)",
+              "document_title": "Code of Professional Ethics for Members of ACPE",
+              "url": "https://acpe.edu/",
+              "document_type": "code_of_ethics",
+              "geographic_scope": "US",
+              "year_published": "1967",
+              "soc_detailed": ["21-2011 Clergy", "21-2021 Directors, Religious Activities and Education"],
+              "notes": "ACPE is recognized by the U.S. Department of Education as an accrediting agency for clinical pastoral education. Members follow both the ACPE Code and the Common Code of Ethics (2004). Prohibits intentionally false statements about work, requires respect for integrity and welfare of colleagues, and mandates action when concerns about incompetence or misconduct arise. AAPC consolidated with ACPE in 2019."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_soc_groups": 2,
+    "total_minor_groups": 7,
+    "total_codes_found": 52,
+    "breakdown": {
+      "19-1000_Life_Scientists": 10,
+      "19-2000_Physical_Scientists": 11,
+      "19-3000_Social_Scientists": 9,
+      "19-4000_Science_Technicians": 2,
+      "19-5000_Occupational_Health_Safety": 4,
+      "21-1000_Counselors_Social_Workers": 16,
+      "21-2000_Religious_Workers": 6
+    },
+    "document_types": {
+      "code_of_ethics": 37,
+      "code_of_conduct": 6,
+      "ethics_guidelines": 9
+    },
+    "geographic_scope": {
+      "US": 42,
+      "International": 8,
+      "US_Canada": 2
+    },
+    "key_observations": [
+      "SOC 19-0000 sciences professions are well-covered with ethics codes across all subdisciplines, with some organizations (ACS, HPS/ABHP) applicable to both scientists and technicians",
+      "Physical sciences (19-2000) have the highest density of ethics codes, reflecting mature professional associations in chemistry, physics, geoscience, and astronomy",
+      "Social sciences (19-3000) codes uniformly emphasize research integrity, informed consent, and special protections for vulnerable populations, with the APA code being the most comprehensive",
+      "SOC 21-0000 community and social service occupations are among the most ethically regulated occupations, with counselors often bound by multiple overlapping codes (ACA + specialty code + state licensure)",
+      "Religious workers (21-2000) converged on a Common Code of Ethics in 2004 across six denominations/organizations, representing a rare instance of unified cross-organizational ethics",
+      "The AEA Code of Professional Conduct (2018) is notably late relative to peer social science associations, reflecting the discipline's historical reluctance to adopt formal ethics codes",
+      "Several codes in 19-5000 (occupational health and safety) contain distinctive 'whistleblower-like' provisions requiring professionals to notify authorities when safety concerns are overridden by employers"
+    ]
+  }
+}

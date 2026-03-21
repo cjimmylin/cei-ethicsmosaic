@@ -1,0 +1,132 @@
+{
+  "track": "NAICS",
+  "sectors": [
+    {
+      "sector_code": "31-33",
+      "sector_name": "Manufacturing (Part 1: 311-322)",
+      "subsectors": [
+        {
+          "code": "311",
+          "name": "Food Manufacturing",
+          "total_codes_found": 12,
+          "codes": [
+            {"organization": "Institute of Food Technologists (IFT)", "document_title": "IFT Member Code of Professional Conduct", "url": "https://www.ift.org/about-ift/code-of-conduct", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "2025", "notes": "Food science professionals; public health/safety, scientific integrity."},
+            {"organization": "International Association for Food Protection (IAFP)", "document_title": "IAFP Code of Ethics", "url": "https://www.foodprotection.org/about/governance/", "document_type": "code_of_ethics", "geographic_scope": "international", "year_published": "unknown", "notes": "Food protection professionals; honest reporting, peer review."},
+            {"organization": "Institute of Food Science and Technology (IFST)", "document_title": "IFST Code of Professional Conduct", "url": "https://www.ifst.org/about-ifst/professional-conduct", "document_type": "code_of_ethics", "geographic_scope": "UK", "year_published": "unknown", "notes": "UK professional body. Breach leads to disciplinary action."},
+            {"organization": "ISEKI-Food Association", "document_title": "Code of Ethics for Food Science and Technology Professionals", "url": "https://www.iseki-food.net/general/code_of_ethics", "document_type": "code_of_ethics", "geographic_scope": "international", "year_published": "2017", "notes": "Adapted from TRACK_FAST project."},
+            {"organization": "Specialty Food Association (SFA)", "document_title": "Members' Code of Ethics", "url": "https://www.specialtyfood.com/about-us/specialty-food-association-members-code-of-ethics/", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "unknown", "notes": "Condition of membership; Ethics Committee enforcement."},
+            {"organization": "American Association of Meat Processors (AAMP)", "document_title": "AAMP Code of Ethics", "url": "https://aamp.com/page/ethics", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "unknown", "notes": "Meat processing industry."},
+            {"organization": "North American Meat Institute (NAMI)", "document_title": "Recommended Animal Handling Guidelines and Audit Guide", "url": "https://www.meatinstitute.org/Animal_Welfare/Guidelines_and_Audits", "document_type": "ethics_guidelines", "geographic_scope": "US", "year_published": "2026", "notes": "Developed by Temple Grandin since 1991."},
+            {"organization": "Codex Alimentarius Commission (FAO/WHO)", "document_title": "Code of Ethics for International Trade in Food (CAC/RCP 20-1979)", "url": "https://www.fao.org/fao-who-codexalimentarius/codex-texts/codes-of-practice/en/", "document_type": "code_of_ethics", "geographic_scope": "global", "year_published": "1979", "notes": "188 member countries."},
+            {"organization": "International Life Sciences Institute (ILSI)", "document_title": "ILSI Code of Ethics and Standards of Conduct", "url": "https://ilsi.org/wp-content/uploads/2016/05/ILSICodeofEthicsSofC2009.pdf", "document_type": "code_of_ethics", "geographic_scope": "global", "year_published": "2009", "notes": "Research integrity, conflict of interest disclosure."},
+            {"organization": "European Commission / FoodDrinkEurope", "document_title": "EU Code of Conduct on Responsible Food Business and Marketing Practices", "url": "https://food.ec.europa.eu/horizontal-topics/farm-fork-strategy/sustainable-food-processing/code-conduct_en", "document_type": "code_of_conduct", "geographic_scope": "EU", "year_published": "2021", "notes": "Farm to Fork Strategy. 141 signatories."},
+            {"organization": "Roundtable on Sustainable Palm Oil (RSPO)", "document_title": "RSPO Code of Conduct for Members", "url": "https://rspo.org/resources/?category=code-of-conduct", "document_type": "code_of_conduct", "geographic_scope": "global", "year_published": "2022", "notes": "Sustainable palm oil."},
+            {"organization": "Bonsucro", "document_title": "Bonsucro Code of Conduct", "url": "https://bonsucro.com/code-of-conduct/", "document_type": "code_of_conduct", "geographic_scope": "global", "year_published": "2011", "notes": "Sustainable sugarcane. 280+ members, 50+ countries."}
+          ]
+        },
+        {
+          "code": "312",
+          "name": "Beverage and Tobacco Product Manufacturing",
+          "total_codes_found": 12,
+          "codes": [
+            {"organization": "Distilled Spirits Council (DISCUS)", "document_title": "Code of Responsible Practices for Beverage Alcohol Advertising and Marketing", "url": "https://distilledspirits.org/code-of-responsible-practices/", "document_type": "code_of_conduct", "geographic_scope": "US", "year_published": "2025", "notes": "Since Prohibition repeal. 71.6% adult audience threshold."},
+            {"organization": "Beer Institute", "document_title": "Advertising and Marketing Code and Buying Guidelines", "url": "https://www.beerinstitute.org/policy-responsibility/responsibility/advertising-marketing-code/", "document_type": "code_of_conduct", "geographic_scope": "US", "year_published": "2026", "notes": "Since 1938. Independent CCRB reviews complaints."},
+            {"organization": "Wine Institute", "document_title": "Wine Institute Code of Advertising Standards", "url": "https://wineinstitute.org/our-work/responsibility/social/ad-code/", "document_type": "code_of_conduct", "geographic_scope": "US", "year_published": "1949", "notes": "Since 1949. Digital Marketing Guidelines added 2014."},
+            {"organization": "Brewers Association", "document_title": "Marketing and Advertising Code", "url": "https://www.brewersassociation.org/brewers-association-advertising-marketing-code/", "document_type": "code_of_conduct", "geographic_scope": "US", "year_published": "2008", "notes": "Craft brewery advertising."},
+            {"organization": "Brewers Association", "document_title": "Code of Conduct", "url": "https://www.brewersassociation.org/brewers-association-code-of-conduct/", "document_type": "code_of_conduct", "geographic_scope": "US", "year_published": "2020", "notes": "Broader conduct code. Adopted Aug 2020."},
+            {"organization": "NC Craft Brewers Guild", "document_title": "Code of Ethics", "url": "https://www.ncbeer.org/code_of_ethics.php", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "unknown", "notes": "State-level example."},
+            {"organization": "International Alliance for Responsible Drinking (IARD)", "document_title": "Guiding Principles: Self-Regulation of Marketing for Beverage Alcohol", "url": "https://www.iard.org/science-resources/detail/Guiding-Principles-Self-Regulation-of-Marketing-Co", "document_type": "ethics_guidelines", "geographic_scope": "global", "year_published": "unknown", "notes": "Supported by AB InBev, Diageo, Heineken, etc."},
+            {"organization": "IARD", "document_title": "Digital Guiding Principles for Beverage Alcohol Marketing", "url": "https://www.iard.org/science-resources/detail/Digital-Guiding-Principles-Self-Regulation-of-Mark", "document_type": "ethics_guidelines", "geographic_scope": "global", "year_published": "2014", "notes": "First global digital/social media alcohol marketing guidelines."},
+            {"organization": "International Chamber of Commerce (ICC)", "document_title": "ICC Framework for Responsible Alcohol Marketing Communications", "url": "https://iccwbo.org/news-publications/policies-reports/icc-framework-for-responsible-alcohol-marketing-communications/", "document_type": "ethics_guidelines", "geographic_scope": "global", "year_published": "2019", "notes": "Globally applicable."},
+            {"organization": "British American Tobacco (BAT)", "document_title": "Standards of Business Conduct", "url": "https://www.bat.com/sobc", "document_type": "code_of_conduct", "geographic_scope": "global", "year_published": "2025", "notes": "Corporate code since early 1990s."},
+            {"organization": "Philip Morris International (PMI)", "document_title": "PMI Code of Conduct", "url": "https://www.pmi.com/resources/docs/default-source/our_company/code-of-conduct/english_code_of_conduct_external_online_180116.pdf", "document_type": "code_of_conduct", "geographic_scope": "global", "year_published": "2018", "notes": "Corporate code."},
+            {"organization": "U.S. FDA", "document_title": "Requirements for Tobacco Product Manufacturing Practice", "url": "https://www.federalregister.gov/documents/2023/03/10/2023-04591/requirements-for-tobacco-product-manufacturing-practice", "document_type": "regulatory_code", "geographic_scope": "US", "year_published": "2023", "notes": "Regulatory."}
+          ]
+        },
+        {
+          "code": "313",
+          "name": "Textile Mills",
+          "total_codes_found": 6,
+          "codes": [
+            {"organization": "OEKO-TEX", "document_title": "OEKO-TEX STeP Code of Conduct for Suppliers", "url": "https://www.oeko-tex.com/fileadmin/user_upload/Marketing_Materialien/STeP/Code_of_Conduct/OEKO-TEX_STeP_Code_of_Conduct_EN.pdf", "document_type": "code_of_conduct", "geographic_scope": "global", "year_published": "2023", "notes": "STeP certification. Environmental + social."},
+            {"organization": "GOTS", "document_title": "Global Organic Textile Standard", "url": "https://global-standard.org/the-standard", "document_type": "standards_of_practice", "geographic_scope": "global", "year_published": "unknown", "notes": "Organic textiles from harvest to label."},
+            {"organization": "Ethical Trading Initiative (ETI)", "document_title": "ETI Base Code", "url": "https://www.ethicaltrade.org/eti-base-code", "document_type": "code_of_conduct", "geographic_scope": "UK", "year_published": "1998", "notes": "ILO-based. 90 member companies, 10M workers."},
+            {"organization": "Social Accountability International (SAI)", "document_title": "SA8000 Standard", "url": "https://sa-intl.org/programs/sa8000/", "document_type": "standards_of_practice", "geographic_scope": "global", "year_published": "1997", "notes": "First credible social certification since 1997."},
+            {"organization": "amfori", "document_title": "amfori BSCI Code of Conduct", "url": "https://www.amfori.org/en/solutions/social/about-bsci", "document_type": "code_of_conduct", "geographic_scope": "global", "year_published": "2021", "notes": "13 Performance Areas. Version 2.0."},
+            {"organization": "Sustainable Apparel Coalition (Cascale)", "document_title": "Higg Facility Social & Labor Module", "url": "https://cascale.org/tools-programs/higg-index-tools/", "document_type": "standards_of_practice", "geographic_scope": "global", "year_published": "2011", "notes": "40,000+ organizations."}
+          ]
+        },
+        {
+          "code": "314",
+          "name": "Textile Product Mills",
+          "total_codes_found": 3,
+          "codes": [
+            {"organization": "OEKO-TEX", "document_title": "OEKO-TEX STeP Code of Conduct", "url": "https://www.oeko-tex.com/fileadmin/user_upload/Marketing_Materialien/STeP/Code_of_Conduct/OEKO-TEX_STeP_Code_of_Conduct_EN.pdf", "document_type": "code_of_conduct", "geographic_scope": "global", "year_published": "2023", "notes": "Same standard applies to textile product mills."},
+            {"organization": "SAI", "document_title": "SA8000 Standard", "url": "https://sa-intl.org/programs/sa8000/", "document_type": "standards_of_practice", "geographic_scope": "global", "year_published": "1997", "notes": "Cross-cutting."},
+            {"organization": "ETI", "document_title": "ETI Base Code", "url": "https://www.ethicaltrade.org/eti-base-code", "document_type": "code_of_conduct", "geographic_scope": "UK", "year_published": "1998", "notes": "Widely adopted in textile supply chains."}
+          ]
+        },
+        {
+          "code": "315",
+          "name": "Apparel Manufacturing",
+          "total_codes_found": 6,
+          "codes": [
+            {"organization": "Fair Labor Association (FLA)", "document_title": "FLA Workplace Code of Conduct", "url": "https://www.fairlabor.org/accountability/standards/", "document_type": "code_of_conduct", "geographic_scope": "global", "year_published": "1999", "notes": "~75% of audited factories are apparel."},
+            {"organization": "WRAP", "document_title": "WRAP 12 Principles", "url": "https://wrapcompliance.org/en/certification/certification-explained/", "document_type": "standards_of_practice", "geographic_scope": "global", "year_published": "2000", "notes": "Largest factory-based certification for clothing."},
+            {"organization": "AAFA/FLA", "document_title": "Commitment to Responsible Recruitment", "url": "https://www.fairlabor.org/issues/forced-labor/commitment-responsible-recruitment/", "document_type": "code_of_conduct", "geographic_scope": "global", "year_published": "2023", "notes": "Addresses forced labor in supply chains."},
+            {"organization": "SAI", "document_title": "SA8000 Standard", "url": "https://sa-intl.org/programs/sa8000/", "document_type": "standards_of_practice", "geographic_scope": "global", "year_published": "1997", "notes": "Widely used in apparel."},
+            {"organization": "amfori", "document_title": "amfori BSCI Code of Conduct", "url": "https://www.amfori.org/en/solutions/social/about-bsci", "document_type": "code_of_conduct", "geographic_scope": "global", "year_published": "2021", "notes": "Heavily used in apparel supply chains."},
+            {"organization": "ETI", "document_title": "ETI Base Code", "url": "https://www.ethicaltrade.org/eti-base-code", "document_type": "code_of_conduct", "geographic_scope": "UK", "year_published": "1998", "notes": "Major apparel supply chain code."}
+          ]
+        },
+        {
+          "code": "316",
+          "name": "Leather and Allied Product Manufacturing",
+          "total_codes_found": 4,
+          "codes": [
+            {"organization": "Leather Working Group (LWG)", "document_title": "LWG Leather Manufacturer Audit Standard", "url": "https://www.leatherworkinggroup.com/certification/", "document_type": "standards_of_practice", "geographic_scope": "global", "year_published": "2005", "notes": "Gold/Silver/Bronze rating. v7 adds social auditing."},
+            {"organization": "UNIC (Italian Tanners' Association)", "document_title": "Code of Conduct and Social Accountability", "url": "https://sustainability.unic.it/en/service/code-of-conduct/", "document_type": "code_of_conduct", "geographic_scope": "Italy", "year_published": "unknown", "notes": "~80 companies. Annual audit."},
+            {"organization": "OEKO-TEX", "document_title": "LEATHER STANDARD by OEKO-TEX", "url": "https://www.oeko-tex.com/en/our-standards", "document_type": "standards_of_practice", "geographic_scope": "global", "year_published": "unknown", "notes": "Testing and certification for leather goods."},
+            {"organization": "Responsible Business Alliance (RBA)", "document_title": "RBA Code of Conduct", "url": "https://www.responsiblebusiness.org/code-of-conduct/", "document_type": "code_of_conduct", "geographic_scope": "global", "year_published": "2024", "notes": "Version 8.0. Cross-industry including leather goods."}
+          ]
+        },
+        {
+          "code": "321",
+          "name": "Wood Product Manufacturing",
+          "total_codes_found": 5,
+          "codes": [
+            {"organization": "Forest Stewardship Council (FSC)", "document_title": "FSC Code of Conduct", "url": "https://fsc.org/sites/default/files/2021-01/FSC%20Code%20of%20Conduct%202019%20ENGLISH.pdf", "document_type": "code_of_conduct", "geographic_scope": "global", "year_published": "2019", "notes": "Nine Code Standards."},
+            {"organization": "FSC", "document_title": "Principles and Criteria for Forest Stewardship (FSC-STD-01-001)", "url": "https://fsc.org/en/standards", "document_type": "standards_of_practice", "geographic_scope": "global", "year_published": "unknown", "notes": "10 principles, 70 criteria."},
+            {"organization": "Sustainable Forestry Initiative (SFI)", "document_title": "SFI 2022 Forest Management Standard", "url": "https://forests.org/wp-content/uploads/2022_SFI_Standards.pdf", "document_type": "standards_of_practice", "geographic_scope": "US", "year_published": "2022", "notes": "13 Principles, 17 Objectives, 41 Performance Measures."},
+            {"organization": "PEFC", "document_title": "PEFC Sustainable Forest Management Standard", "url": "https://pefc.org/standards-implementation/standards-and-guides", "document_type": "standards_of_practice", "geographic_scope": "global", "year_published": "unknown", "notes": "World's largest forest certification (~2/3 of certified area)."},
+            {"organization": "American Forest & Paper Association (AF&PA)", "document_title": "Better Practices, Better Planet 2030", "url": "https://www.afandpa.org/priorities/sustainability", "document_type": "standards_of_practice", "geographic_scope": "US", "year_published": "2020", "notes": "Condition of membership."}
+          ]
+        },
+        {
+          "code": "322",
+          "name": "Paper Manufacturing",
+          "total_codes_found": 5,
+          "codes": [
+            {"organization": "TAPPI", "document_title": "TAPPI Code of Ethics", "url": "https://www.tappi.org/menus/functional-navigation/About-Us/our-organization/tappi-code-of-ethics/", "document_type": "code_of_ethics", "geographic_scope": "US", "year_published": "unknown", "notes": "Professional code for pulp and paper industry."},
+            {"organization": "AF&PA", "document_title": "Better Practices, Better Planet 2030", "url": "https://www.afandpa.org/priorities/sustainability", "document_type": "standards_of_practice", "geographic_scope": "US", "year_published": "2020", "notes": "Condition of membership."},
+            {"organization": "FSC", "document_title": "FSC Chain of Custody Certification (FSC-STD-40-004)", "url": "https://fsc.org/en/standards", "document_type": "standards_of_practice", "geographic_scope": "global", "year_published": "unknown", "notes": "Tracking certified fiber from forest to product."},
+            {"organization": "SFI", "document_title": "SFI 2022 Fiber Sourcing Standard", "url": "https://forests.org/wp-content/uploads/2022_SFI_StandardsandRules_section2.pdf", "document_type": "standards_of_practice", "geographic_scope": "US", "year_published": "2022", "notes": "For paper/pulp facilities."},
+            {"organization": "PRINTING United Alliance", "document_title": "Code of Conduct", "url": "https://www.printing.org/membership/terms-conditions/code-of-conduct", "document_type": "code_of_conduct", "geographic_scope": "US", "year_published": "unknown", "notes": "Printing/converting industry."}
+          ]
+        }
+      ]
+    }
+  ],
+  "agent_id": "N3",
+  "researched_at": "2026-03-21",
+  "summary": {
+    "total_codes_found": 53,
+    "notable_findings": [
+      "Food Manufacturing (311) richest subsector with 12 codes including Codex Alimentarius (1979, 188 countries)",
+      "Beverage sector has strong self-regulatory tradition since Prohibition (DISCUS, Beer Institute, Wine Institute)",
+      "Textile/apparel dominated by supply chain ethics standards (SA8000, ETI, FLA, amfori BSCI)",
+      "Wood/paper dominated by forest certification standards (FSC, SFI, PEFC)",
+      "Several cross-cutting standards (SA8000, ETI, RBA) appear across multiple subsectors"
+    ]
+  }
+}
