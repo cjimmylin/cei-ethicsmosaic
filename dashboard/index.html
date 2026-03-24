@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EthicsMosaic — Universal Professional Ethics Synthesis</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
+<style>
+:root { --font-main: 'Inter', sans-serif; }
+body { font-family: var(--font-main); background: #0d1117; color: #c9d1d9; }
+.stat-card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.2rem; text-align: center; }
+.stat-card .value { font-size: 2rem; font-weight: 700; color: #58a6ff; }
+.stat-card .label { font-size: 0.8rem; color: #8b949e; text-transform: uppercase; letter-spacing: 0.05em; }
+.chart-container { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1rem; margin-bottom: 1.5rem; }
+.chart-title { font-size: 1rem; font-weight: 600; margin-bottom: 0.5rem; color: #e6edf3; }
+.chart-subtitle { font-size: 0.75rem; color: #8b949e; margin-bottom: 0.5rem; }
+.tier-badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: 600; }
+.tier-1 { background: #2ecc7133; color: #2ecc71; }
+.tier-1b { background: #3498db33; color: #3498db; }
+.tier-2 { background: #f39c1233; color: #f39c12; }
+.tier-3 { background: #95a5a633; color: #95a5a6; }
+table.cluster-table { font-size: 0.8rem; }
+table.cluster-table th { position: sticky; top: 0; background: #161b22; cursor: pointer; }
+table.cluster-table th:hover { color: #58a6ff; }
+.category-card { background: #1c2128; border: 1px solid #30363d; border-radius: 8px; padding: 1rem; margin-bottom: 0.75rem; }
+.category-card h6 { color: #2ecc71; margin-bottom: 0.5rem; }
+.nav-pills .nav-link { color: #8b949e; }
+.nav-pills .nav-link.active { background: #21262d; color: #58a6ff; }
+h1 { font-weight: 700; }
+</style>
+</head>
+<body>
+<div class="container-fluid px-4 py-3">
+  <h1 class="mb-1">EthicsMosaic <span style="font-weight:300;font-size:1.2rem;color:#8b949e;">Universal Professional Ethics Synthesis</span></h1>
+  <p class="text-muted mb-3" style="font-size:0.85rem;">Triple-classification analysis across ISIC, NAICS, and SOC</p>
+
+  <!-- Summary Cards -->
+  <div class="row g-3 mb-4" id="summary-cards"></div>
+
+  <!-- Tabs -->
+  <ul class="nav nav-pills mb-3" id="mainTabs">
+    <li class="nav-item"><a class="nav-link active" data-bs-toggle="pill" href="#tab-overview">Overview</a></li>
+    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#tab-coverage">Coverage</a></li>
+    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#tab-analysis">Analysis</a></li>
+    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#tab-umap">UMAP</a></li>
+    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#tab-explorer">Explorer</a></li>
+  </ul>
+
+  <div class="tab-content">
+    <!-- Overview Tab -->
+    <div class="tab-pane fade show active" id="tab-overview">
+      <div class="row g-3">
+        <div class="col-md-6">
+          <div class="chart-container">
+            <div class="chart-title">Universality Tier Distribution</div>
+            <div class="chart-subtitle">Clusters nested by tier and category, sized by principle count</div>
+            <div id="chart-sunburst" style="height:500px;"></div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="chart-container">
+            <div class="chart-title">Tier 1 Universal Categories</div>
+            <div class="chart-subtitle">Thematic groupings of the 22 universal principle clusters</div>
+            <div id="category-cards"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Coverage Tab -->
+    <div class="tab-pane fade" id="tab-coverage">
+      <div class="chart-container">
+        <div class="chart-title">ISIC Section Coverage — Tier 1 Clusters</div>
+        <div class="chart-subtitle">Green = section represented in cluster. Rows = 21 ISIC economic sections. Columns = 22 Tier 1 clusters.</div>
+        <div id="chart-heatmap" style="height:600px;"></div>
+      </div>
+    </div>
+
+    <!-- Analysis Tab -->
+    <div class="tab-pane fade" id="tab-analysis">
+      <div class="row g-3">
+        <div class="col-md-6">
+          <div class="chart-container">
+            <div class="chart-title">Principle Type Distribution by Tier</div>
+            <div class="chart-subtitle">Are universal principles mostly duties?</div>
+            <div id="chart-typetier" style="height:400px;"></div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="chart-container">
+            <div class="chart-title">Enforcement vs Universality</div>
+            <div class="chart-subtitle">Does binding enforcement correlate with universality?</div>
+            <div id="chart-scatter" style="height:400px;"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- UMAP Tab -->
+    <div class="tab-pane fade" id="tab-umap">
+      <div class="chart-container">
+        <div class="chart-title">Principle Embedding Space (UMAP 2D)</div>
+        <div class="chart-subtitle">3,000 principles colored by universality tier. Spatial proximity = semantic similarity.</div>
+        <div id="chart-umap" style="height:650px;"></div>
+      </div>
+    </div>
+
+    <!-- Explorer Tab -->
+    <div class="tab-pane fade" id="tab-explorer">
+      <div class="chart-container">
+        <div class="chart-title">Cluster Explorer</div>
+        <div class="chart-subtitle" id="explorer-subtitle">All clusters. Click column headers to sort.</div>
+        <div class="mb-2">
+          <input type="text" id="search-input" class="form-control form-control-sm" placeholder="Filter by label..." style="max-width:300px;background:#0d1117;border-color:#30363d;color:#c9d1d9;">
+        </div>
+        <div style="max-height:600px;overflow-y:auto;">
+          <table class="table table-sm table-dark cluster-table" id="cluster-table">
+            <thead><tr>
+              <th data-col="id">ID</th>
+              <th data-col="tier">Tier</th>
+              <th data-col="label">Label</th>
+              <th data-col="score">Score</th>
+              <th data-col="size">Size</th>
+              <th data-col="orgs">Orgs</th>
+              <th data-col="isic">ISIC</th>
+              <th data-col="naics">NAICS</th>
+              <th data-col="soc">SOC</th>
+              <th data-col="binding">Bind%</th>
+            </tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="data.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+// ---- Chart registry for tab resize ----
+const CHARTS = {};
+
+// ---- Summary Cards ----
+(function() {
+  const cards = [
+    {value: SUMMARY.total_principles.toLocaleString(), label: 'Principles'},
+    {value: SUMMARY.total_clusters, label: 'Clusters'},
+    {value: SUMMARY.total_orgs, label: 'Organizations'},
+    {value: SUMMARY.tier_counts['1'] || 0, label: 'Tier 1 Universal'},
+    {value: SUMMARY.tier1_categories, label: 'Universal Categories'},
+    {value: (SUMMARY.mean_universality * 100).toFixed(1) + '%', label: 'Mean T1 Score'},
+  ];
+  const el = document.getElementById('summary-cards');
+  el.innerHTML = cards.map(c =>
+    `<div class="col-6 col-md-2"><div class="stat-card"><div class="value">${c.value}</div><div class="label">${c.label}</div></div></div>`
+  ).join('');
+})();
+
+// ---- Sunburst ----
+(function() {
+  const tiers = ['1','1b','2','3'];
+  const children = tiers.map(t => {
+    const items = SUNBURST_DATA.filter(d => d.tier === t);
+    // Group by category
+    const cats = {};
+    items.forEach(d => {
+      const cat = d.category || d.parent_cat || 'Other';
+      if (!cats[cat]) cats[cat] = [];
+      cats[cat].push({name: d.name, value: d.value});
+    });
+    return {
+      name: TIER_LABELS[t],
+      itemStyle: {color: TIER_COLORS[t]},
+      children: Object.entries(cats).map(([cat, cls]) => ({
+        name: cat,
+        children: cls
+      }))
+    };
+  });
+  const chart = echarts.init(document.getElementById('chart-sunburst'));
+  CHARTS['chart-sunburst'] = chart;
+  chart.setOption({
+    series: [{
+      type: 'sunburst',
+      data: children,
+      radius: ['10%', '95%'],
+      label: {fontSize: 10, minAngle: 8},
+      itemStyle: {borderWidth: 1, borderColor: '#0d1117'},
+      levels: [
+        {},
+        {label: {fontSize: 12, fontWeight: 'bold'}},
+        {label: {fontSize: 10}},
+        {label: {fontSize: 9, show: false}},
+      ]
+    }],
+    tooltip: {trigger: 'item', formatter: d => `${d.name}<br/>Principles: ${d.value}`}
+  });
+  window.addEventListener('resize', () => chart.resize());
+})();
+
+// ---- Category Cards ----
+(function() {
+  const el = document.getElementById('category-cards');
+  el.innerHTML = CATEGORY_STATS.map(c =>
+    `<div class="category-card">
+      <h6>${c.category}</h6>
+      <div style="font-size:0.8rem;color:#8b949e;">${c.clusters} clusters · ${c.principles} principles · ${c.orgs} orgs · Score ${(c.mean_score*100).toFixed(1)}%</div>
+      <div style="font-size:0.75rem;margin-top:4px;">${c.labels.join(' · ')}</div>
+    </div>`
+  ).join('');
+})();
+
+// ---- Heatmap ----
+(function() {
+  const chart = echarts.init(document.getElementById('chart-heatmap'));
+  CHARTS['chart-heatmap'] = chart;
+  chart.setOption({
+    tooltip: {position: 'top', formatter: p => `${HEATMAP_Y[p.value[1]]}<br/>${HEATMAP_X[p.value[0]]}<br/>${p.value[2] ? 'Present' : 'Absent'}`},
+    grid: {left: 140, right: 20, top: 10, bottom: 100},
+    xAxis: {type: 'category', data: HEATMAP_X, axisLabel: {rotate: 45, fontSize: 9, color: '#8b949e'}},
+    yAxis: {type: 'category', data: HEATMAP_Y, axisLabel: {fontSize: 9, color: '#8b949e'}},
+    visualMap: {min: 0, max: 1, show: false, inRange: {color: ['#161b22', '#2ecc71']}},
+    series: [{type: 'heatmap', data: HEATMAP_DATA, itemStyle: {borderWidth: 1, borderColor: '#0d1117'}}]
+  });
+  window.addEventListener('resize', () => chart.resize());
+})();
+
+// ---- Type × Tier ----
+(function() {
+  const types = ['duty','prohibition','standard','aspiration','value','mechanism','right'];
+  const typeColors = {duty:'#2ecc71',prohibition:'#e74c3c',standard:'#3498db',aspiration:'#f39c12',value:'#9b59b6',mechanism:'#1abc9c',right:'#e67e22'};
+  const tiers = ['1','1b','2','3'];
+  const series = types.map(t => ({
+    name: t, type: 'bar', stack: 'total',
+    data: tiers.map(tier => TYPE_TIER_DATA[tier]?.[t] || 0),
+    itemStyle: {color: typeColors[t]}
+  }));
+  const chart = echarts.init(document.getElementById('chart-typetier'));
+  CHARTS['chart-typetier'] = chart;
+  chart.setOption({
+    tooltip: {trigger: 'axis', axisPointer: {type: 'shadow'}},
+    legend: {data: types, textStyle: {color: '#8b949e', fontSize: 10}, bottom: 0},
+    grid: {left: 50, right: 20, top: 20, bottom: 60},
+    xAxis: {type: 'category', data: tiers.map(t => TIER_LABELS[t]), axisLabel: {color: '#8b949e'}},
+    yAxis: {type: 'value', name: '%', axisLabel: {color: '#8b949e'}, nameTextStyle: {color: '#8b949e'}},
+    series: series
+  });
+  window.addEventListener('resize', () => chart.resize());
+})();
+
+// ---- Enforcement Scatter ----
+(function() {
+  const chart = echarts.init(document.getElementById('chart-scatter'));
+  CHARTS['chart-scatter'] = chart;
+  const seriesData = {};
+  SCATTER_DATA.forEach(d => {
+    const t = d.tier;
+    if (!seriesData[t]) seriesData[t] = [];
+    seriesData[t].push([d.x, d.y, d.size, d.label]);
+  });
+  const series = Object.entries(seriesData).map(([t, data]) => ({
+    name: TIER_LABELS[t], type: 'scatter', data: data,
+    symbolSize: d => Math.max(5, Math.sqrt(d[2]) * 2),
+    itemStyle: {color: TIER_COLORS[t], opacity: 0.7},
+  }));
+  chart.setOption({
+    tooltip: {formatter: p => `${p.data[3]}<br/>Binding: ${p.data[0]}%<br/>Universality: ${p.data[1]}%<br/>Size: ${p.data[2]}`},
+    legend: {textStyle: {color: '#8b949e'}, bottom: 0},
+    grid: {left: 60, right: 20, top: 20, bottom: 60},
+    xAxis: {name: 'Binding %', nameTextStyle: {color: '#8b949e'}, axisLabel: {color: '#8b949e'}},
+    yAxis: {name: 'Universality %', nameTextStyle: {color: '#8b949e'}, axisLabel: {color: '#8b949e'}},
+    series: series
+  });
+  window.addEventListener('resize', () => chart.resize());
+})();
+
+// ---- UMAP ----
+(function() {
+  const chart = echarts.init(document.getElementById('chart-umap'));
+  CHARTS['chart-umap'] = chart;
+  const seriesData = {};
+  UMAP_SCATTER.forEach(d => {
+    const t = d.tier;
+    if (!seriesData[t]) seriesData[t] = [];
+    seriesData[t].push([d.x, d.y, d.text]);
+  });
+  const series = Object.entries(seriesData).map(([t, data]) => ({
+    name: TIER_LABELS[t] || t, type: 'scatter', data: data,
+    symbolSize: 3, itemStyle: {color: TIER_COLORS[t] || '#666', opacity: 0.6},
+  }));
+  chart.setOption({
+    tooltip: {formatter: p => p.data[2]},
+    legend: {textStyle: {color: '#8b949e'}, bottom: 0},
+    grid: {left: 40, right: 20, top: 10, bottom: 50},
+    xAxis: {show: false}, yAxis: {show: false},
+    series: series
+  });
+  window.addEventListener('resize', () => chart.resize());
+})();
+
+// ---- Cluster Table ----
+(function() {
+  document.getElementById('explorer-subtitle').textContent =
+    `All ${CLUSTER_TABLE.length} clusters. Click column headers to sort.`;
+  const tbody = document.querySelector('#cluster-table tbody');
+  let sortCol = 'score', sortDir = -1;
+
+  function render(data) {
+    tbody.innerHTML = data.map(r =>
+      `<tr>
+        <td>${r.id}</td>
+        <td><span class="tier-badge tier-${r.tier}">${r.tier_label}</span></td>
+        <td title="${r.canonical}">${r.label}</td>
+        <td>${(r.score*100).toFixed(1)}%</td>
+        <td>${r.size}</td>
+        <td>${r.orgs}</td>
+        <td>${(r.isic*100).toFixed(0)}%</td>
+        <td>${(r.naics*100).toFixed(0)}%</td>
+        <td>${(r.soc*100).toFixed(0)}%</td>
+        <td>${(r.binding*100).toFixed(0)}%</td>
+      </tr>`
+    ).join('');
+  }
+
+  function sort(col) {
+    if (sortCol === col) sortDir *= -1;
+    else { sortCol = col; sortDir = -1; }
+    const sorted = [...CLUSTER_TABLE].sort((a,b) => {
+      const va = a[col], vb = b[col];
+      if (typeof va === 'string') return va.localeCompare(vb) * sortDir;
+      return (va - vb) * sortDir;
+    });
+    render(sorted);
+  }
+
+  document.querySelectorAll('#cluster-table th').forEach(th => {
+    th.addEventListener('click', () => sort(th.dataset.col));
+  });
+
+  document.getElementById('search-input').addEventListener('input', e => {
+    const q = e.target.value.toLowerCase();
+    const filtered = CLUSTER_TABLE.filter(r => r.label.toLowerCase().includes(q) || r.category.toLowerCase().includes(q));
+    render(filtered);
+  });
+
+  sort('score');
+})();
+
+// ---- Tab switch: resize charts when tab becomes visible ----
+document.querySelectorAll('[data-bs-toggle="pill"]').forEach(tab => {
+  tab.addEventListener('shown.bs.tab', () => {
+    Object.values(CHARTS).forEach(c => c.resize());
+  });
+});
+</script>
+</body>
+</html>
