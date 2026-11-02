@@ -12,35 +12,6 @@
 4. **Synthesize** — Produce a combined professional code of conduct distilled from real-world practice
 5. **Align** — Format the synthesized code as machine-readable alignment guidance for AI systems
 
-## Directory Structure
-
-```
-EthicsMosaic/
-  CLAUDE.md              # This file — project configuration
-  README.md              # Project overview and methodology
-  sources/               # Raw PDFs and documents of ethics codes
-    healthcare/
-    engineering/
-    law/
-    finance/
-    journalism/
-    education/
-    technology/
-    social-work/
-    psychology/
-    public-service/
-    research/
-    environment/
-    ...
-  extracts/              # Structured extracts from each code
-  analysis/              # Cross-industry analysis and mapping
-  synthesis/             # Combined/unified code of conduct
-  PYTHON/                # Processing and analysis scripts
-  data/                  # Structured data (JSON/YAML)
-  STATISTICS/            # Reports with YYYYMMDD- prefix
-  logs/                  # Processing logs with YYYYMMDD- prefix
-```
-
 ## Critical Safety Rules
 
 Inherited from parent vault:
